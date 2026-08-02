@@ -67,7 +67,7 @@ module.exports = {
     secondary: ["New York", "Brooklyn", "Austin", "Seattle"]
   },
 
-  weights: {
+ weights: {
     targetCompany: 40,
     seniorOrGroupTitle: 15,
     positioningKeyword: 5,
@@ -78,6 +78,9 @@ module.exports = {
     compUnknown: 5,
     remoteBonus: 12,
     locationPrimary: 12,
-    locationSecondary: 6
+    locationSecondary: 6,
+    locationPenalty: -25,   // outside every preferred market and not remote (waived for target companies)
+    semanticFitMax: 25      // max points from resume-vs-JD similarity
+  }
   }
 };
