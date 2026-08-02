@@ -49,16 +49,39 @@ async function fetchForTitle(title) {
   return [];
 }
 
-// Fingerprint on title+company only (no location) — this treats the same role
-// posted across multiple cities by the same employer as ONE listing, and also
-// catches reposts under a new job_id.
-function fingerprint(title, company) {
+// Fingerprint on title+company+description — the description is included so
+// that two DIFFERENT reqs with the same title at the same company (common at
+// big companies) are never merged just because the title matches. Only truly
+// identical postings (same text, word-for-word) collapse into one multi-city
+// listing.
+function normalizeDescription(desc) {
+  return (desc || "")
+    .toLowerCase()
+    .replace(/\s+/g, " ")
+    .trim();
+}
+
+function simpleHash(str) {
+  let hash = 0;
+  for (let i = 0; i < str.length; i++) {
+    hash = (hash * 31 + str.charCodeAt(i)) | 0;
+  }
+  return hash.toString(36);
+}
+
+function fingerprint(title, company, descriptionHash) {
   const norm = (s) =>
     (s || "")
       .toLowerCase()
       .replace(/[^a-z0-9]+/g, " ")
       .trim();
-  return `${norm(title)}|${norm(company)}`;
+  return `${norm(title)}|${norm(company)}|${descriptionHash || ""}`;
+}
+
+function matchesAllowedPublisher(job) {
+  const pub = (job.job_publisher || job.publisher || "").toLowerCase();
+  if (!pub) return false;
+  return config.allowedPublishers.some((p) => pub.includes(p.toLowerCase()));
 }
 
 function isExcludedTitle(title) {
@@ -155,7 +178,7 @@ function normalizeJob(job, score, reasons) {
 
   return {
     id: job.job_id,
-    fingerprint: fingerprint(job.job_title, job.employer_name),
+    fingerprint: fingerprint(job.job_title, job.employer_name, simpleHash(normalizeDescription(job.job_description))),
     title: job.job_title,
     company: job.employer_name,
     location,
@@ -190,7 +213,8 @@ async function main() {
     const loc = j.job_city
       ? `${j.job_city}, ${j.job_state || j.job_country}`
       : j.job_country || "Not specified";
-    const fp = fingerprint(j.job_title, j.employer_name);
+    const descHash = simpleHash(normalizeDescription(j.job_description));
+    const fp = fingerprint(j.job_title, j.employer_name, descHash);
     if (!groups.has(fp)) {
       groups.set(fp, { job: j, locations: new Set([loc]) });
     } else {
@@ -202,8 +226,19 @@ async function main() {
     _locations: [...locations]
   }));
 
+  const publisherCounts = {};
+  deduped.forEach((j) => {
+    const p = j.job_publisher || j.publisher || "(unknown)";
+    publisherCounts[p] = (publisherCounts[p] || 0) + 1;
+  });
+  console.log("Publisher distribution:", JSON.stringify(publisherCounts));
+
   const filtered = deduped.filter(
-    (j) => j.job_title && !isExcludedTitle(j.job_title) && matchesRequiredTitle(j.job_title)
+    (j) =>
+      j.job_title &&
+      !isExcludedTitle(j.job_title) &&
+      matchesRequiredTitle(j.job_title) &&
+      matchesAllowedPublisher(j)
   );
 
   const scored = filtered.map((j) => {
