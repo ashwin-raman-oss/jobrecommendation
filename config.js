@@ -44,7 +44,16 @@ module.exports = {
     "AI", "LLM", "GenAI", "machine learning", "ML", "GPT", "agent", "RAG"
   ],
 
-  compFloor: 200000,
+  compFloor: 175000,
+
+  // Semantic resume-fit scoring — compares each job description against your
+  // actual resume text (profile.js) using word-overlap cosine similarity, not
+  // just fixed keywords. Calibrated against sample postings: a strong
+  // marketplace/ops match scores ~0.32, an unrelated role scores ~0.08.
+  semanticFit: {
+    minSimilarity: 0.08,
+    maxSimilarity: 0.32
+  },
 
   // Location priority. "primary" and "remote" get the biggest boost; "secondary"
   // markets stay visible but rank lower. Target company match (below) already
