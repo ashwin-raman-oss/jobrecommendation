@@ -22,6 +22,12 @@ module.exports = {
 
   titleMustInclude: ["product manager"],
 
+  // Only keep results sourced from these sites (case-insensitive substring
+  // match against JSearch's job_publisher field). Everything else gets dropped
+  // after fetch — JSearch aggregates broadly and doesn't offer a clean
+  // request-time filter for this.
+  allowedPublishers: ["linkedin", "indeed", "built in"],
+
   targetCompanies: [
     "Google", "Google Cloud", "Uber", "Airbnb", "Salesforce", "Atlassian",
     "Intuit", "ServiceNow", "Microsoft", "Amazon", "OpenAI", "Anthropic",
