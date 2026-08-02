@@ -19,10 +19,11 @@ async function fetchForTitle(title) {
     query: `${title} in ${config.location}`,
     date_posted: config.datePosted,
     remote_jobs_only: String(config.remoteJobsOnly),
-    num_pages: "1"
+    num_pages: "1",
+    country: "us"
   });
 
-  const res = await fetch(`https://jsearch.p.rapidapi.com/search?${params}`, {
+  const res = await fetch(`https://jsearch.p.rapidapi.com/search-v2?${params}`, {
     headers: {
       "X-RapidAPI-Key": RAPIDAPI_KEY,
       "X-RapidAPI-Host": "jsearch.p.rapidapi.com"
