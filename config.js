@@ -25,6 +25,9 @@ module.exports = {
     "director", "vp", "vice president", "head of", "chief",
     "intern", "associate product manager i", "entry level"
   ],
+  // The job title itself must contain at least one of these — JSearch's search is
+  // semantic, not exact-title, so it will otherwise return loosely related roles.
+  titleMustInclude: ["product manager"],
 
   // Companies you're explicitly targeting — highest scoring weight
   targetCompanies: [
