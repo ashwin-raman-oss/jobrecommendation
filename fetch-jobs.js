@@ -36,7 +36,20 @@ async function fetchForTitle(title) {
   }
 
   const data = await res.json();
-  return data.data || [];
+
+  // search-v2's response shape may differ from the older /search endpoint.
+  // Try the known shapes; if none match, dump the raw structure so the next
+  // run's log tells us exactly what came back instead of guessing again.
+  if (Array.isArray(data.data)) return data.data;
+  if (data.data && Array.isArray(data.data.jobs)) return data.data.jobs;
+  if (Array.isArray(data.jobs)) return data.jobs;
+  if (Array.isArray(data.results)) return data.results;
+
+  console.error(
+    `Unrecognized response shape for "${title}". Top-level keys: ${Object.keys(data).join(", ")}`
+  );
+  console.error(JSON.stringify(data).slice(0, 500));
+  return [];
 }
 
 // JSearch sometimes assigns a NEW job_id to what is really the same req reposted
