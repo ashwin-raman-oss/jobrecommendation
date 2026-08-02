@@ -7,7 +7,7 @@ const config = require("./config");
 
 const RAPIDAPI_KEY = process.env.RAPIDAPI_KEY;
 const JOBS_FILE = path.join(__dirname, "jobs.json");
-const MAX_STORED_JOBS = 200; // rolling window so the file doesn't grow forever
+const MAX_STORED_JOBS = 200;
 
 if (!RAPIDAPI_KEY) {
   console.error("Missing RAPIDAPI_KEY env var. Set it as a GitHub Actions secret.");
@@ -49,16 +49,16 @@ async function fetchForTitle(title) {
   return [];
 }
 
-// JSearch sometimes assigns a NEW job_id to what is really the same req reposted
-// (companies do this to bump visibility). A fingerprint on title+company+location
-// catches that even when the id changes.
-function fingerprint(title, company, location) {
+// Fingerprint on title+company only (no location) — this treats the same role
+// posted across multiple cities by the same employer as ONE listing, and also
+// catches reposts under a new job_id.
+function fingerprint(title, company) {
   const norm = (s) =>
     (s || "")
       .toLowerCase()
       .replace(/[^a-z0-9]+/g, " ")
       .trim();
-  return `${norm(title)}|${norm(company)}|${norm(location)}`;
+  return `${norm(title)}|${norm(company)}`;
 }
 
 function isExcludedTitle(title) {
@@ -69,6 +69,20 @@ function isExcludedTitle(title) {
 function matchesRequiredTitle(title) {
   const t = title.toLowerCase();
   return config.titleMustInclude.some((req) => t.includes(req.toLowerCase()));
+}
+
+function locationScore(job) {
+  if (job.job_is_remote) {
+    return { pts: config.weights.remoteBonus, reason: "Remote" };
+  }
+  const combined = `${job.job_city || ""} ${job.job_state || ""}`.toLowerCase();
+  if (config.locationPriority.primary.some((loc) => combined.includes(loc.toLowerCase()))) {
+    return { pts: config.weights.locationPrimary, reason: "Priority location (Chicago/Bay Area)" };
+  }
+  if (config.locationPriority.secondary.some((loc) => combined.includes(loc.toLowerCase()))) {
+    return { pts: config.weights.locationSecondary, reason: "Visibility location" };
+  }
+  return { pts: 0, reason: null };
 }
 
 function scoreJob(job) {
@@ -119,20 +133,33 @@ function scoreJob(job) {
     score += config.weights.compUnknown;
   }
 
+  const loc = locationScore(job);
+  if (loc.pts) {
+    score += loc.pts;
+    reasons.push(loc.reason);
+  }
+
   return { score, reasons };
 }
 
 function normalizeJob(job, score, reasons) {
-  const location = job.job_city
-    ? `${job.job_city}, ${job.job_state || job.job_country}`
-    : job.job_country || "Not specified";
+  const locations =
+    job._locations && job._locations.length
+      ? job._locations
+      : [
+          job.job_city
+            ? `${job.job_city}, ${job.job_state || job.job_country}`
+            : job.job_country || "Not specified"
+        ];
+  const location = locations.length > 1 ? `${locations[0]} +${locations.length - 1} more` : locations[0];
 
   return {
     id: job.job_id,
-    fingerprint: fingerprint(job.job_title, job.employer_name, location),
+    fingerprint: fingerprint(job.job_title, job.employer_name),
     title: job.job_title,
     company: job.employer_name,
     location,
+    locations,
     remote: !!job.job_is_remote,
     posted: job.job_posted_at_datetime_utc || null,
     salaryMin: job.job_min_salary || null,
@@ -156,18 +183,24 @@ async function main() {
   }
 
   const seenIds = new Set();
-  const seenFingerprints = new Set();
-  const deduped = allRaw.filter((j) => {
-    if (!j.job_id || seenIds.has(j.job_id)) return false;
+  const groups = new Map();
+  for (const j of allRaw) {
+    if (!j.job_id || seenIds.has(j.job_id)) continue;
+    seenIds.add(j.job_id);
     const loc = j.job_city
       ? `${j.job_city}, ${j.job_state || j.job_country}`
-      : j.job_country || "";
-    const fp = fingerprint(j.job_title, j.employer_name, loc);
-    if (seenFingerprints.has(fp)) return false;
-    seenIds.add(j.job_id);
-    seenFingerprints.add(fp);
-    return true;
-  });
+      : j.job_country || "Not specified";
+    const fp = fingerprint(j.job_title, j.employer_name);
+    if (!groups.has(fp)) {
+      groups.set(fp, { job: j, locations: new Set([loc]) });
+    } else {
+      groups.get(fp).locations.add(loc);
+    }
+  }
+  const deduped = [...groups.values()].map(({ job, locations }) => ({
+    ...job,
+    _locations: [...locations]
+  }));
 
   const filtered = deduped.filter(
     (j) => j.job_title && !isExcludedTitle(j.job_title) && matchesRequiredTitle(j.job_title)
