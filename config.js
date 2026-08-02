@@ -2,34 +2,26 @@
 // Edit this file to tune what "top match" means. No code changes needed elsewhere.
 
 module.exports = {
-  // Search terms sent to JSearch (one query per title bucket, results merged + deduped)
   searchTitles: [
     "Product Manager",
     "Senior Product Manager",
     "Group Product Manager"
   ],
 
-  // Only fetch postings from the last N days. Keep this tight (1-3) for a genuinely fresh daily pull.
   datePosted: "today", // JSearch options: "today" | "3days" | "week" | "month"
 
-  // If the same title+company+location shows up again within this many days
-  // (even under a new job_id), treat it as a repost and suppress it rather
-  // than surfacing it as a "new" match.
   repostSuppressDays: 21,
 
   location: "United States",
-  remoteJobsOnly: false, // you're open to relocation, not just remote
+  remoteJobsOnly: false,
 
-  // Titles to hard-exclude regardless of score (case-insensitive substring match)
   titleExcludes: [
     "director", "vp", "vice president", "head of", "chief",
     "intern", "associate product manager i", "entry level"
   ],
-  // The job title itself must contain at least one of these — JSearch's search is
-  // semantic, not exact-title, so it will otherwise return loosely related roles.
+
   titleMustInclude: ["product manager"],
 
-  // Companies you're explicitly targeting — highest scoring weight
   targetCompanies: [
     "Google", "Google Cloud", "Uber", "Airbnb", "Salesforce", "Atlassian",
     "Intuit", "ServiceNow", "Microsoft", "Amazon", "OpenAI", "Anthropic",
@@ -37,29 +29,40 @@ module.exports = {
     "Ramp", "Brex"
   ],
 
-  // Signals that a role fits your B2B / marketplace / platform positioning
   positioningKeywords: [
     "marketplace", "platform", "B2B", "operations", "vendor", "supply",
     "two-sided", "network", "workflow automation", "SaaS", "enterprise"
   ],
 
-  // AI/LLM signal — you're actively positioning toward AI-forward PM roles
   aiKeywords: [
     "AI", "LLM", "GenAI", "machine learning", "ML", "GPT", "agent", "RAG"
   ],
 
-  // Comp floor. JSearch often doesn't disclose salary — treat "unknown" as neutral, not negative.
   compFloor: 200000,
 
-  // Scoring weights — tune freely
+  // Location priority. "primary" and "remote" get the biggest boost; "secondary"
+  // markets stay visible but rank lower. Target company match (below) already
+  // outweighs location, so a dream company in an unlisted city still surfaces.
+  locationPriority: {
+    primary: [
+      "Chicago", "San Francisco", "Oakland", "San Jose", "Palo Alto",
+      "Mountain View", "Berkeley", "Sunnyvale", "Redwood City", "South San Francisco",
+      "Menlo Park", "Emeryville"
+    ],
+    secondary: ["New York", "Brooklyn", "Austin", "Seattle"]
+  },
+
   weights: {
-    targetCompany: 40,      // exact/fuzzy match against targetCompanies
-    seniorOrGroupTitle: 15, // "Senior" or "Group" in title
-    positioningKeyword: 5,  // per keyword matched, capped
+    targetCompany: 40,
+    seniorOrGroupTitle: 15,
+    positioningKeyword: 5,
     positioningKeywordCap: 15,
-    aiKeyword: 5,           // per keyword matched, capped
+    aiKeyword: 5,
     aiKeywordCap: 15,
-    compFloorMet: 15,       // salary disclosed and >= compFloor
-    compUnknown: 5          // salary not disclosed — small neutral credit, not a penalty
+    compFloorMet: 15,
+    compUnknown: 5,
+    remoteBonus: 12,
+    locationPrimary: 12,
+    locationSecondary: 6
   }
 };
