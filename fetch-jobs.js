@@ -37,9 +37,6 @@ async function fetchForTitle(title) {
 
   const data = await res.json();
 
-  // search-v2's response shape may differ from the older /search endpoint.
-  // Try the known shapes; if none match, dump the raw structure so the next
-  // run's log tells us exactly what came back instead of guessing again.
   if (Array.isArray(data.data)) return data.data;
   if (data.data && Array.isArray(data.data.jobs)) return data.data.jobs;
   if (Array.isArray(data.jobs)) return data.jobs;
@@ -69,6 +66,11 @@ function isExcludedTitle(title) {
   return config.titleExcludes.some((bad) => t.includes(bad.toLowerCase()));
 }
 
+function matchesRequiredTitle(title) {
+  const t = title.toLowerCase();
+  return config.titleMustInclude.some((req) => t.includes(req.toLowerCase()));
+}
+
 function scoreJob(job) {
   const title = (job.job_title || "").toLowerCase();
   const company = (job.employer_name || "").toLowerCase();
@@ -78,7 +80,6 @@ function scoreJob(job) {
   let score = 0;
   const reasons = [];
 
-  // Target company match (fuzzy: substring either direction)
   const companyHit = config.targetCompanies.find(
     (c) => company.includes(c.toLowerCase()) || c.toLowerCase().includes(company)
   );
@@ -87,13 +88,11 @@ function scoreJob(job) {
     reasons.push(`Target company (${companyHit})`);
   }
 
-  // Seniority in title
   if (title.includes("senior") || title.includes("sr.") || title.includes("group")) {
     score += config.weights.seniorOrGroupTitle;
     reasons.push("Senior/Group title");
   }
 
-  // Positioning keywords
   const posHits = config.positioningKeywords.filter((k) => haystack.includes(k.toLowerCase()));
   if (posHits.length) {
     const pts = Math.min(posHits.length * config.weights.positioningKeyword, config.weights.positioningKeywordCap);
@@ -101,7 +100,6 @@ function scoreJob(job) {
     reasons.push(`Positioning fit (${posHits.slice(0, 3).join(", ")})`);
   }
 
-  // AI keywords
   const aiHits = config.aiKeywords.filter((k) => haystack.includes(k.toLowerCase()));
   if (aiHits.length) {
     const pts = Math.min(aiHits.length * config.weights.aiKeyword, config.weights.aiKeywordCap);
@@ -109,7 +107,6 @@ function scoreJob(job) {
     reasons.push(`AI signal (${aiHits.slice(0, 3).join(", ")})`);
   }
 
-  // Comp
   const min = job.job_min_salary;
   const max = job.job_max_salary;
   if (min || max) {
@@ -158,24 +155,29 @@ async function main() {
     allRaw.push(...results);
   }
 
-  // Dedup by job_id
-  const seen = new Set();
+  const seenIds = new Set();
+  const seenFingerprints = new Set();
   const deduped = allRaw.filter((j) => {
-    if (!j.job_id || seen.has(j.job_id)) return false;
-    seen.add(j.job_id);
+    if (!j.job_id || seenIds.has(j.job_id)) return false;
+    const loc = j.job_city
+      ? `${j.job_city}, ${j.job_state || j.job_country}`
+      : j.job_country || "";
+    const fp = fingerprint(j.job_title, j.employer_name, loc);
+    if (seenFingerprints.has(fp)) return false;
+    seenIds.add(j.job_id);
+    seenFingerprints.add(fp);
     return true;
   });
 
-  // Filter excluded titles
-  const filtered = deduped.filter((j) => j.job_title && !isExcludedTitle(j.job_title));
+  const filtered = deduped.filter(
+    (j) => j.job_title && !isExcludedTitle(j.job_title) && matchesRequiredTitle(j.job_title)
+  );
 
-  // Score + normalize
   const scored = filtered.map((j) => {
     const { score, reasons } = scoreJob(j);
     return normalizeJob(j, score, reasons);
   });
 
-  // Merge with existing jobs.json (keep history, avoid duplicate IDs, cap size)
   let existing = [];
   if (fs.existsSync(JOBS_FILE)) {
     try {
@@ -187,8 +189,6 @@ async function main() {
 
   const existingIds = new Set(existing.map((j) => j.id));
 
-  // Fingerprints seen within the repost-suppression window — anything matching
-  // one of these is treated as a repost, even with a brand-new job_id.
   const cutoff = Date.now() - config.repostSuppressDays * 24 * 60 * 60 * 1000;
   const recentFingerprints = new Set(
     existing.filter((j) => new Date(j.fetchedAt).getTime() >= cutoff).map((j) => j.fingerprint)
@@ -196,10 +196,10 @@ async function main() {
 
   let repostCount = 0;
   const newOnes = scored.filter((j) => {
-    if (existingIds.has(j.id)) return false; // exact duplicate, always drop
+    if (existingIds.has(j.id)) return false;
     if (recentFingerprints.has(j.fingerprint)) {
       repostCount++;
-      return false; // same role/company/location seen recently under a different id
+      return false;
     }
     return true;
   });
