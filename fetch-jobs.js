@@ -4,6 +4,8 @@
 const fs = require("fs");
 const path = require("path");
 const config = require("./config");
+const profile = require("./profile");
+const { similarity } = require("./similarity");
 
 const RAPIDAPI_KEY = process.env.RAPIDAPI_KEY;
 const JOBS_FILE = path.join(__dirname, "jobs.json");
@@ -94,7 +96,7 @@ function matchesRequiredTitle(title) {
   return config.titleMustInclude.some((req) => t.includes(req.toLowerCase()));
 }
 
-function locationScore(job) {
+function locationScore(job, isTargetCompany) {
   if (job.job_is_remote) {
     return { pts: config.weights.remoteBonus, reason: "Remote" };
   }
@@ -105,7 +107,24 @@ function locationScore(job) {
   if (config.locationPriority.secondary.some((loc) => combined.includes(loc.toLowerCase()))) {
     return { pts: config.weights.locationSecondary, reason: "Visibility location" };
   }
-  return { pts: 0, reason: null };
+  if (isTargetCompany) {
+    return { pts: 0, reason: null };
+  }
+  return { pts: config.weights.locationPenalty, reason: "Outside target markets" };
+}
+
+function semanticFitScore(job) {
+  const jobText = `${job.job_title || ""} ${job.job_description || ""}`;
+  const sim = similarity(profile, jobText);
+  const { minSimilarity, maxSimilarity } = config.semanticFit;
+  const clamped = Math.max(minSimilarity, Math.min(maxSimilarity, sim));
+  const ratio = (clamped - minSimilarity) / (maxSimilarity - minSimilarity);
+  const pts = Math.round(ratio * config.weights.semanticFitMax);
+  return {
+    pts,
+    sim,
+    reason: pts > 0 ? `Resume fit ~${Math.round(sim * 100)}%` : null
+  };
 }
 
 function scoreJob(job) {
@@ -156,7 +175,13 @@ function scoreJob(job) {
     score += config.weights.compUnknown;
   }
 
-  const loc = locationScore(job);
+  const fit = semanticFitScore(job);
+  if (fit.pts) {
+    score += fit.pts;
+    reasons.push(fit.reason);
+  }
+
+  const loc = locationScore(job, !!companyHit);
   if (loc.pts) {
     score += loc.pts;
     reasons.push(loc.reason);
