@@ -82,5 +82,4 @@ module.exports = {
     locationPenalty: -25,   // outside every preferred market and not remote (waived for target companies)
     semanticFitMax: 25      // max points from resume-vs-JD similarity
   }
-  }
 };
