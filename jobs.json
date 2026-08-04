@@ -1,5 +1,178 @@
 [
   {
+    "id": "dTlpZGl6WnBwaF9iMVdTU0FBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTMUJqTVRjMFZrMDVabUZFWkhsUlJ6QmZlbnBNVHpsM2VWVmFUMjE2VWtsNFIxaEVUeTA0VTNGNGJIWlNNbVpyTjFSaVJHeFhOalpyWTJRMFQyYzFkbUZqYUVkNWJsaHJXblI1U1dGMGEyZFZOa0pWWmsxMVVHUkxObEpZYlhjdE5reFVWamQ1V1ZSaFNHWXdkVEIzUzNOSGNsOVBPRVJVZUMxd2EyRnNhM3B0V1VwM2FtWVNGMVF0T1hoaGMxUjZTRGsyZVhGMGMxQjJiMGRZTWxGckdpSkJSSE55T1daUlJFUjRka3RFYnpZM0xVWkZkMWhpVkhoa1UzYzVjRzB0Um14Ug",
+    "fingerprint": "senior product manager platform automation|relativity|xvwv5p",
+    "title": "Senior Product Manager - Platform & Automation",
+    "company": "Relativity",
+    "location": "Hopewell, Florida",
+    "locations": [
+      "Hopewell, Florida"
+    ],
+    "remote": false,
+    "posted": "2026-08-04T00:00:00.000Z",
+    "salaryMin": null,
+    "salaryMax": null,
+    "url": "https://www.linkedin.com/jobs/view/senior-product-manager-platform-automation-at-relativity-4448665148",
+    "source": "LinkedIn",
+    "score": 50,
+    "reasons": [
+      "Senior/Group title",
+      "Positioning fit (platform, SaaS, enterprise)",
+      "AI signal (AI, agent, RAG)",
+      "Resume fit ~32%",
+      "Outside target markets"
+    ],
+    "fetchedAt": "2026-08-04T13:56:16.277Z"
+  },
+  {
+    "id": "cWFUdmI5RmRycU9BWDE3OEFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTMmxRVUV3MlRrODJlSGN6ZVdGck5GQm1UMjVRWVRCa1VsUkhkRk5LWVd4dFVEazRORWRRUzFKdllucDNUa2xCTm1kSlFVVk9lSEp0VjFONVUxaERTRm96YVZoaVVHUldWak5GU0VoeGJuSnVTMVl6VHpOb1NqTm9lRGh4VlVkbFJteENTVWhhZUdwMGNUTnFSVmhaZDB0eWEweFdUVTA1Y201VFZVMW5UbGR1VUZCcWRFOFNGMVF0T1hoaGMxUjZTRGsyZVhGMGMxQjJiMGRZTWxGckdpSkJSSE55T1daUlN6QldNR1V4Y21FM1NrVkRNMHhWZDBKalRscHRXV1JCY3pKbg",
+    "fingerprint": "sr lead product manager|early warning|-1btfgn",
+    "title": "Sr. Lead Product Manager",
+    "company": "Early Warning",
+    "location": "Scottsdale, Arizona",
+    "locations": [
+      "Scottsdale, Arizona"
+    ],
+    "remote": false,
+    "posted": "2026-08-03T22:00:00.000Z",
+    "salaryMin": null,
+    "salaryMax": null,
+    "url": "https://www.linkedin.com/jobs/view/sr-lead-product-manager-at-early-warning-4448624862",
+    "source": "LinkedIn",
+    "score": 32,
+    "reasons": [
+      "Senior/Group title",
+      "Positioning fit (platform, vendor, enterprise)",
+      "AI signal (AI, ML, RAG)",
+      "Resume fit ~15%",
+      "Outside target markets"
+    ],
+    "fetchedAt": "2026-08-04T13:56:16.275Z"
+  },
+  {
+    "id": "N29hWV9XbHBuWFJvalc1MEFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTa2x1WkROSVlXaExSRmh4YVdOS2VVbGpSRWRmWkZFMlR6WlNSMHM1T0ROQlRYZG1TMUoxUlVOcWFHNU5OazFwZDB4TFlVaFJSVEJZU1dSVk4wczFNVVZHTVVkclRpMVFPRUZoTm5KSVNteHRhVTVIUjFOVU4zVldXRVJ4Y2psR00wUlVaa1IwVVhsR1oxcEdUMUIxTFZNNE1GSkhSVWM1ZG5acE9YTnpRa2c0VFRselNsZ1NGMVF0T1hoaGMxUjZTRGsyZVhGMGMxQjJiMGRZTWxGckdpSkJSSE55T1daUlJUWTBNbDl6VHpkaFpubDBWV0V4Ym5ScGRYcDZkMFZGVG14Mw",
+    "fingerprint": "senior product manager medical device aesthetics 403846|atrium|ewjfdp",
+    "title": "Senior Product Manager, Medical Device Aesthetics - 403846",
+    "company": "Atrium",
+    "location": "Marlborough, Massachusetts",
+    "locations": [
+      "Marlborough, Massachusetts"
+    ],
+    "remote": false,
+    "posted": "2026-08-03T17:00:00.000Z",
+    "salaryMin": null,
+    "salaryMax": null,
+    "url": "https://www.linkedin.com/jobs/view/senior-product-manager-medical-device-aesthetics-403846-at-atrium-4448338993",
+    "source": "LinkedIn",
+    "score": 15,
+    "reasons": [
+      "Senior/Group title",
+      "Positioning fit (operations)",
+      "AI signal (AI)",
+      "Resume fit ~18%",
+      "Outside target markets"
+    ],
+    "fetchedAt": "2026-08-04T13:56:16.273Z"
+  },
+  {
+    "id": "VmllSHF6bDM4SjNTbUh3S0FBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTbUptY1VKTVYweHRWMWhHWWtOVU5HSTBNVm8yYjJsNWRsaDNYMnQwZFVKRGIyeGFNblZYY0U1TVZGZGphMXBZTlc5dGJWbFhWaTFVT1RSTllVaG5jRWt4Y25WcmIwOUJOWEkwZUVaMmJrbE9ibU13Y2xwU01teGpiM2Q0YVhKemNURkVYekJMV1V0dVVXTlVhWFpHZUVGQ2R6aFpSVUZ3ZFVOcWNWWTRPVWxuWnpKaWJHOFNGMVF0T1hoaGMxUjZTRGsyZVhGMGMxQjJiMGRZTWxGckdpSkJSSE55T1daU09XUmtMV1F5V21VMGMwWkNOVVU0U2xWWWNUQnVkVXBCZUdObg",
+    "fingerprint": "senior product manager remote|stryker|xm946y",
+    "title": "Senior Product Manager - Remote",
+    "company": "Stryker",
+    "location": "Not specified",
+    "locations": [
+      "Not specified"
+    ],
+    "remote": true,
+    "posted": "2026-08-04T03:00:00.000Z",
+    "salaryMin": null,
+    "salaryMax": null,
+    "url": "https://www.linkedin.com/jobs/view/senior-product-manager-remote-at-stryker-4448814032",
+    "source": "LinkedIn",
+    "score": 62,
+    "reasons": [
+      "Senior/Group title",
+      "Positioning fit (platform, operations)",
+      "AI signal (AI, RAG)",
+      "Resume fit ~17%",
+      "Remote"
+    ],
+    "fetchedAt": "2026-08-04T13:56:16.272Z"
+  },
+  {
+    "id": "eS0wdE4xNkNhTUJIc1dXcEFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTVjlPV1Vnd1oxb3hTRXRsV21WTFFteHdkVW93Ym1oV0xWaHlSME5FZVY5a1lXZFZWRTlYVGtRdE0ycFhMVEJXWkdsMWNFRkNPRVpOYlRsdGFEWnBkbmR1Y0ZscmJ6UXpjbGRDUVhWMU1XUm1aMUo1V0UxRVVtOXpUM2h6ZFVFNVNXVTVUSEp1WkhKalRXeGZTRlU0TW14cWFGVmpiamxuT0ZoRVVHVk1TVGQzYmpkVWVUQVNGMVF0T1hoaGMxUjZTRGsyZVhGMGMxQjJiMGRZTWxGckdpSkJSSE55T1daVU9IY3diamhDYUVOS2NIVmlTMjU1VFZCelVHbEhjV3hCZG1wQg",
+    "fingerprint": "sr product manager|visa|evi18k",
+    "title": "Sr. Product Manager",
+    "company": "Visa",
+    "location": "Bellevue, Washington",
+    "locations": [
+      "Bellevue, Washington"
+    ],
+    "remote": false,
+    "posted": "2026-08-04T05:00:00.000Z",
+    "salaryMin": null,
+    "salaryMax": null,
+    "url": "https://www.linkedin.com/jobs/view/sr-product-manager-at-visa-4448824176",
+    "source": "LinkedIn",
+    "score": 44,
+    "reasons": [
+      "Senior/Group title",
+      "Positioning fit (marketplace, platform, operations)",
+      "AI signal (AI, ML, RAG)",
+      "Resume fit ~27%",
+      "Outside target markets"
+    ],
+    "fetchedAt": "2026-08-04T13:56:16.271Z"
+  },
+  {
+    "id": "emlrNklCeGJZVzNsS2xjdEFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTVnBZUldVNVFYVlZZbGRRWW5GNmMyWXpkbFYwVHkxdGNuWmhSbEpxV1ZOc1pXVk5OelZwV0VKRU9HRnVlSFJhWjBkV1QzaHZZelIxWVdkSlpFZHZVbUpZU2xOWFdUZGhZMmRTYzA0MWNUQkhRVWxSUzJWTGVWOW9jVlpXWkZKQ09FcEhiM1pYU0VkdFZUTnZaa1pMWjBSNFJWQnRVRmgwWVZCWGNXNXlVMnhWUTNNd1RUUVNGMDkxT1hoaGJ6YzRSMTl0WDJ0UVNWQXpkVXRVYjFGckdpSkJSSE55T1daU1dVNXZkVE5tWjA5bGJEY3lTa2hIUkV0c05VdGxSbDlqWnpKMw",
+    "fingerprint": "product manager product catalog and syndication|staples|-jyk2yb",
+    "title": "Product Manager - Product Catalog and Syndication",
+    "company": "Staples",
+    "location": "Framingham, Massachusetts",
+    "locations": [
+      "Framingham, Massachusetts"
+    ],
+    "remote": false,
+    "posted": "2026-08-03T23:00:00.000Z",
+    "salaryMin": null,
+    "salaryMax": null,
+    "url": "https://www.builtinboston.com/job/product-manager-product-catalog-and-syndication/10515844",
+    "source": "Built In Boston",
+    "score": 21,
+    "reasons": [
+      "Positioning fit (platform, B2B, operations)",
+      "AI signal (AI, ML, RAG)",
+      "Resume fit ~19%",
+      "Outside target markets"
+    ],
+    "fetchedAt": "2026-08-04T13:56:16.269Z"
+  },
+  {
+    "id": "ek5hb1JxRENUVGtvV214aUFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTMnhJWTNaVmQwWmlUME5KVUdRNVFuQk5ja2MyZDFacGVVVTBhVUZRTjJ4SGJ6bHlZa1ZmT0VaMVdIWlZPR2hLVFROYU9YVXRUamRGZUZjNVJYcDJVV0V5TlMxVVNHdGpkSEJmYkZGc01EWTNNMVJEWmkxMFNtMXJSVkJUU21wQk5FWkhRbVpKZUd0Q1IwSnliVmxYVkRoSWVsSnlZVUZpUW1veE5IbDZWalUxTUVwQ2FqQVNGMDkxT1hoaGJ6YzRSMTl0WDJ0UVNWQXpkVXRVYjFGckdpSkJSSE55T1daVU1HdElXVFZ2WDJjMVVWSTRZMGxuWWtKVFZtUkdaR2R1WlRSQg",
+    "fingerprint": "product manager marketing remote|the e w scripps company|fvk87k",
+    "title": "Product Manager, Marketing, REMOTE",
+    "company": "The E.W. Scripps Company",
+    "location": "Not specified",
+    "locations": [
+      "Not specified"
+    ],
+    "remote": true,
+    "posted": "2026-08-04T02:00:00.000Z",
+    "salaryMin": null,
+    "salaryMax": null,
+    "url": "https://www.linkedin.com/jobs/view/product-manager-marketing-remote-at-the-e-w-scripps-company-4448800337",
+    "source": "LinkedIn",
+    "score": 41,
+    "reasons": [
+      "Positioning fit (platform, operations)",
+      "AI signal (AI)",
+      "Resume fit ~17%",
+      "Remote"
+    ],
+    "fetchedAt": "2026-08-04T13:56:16.268Z"
+  },
+  {
     "id": "VTJjRFhfRFNFeDJ4aHZCOUFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTbTFZYm5kNlFraHFVR28xUjFoaE1FbFJVVlU0YXpSaVFsQlRjVU5UVWpObU1ucFdUMFozYlV0U05EZHhjR2RrVFdoVVlYRTNSRWhvYkRoUVFWaFNhV2hzUW5GU2NHWm1VVjlTYUdOTGJqQlJOV0ZmTlZwVVNFMXBTVTFQWDJONGRXTk1jVkZmZFhGSWFFVk1SMEp5WDBwWWFVSkpOWE5RYldSVVZtOVpObWRaV1hSUE55MFNGMnh4VW5kaGRHbGhTa3hETkcxTVVWQjRMV2xmYlVGUkdpSkJSSE55T1daU01VNVhTelpNY0daVmNtRmpPSGhPT0ZZNWFHSjBkbU5OTlRGQg",
     "fingerprint": "product manager ai infrastructure custom silicon systems|majestic labs ai|5al863",
     "title": "Product Manager - AI Infrastructure (Custom Silicon & Systems)",
