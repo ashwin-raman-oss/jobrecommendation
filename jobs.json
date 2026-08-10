@@ -1,5 +1,105 @@
 [
   {
+    "id": "VVlOT0hwaUM3UHBaZ2MzWEFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTMUJJV2pWWmNVMURWV1JNU2s5NVRtTnhiVzFuUTFweWNVOVRRbUp6TjJSS1YyWlFibTB4UlZGa2JGWjNPWG80U25kbmVIRnllRVpGUlRSQ1lUWnBSbWMzVnpRelFXMVRXWHB6TlUxcVJ6UktRa0pIV21sSWRGRkdYMGxZUkRNM1MwbEtaRGhQYVV0S2NraGFTVUZ3ZDI5UVlXdFFjVk5JUW1GZlIxOVJZMGg0U0VWaWRuWVNGekE0YkRWaGRsQm5SRFptVW10UVNWQnBMWFZYYTBGdkdpSkJSSE55T1daUlVGZHBVM2RYYVdGVmFIWnpTMWRETWtSclZUbDJkMmQ2VTNkUg",
+    "fingerprint": "senior hardware product manager|samsara|-qkrim4",
+    "title": "Senior Hardware Product Manager",
+    "company": "Samsara",
+    "location": "Not specified",
+    "locations": [
+      "Not specified"
+    ],
+    "remote": true,
+    "posted": "2026-08-10T04:00:00.000Z",
+    "salaryMin": 166175,
+    "salaryMax": 195500,
+    "url": "https://www.linkedin.com/jobs/view/senior-hardware-product-manager-at-samsara-4449530422",
+    "source": "LinkedIn",
+    "score": 83,
+    "reasons": [
+      "Senior/Group title",
+      "Positioning fit (platform, operations, supply)",
+      "AI signal (AI, RAG)",
+      "Comp disclosed ≥ $175K",
+      "Resume fit ~23%",
+      "Remote"
+    ],
+    "fetchedAt": "2026-08-10T12:53:47.878Z"
+  },
+  {
+    "id": "WHAzOVZfa0h4NnQ0djd0Y0FBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTMW90ZEhVMllUQk1kbGxJZG1oNGQwWjJkV1JEZFRWRmJFWklkR1k1YVVac2RuTXhOWEZNUWpnek5rTlNhbXBZWlRKM1JGSTFOakp2VEdWaVZXdE1iMEpaTmpGUFRURkhWbGxDZGpGSU9HMDNNWFJJVVMxV2FuWnJUVVZIT1hOeFN6Y3RlVVl4WW5jMFgybFFlalZqYjIwdFZWbzBlVTkyVVhNelV6ZE1ZMnRzWDNOUk9IQVNGM3BOYkRWaGNIVjNUbHB1WjJ0UVNWQm5PR0ZZWjBGVkdpSkJSSE55T1daUmNHSjJWR0pWVUVjM2MxOXpVRWwxUkhwUlRqWnJaSEJLY2tWQg",
+    "fingerprint": "product manager applied ai staff senior staff|permitflow|827gx1",
+    "title": "Product Manager, Applied AI (Staff / Senior Staff)",
+    "company": "PermitFlow",
+    "location": "New York, New York",
+    "locations": [
+      "New York, New York"
+    ],
+    "remote": false,
+    "posted": "2026-08-10T02:00:00.000Z",
+    "salaryMin": null,
+    "salaryMax": null,
+    "url": "https://www.linkedin.com/jobs/view/product-manager-applied-ai-staff-senior-staff-at-permitflow-4451379446",
+    "source": "LinkedIn",
+    "score": 63,
+    "reasons": [
+      "Senior/Group title",
+      "Positioning fit (operations)",
+      "AI signal (AI, LLM, agent)",
+      "Resume fit ~24%",
+      "Visibility location"
+    ],
+    "fetchedAt": "2026-08-10T12:53:47.877Z"
+  },
+  {
+    "id": "enNzZm1qSnBsTGQ4R1NDVkFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBURmRoWTBkd1ZISm9TVTFQYjB0V1lYaFBWRzlwYjB4cE1IZGhaRTU0YTFoRFFURTVSRFZ4VGpad2NqYzRiVzAwZDBzNVZsUmhPVWhQZEhFNFozQkRjMmgwWVcwMFJWcDVhVjlDWVVOTmMxaHZZelpmZEVOU2JsSmpVa2xsY25sVVNucG5iRTF6V2tzNVVsaHVRMUJRY25scVIycGhZVnBOUzFBd01VcEtVRGh4WWxZeGJsOFNGM3BOYkRWaGNIVjNUbHB1WjJ0UVNWQm5PR0ZZWjBGVkdpSkJSSE55T1daVU1HUlliSEpJV1V0SVVFTTVTMHhtUzBGelRuaGFZblJrV0hObg",
+    "fingerprint": "product manager fully remote|padsplit|-rh5rbm",
+    "title": "Product Manager (Fully Remote)",
+    "company": "PadSplit",
+    "location": "Not specified",
+    "locations": [
+      "Not specified"
+    ],
+    "remote": true,
+    "posted": "2026-08-09T23:00:00.000Z",
+    "salaryMin": 130000,
+    "salaryMax": 150000,
+    "url": "https://builtin.com/job/product-manager-fully-remote/9710935",
+    "source": "Built In",
+    "score": 53,
+    "reasons": [
+      "Positioning fit (marketplace, platform, supply)",
+      "AI signal (AI, RAG)",
+      "Resume fit ~23%",
+      "Remote"
+    ],
+    "fetchedAt": "2026-08-10T12:53:47.875Z"
+  },
+  {
+    "id": "Tjl4MUhNZ1N1dmprNVRDY0FBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBUSEozUW1SV1QzZFFlVGROTjFOT2QzUktVbFpCYUcxVVVVVXljMlJ5WjAxUlJYZ3dXbTVsUnpWa2R6bFpYMjlFYjNsaFNVaDBUVFpGTXpoNFEyWkZXRlZXVTFsM1VrSjFWbTEzTlc0eGNVaGlhbWxMZFdaTU9VaEdObGt4ZDJOU05XWjNRVU5IWm5BMGIybHBkbmxEYzJkS1pGVlpkRWR1WjFVdFMySlhPVWRFVDJOUVRFWVNGM3BOYkRWaGNIVjNUbHB1WjJ0UVNWQm5PR0ZZWjBGVkdpSkJSSE55T1daVFRtZ3pkbUZUUW5wNVQyZzROR3BKTVhkek1EUnVSVTVGU2kxQg",
+    "fingerprint": "senior product manager 1 many merchant growth|affirm|-uob69q",
+    "title": "Senior Product Manager, 1: Many Merchant Growth",
+    "company": "Affirm",
+    "location": "Not specified",
+    "locations": [
+      "Not specified"
+    ],
+    "remote": true,
+    "posted": "2026-08-10T06:00:00.000Z",
+    "salaryMin": null,
+    "salaryMax": null,
+    "url": "https://www.linkedin.com/jobs/view/senior-product-manager-1-many-merchant-growth-at-affirm-4451120550",
+    "source": "LinkedIn",
+    "score": 59,
+    "reasons": [
+      "Senior/Group title",
+      "Positioning fit (platform)",
+      "AI signal (AI, RAG)",
+      "Resume fit ~20%",
+      "Remote"
+    ],
+    "fetchedAt": "2026-08-10T12:53:47.873Z"
+  },
+  {
     "id": "blhYS1RZN0l0RzFIRjFVMEFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTalJVUnpodmJFOUJkamxCVG5BdE4yWm1VM04xZFZSU2QwSmtXV3hKZHpoMFltbG5aVk53TWpkVmVteDFTMjFOUm5NM1ZubGllRWh1YjNWbWFrVmxVMXBhVW01RFdYTnZZa3RqY0VNMFZuWmZUbGx0YVZWclZuWjZZVjkzZFhnd1NWb3pkRU5UVTNaV1VqRnZXR3RRVERWVE1IQk5TRVpEYVZGNVNVeHlUakZCYW5oa1drVVNGMU5ZVWpSaGRYVkdSVTUyY1cxTVVWQjFkVmRmYzFGckdpSkJSSE55T1daU0xYRTRaR1I1VXpNMVlVSnJhVlZ0TVRGZlNFVnVhR2xXU0VoMw",
     "fingerprint": "product manager centralized entitlements houston tx or midvale ut|zions bancorporation|-qlfum7",
     "title": "Product Manager – Centralized Entitlements - Houston, TX or Midvale, UT",
