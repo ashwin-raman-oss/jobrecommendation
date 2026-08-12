@@ -1,5 +1,273 @@
 [
   {
+    "id": "aHNla3ZDWFd1V1hVanhfeEFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTek41UVZJeVNFdDZWMmRFVm01Q1ozZHNSM04xWTFOa1lqWldSVzlETFcxWWJXeFNZak5rYmkxeE9ESTNjekJKYURGZlNGQnJWRzB6TVZjMlRGQkRSbkIwVWtWTGEyMTBORE5hYlRGTVNtWXlkRjlhYmprdFNGVjJVemR6VTBSUU4xUkdUbmcxU0ZSbFQzSmxjR3BSWVRBMGR6bHFiRFZ4Um1wcGRFdEJaVTVMTVRGb1dWWVNGekF5ZURoaGRrTk9USFJ4TUhGMGMxQXhkRWREYzFGdkdpSkJSSE55T1daVFEzTlVjM2cwZDB4V2JDMWtjR3RLV0cxRE1rc3RlbVZJZDNwMw",
+    "fingerprint": "product manager consumer goods manufacturing|paris corporation|-m83cwq",
+    "title": "Product Manager-Consumer Goods/Manufacturing",
+    "company": "Paris Corporation",
+    "location": "Westampton Township, New Jersey",
+    "locations": [
+      "Westampton Township, New Jersey"
+    ],
+    "remote": false,
+    "posted": "2026-08-11T15:00:00.000Z",
+    "salaryMin": null,
+    "salaryMax": null,
+    "url": "https://www.linkedin.com/jobs/view/product-manager-consumer-goods-manufacturing-at-paris-corporation-4451691973",
+    "source": "LinkedIn",
+    "score": 15,
+    "reasons": [
+      "Positioning fit (marketplace, platform, operations)",
+      "AI signal (AI, RAG)",
+      "Resume fit ~17%",
+      "Outside target markets"
+    ],
+    "fetchedAt": "2026-08-12T12:53:42.415Z"
+  },
+  {
+    "id": "Si0zWkNCakhFZmR3YXdFbEFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTWFJ0WldGSlFXRlhRa3d0ZEVWMk9VYzRiM1pKZUd0NFgxZEZZVTFyVGpVemVHeDFRVGxUUkRCTE9XOHdVM3AwYkdsU01VaGlNVTF0YUcwMlZXNHRPREJOYUU5dlQxVmFMVmRSY0RNNWVteDRRakpDUWxBemJreDBTamhRV2tWVVluSTBPRkJyWnpKTVVYb3lVMUZDTjBaSFYwVnhWMDlWVnpWTFltdFdSWG8yVUdOMFdXZ1NGekF5ZURoaGRrTk9USFJ4TUhGMGMxQXhkRWREYzFGdkdpSkJSSE55T1daVUxUUmlaemR6VTJsRFgwUm1OM00yZVY5NlFuVlRkbkpYYm1OMw",
+    "fingerprint": "ai native product manager products|accenture|t44hz",
+    "title": "AI Native Product Manager - Products",
+    "company": "Accenture",
+    "location": "Arlington, Virginia",
+    "locations": [
+      "Arlington, Virginia"
+    ],
+    "remote": false,
+    "posted": "2026-08-12T06:00:00.000Z",
+    "salaryMin": null,
+    "salaryMax": null,
+    "url": "https://www.linkedin.com/jobs/view/ai-native-product-manager-products-at-accenture-4452373381",
+    "source": "LinkedIn",
+    "score": 27,
+    "reasons": [
+      "Positioning fit (platform, workflow automation, enterprise)",
+      "AI signal (AI, LLM, agent)",
+      "Resume fit ~24%",
+      "Outside target markets"
+    ],
+    "fetchedAt": "2026-08-12T12:53:42.414Z"
+  },
+  {
+    "id": "bTVETEhENWNaNzQ4S3F3RkFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTalZQY1dsR1VGVlBiVGR4WWpKaVlqZ3lXV3RuTURjMVUxZFlRa1ppVlhaRWFqZGtkVlZ0YW01TlpGbHpaamxuTlhKMlZFeFRlVGh1WTNKTFExTjRjVEkzYkZadllrZzJXVzlUWVdWU1JraExXbFk0Vms1T2FYTmlPVTF1VEhaUU5FbHlTVnBqVGtaTFYzQnRXV3hvTFZRM2FWOXNUMUUyTkRWSmQzQnZWM1JIZWtWM2JuTVNGM2d5ZURoaGRYbFBRVm8yV210UVNWQm9kak5OTUVGbkdpSkJSSE55T1daVFdtcDNTbk5CWmtSM2MzaG9iVVJxWm5FNUxXb3RVVGRUV0hsQg",
+    "fingerprint": "senior product manager|thomson reuters|wia9it",
+    "title": "Senior Product Manager",
+    "company": "Thomson Reuters",
+    "location": "Ann Arbor, Michigan",
+    "locations": [
+      "Ann Arbor, Michigan"
+    ],
+    "remote": false,
+    "posted": "2026-08-11T20:00:00.000Z",
+    "salaryMin": null,
+    "salaryMax": null,
+    "url": "https://www.linkedin.com/jobs/view/senior-product-manager-at-thomson-reuters-4451934348",
+    "source": "LinkedIn",
+    "score": 29,
+    "reasons": [
+      "Senior/Group title",
+      "Positioning fit (operations, enterprise)",
+      "AI signal (AI, ML, agent)",
+      "Resume fit ~16%",
+      "Outside target markets"
+    ],
+    "fetchedAt": "2026-08-12T12:53:42.412Z"
+  },
+  {
+    "id": "N0tXNUo2TkpBa3B4OEVBWkFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBURXRxTUcxSU9GVmplV010ZWw5M05FOXpNa2QxV25nd2MyaHJXVVJ5T0dSblYzUmxZbE5zVWt4TWNtUXRZbU50YkdGTmJWOUphbFI0YkZScVJuTnBXRmd3U1UxRlFUbEhNekZrY0hoMmRVWjVaRFJCVVVoUVJFNWhOSGxqVmt0SFN6RlBTRmx4YVRaRWRYcGZhRk5zZFc1VU1WaFlRVnBvZUcwMmJWUlhaamhaYUhSRGJYa1NGM2d5ZURoaGRYbFBRVm8yV210UVNWQm9kak5OTUVGbkdpSkJSSE55T1daVGRTMHROazV2WTNoS2VYRnJYMGxqVTJsNU5tVjNiRXR2Y0ZGMw",
+    "fingerprint": "sr manager visa accept product manager|visa|f877eq",
+    "title": "Sr Manager, Visa Accept Product Manager",
+    "company": "Visa",
+    "location": "San Francisco, California",
+    "locations": [
+      "San Francisco, California"
+    ],
+    "remote": false,
+    "posted": "2026-08-11T22:00:00.000Z",
+    "salaryMin": null,
+    "salaryMax": null,
+    "url": "https://www.linkedin.com/jobs/view/sr-manager-visa-accept-product-manager-at-visa-4451960469",
+    "source": "LinkedIn",
+    "score": 54,
+    "reasons": [
+      "Positioning fit (platform, operations)",
+      "AI signal (AI, GPT, RAG)",
+      "Resume fit ~20%",
+      "Priority location (Chicago/Bay Area)"
+    ],
+    "fetchedAt": "2026-08-12T12:53:42.410Z"
+  },
+  {
+    "id": "b2VpczhubzlLLWVKejRhU0FBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTM2t0TTJocVV6bHpNR3hzYkhwNU9VNDVVM1ZNVDBKSGIySlVOVk5EVldKemEwOWpVbGROTmxVNU0xZzRlRkp4YnpoU2FqQjNPWGRhTUd4dVJsSkVOMmhGV2kxaVVXbHFTRU5qU0MxUVpuVndTRmwyWlV0eFoybHlibWxsYzNnekxXczBSelZRUjBaaFoybGFjVFpzTWtkWmRta3RjMmN6WW14dUxWSkdkMGR3Y3pOQ2VrUVNGM2RIZURoaGNGOTJTRzl0VHpoTU1GQnJORk4wYlZFNEdpSkJSSE55T1daVFVEUnZUV1JwVDFGUk9VSTBZWGxQTW1KT2VHTldia015UWpWMw",
+    "fingerprint": "senior product manager hyperscale ai infrastructure|verizon|moiv0g",
+    "title": "Senior Product Manager – Hyperscale & AI Infrastructure",
+    "company": "Verizon",
+    "location": "Annapolis Junction, Maryland",
+    "locations": [
+      "Annapolis Junction, Maryland"
+    ],
+    "remote": false,
+    "posted": "2026-08-11T18:00:00.000Z",
+    "salaryMin": null,
+    "salaryMax": null,
+    "url": "https://www.linkedin.com/jobs/view/senior-product-manager-%E2%80%93-hyperscale-ai-infrastructure-at-verizon-4452623074",
+    "source": "LinkedIn",
+    "score": 42,
+    "reasons": [
+      "Senior/Group title",
+      "Positioning fit (platform, operations, network)",
+      "AI signal (AI, ML, RAG)",
+      "Resume fit ~25%",
+      "Outside target markets"
+    ],
+    "fetchedAt": "2026-08-12T12:53:42.408Z"
+  },
+  {
+    "id": "dzc5WS15cGRJQ3l6TUNqekFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTM1JKY0VrM2RrSkhjVmxZTFVKVVNrSXlZMUpoUlZBeFIxVkxNMmc0UzFwdFNsQjZSMWd3YjB4SVVrRXpNR2d6VkhOcFpsQllNVXh0ZUU5NmVsSnZhakJ0YVZKdlgzVndUazlNTlhkSE5rWlFVelp6WVhoblNXNUljM3BJZUZwNVpGTmFjMU5FYzFnek1sRjNOM0JZUTJGc1dsSmtTMHB1TkhscWN6WkJOVk5vT1VweWFERVNGM2RIZURoaGNGOTJTRzl0VHpoTU1GQnJORk4wYlZFNEdpSkJSSE55T1daVVprNXJXR1U0TlUxRVRtNUtiM2hTZWt4c05FUTRjV00yVWtGbg",
+    "fingerprint": "senior product manager tech private pricing programs analytics insights|amazon web services aws|-1y4yd3",
+    "title": "Senior Product Manager - Tech, Private Pricing Programs, Analytics & Insights",
+    "company": "Amazon Web Services (AWS)",
+    "location": "Arlington, Virginia",
+    "locations": [
+      "Arlington, Virginia"
+    ],
+    "remote": false,
+    "posted": "2026-08-11T00:00:00.000Z",
+    "salaryMin": null,
+    "salaryMax": null,
+    "url": "https://www.linkedin.com/jobs/view/senior-product-manager-tech-private-pricing-programs-analytics-insights-at-amazon-web-services-aws-4443051054",
+    "source": "LinkedIn",
+    "score": 90,
+    "reasons": [
+      "Target company (Amazon)",
+      "Senior/Group title",
+      "Positioning fit (platform, enterprise)",
+      "AI signal (AI, RAG)",
+      "Resume fit ~18%"
+    ],
+    "fetchedAt": "2026-08-12T12:53:42.407Z"
+  },
+  {
+    "id": "VU1HT2h2X2FRNEpVV1JaTEFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTMjVKUnpKcU1FTkJZbkpRUWtFMlgxQnNZbmRvYVdjd1dHMXVSVVJaTlROVE0zRnplVnB6VDFWb1pteFpYelptTmxBNGNtTklabUV4TXpJMmMyMXFNWGwyZWw4dExTMW9SM3A2YUdSb1ZITnNYME5qU1hKTE4yUm9WV3R2UmtSTU0wZEdVRWxsZHpGNWVYZzFRVzk2TkdkQlJIRXdaekJCUTNBeVpUQm5OblpDU0ZVMFozTVNGM2RIZURoaGNGOTJTRzl0VHpoTU1GQnJORk4wYlZFNEdpSkJSSE55T1daVU4xcFZTRGRWZDBNdFltSlVSRnBJUzFGT2VFcGZNRWx3VFZabg",
+    "fingerprint": "staff product manager ml training workflow|general motors|d8rkak",
+    "title": "Staff Product Manager - ML Training Workflow",
+    "company": "General Motors",
+    "location": "Warren, Michigan",
+    "locations": [
+      "Warren, Michigan"
+    ],
+    "remote": false,
+    "posted": "2026-08-11T21:00:00.000Z",
+    "salaryMin": null,
+    "salaryMax": null,
+    "url": "https://www.linkedin.com/jobs/view/staff-product-manager-ml-training-workflow-at-general-motors-4452674804",
+    "source": "LinkedIn",
+    "score": 32,
+    "reasons": [
+      "Positioning fit (platform, operations, workflow automation)",
+      "AI signal (AI, machine learning, ML)",
+      "Resume fit ~29%",
+      "Outside target markets"
+    ],
+    "fetchedAt": "2026-08-12T12:53:42.405Z"
+  },
+  {
+    "id": "YlMwQkFkV0hQQ25IMTlQT0FBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTMGx6TkdoS1dXNU1MVEZJY2sxTGF5MURVMjVGUjBWQ2FrUmhXRWhCV1hWMVYyNTZVRGhrTWxoemRHNHhOR1ppVmpoelNXcHljV0Z5TjFoTU5FWnRVRFZzYUZwT0xXVnlUbkV4VkhZd05UWTViMGxOVjFwbFExazFlVTV1UlVzMFNWWTRhV1ZYY1dGb1IzcFBkazkxTTJWdU9GQnZXVTlmWTBSSlpVWk5VQzFRUm1SYWIySVNGM2RIZURoaGNGOTJTRzl0VHpoTU1GQnJORk4wYlZFNEdpSkJSSE55T1daU1drOW5jSGR6U0hkcVFtbExkRlF4YlV4elRURmFSRmx1VWtOQg",
+    "fingerprint": "senior product manager|covista|-xkggz0",
+    "title": "Senior Product Manager",
+    "company": "Covista",
+    "location": "US",
+    "locations": [
+      "US"
+    ],
+    "remote": false,
+    "posted": "2026-08-11T00:00:00.000Z",
+    "salaryMin": null,
+    "salaryMax": null,
+    "url": "https://www.linkedin.com/jobs/view/senior-product-manager-at-covista-4449831867",
+    "source": "LinkedIn",
+    "score": 19,
+    "reasons": [
+      "Senior/Group title",
+      "Positioning fit (enterprise)",
+      "AI signal (AI)",
+      "Resume fit ~21%",
+      "Outside target markets"
+    ],
+    "fetchedAt": "2026-08-12T12:53:42.403Z"
+  },
+  {
+    "id": "SEszZFNBQWVGdzdybldxbUFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTbWxpY0V4eFREUnJZVWxYYjJSV1dsSnZSMkY1Ym5aNU5XcEpVVnBLYWpOeFNVMHhabEpIZGpOWFJsZzFjMjlSTTNneVZFSnJNMUowVEVocldFaElkRnBNWVRSelJWb3dWSGRQZFdoSlR6Tm9OVkJoUkZrMFRYQmFUVUZSVjFCQ1RISXlhM0ZJU1hKaE1sSlBUMDFVYW05UldYcHRkVE5JY1dKWVNYTnpTWEpGYWxCWFZ6VVNGM2RIZURoaGNGOTJTRzl0VHpoTU1GQnJORk4wYlZFNEdpSkJSSE55T1daU1owdG9PRmt0VlU4MlJtNDRWRGg2TTNSVFNVZEJVbTlYWlhWMw",
+    "fingerprint": "product manager for toys crafts consumer products|canal toys usa ltd|oy75pr",
+    "title": "Product Manager for Toys, Crafts, Consumer Products",
+    "company": "Canal Toys USA, Ltd.",
+    "location": "Westborough, Massachusetts",
+    "locations": [
+      "Westborough, Massachusetts"
+    ],
+    "remote": false,
+    "posted": "2026-08-11T23:00:00.000Z",
+    "salaryMin": null,
+    "salaryMax": null,
+    "url": "https://www.linkedin.com/jobs/view/product-manager-for-toys-crafts-consumer-products-at-canal-toys-usa-ltd-4451966640",
+    "source": "LinkedIn",
+    "score": -7,
+    "reasons": [
+      "AI signal (AI)",
+      "Resume fit ~16%",
+      "Outside target markets"
+    ],
+    "fetchedAt": "2026-08-12T12:53:42.402Z"
+  },
+  {
+    "id": "elpvZ1ZjeWs1Nk8xdnR4Q0FBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTVVpPUnpjNFp6Wk9jRkZxTm1ZNWQwZExWM0I2V21aUVVqRnFZbGt3ZHpaWWNYVlhkelJFWlhka09XNURNbWR3VTBFNVVHcHdUbFZ2ZW5adkxWRjJNV3MwVERsWGFYWnRNSE56U2pBeWNuZDJYMDU2YlRJdFFXeFNkVVJ2UkRsTVQwVmZVRlpUVWxsbmFtRldhRkp5TTFGc1VsRkxZWFpDYzIweGJ6Rm1hV1ZYYVdKamJVUVNGM2RIZURoaGNGOTJTRzl0VHpoTU1GQnJORk4wYlZFNEdpSkJSSE55T1daU1dVZHRWRlF6WnpkZmIySlBUMU5yYUZkTVZXZG9OWGMzY0ZSUg",
+    "fingerprint": "product manager|greene tweed|bvrug7",
+    "title": "Product Manager",
+    "company": "Greene Tweed",
+    "location": "Lansdale, Pennsylvania",
+    "locations": [
+      "Lansdale, Pennsylvania"
+    ],
+    "remote": false,
+    "posted": "2026-08-11T19:00:00.000Z",
+    "salaryMin": null,
+    "salaryMax": null,
+    "url": "https://www.linkedin.com/jobs/view/product-manager-at-greene-tweed-4451939205",
+    "source": "LinkedIn",
+    "score": 7,
+    "reasons": [
+      "Positioning fit (operations, enterprise)",
+      "AI signal (AI)",
+      "Resume fit ~20%",
+      "Outside target markets"
+    ],
+    "fetchedAt": "2026-08-12T12:53:42.401Z"
+  },
+  {
+    "id": "czRsMkthLVFXUnJSTlNBb0FBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTM0JxT0RSUlZtazBVbUY1YTFwWlEyMWplSE15YURaVVpqTkthVFUwYVVFMWN6ZDFZbkJGUWtKMmEwRjJTMTh5ZUVwbWFqRjNjMXBsTm1rNGNFdFFhM2x3VjJwbVJEVndkWEpYUld4MVNUWTVVMlZrUzJGdFIzcHdlRE40ZG5wNExWQnljVGM0UVhwSlFWaGFRemxuVUVGb1pDMXpNRkpIY1hWR1ptZGtlV1JqTjBacU9XOFNGM2RIZURoaGNGOTJTRzl0VHpoTU1GQnJORk4wYlZFNEdpSkJSSE55T1daU1NHaFJkR3BpUkhkTFNsVlpTRXBIZGxwelVsVTBWR1o1UVdWbg",
+    "fingerprint": "principal product manager customer data platform|geico|-eargew",
+    "title": "Principal Product Manager - Customer Data Platform",
+    "company": "GEICO",
+    "location": "Bethesda, Maryland",
+    "locations": [
+      "Bethesda, Maryland"
+    ],
+    "remote": false,
+    "posted": "2026-08-11T18:00:00.000Z",
+    "salaryMin": 140425,
+    "salaryMax": 229600,
+    "url": "https://www.linkedin.com/jobs/view/principal-product-manager-customer-data-platform-at-geico-4451909837",
+    "source": "LinkedIn",
+    "score": 25,
+    "reasons": [
+      "Positioning fit (marketplace, platform)",
+      "AI signal (AI, RAG)",
+      "Comp disclosed ≥ $175K",
+      "Resume fit ~22%",
+      "Outside target markets"
+    ],
+    "fetchedAt": "2026-08-12T12:53:42.399Z"
+  },
+  {
     "id": "amRzY2lXZ1JqOU55aHplN0FBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBUR2xFY1dWUk5YTTVWM1J0ZHpGUFZGUTFhMmhxYUhkZmFGSnhjMVJzT1d3MlozazVVV3BPUTNkeFJEaDNUMlJ4T1dRM04wbGpNaTFyVm1KT1R6aGZRMmxrYXpsYU9WZEhTbVZmYVRNMFZURmFlRXhrT1dweFVIbGtPSEZTY0hoSk1ERlNaM0ZKTjNGdGQyZGtYMEZLTlMxNmVITkZXakl4U0c4MVVYZEdSakZtU21OdE1XZ1NGMFpvY0RkaGNsQjRUbk51YUd0UVNWQnFMVmhJZDFGUkdpSkJSSE55T1daVWIyZGZNaTFYUlRSMExVSlNPR0ptYm01SmQzQklVR0kxU21aQg",
     "fingerprint": "senior product manager ai platform equity research|versant media|-xl1bx5",
     "title": "Senior Product Manager, AI Platform – Equity Research",
