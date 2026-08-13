@@ -1,5 +1,228 @@
 [
   {
+    "id": "WXJiTndxaHhQYXdCVGtEYkFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBUR1kzZWpJeWFsWlhSQzFrYTJwdFNWQjZOM2R6YkRGNlUyRnhTbTlEWVdaS05UWjVRVVJYTmpodlQyZENZM2hsYkVKRk5HNXplWE5EUlRaS2RFTnJSRGxWVkhBelptZExRVGRrY1hwRmFqRTNNaTFhYTB4MlIwWmhRMkpDVm5NMGIxbFRSVzVQV0ZoMFVrdGlPQzFVVUhaM1NEa3RSbWxJTjNGQ2RtdElWMWt6VVV0SWJHMFNGMnhNTlRsaGRESjNTR1Z0YVhGMGMxQnpkSEZXWjFGWkdpSkJSSE55T1daVFVYSlliVFk1VGswNExWYzJNV3BZTFVoSFNGWXhOVmxhVERkbg",
+    "fingerprint": "product manager|stanley black decker inc|-pqwqb5",
+    "title": "Product Manager",
+    "company": "Stanley Black & Decker, Inc.",
+    "location": "Towson, Maryland",
+    "locations": [
+      "Towson, Maryland"
+    ],
+    "remote": false,
+    "posted": "2026-08-12T22:00:00.000Z",
+    "salaryMin": null,
+    "salaryMax": null,
+    "url": "https://www.linkedin.com/jobs/view/product-manager-at-stanley-black-decker-inc-4453384684",
+    "source": "LinkedIn",
+    "score": 2,
+    "reasons": [
+      "Positioning fit (operations, vendor)",
+      "AI signal (AI)",
+      "Resume fit ~15%",
+      "Outside target markets"
+    ],
+    "fetchedAt": "2026-08-13T12:54:47.656Z"
+  },
+  {
+    "id": "eEFha0xKV0s1M2Rfb3hweEFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTVXRtVFVOR1NUSnJNM2t4TlhCNExVeE9aR3BwV1RGZlluWlZibVV4WkdkTFozQnZNMnQwY0dJeU5DMUNiM3B1VVdWUmRuWjZZak5GYkU5dlltVXhRVzFRWkU0emFIVTVORVZXWTNZdGFrSk1kMWxsTWtaVE5EaFlWRTFJWVZwaUxVaEJVRTR6VFZGa1oyRjBhRk00Wm1VM1ZUbFljamhZZFdGMFNHUlZkamRLY25sTk9XRVNGMnBpTlRsaGNHMU5UblpwZVcxMGExQnZkV1ZmWjBGVkdpSkJSSE55T1daU1NVcDFTV1F0YmxkWmRFdDBMWFJQUW1RdFFrRjBZVTVGYmw5Mw",
+    "fingerprint": "senior product manager ai data science products|crunchbase|-buxec2",
+    "title": "Senior Product Manager, AI & Data Science Products",
+    "company": "Crunchbase",
+    "location": "Not specified",
+    "locations": [
+      "Not specified"
+    ],
+    "remote": true,
+    "posted": "2026-08-12T23:00:00.000Z",
+    "salaryMin": null,
+    "salaryMax": null,
+    "url": "https://www.linkedin.com/jobs/view/senior-product-manager-ai-data-science-products-at-crunchbase-4452763343",
+    "source": "LinkedIn",
+    "score": 80,
+    "reasons": [
+      "Senior/Group title",
+      "Positioning fit (platform, B2B, operations)",
+      "AI signal (AI, machine learning, ML)",
+      "Resume fit ~25%",
+      "Remote"
+    ],
+    "fetchedAt": "2026-08-13T12:54:47.654Z"
+  },
+  {
+    "id": "cjd3dThwNWZnSWFmdWpaeEFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTbWhQUW5wcmExbE5lVFYxVTNwNVlWVmhNWGRIWTIxaExVNXVhbGRqT0ZWRGVsZ3dZamhzVVZwek9GQTRZMUp1WVZoYUxVWmxabEYzWWw5YWJDMXhkWFI2U1hGT2FtUXhkRVJwU2xJdFFsOUJReTF1ZEZZeVZsZEJlbVJhVlZSWmVIcE9jbk5NU1d3eVVtWkRRVEpWZVhjM2VuSnNhbk5YWVVaSFNHdzFlRlJSVDNwak4yMFNGMnBpTlRsaGNHMU5UblpwZVcxMGExQnZkV1ZmWjBGVkdpSkJSSE55T1daVU9WSTVVRUZZWVZab1ZETnBkbE13ZDB0c09HSlFaRTR0ZVRoMw",
+    "fingerprint": "senior product manager|broadcom|-kr1em5",
+    "title": "Senior Product Manager",
+    "company": "Broadcom",
+    "location": "Colorado Springs, Colorado",
+    "locations": [
+      "Colorado Springs, Colorado"
+    ],
+    "remote": false,
+    "posted": "2026-08-12T17:00:00.000Z",
+    "salaryMin": null,
+    "salaryMax": null,
+    "url": "https://www.linkedin.com/jobs/view/senior-product-manager-at-broadcom-4452751004",
+    "source": "LinkedIn",
+    "score": 30,
+    "reasons": [
+      "Senior/Group title",
+      "Positioning fit (platform, enterprise)",
+      "AI signal (AI, ML)",
+      "Resume fit ~22%",
+      "Outside target markets"
+    ],
+    "fetchedAt": "2026-08-13T12:54:47.652Z"
+  },
+  {
+    "id": "bVlPSGgyWFVDdEYzaGEzc0FBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTMnRQVmpKbVJWaFJTSFkyWWs1VFQxUlFRV2hrYVcxU1lUUkRTMmh2UmxKSVQzbFpkM0V6YlhWU05uY3lURmhJZDJaTFJ6a3hVVkJLTVVsR1gwbE9WbHBCT0hCblFVNTZjRFJvWlU5cVEwVmxkRWhpWTJGYU5qZDBYM1V3UTFreWNITnNSbk4wY2xsM1IwNDJjbGRFTkZVMmJqQTFlRUp2YmkxQk5YUmpja1ZzTjJOYU5qWVNGMnBpTlRsaGNHMU5UblpwZVcxMGExQnZkV1ZmWjBGVkdpSkJSSE55T1daUldIaE5kVFZRYW1kNVRWRXlZblZVUVZvd2FHRnBMV2RuWVdaMw",
+    "fingerprint": "senior product manager marriott bonvoy mobile app|marriott international inc|-mju2en",
+    "title": "Senior Product Manager – Marriott Bonvoy Mobile App",
+    "company": "Marriott International, Inc",
+    "location": "Bethesda, Maryland",
+    "locations": [
+      "Bethesda, Maryland"
+    ],
+    "remote": false,
+    "posted": "2026-08-12T23:00:00.000Z",
+    "salaryMin": 100000,
+    "salaryMax": 188000,
+    "url": "https://www.indeed.com/viewjob?jk=a9a26348ac78a04c",
+    "source": "Indeed",
+    "score": 29,
+    "reasons": [
+      "Senior/Group title",
+      "AI signal (AI, LLM, RAG)",
+      "Comp disclosed ≥ $175K",
+      "Resume fit ~16%",
+      "Outside target markets"
+    ],
+    "fetchedAt": "2026-08-13T12:54:47.651Z"
+  },
+  {
+    "id": "R2dGb2p6R1VUdVVyNzVISkFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTMWxxUzE5RlJ6Wk9WVUZoUm5SellXMUVYMTh4TldGVE9VeDBVRGsyUlU0eFYyWmpUQzF4WTJONFozZDVaMHR1TFUxcVMwWlBOR3BwTWtwcGVXcFpUbTAzWDNKTGNIRmFla1I2Tm14MFkyZEVUMnBRV2s1SmQwZDFiRTVNWW0wNFpXbEZRbFZTTjJGUFlYaFlhVWRoWm1SV1ZXbEVkMHhHYlVsM05WOVFhVGhUTm10NE5Fb1NGMnBpTlRsaGNHMU5UblpwZVcxMGExQnZkV1ZmWjBGVkdpSkJSSE55T1daU2VqaHdWREo0WDIxVVIyTnBUbFZPYVZFNVUySjNkbGhNUkUxMw",
+    "fingerprint": "senior product manager 5g as a service for government|t mobile|z5kuhk",
+    "title": "Senior Product Manager, 5G As A Service for Government",
+    "company": "T-Mobile",
+    "location": "Herndon, Virginia",
+    "locations": [
+      "Herndon, Virginia"
+    ],
+    "remote": false,
+    "posted": "2026-08-13T03:00:00.000Z",
+    "salaryMin": null,
+    "salaryMax": null,
+    "url": "https://www.linkedin.com/jobs/view/senior-product-manager-5g-as-a-service-for-government-at-t-mobile-4453664082",
+    "source": "LinkedIn",
+    "score": 36,
+    "reasons": [
+      "Senior/Group title",
+      "Positioning fit (platform, operations, network)",
+      "AI signal (AI, RAG)",
+      "Resume fit ~23%",
+      "Outside target markets"
+    ],
+    "fetchedAt": "2026-08-13T12:54:47.650Z"
+  },
+  {
+    "id": "TXNETzlVNDY3Q2k1VDJGSkFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTMjh3VVZoTFNtUXdRa2RXY2tjeVkzRkROR3hhVkRsSFlWWmhVRFJNY2xGTmFFSm1hRzVDU0V4elYwZGZlWFZwZUdKbFgwSkxSelJmVm05SmFISmlYMGt0TTBOeFVEbHZaMlp0WVRCT1dXZGhaVmRRYTJkTWQwMTJlSE5MUlhwUFduSjZkVTgyWDFkcmEzUlVSelJDY0dWNVYzbGlka2R6YVdodWJWSkVRM1ptYlhoVWVGY1NGMmczTlRsaGNHMURTVGR1Ukd0UVNWQXdZMkp6TkVGbkdpSkJSSE55T1daVVZuRTBOWGRuZDNsb1VYQlFaM0V5WkZRemRIZDJTVVpaU3pSMw",
+    "fingerprint": "tech principal product manager|williams sonoma inc|-z6b7n1",
+    "title": "Tech Principal Product Manager",
+    "company": "Williams-Sonoma, Inc.",
+    "location": "Not specified",
+    "locations": [
+      "Not specified"
+    ],
+    "remote": false,
+    "posted": "2026-08-12T20:00:00.000Z",
+    "salaryMin": null,
+    "salaryMax": null,
+    "url": "https://www.linkedin.com/jobs/view/tech-principal-product-manager-at-williams-sonoma-inc-4453372126",
+    "source": "LinkedIn",
+    "score": 24,
+    "reasons": [
+      "Positioning fit (platform, operations, supply)",
+      "AI signal (AI, LLM, machine learning)",
+      "Resume fit ~21%",
+      "Outside target markets"
+    ],
+    "fetchedAt": "2026-08-13T12:54:47.648Z"
+  },
+  {
+    "id": "bnVPdDVyQnZ6WlM3Q3JoZEFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBUSFZLTmtWMmN6VlpTbVJsUVc1WVNWTk5RMGh0YUZNeVNGTkRORGhJT0ZOV2JtUm1Wa0pGTWtSc2MzTklTRXd3WkhkQ1kxbFhjekppZWxKdVVGSTRiR1p0TVZGMFZtSmlha1JrTTFwVFYwMUxPRXBvUkd0VGN5MVhZbnBmU0RObFFXZGZWelZ0U1hWclNHbElkbk5CWDFoaFdubE9SMUJKVjFKSFpXaHJXV2hoU1dGZlNIVVNGMmczTlRsaGNHMURTVGR1Ukd0UVNWQXdZMkp6TkVGbkdpSkJSSE55T1daUmNrTnRWMUZRVlZWSmNFNVpWemxuWlhOeGRWOTRhWEYxTW5obg",
+    "fingerprint": "group product manager generative ai google cloud|google|-cqg4hh",
+    "title": "Group Product Manager, Generative AI, Google Cloud",
+    "company": "Google",
+    "location": "Not specified +1 more",
+    "locations": [
+      "Not specified",
+      "Kirkland, Washington"
+    ],
+    "remote": false,
+    "posted": "2026-08-12T19:00:00.000Z",
+    "salaryMin": null,
+    "salaryMax": null,
+    "url": "https://www.linkedin.com/jobs/view/group-product-manager-generative-ai-google-cloud-at-google-4452734395",
+    "source": "LinkedIn",
+    "score": 95,
+    "reasons": [
+      "Target company (Google)",
+      "Senior/Group title",
+      "Positioning fit (platform, operations, enterprise)",
+      "AI signal (AI, RAG)",
+      "Resume fit ~18%"
+    ],
+    "fetchedAt": "2026-08-13T12:54:47.646Z"
+  },
+  {
+    "id": "ekVwdVNQekIyaDZVWWVDZ0FBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTMXBTT1c1Vk9VaG1OMnhMUlRoMmNsTXpXRkJFYTBWWmNXRjJPVXBTZFc5ckxVbFdiemxKZURKMlJWTXlTRVJmWjBaM2VtdHJTRkZJTXpsQk5qbHFUalJyZGxCaFIzVnVNWHBSYTJabVkyeDNSM1Y2TTNGYWFGUjBkRlp1ZDJzeE1HOHhjVmhKWVRVek5VdFRXRGxKU1doUVIzSk9XR3BMVFZOME9VRkZXazlEU0hSclpYTVNGMmczTlRsaGNHMURTVGR1Ukd0UVNWQXdZMkp6TkVGbkdpSkJSSE55T1daUk5rNVRaSFEzVkhsWlVFeDNOSGhFYkVKM1JWVjBhV1U0UW1GUg",
+    "fingerprint": "product manager remote 80 90 hr|synthires|8jjbno",
+    "title": "Product Manager (Remote | $80 –$90/hr)",
+    "company": "Synthires",
+    "location": "Not specified",
+    "locations": [
+      "Not specified"
+    ],
+    "remote": true,
+    "posted": "2026-08-13T11:00:00.000Z",
+    "salaryMin": 80,
+    "salaryMax": 90,
+    "url": "https://www.linkedin.com/jobs/view/product-manager-remote-%2480-%E2%80%93%2490-hr-at-synthires-4450486526",
+    "source": "LinkedIn",
+    "score": 45,
+    "reasons": [
+      "Positioning fit (platform, operations, enterprise)",
+      "AI signal (AI)",
+      "Resume fit ~21%",
+      "Remote"
+    ],
+    "fetchedAt": "2026-08-13T12:54:47.645Z"
+  },
+  {
+    "id": "LWxZTWVYQm9xVnljTVl6YUFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTVTVPZUcxU2MybFFRbU55YzNZNVQxTjZTMk5mUTNWTGIyd3pVMEpZVEVGV2IxaHJZMjU1ZFdORE5qUkRUazFxVG5wVWNYRnVTRmh6YTNZd1lVRnhUM1JCTFRoUlFqRldXVVZCTkhKQ1IwWnJYelU0ZEdaWk0wSTFSbXRQUm1wV2MwcFRVWGMxY3pGMGNsVmljMjlSWDA5MU1uSkxSMk52ZFhkR1NqRkJNelJvYjBWWlVUY1NGMmczTlRsaGNHMURTVGR1Ukd0UVNWQXdZMkp6TkVGbkdpSkJSSE55T1daUmEzUjRTMVIyYjBkcVUyRnVRbFV5VTNWRWNtbGlaSGhuVkZOMw",
+    "fingerprint": "senior product manager|tract capital management|tjgaz1",
+    "title": "Senior Product Manager",
+    "company": "Tract Capital Management",
+    "location": "Not specified",
+    "locations": [
+      "Not specified"
+    ],
+    "remote": true,
+    "posted": "2026-08-12T19:00:00.000Z",
+    "salaryMin": null,
+    "salaryMax": null,
+    "url": "https://www.linkedin.com/jobs/view/senior-product-manager-at-tract-capital-management-4453355518",
+    "source": "LinkedIn",
+    "score": 61,
+    "reasons": [
+      "Senior/Group title",
+      "Positioning fit (vendor, enterprise)",
+      "AI signal (AI, RAG)",
+      "Resume fit ~17%",
+      "Remote"
+    ],
+    "fetchedAt": "2026-08-13T12:54:47.644Z"
+  },
+  {
     "id": "aHNla3ZDWFd1V1hVanhfeEFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTek41UVZJeVNFdDZWMmRFVm01Q1ozZHNSM04xWTFOa1lqWldSVzlETFcxWWJXeFNZak5rYmkxeE9ESTNjekJKYURGZlNGQnJWRzB6TVZjMlRGQkRSbkIwVWtWTGEyMTBORE5hYlRGTVNtWXlkRjlhYmprdFNGVjJVemR6VTBSUU4xUkdUbmcxU0ZSbFQzSmxjR3BSWVRBMGR6bHFiRFZ4Um1wcGRFdEJaVTVMTVRGb1dWWVNGekF5ZURoaGRrTk9USFJ4TUhGMGMxQXhkRWREYzFGdkdpSkJSSE55T1daVFEzTlVjM2cwZDB4V2JDMWtjR3RLV0cxRE1rc3RlbVZJZDNwMw",
     "fingerprint": "product manager consumer goods manufacturing|paris corporation|-m83cwq",
     "title": "Product Manager-Consumer Goods/Manufacturing",
