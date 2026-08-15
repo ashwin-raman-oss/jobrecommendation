@@ -1,5 +1,253 @@
 [
   {
+    "id": "NnlZeEdaZDJOUjVvQUE1MEFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBURU5CZVRBMGEzbFhUa1pVZFZoSFgydHhha2hCZGpCblVWbEdZbE5yUXpVMVZVdEtNWGd4ZWxGbGRUTm1kVlpSVWtSUk9HSXdRelU1V1RSeVEycHhUVVJ3Y0hsVlgyeFNWR2swUjJoNlUyRXlURmR0YVZoU1lXNVBZMWRxTVZob2FuVm5YMUJ4ZDJOYWVHcHVkek5DWWtKR2RrbHRjVk5TUVVKM1RHVXlkVlo0WkRaSmQzSVNGMDh4Y1VGaGNIbzFUM1ZIYzIxMGExQjFPVFprTkVGakdpSkJSSE55T1daVE1XaExZbWQzYTBvdFRXRk1PRlpJTm14TWJFUnRjbXN6VWxGbg",
+    "fingerprint": "group product manager|pragmatike|3e7uv1",
+    "title": "Group Product Manager",
+    "company": "Pragmatike",
+    "location": "Not specified",
+    "locations": [
+      "Not specified"
+    ],
+    "remote": true,
+    "posted": "2026-08-14T20:00:00.000Z",
+    "salaryMin": null,
+    "salaryMax": null,
+    "url": "https://www.linkedin.com/jobs/view/group-product-manager-at-pragmatike-4454589360",
+    "source": "LinkedIn",
+    "score": 78,
+    "reasons": [
+      "Senior/Group title",
+      "Positioning fit (platform, B2B, operations)",
+      "AI signal (AI, ML, RAG)",
+      "Resume fit ~23%",
+      "Remote"
+    ],
+    "fetchedAt": "2026-08-15T12:23:26.408Z"
+  },
+  {
+    "id": "ZWoyd3NiQ09UVkFTVEFXOUFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBURXc1UWpKbWNHZzBRMHRUVjNNd2JHRmpiekZhUW14VmRuQXhXbXBhYUdwWVgzZGtVRkJqZVVwRWNFZHdUQzFHVTJjellUZGplVzVGVjNBeVgwMVhhV1ZDUkdGc2JtNXBkbGhVYjB3M05UQjBTVE5aTm5CM1VFdGlObHB2WlVaRFZ6RnRVMFphTkZNNGNXNWlORkpVVEdKM1VrbDFabTVZYzJ0WVIzRk9hWFYwWDI1NWRFMFNGMDh4Y1VGaGNIbzFUM1ZIYzIxMGExQjFPVFprTkVGakdpSkJSSE55T1daVWNVeDRkRzVQUWtGRE1UQnJVMlp3TW10V00zUk9WWFZ0ZG5KMw",
+    "fingerprint": "group product manager|chefman chef iq|yoxcb7",
+    "title": "Group Product Manager",
+    "company": "Chefman & CHEF iQ",
+    "location": "Mahwah, New Jersey",
+    "locations": [
+      "Mahwah, New Jersey"
+    ],
+    "remote": false,
+    "posted": "2026-08-14T16:00:00.000Z",
+    "salaryMin": null,
+    "salaryMax": null,
+    "url": "https://www.linkedin.com/jobs/view/group-product-manager-at-chefman-chef-iq-4453708358",
+    "source": "LinkedIn",
+    "score": 13,
+    "reasons": [
+      "Senior/Group title",
+      "AI signal (AI)",
+      "Resume fit ~21%",
+      "Outside target markets"
+    ],
+    "fetchedAt": "2026-08-15T12:23:26.407Z"
+  },
+  {
+    "id": "WmM2R2Rqcko0cjhKbE9Xb0FBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTMHBwV0MwNU9HNDNVVGhtWnkxMVdqZFdOM0V4Um01VGRtaFRZV0ZSWXpOak5UVllOR2t0ZUdjMldqbHZPRVZrU1VWdmJHMWlkM0ptYjNsNE55MTBjVkpJV2xoUlprTTVha3RpYm5GWFFsQk5Zamt0UVV0VE9XOXJiRGxZTjI5T2Exb3hhVEZXU1ZGcFZUQkhSVVpWZDFCU1pWWm1SSFZMUkVoMVRqa3RUSEIzZVROR1JHZ1NGMDR4Y1VGaGRUWnZSM0ZMZW5GMGMxQnFUVWQxYlVFNEdpSkJSSE55T1daVU1WWlNhVkZoZW1rd2VreHZWSGRVTlRKVFNVWXpNVUpuWDJOQg",
+    "fingerprint": "senior product manager trauma 10426 2026437|lifenet health|-u4u0u6",
+    "title": "Senior Product Manager - Trauma (10426-2026437)",
+    "company": "LifeNet Health",
+    "location": "Virginia Beach, Virginia",
+    "locations": [
+      "Virginia Beach, Virginia"
+    ],
+    "remote": false,
+    "posted": "2026-08-14T14:00:00.000Z",
+    "salaryMin": 115356,
+    "salaryMax": 192260,
+    "url": "https://www.linkedin.com/jobs/view/senior-product-manager-trauma-10426-2026437-at-lifenet-health-4453701017",
+    "source": "LinkedIn",
+    "score": 30,
+    "reasons": [
+      "Senior/Group title",
+      "Positioning fit (platform)",
+      "AI signal (AI, RAG)",
+      "Comp disclosed ≥ $175K",
+      "Resume fit ~17%",
+      "Outside target markets"
+    ],
+    "fetchedAt": "2026-08-15T12:23:26.405Z"
+  },
+  {
+    "id": "TUlpY1NoOEY5OEpUbDAzb0FBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTMjVxVDJkUlNWWmtOVkF5UldSVVExOVRaazlEZUdobE5WVlhiakZPUVhRemVsWkpNVkpPVFd4TVZVWnVSMnRmT0hWSU1WQXpRbFE0YWs1MldrdHBkRWN4TkRKbmVWTlZlbmxTZDAxV1FrWmpZVEZVZEc1a2EyZEtNVXcxVkVreVQzZENlbFpSU0c4MVl6aFVXVEp6Y0ZKb1kyaG1iV3QwUVV0T1JuVlhUMFowVDBWMWRVTVNGMDR4Y1VGaGRUWnZSM0ZMZW5GMGMxQnFUVWQxYlVFNEdpSkJSSE55T1daVGFGRTVOMEoyT0VoTGRFWjBjMUY1Y2tsd1VFcGFTR05WT1ZwQg",
+    "fingerprint": "sr product manager i 6704|metrostar|-fojfvw",
+    "title": "Sr. Product Manager I (6704)",
+    "company": "MetroStar",
+    "location": "Reston, Virginia",
+    "locations": [
+      "Reston, Virginia"
+    ],
+    "remote": false,
+    "posted": "2026-08-14T16:00:00.000Z",
+    "salaryMin": null,
+    "salaryMax": null,
+    "url": "https://www.linkedin.com/jobs/view/sr-product-manager-i-6704-at-metrostar-4441570201",
+    "source": "LinkedIn",
+    "score": 27,
+    "reasons": [
+      "Senior/Group title",
+      "Positioning fit (enterprise)",
+      "AI signal (AI, ML, RAG)",
+      "Resume fit ~19%",
+      "Outside target markets"
+    ],
+    "fetchedAt": "2026-08-15T12:23:26.404Z"
+  },
+  {
+    "id": "QWUwdGVpVFlvQllXN0VDakFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBURkEyT0hob1kyTmhWVU5GYmpGbGQycFRSbmR1UTJoa2RrSkZiR1p4TXpCYVZEQnhjSEZsUlVNeVRVVk5UMU55YVVSYVJrSmpVa05GYUVKZk9FUlFPVGsyVGtKR1REbEZXRE01TVhrMFpVRlpWa2h0VVVzeVlUSTJka3QzVFVrMlQzUjRjMmRhUlc5MlJHc3pXamhDT0V4RmQzSlZaR3hvVVRGdVJVaENRbUpEWW0xUGIxUVNGMDR4Y1VGaGRUWnZSM0ZMZW5GMGMxQnFUVWQxYlVFNEdpSkJSSE55T1daU1p6Um5kSGQ0VFRoblNWcDJjbkpOV25obGVGaFVjRFF0YjBsbg",
+    "fingerprint": "senior product manager emerging products 0 1|jerry|-c9xakj",
+    "title": "Senior Product Manager, Emerging Products (0-1)",
+    "company": "Jerry",
+    "location": "Palo Alto, California",
+    "locations": [
+      "Palo Alto, California"
+    ],
+    "remote": false,
+    "posted": "2026-08-14T21:00:00.000Z",
+    "salaryMin": null,
+    "salaryMax": null,
+    "url": "https://www.linkedin.com/jobs/view/senior-product-manager-emerging-products-0-1-at-jerry-4451247698",
+    "source": "LinkedIn",
+    "score": 66,
+    "reasons": [
+      "Senior/Group title",
+      "Positioning fit (marketplace)",
+      "AI signal (AI, agent, RAG)",
+      "Resume fit ~22%",
+      "Priority location (Chicago/Bay Area)"
+    ],
+    "fetchedAt": "2026-08-15T12:23:26.402Z"
+  },
+  {
+    "id": "V1pZR29BQXJ6RGZZbTBNRUFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTbU5tYjIwdFNURklPVjlrUzFVNVRHRXhTbVpzU1ZZd1UwUkRZbmN3VjBGRmVEQmlWMmR0WjAxbk4xOU1jMmwwZUd4MmRIRlNiRVZETWxGVVRuSnFjSFZxZERKdmEzTk1UR3RTVUU1cE9Ia3hVbVp3VG5KS05WZzVielEzYVhFeVVUa3djRFowTUZGeGVYZEVNemxWYWxwMmNtUlJTME4zU0hwWVYzcGpSMk5VUzFKeVVEa1NGMDR4Y1VGaGRUWnZSM0ZMZW5GMGMxQnFUVWQxYlVFNEdpSkJSSE55T1daVVJscFZWMDkxZVVsV1NscHBWMU5DTVRoNWVtOWZhbGxUVEVkQg",
+    "fingerprint": "us senior product manager|blue bottle coffee|bn53ej",
+    "title": "US Senior Product Manager",
+    "company": "Blue Bottle Coffee",
+    "location": "Not specified",
+    "locations": [
+      "Not specified"
+    ],
+    "remote": true,
+    "posted": "2026-08-14T19:00:00.000Z",
+    "salaryMin": null,
+    "salaryMax": null,
+    "url": "https://www.linkedin.com/jobs/view/us-senior-product-manager-at-blue-bottle-coffee-4454569845",
+    "source": "LinkedIn",
+    "score": 62,
+    "reasons": [
+      "Senior/Group title",
+      "Positioning fit (operations, supply)",
+      "AI signal (AI, RAG)",
+      "Resume fit ~17%",
+      "Remote"
+    ],
+    "fetchedAt": "2026-08-15T12:23:26.401Z"
+  },
+  {
+    "id": "bU55UzhkbzNCbzZPZGlPaEFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTbHBCTjFCSlYyUlJVM0JQUldRMllqVmhOekpoV2xZNE5WOXlRMU4xY1VOd09EaGtaVFV6TTJOQmRTMXVhRU5KVjBGRmRXeHFTMnBEZEVwc01VOU5hMnRvVFRoNFgwNXJXVlp3YW5KV2NFWTNSREYwYkZsck1tOWpZa0kzVDNsSWJUTnZWMUpCYWpWU2QzWTRZVlZmVlVObWQzWkpRbEpXTlRReVl6WTJZbTltV1dsaVdVWVNGMDB4Y1VGaGRFaEtTWEZ4TVhGMGMxQjBUREpXZVZGVkdpSkJSSE55T1daVFREZDNWa296UW1oclNFaHdSMHhNWDBabWFqTkhhRFp5UzFwMw",
+    "fingerprint": "aftermarket drivetrain product manager|mack trucks|-5gwbrx",
+    "title": "Aftermarket Drivetrain Product Manager",
+    "company": "Mack Trucks",
+    "location": "Advance, North Carolina",
+    "locations": [
+      "Advance, North Carolina"
+    ],
+    "remote": false,
+    "posted": "2026-08-14T22:00:00.000Z",
+    "salaryMin": null,
+    "salaryMax": null,
+    "url": "https://www.linkedin.com/jobs/view/aftermarket-drivetrain-product-manager-at-mack-trucks-4454820109",
+    "source": "LinkedIn",
+    "score": 3,
+    "reasons": [
+      "Positioning fit (supply)",
+      "AI signal (AI)",
+      "Resume fit ~20%",
+      "Outside target markets"
+    ],
+    "fetchedAt": "2026-08-15T12:23:26.399Z"
+  },
+  {
+    "id": "X1RuMFlCRHFTMnVLMzdWc0FBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTVTQ0WDBoeldYVXhPVmxVZWtSbFEwVnRTbTFzVFhVeVVHNUJiRVEyZEhwdWNuRTViR2RsVDFsV05pMWxkbGM1U2pGVFRFZFNPVmd6YkRFMWMzTTJVVXQ1YlV0cVNuWmFNMVJaVkdoM1puaDRkMWxFVEdneE5XRnRlbGxXV0UxWk1HaEVkMVZ2YlhObVUwMWFiMUpRWlZkWFRWYzNZbloyZG0xdFl6bGtRemhvUWpnMGVVd1NGMDB4Y1VGaGRFaEtTWEZ4TVhGMGMxQjBUREpXZVZGVkdpSkJSSE55T1daU2JtRmlTVlJyVFdKNVdVNUlaMHRzUVdveVozWlpVSGh3YVVobg",
+    "fingerprint": "product manager link consumer|stripe|-8og99i",
+    "title": "Product Manager, Link - Consumer",
+    "company": "Stripe",
+    "location": "New York, New York",
+    "locations": [
+      "New York, New York"
+    ],
+    "remote": false,
+    "posted": "2026-08-14T14:00:00.000Z",
+    "salaryMin": null,
+    "salaryMax": null,
+    "url": "https://www.linkedin.com/jobs/view/product-manager-link-consumer-at-stripe-4454541357",
+    "source": "LinkedIn",
+    "score": 91,
+    "reasons": [
+      "Target company (Stripe)",
+      "Positioning fit (platform, operations, network)",
+      "AI signal (AI, agent, RAG)",
+      "Resume fit ~17%",
+      "Visibility location"
+    ],
+    "fetchedAt": "2026-08-15T12:23:26.398Z"
+  },
+  {
+    "id": "UW12UDBrd3BiamVCZjdpYkFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTMlpmZFVVNVNIZHBlalJmVGtwcFNrRlpkV3BuUldSV1FqZHlhelF6VjNWbmVrZDVNV1paTVhWWWFtTlVjR3g0TFdzME9GaElWRlZ6VGtSd1F6ZEtUMnd4UjBFdGVVWlVaVXc0TURKWWJuVmFZbkJzZGtjM1ZraHpiMWw1TVVGYVpFSkpXR280V21WQ1RGUnhZV1paY2pGMFJYTTFORWx2VjA1MlZUWTVXRE5wU21acFFWTVNGMDB4Y1VGaGRFaEtTWEZ4TVhGMGMxQjBUREpXZVZGVkdpSkJSSE55T1daVFRrOHhhakZ6V2pSUk5XSlhhRk01UWtoYVRWVklNbXAwTTJKQg",
+    "fingerprint": "product manager engagement remote 100k 200k yr inc equity|aios yc w20 s21|-lmegvx",
+    "title": "Product Manager - Engagement — Remote, $100k-200k/yr inc equity",
+    "company": "AIOS (YC W20/S21)",
+    "location": "Not specified",
+    "locations": [
+      "Not specified"
+    ],
+    "remote": true,
+    "posted": "2026-08-14T20:00:00.000Z",
+    "salaryMin": 100000,
+    "salaryMax": 200000,
+    "url": "https://www.indeed.com/viewjob?jk=30885c38e77be275",
+    "source": "Indeed",
+    "score": 54,
+    "reasons": [
+      "Positioning fit (network)",
+      "AI signal (AI, RAG)",
+      "Comp disclosed ≥ $175K",
+      "Resume fit ~19%",
+      "Remote"
+    ],
+    "fetchedAt": "2026-08-15T12:23:26.396Z"
+  },
+  {
+    "id": "U0M5RUJwSVNpU0V6Uy15SUFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTV0Z3U0d0VFRqQjBZbTlDU0VGQmNXaG5kRW96YlhscU9UWkRRMVZLVEhZeVFtVjNkSFU1VFRGMU9XMW1OR3RXWkhVd1UzaDFNM1poVDFoM1NHZHJlWGxRWVdKMFRHWndNamswTkRsUVpXVlNSa2QzVUU1c09HUjFRbnAxV21VeGMyRXRXa2RsU0dkdFdVMDRTMmgzVURsUmFHeE5UMnhqVUdSZk5rOXRTelUxTjFOcFRVb1NGMDB4Y1VGaGRFaEtTWEZ4TVhGMGMxQjBUREpXZVZGVkdpSkJSSE55T1daUmJIZEdTVjlpTFhSTVkzTmpOMko1YTBsRlNESk9aWHBOWDBkbg",
+    "fingerprint": "product manager engagement remote 100k 200k yr inc equity|aios|-3xihwx",
+    "title": "Product Manager - Engagement  — Remote, $100k-200k/yr inc equity",
+    "company": "AIOS",
+    "location": "Not specified",
+    "locations": [
+      "Not specified"
+    ],
+    "remote": true,
+    "posted": "2026-08-14T20:00:00.000Z",
+    "salaryMin": null,
+    "salaryMax": null,
+    "url": "https://www.linkedin.com/jobs/view/product-manager-engagement-%E2%80%94-remote-%24100k-200k-yr-inc-equity-at-aios-4454582605",
+    "source": "LinkedIn",
+    "score": 44,
+    "reasons": [
+      "Positioning fit (network)",
+      "AI signal (AI, RAG)",
+      "Resume fit ~19%",
+      "Remote"
+    ],
+    "fetchedAt": "2026-08-15T12:23:26.394Z"
+  },
+  {
     "id": "V0phVjdSYUhZRlg2a013c0FBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTMlJqWDJwVlUwVmhPVTR6WVRVelQyUTBSMm8yUlRaME1tbEdaV3RJVUhRd1dVZERTMkZDV2toa1JGZFVRVnBoUTNRM1JHMVBhR3RSYzB0bFN6VjJOeTFXWldSSWMxaFNURTVrU1VSS1JWTjRaVEpvY0RKZk1HdEVlREpsYlhFdGMxZE9lVzlpZUhCWk0weGpSVzB4UjBsMU5qbGFjMGRuVmt0bGRVSjNNMjVRU0cxWGVXNFNGMFJCT1Y5aGMycG1SR1UyVDNWeU9GQTNUM3BLYzFGWkdpSkJSSE55T1daU1VuVXlTSEZqU0RKMVdGSnhVMHgxU2xkVU9YcFFjbGhVT1VSUg",
     "fingerprint": "group product manager ai agent security and authorization|google|xs5u12",
     "title": "Group Product Manager, AI Agent Security and Authorization",
