@@ -1,5 +1,200 @@
 [
   {
+    "id": "ZElod3pteWdKUE5jVDBBakFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBURjgwTW1ONVdUSTNWR1UxVkU5aVIxTnVPWE5QU0V4WWNrWk5TSEpUWXpoNmVFSmhTVUV5UzJaT1ltMXVkbWd0YVVWcmIwRmFUV1JCY0ZOTU5XNDJkMmx4WDB0c05XSm5RbU5ZZWxGNVFYRmZWMDF3V0c0eWFXdFpUamhIT1c5UkxWZHRVVVJ0VWxCelgySTRUbE50VHpkVWR6UmhVWG96WWtSbFZYSXhkRmQzWlhnMWNWUVNGMHB4ZVVKaGMzcEVRbkpIWlRGelVWQnZYMjFVZFZFMEdpSkJSSE55T1daUldWTnZheTE0Vm5OaFIwVmFWSGN0VFRWRFlreDFibWw2TlhKUg",
+    "fingerprint": "prospecting product manager lead remote|y axis global|kzzn42",
+    "title": "Prospecting Product Manager Lead (Remote)",
+    "company": "Y-axis Global",
+    "location": "Not specified",
+    "locations": [
+      "Not specified"
+    ],
+    "remote": true,
+    "posted": "2026-08-16T11:00:00.000Z",
+    "salaryMin": null,
+    "salaryMax": null,
+    "url": "https://www.linkedin.com/jobs/view/prospecting-product-manager-lead-remote-at-y-axis-global-4455202018",
+    "source": "LinkedIn",
+    "score": 58,
+    "reasons": [
+      "Positioning fit (platform, B2B, operations)",
+      "AI signal (AI, ML, RAG)",
+      "Resume fit ~18%",
+      "Remote"
+    ],
+    "fetchedAt": "2026-08-16T12:25:14.620Z"
+  },
+  {
+    "id": "YmhBZ2YtOUVEM0xBSlY5cEFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTemxrUlhwM09VTkZWa3htVFVrelFVUjFkMFZYZWxORk1GazJURXh5WDJsNGFEaDRaRlZUTWxOTFNHcFhSM2xoYUhSaE4xOW5RakJvVURsUWMxQkdOMjFIWVZOQlQyVm1iV013YTJGcWNHeHFkV3hXUmtsNmNXbGtYM0ZHVjNRMk5XZE9Tamh6VDBjMGQyOU9ObTh4WTJ4NE0xZGpWWEIyVUhscmFtNXNVRGhsU1daalZXMFNGMHB4ZVVKaGMzcEVRbkpIWlRGelVWQnZYMjFVZFZFMEdpSkJSSE55T1daU1NGRXROemxGTjBGd2ExZFRUbXRsWjBadlZsZE1ZMVpEYjNwUg",
+    "fingerprint": "technical product manager identity access management|booking com|-ltd13e",
+    "title": "Technical Product Manager - Identity Access Management",
+    "company": "Booking.com",
+    "location": "Washington, District of Columbia",
+    "locations": [
+      "Washington, District of Columbia"
+    ],
+    "remote": false,
+    "posted": "2026-08-16T09:00:00.000Z",
+    "salaryMin": null,
+    "salaryMax": null,
+    "url": "https://www.linkedin.com/jobs/view/technical-product-manager-identity-access-management-at-booking-com-4424807906",
+    "source": "LinkedIn",
+    "score": 30,
+    "reasons": [
+      "Positioning fit (platform, enterprise)",
+      "AI signal (AI, machine learning, ML)",
+      "Resume fit ~32%",
+      "Outside target markets"
+    ],
+    "fetchedAt": "2026-08-16T12:25:14.619Z"
+  },
+  {
+    "id": "QV9zU1dIQ0ZlbVoxQWR4Z0FBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTbU5SWjNNMWRuSnVSRWh2ZUY5MFExcEdaVlYwVEV0dVZYRkxUSEJ6YjJsdWVuZHhXRzFEV2pOSFIzUTBkalZpTkY5MFFrNU5NMGxDZDBKWFpXZ3dUMnRXVUU5SVIwNWlWbXBuUVhCU1dVcHpla1JuVkRKdVZrdHBhblpYYVZWbGJsUlRRV3RIY0d3MWVGRlRka0pyU0RWTWVGSkxObE0xZGsxMFNXMTVOVTVxWmpoU1R6QVNGMGxoZVVKaGRHbGxUWEUyZG5CMFVWQm5USEZ3TWxFNEdpSkJSSE55T1daVVRHNDNkVk5CTVhvMVZtbzVUbGg2VEV4R2Nra3RPVUp1VjBoQg",
+    "fingerprint": "sr product manager pulse ox|masimo|-rdzqmn",
+    "title": "Sr Product Manager, Pulse Ox",
+    "company": "Masimo",
+    "location": "Irvine, California",
+    "locations": [
+      "Irvine, California"
+    ],
+    "remote": false,
+    "posted": "2026-08-15T18:00:00.000Z",
+    "salaryMin": null,
+    "salaryMax": null,
+    "url": "https://www.linkedin.com/jobs/view/sr-product-manager-pulse-ox-at-masimo-4407893242",
+    "source": "LinkedIn",
+    "score": -9,
+    "reasons": [
+      "AI signal (AI)",
+      "Resume fit ~14%",
+      "Outside target markets"
+    ],
+    "fetchedAt": "2026-08-16T12:25:14.617Z"
+  },
+  {
+    "id": "MGNyUjh2SDB2NzZlZjVqR0FBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBURzVFZUU1b1RYcGxWVEJ1ZFUxSVJVcExRV05NYm1sa1puVlVRa3cwTnpOaFlXcFJWVUZhTmt0dU0zUXdUWFJVUTBobmFuVm1TbXQ1WmxObFVtOHhlbTk2UWkxNVRWOXhORzlXU0dwSFZXVXhWbHB1V21kSGMzWjFhSEk1TkVaeGMzRkJXVU5ZTjBWbExWZEtRVkZVZGtkTE5WSkNlbEpJUlVad00ybHBRVjlqWkUxT1QyOFNGMGxoZVVKaGRHbGxUWEUyZG5CMFVWQm5USEZ3TWxFNEdpSkJSSE55T1daU00xUmZhMmt4ZEd0MGJucFJMWGQwTkZsalVrSnpTak5oWkVOUg",
+    "fingerprint": "sr payments product manager|relx|4akei6",
+    "title": "Sr. Payments Product Manager",
+    "company": "RELX",
+    "location": "Homeland, Florida",
+    "locations": [
+      "Homeland, Florida"
+    ],
+    "remote": false,
+    "posted": "2026-08-16T00:00:00.000Z",
+    "salaryMin": 105000,
+    "salaryMax": 175000,
+    "url": "https://builtin.com/job/sr-payments-product-manager/10296088",
+    "source": "Built In",
+    "score": 44,
+    "reasons": [
+      "Senior/Group title",
+      "Positioning fit (platform, operations, network)",
+      "AI signal (AI, RAG)",
+      "Comp disclosed ≥ $175K",
+      "Resume fit ~22%",
+      "Outside target markets"
+    ],
+    "fetchedAt": "2026-08-16T12:25:14.616Z"
+  },
+  {
+    "id": "aTFpcGxuS1M0aFQwd1l2SkFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBURk41VW5oMlpuQlNTWG93Y0RSMFpHeE5RbmhUY1hoTllTMWZkWFZhTUdvdGFHOUpRa3c1VFdsbFYzb3pSWGRUTWpVNFYyZFBXR2hDWWtOWVoxWkVOblZqY0d4b2FGbFhaVlJYY20wMmFWVkVabXBtTkMxRk1uWk5TMDQyVVU4Mk1FNWxPSGxXV0VoRlUxaFFUVXhqWjNsU2FtMVNZbU5PWjJWQ1UycFphR293VFVwdU4wNFNGMGhMZVVKaGRuWkNSMkkzYzIxTVVWQTVVRzUxTkZGSkdpSkJSSE55T1daVFlUSkpjbEE1ZEVaZmFuWlJkekpKYlcxSlRVaHZlakEwYmtObg",
+    "fingerprint": "sr product manager tech global energy power generation solutions|amazon web services aws|cdzn7k",
+    "title": "Sr. Product Manager - Tech, Global Energy, Power Generation Solutions",
+    "company": "Amazon Web Services (AWS)",
+    "location": "Arlington, Virginia",
+    "locations": [
+      "Arlington, Virginia"
+    ],
+    "remote": false,
+    "posted": "2026-08-15T14:00:00.000Z",
+    "salaryMin": null,
+    "salaryMax": null,
+    "url": "https://www.linkedin.com/jobs/view/sr-product-manager-tech-global-energy-power-generation-solutions-at-amazon-web-services-aws-4443057069",
+    "source": "LinkedIn",
+    "score": 100,
+    "reasons": [
+      "Target company (Amazon)",
+      "Senior/Group title",
+      "Positioning fit (platform, B2B, operations)",
+      "AI signal (AI, RAG)",
+      "Resume fit ~23%"
+    ],
+    "fetchedAt": "2026-08-16T12:25:14.614Z"
+  },
+  {
+    "id": "R1JESGdVMzBzaVVBdEZ1bkFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBURzluTnkxUGEyTjFNRmxFY3pSS09UZEhRbU55YTNCR1gwTkJTbkozZEhRM01IQlZRMlp6ZWtSclRUVk9aRkp4UzJ0cGEzVmtYMXB0V20wNGJqSnNXbVZEUTBZNU9XOUJhRnBrZW5CM1ZETlNjM1JaT0dWS0xUZE1iMWx5VWtFMloyaG5OVFJRUXpCaUxYQlhXV1pGWnpSdU5EVk9ValI2WjJWVGNUVlRiazVoUWtKdVYyRVNGMGhMZVVKaGRuWkNSMkkzYzIxTVVWQTVVRzUxTkZGSkdpSkJSSE55T1daVWREQlJiVWxKTTJoUlN6UTBWMU5uVWxaSFZIcEZOVUZFWHpGQg",
+    "fingerprint": "product manager agentic operations|netapp|b9venf",
+    "title": "Product Manager, Agentic Operations",
+    "company": "NetApp",
+    "location": "Morrisville, North Carolina",
+    "locations": [
+      "Morrisville, North Carolina"
+    ],
+    "remote": false,
+    "posted": "2026-08-15T14:00:00.000Z",
+    "salaryMin": null,
+    "salaryMax": null,
+    "url": "https://www.linkedin.com/jobs/view/product-manager-agentic-operations-at-netapp-4451737352",
+    "source": "LinkedIn",
+    "score": 23,
+    "reasons": [
+      "Positioning fit (platform, operations, enterprise)",
+      "AI signal (AI, LLM, ML)",
+      "Resume fit ~21%",
+      "Outside target markets"
+    ],
+    "fetchedAt": "2026-08-16T12:25:14.613Z"
+  },
+  {
+    "id": "aU5ZOHdCT3dyaW9xNGdYS0FBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBURVpJWVZSTlEzVlJVR2hWWkhac1FYb3RTbVZMVjFkVmNIa3laSE5wZFRCVmJHRnJlSFJVY2xwelRVNUtUSGxLVGpGWmNFVmZYMHRyZVVaUGRuZFlhVkpUT0hSbVIyOWxORkZoZVRKMVN6UTFUekJSUlVGMlRrNU9kVmcxTTJreGJVeGtSbVY2TW10SU0wOUlNRVZUY1c1VlFrNDRlamwwV2pWdE5IZElRVE5sVjBWM1drY1NGMGhMZVVKaGRuWkNSMkkzYzIxTVVWQTVVRzUxTkZGSkdpSkJSSE55T1daVE9HNW9WVjlITjBJelJVWXlPRGs1VlZjMk9TMTBja2xSYlcxbg",
+    "fingerprint": "digital technical product manager senior new member onboarding|usaa|-9d0mn8",
+    "title": "Digital/Technical Product Manager Senior – New Member Onboarding",
+    "company": "USAA",
+    "location": "Charlotte, North Carolina",
+    "locations": [
+      "Charlotte, North Carolina"
+    ],
+    "remote": false,
+    "posted": "2026-08-15T20:00:00.000Z",
+    "salaryMin": null,
+    "salaryMax": null,
+    "url": "https://www.linkedin.com/jobs/view/digital-technical-product-manager-senior-%E2%80%93-new-member-onboarding-at-usaa-4451733829",
+    "source": "LinkedIn",
+    "score": 25,
+    "reasons": [
+      "Senior/Group title",
+      "Positioning fit (platform)",
+      "AI signal (AI, ML, RAG)",
+      "Resume fit ~18%",
+      "Outside target markets"
+    ],
+    "fetchedAt": "2026-08-16T12:25:14.611Z"
+  },
+  {
+    "id": "Ni10c2JtcmZLYTFjc2dsX0FBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTM1pMTlhaSk5uWTRSRkZoTVZOVmR6WlNOVzltTUdkME9VaG9UR2xqYldKUlRHTTBhMEpmTFhkWU9IZExkVEpaVFhWSGF6aDZkalZ3TmpKSVQydGFWa3RaUkVKdFMxUnVOMDFhZGtJNGExODRhelV4YlhGQ01sZGZiSGhUYmtoSE16TktRVWRNY21zNWRrSlZOREZmYUdoclNIRTVkMjVEYlhacVJsWXdOMlJ2UXpWSlVrY1NGMGhMZVVKaGRuWkNSMkkzYzIxTVVWQTVVRzUxTkZGSkdpSkJSSE55T1daU1puTkZiVmxGVDB4VVRsVndlbkpVTUVkWVdEVmtlRTVoU25sbg",
+    "fingerprint": "digital technical product manager i new member onboarding|usaa|8eezvr",
+    "title": "Digital/Technical Product Manager I – New Member Onboarding",
+    "company": "USAA",
+    "location": "Colorado Springs, Colorado",
+    "locations": [
+      "Colorado Springs, Colorado"
+    ],
+    "remote": false,
+    "posted": "2026-08-15T20:00:00.000Z",
+    "salaryMin": null,
+    "salaryMax": null,
+    "url": "https://www.linkedin.com/jobs/view/digital-technical-product-manager-i-%E2%80%93-new-member-onboarding-at-usaa-4451739835",
+    "source": "LinkedIn",
+    "score": 9,
+    "reasons": [
+      "Positioning fit (platform)",
+      "AI signal (AI, ML, RAG)",
+      "Resume fit ~17%",
+      "Outside target markets"
+    ],
+    "fetchedAt": "2026-08-16T12:25:14.609Z"
+  },
+  {
     "id": "NnlZeEdaZDJOUjVvQUE1MEFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBURU5CZVRBMGEzbFhUa1pVZFZoSFgydHhha2hCZGpCblVWbEdZbE5yUXpVMVZVdEtNWGd4ZWxGbGRUTm1kVlpSVWtSUk9HSXdRelU1V1RSeVEycHhUVVJ3Y0hsVlgyeFNWR2swUjJoNlUyRXlURmR0YVZoU1lXNVBZMWRxTVZob2FuVm5YMUJ4ZDJOYWVHcHVkek5DWWtKR2RrbHRjVk5TUVVKM1RHVXlkVlo0WkRaSmQzSVNGMDh4Y1VGaGNIbzFUM1ZIYzIxMGExQjFPVFprTkVGakdpSkJSSE55T1daVE1XaExZbWQzYTBvdFRXRk1PRlpJTm14TWJFUnRjbXN6VWxGbg",
     "fingerprint": "group product manager|pragmatike|3e7uv1",
     "title": "Group Product Manager",
