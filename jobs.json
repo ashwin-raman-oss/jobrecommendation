@@ -1,5 +1,224 @@
 [
   {
+    "id": "blVQRHo5VkhlR1pEWVJIOEFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTWFprVHpnMGMzUTJhWFU1YldkeFNsWlhXazB3ZDJ4T2RUTnZaRzlOTXpaak5rTjBaMlJvVUVWVWVHcFhOVXRwUkVnd1FreEpUbTl6TjNCeFVqaDZYMTlNVG5aeVJrSTRXWEpoUzFaTVl6aHlUMjV0UkhobloyRnVOR2w1UlMxYWVubHRhV3Q2YUZRM2J6aE9helZDUkRkdVIwTjRXRGhNWjJSRWEzSTJkMmhZVUVveWFIQVNGMFphVjBwaGMxOTNTWEZFU1d0UVNWQTJZMGN4Y1VGRkdpSkJSSE55T1daUmJYTkdRMkl6YlhrelVqUkpUMVJXTWs5NVJIQjVVelkwTjB0Qg",
+    "fingerprint": "group product manager u s growth|yolo investments|-e3ldt7",
+    "title": "Group Product Manager - U.S. Growth",
+    "company": "Yolo Investments",
+    "location": "San Mateo, California",
+    "locations": [
+      "San Mateo, California"
+    ],
+    "remote": false,
+    "posted": "2026-08-22T08:00:00.000Z",
+    "salaryMin": null,
+    "salaryMax": null,
+    "url": "https://www.linkedin.com/jobs/view/group-product-manager-u-s-growth-at-yolo-investments-4457807065",
+    "source": "LinkedIn",
+    "score": 33,
+    "reasons": [
+      "Senior/Group title",
+      "Positioning fit (platform, enterprise)",
+      "AI signal (AI, ML, agent)",
+      "Resume fit ~20%",
+      "Outside target markets"
+    ],
+    "fetchedAt": "2026-08-22T12:24:56.837Z"
+  },
+  {
+    "id": "Y3hUU2lHMy1ZakFlc05zb0FBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTMDk2VUhsQ1gwMVBia1ZmWVhOaVVqUXROWFZ4TlhKelkxVlJWM2hvTUhWNGREbEhVbG8yVVhwb1ZVMTZXbnBLTVdnM1ZYVlZRVk5SYkVKaVZHZGxUM001TUU5NFducGlUVGRMV0RJdFkxOWZabEJGWmtSc1V6bHlUV3hUUjBSVWJHYzViWEU0WDFKa1drSmlXRlZXY1djMVFWVmpaMjVIT0hoaFVtaEhTbXBRZUVrMVRFTVNGME0xVjBwaGNYWjRSRWxxUVd0UVNWQXRkRjgxYlVGekdpSkJSSE55T1daVFZFTmZVakJKTjJ4SGRYRjZVekZ5T0U5U2JuUkZNREJEU21KUg",
+    "fingerprint": "senior product manager forward deployed|epicor|-4ka6w",
+    "title": "Senior Product Manager | Forward Deployed",
+    "company": "Epicor",
+    "location": "US",
+    "locations": [
+      "US"
+    ],
+    "remote": false,
+    "posted": "2026-08-21T15:00:00.000Z",
+    "salaryMin": null,
+    "salaryMax": null,
+    "url": "https://www.linkedin.com/jobs/view/senior-product-manager-forward-deployed-at-epicor-4430150000",
+    "source": "LinkedIn",
+    "score": 40,
+    "reasons": [
+      "Senior/Group title",
+      "Positioning fit (platform, supply, enterprise)",
+      "AI signal (AI, LLM, ML)",
+      "Resume fit ~23%",
+      "Outside target markets"
+    ],
+    "fetchedAt": "2026-08-22T12:24:56.834Z"
+  },
+  {
+    "id": "cFdfUVZCc3V3UTE2Y3VnckFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTMDVmWm1SaVFWSm1RVWRaV25kUU1EZE5XVkp2VFUxdE5tOHhhV1ptUzA1V01UbHZlbFJ2UzJwdmNWVnZXbXRrV0VwNlgxUkVVMmxSTUhoemJFNXRablUwTTBNM1ExUnRXVnBCUmpGNloyMUxOa1pXVDNCT1J6aEZZMFJoTjFCVldFZHlVek5YYTBwZk4wdHlZbGs0ZUc5QmJWUlJNR1YyYlVoclFtcGphakJqY25SaFpGUVNGME0xVjBwaGNYWjRSRWxxUVd0UVNWQXRkRjgxYlVGekdpSkJSSE55T1daUmVHbGhNMWRYWkdOcGJYRlVhVUpxV0dsMFFVeEtUVFUxWkhGQg",
+    "fingerprint": "senior product manager agentic ai|jerry|-wqaft9",
+    "title": "Senior Product Manager, Agentic AI",
+    "company": "Jerry",
+    "location": "Not specified",
+    "locations": [
+      "Not specified"
+    ],
+    "remote": true,
+    "posted": "2026-08-21T19:00:00.000Z",
+    "salaryMin": null,
+    "salaryMax": null,
+    "url": "https://www.linkedin.com/jobs/view/senior-product-manager-agentic-ai-at-jerry-4454658629",
+    "source": "LinkedIn",
+    "score": 76,
+    "reasons": [
+      "Senior/Group title",
+      "Positioning fit (marketplace, platform, workflow automation)",
+      "AI signal (AI, LLM, GPT)",
+      "Resume fit ~22%",
+      "Remote"
+    ],
+    "fetchedAt": "2026-08-22T12:24:56.833Z"
+  },
+  {
+    "id": "RlZfUDQydWw2dlZxQTgxQkFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTbE01Y2xGVmRFbHlaM0pMTmxrMU9IQmtPRGR0ZW1jNE16SldORWRDVGs1QlVVNU9MVEo2ZUhOWFNGRldNRzlPVDIxNU4xWTBjbHBpVG1ZdFNFWmhaR2hUUTFvMFZHTm9PVU5OVERkNWJrcFVSV3B1WVcxcGVHODRjR2gzV25GeGRVaFlNazFQU1dsUE5GRmZYMXBoVmpodFdXdDVNVU5CVldGaVowcFdZbEZMZFhSVWJUWVNGMEZLVjBwaGNVTTRUelJRUzJ0UVNWQnBMWGxGY1VGdkdpSkJSSE55T1daVE5IRkRYMmxPT0Rsc00waG1NVEJOZDFwZlMyZHVObmhTUzNCQg",
+    "fingerprint": "staff product manager|orion|j49czd",
+    "title": "Staff Product Manager",
+    "company": "Orion",
+    "location": "Philadelphia, Pennsylvania",
+    "locations": [
+      "Philadelphia, Pennsylvania"
+    ],
+    "remote": false,
+    "posted": "2026-08-21T22:00:00.000Z",
+    "salaryMin": null,
+    "salaryMax": null,
+    "url": "https://www.linkedin.com/jobs/view/staff-product-manager-at-orion-4456281547",
+    "source": "LinkedIn",
+    "score": 14,
+    "reasons": [
+      "Positioning fit (platform)",
+      "AI signal (AI, LLM, GPT)",
+      "Resume fit ~21%",
+      "Outside target markets"
+    ],
+    "fetchedAt": "2026-08-22T12:24:56.832Z"
+  },
+  {
+    "id": "Qy1qZXhlR3BLWkhuUzJDUUFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTbmRTU2tNNWNsaEZPVVpMZVdGcmFGQktZMFo0Vm1vM1JFWlVNbVIwU1ZFeU9XNUJkMUU1UkVseFlYTXdPVWhzTTNoelUweDFabUpyVlVSbVMxVTBlWFZhWTE5dlh6UlpiSEpxVUVsb1gzUkJUVEZhVHpVeWJsQmhkMlJrVUcxemMyMUhkRkphY1hsYVprRnFRVWd6VjJsRmNrWkNSelk1VUZsbmQxQmZhblV3V1Y4eGJYb1NGMEZLVjBwaGNVTTRUelJRUzJ0UVNWQnBMWGxGY1VGdkdpSkJSSE55T1daU1UyVXpVRVJRVVUxR05sQk5kV3M1VFV0MWFVeDVWakowWlU5Mw",
+    "fingerprint": "lead product manager graph solutions|finra|n2ug1a",
+    "title": "Lead Product Manager: Graph Solutions",
+    "company": "FINRA",
+    "location": "Tysons, Virginia",
+    "locations": [
+      "Tysons, Virginia"
+    ],
+    "remote": false,
+    "posted": "2026-08-21T23:00:00.000Z",
+    "salaryMin": null,
+    "salaryMax": null,
+    "url": "https://www.linkedin.com/jobs/view/lead-product-manager-graph-solutions-at-finra-4457518956",
+    "source": "LinkedIn",
+    "score": 17,
+    "reasons": [
+      "Positioning fit (platform, operations, network)",
+      "AI signal (AI, RAG)",
+      "Resume fit ~19%",
+      "Outside target markets"
+    ],
+    "fetchedAt": "2026-08-22T12:24:56.830Z"
+  },
+  {
+    "id": "bnpzSzRQSmFOY3pVODJpMUFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBUSGw0TkdkbWQzRjFiMWN5VkdOTVRVWlFkRUl4Y0ZBM01FRlBXV3BMUjBsQ1FXdElWMFZ2VVcwdE9HSTRjMlpsUkc1eFIwSjNPVWMyY1ZvM1VXcFFjVEpuYTFkaGEwTTBVaTFPTTE5c1lWQkVkblEzUTNaNlREbE9aR3hvVjBKU1pYRjJNMDVWTTNaTlZWcEhPSFkwZEdRMmFFUnZORk5ZTUdONlJEWnVha1JtYW1RNUxWQVNGMEZLVjBwaGNVTTRUelJRUzJ0UVNWQnBMWGxGY1VGdkdpSkJSSE55T1daUlJsZHRNMEZIVlVoaGVucFlNR2RvTUdORVpXdzBTMjVNUTJkUg",
+    "fingerprint": "product manager|o2 technologies inc|-kyrut6",
+    "title": "Product Manager",
+    "company": "O2 Technologies,Inc",
+    "location": "Not specified",
+    "locations": [
+      "Not specified"
+    ],
+    "remote": true,
+    "posted": "2026-08-21T17:00:00.000Z",
+    "salaryMin": null,
+    "salaryMax": null,
+    "url": "https://www.linkedin.com/jobs/view/product-manager-at-o2-technologies-inc-4457361834",
+    "source": "LinkedIn",
+    "score": 36,
+    "reasons": [
+      "Positioning fit (vendor)",
+      "AI signal (AI)",
+      "Resume fit ~16%",
+      "Remote"
+    ],
+    "fetchedAt": "2026-08-22T12:24:56.830Z"
+  },
+  {
+    "id": "X1BhRTVYQzNPQUVfdjJYREFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTMWR4TkZsMVRtWTVSV0pNYW1wU1FUZDRRbXc0UzNJMk0zbzFkMGczVmpGYVlWVmhWR052VWpGUFdURkhTR0pZTjNwRGNFTjJaR1paYTJocVVWOUROVll6T0ZwSFgwWjBOMmMxU0dGRFJYZDRiME42YUdOaVluaEJNWGxPVG5ORFlYaHBkRmRSV0doRlgzWjBabXRoVUdneFYzQkJNV0ZHVjNoM2NuZHRTV2RyWnpWME1VOFNGMEZLVjBwaGNVTTRUelJRUzJ0UVNWQnBMWGxGY1VGdkdpSkJSSE55T1daUmRsUndTRE56TFU1NVVFMUhRVUZRU1RCeFVIVkpRWFZwUnpkQg",
+    "fingerprint": "associate product manager cybersecurity|volexity|7pfack",
+    "title": "Associate Product Manager - Cybersecurity",
+    "company": "Volexity",
+    "location": "Not specified",
+    "locations": [
+      "Not specified"
+    ],
+    "remote": true,
+    "posted": "2026-08-21T23:00:00.000Z",
+    "salaryMin": null,
+    "salaryMax": null,
+    "url": "https://www.linkedin.com/jobs/view/associate-product-manager-cybersecurity-at-volexity-4454677273",
+    "source": "LinkedIn",
+    "score": 44,
+    "reasons": [
+      "Positioning fit (operations, network, enterprise)",
+      "AI signal (AI)",
+      "Resume fit ~15%",
+      "Remote"
+    ],
+    "fetchedAt": "2026-08-22T12:24:56.828Z"
+  },
+  {
+    "id": "eGttWUxQa25UWnlmSFlEakFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTelpsY205aVFuVklNRTFXY2tOWmNHdEVlbGxsUzJwalNIbzNZMUZuZEhSa1NTMTBaekIyVkZORGNIZ3RNbXhXZFdFMU9GQk9lbDlLTW1WR1p5MXlNbkJwVFdsamFqQTRTVjgwWjJreVVISkxRMEo0VkVWWFZsOTNNMEk1WkhSbVJuVnNTRmR6VEY4elpYTm9Vemd5VEV0dU4wUXllbWM1WDBzek5HdHlUR1ZyWlhObGVXSVNGMEZLVjBwaGNVTTRUelJRUzJ0UVNWQnBMWGxGY1VGdkdpSkJSSE55T1daUloxVjJaMTl5VFdoUVNYQk5XQzFoVm1zeGVuUTROMk5xWm1wbg",
+    "fingerprint": "product manager dhs ocio|techsur solutions|l4vucs",
+    "title": "Product Manager - DHS OCIO",
+    "company": "TechSur Solutions",
+    "location": "Springfield, Virginia",
+    "locations": [
+      "Springfield, Virginia"
+    ],
+    "remote": false,
+    "posted": "2026-08-21T21:00:00.000Z",
+    "salaryMin": null,
+    "salaryMax": null,
+    "url": "https://www.linkedin.com/jobs/view/product-manager-dhs-ocio-at-techsur-solutions-4454662945",
+    "source": "LinkedIn",
+    "score": 3,
+    "reasons": [
+      "Positioning fit (platform, operations)",
+      "AI signal (RAG)",
+      "Resume fit ~16%",
+      "Outside target markets"
+    ],
+    "fetchedAt": "2026-08-22T12:24:56.827Z"
+  },
+  {
+    "id": "VHJxWHA4V05nam1mdnJFZEFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTbXhCVlVaS2FIUklVbFphUW5sMWRsWnFhVkJLWms5TWJsSlVYMjlzT1d3MlVrRlhUbmhEYkU1TU5qWlFNMFZGYlY5TVQzTk5iV2xPWVU5a1psUTViVWRpZWpoa2FVUnJjR2xwWW1SUlZIUnRVMUJMTTBsa1owaEdkbkpHWkZWMGNIbHNRMHRrU2t0eFYyWjVkVUphTFUxbmVUQmhSR0V4VFdwMlprZHNNeTA0TkhCUlJEQVNGMEZLVjBwaGNVTTRUelJRUzJ0UVNWQnBMWGxGY1VGdkdpSkJSSE55T1daVVlWcHpkR3hNYVdReVlVSkRSelF3YUhabWVVWkVNSGRwV1dWUg",
+    "fingerprint": "product manager|spectraforce|-38gvdz",
+    "title": "Product Manager",
+    "company": "SPECTRAFORCE",
+    "location": "Walkersville, Maryland",
+    "locations": [
+      "Walkersville, Maryland"
+    ],
+    "remote": false,
+    "posted": "2026-08-21T18:00:00.000Z",
+    "salaryMin": 60,
+    "salaryMax": 65,
+    "url": "https://www.linkedin.com/jobs/view/product-manager-at-spectraforce-4457390364",
+    "source": "LinkedIn",
+    "score": -2,
+    "reasons": [
+      "Positioning fit (operations, supply)",
+      "AI signal (AI)",
+      "Resume fit ~16%",
+      "Outside target markets"
+    ],
+    "fetchedAt": "2026-08-22T12:24:56.826Z"
+  },
+  {
     "id": "OEdLeTNlOElMVVV2Sm9FR0FBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTVGcxUzJWeFdUZ3djV3hHUVVkMU1UQXpNbVpQTVdaamQwcE9WV05tYnpOaExWWTJOamhZZVdKS05YUkZPVWRqUVdOd2IyTkdSVEUwV1dsSVZtWldkR010TlV0a2Mzb3dWVWcwVEZsR1MweFJWSE14WldodU5rUlJXaTB6TTFSRE5qbFZOWHBHVmpGd1UxQm9iM1JXU2xNelExWnpNV1IzUzAxNk5YQkpSemxSVEdnMVYwY1NGMmhWVjBsaGRWOU9UbTlYV1hCMFVWQjJZVWRvT0ZGbkdpSkJSSE55T1daVVNsQm5kemxrYW5KU1pYbHdNMnBrYVV0cFJqZHBZbkZhVUcxUg",
     "fingerprint": "product manager with pblic sector experience|i link solutions|-xm8joo",
     "title": "Product Manager with Pblic sector experience",
