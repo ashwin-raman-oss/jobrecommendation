@@ -1,5 +1,201 @@
 [
   {
+    "id": "X0Fja1pnNC1kOXo5Wk5iSUFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTVkEwUWxkaWRuWnFTMjlsUzJaa2IxTnVNRTg1VERCeVkyY3hTMHRpZVU1SVNVMXdhR3hKWmw5blMwUmxORFJuZG1oUlkzaEtkR1JLVWtkc1J6Sm5VVVJhVnpSR1owVXhhRkZwVlVSbFMwdFpTRWN4VldSMlJYUktkMlJpV1ZneGF6SjVZbnBGTlY5VldtTmZNSE14VTBNeFNXSnZka2xqWTFkT2MwNXRlbmRwYjIxUk5HVVNGM0l0WVV0aGRsaHVUbU55U1d0UVNWQjZjazlqZFVGUkdpSkJSSE55T1daU1YzRlBWR0pGWjBSMVJIZFdVbGxEV1dWQlZVSlFUa0Z3ZGpOUg",
+    "fingerprint": "principal product manager 190k 225k equity at tatari tv|jack jill|-f0atnv",
+    "title": "Principal Product Manager ($190k-$225k + Equity) at tatari.tv",
+    "company": "Jack & Jill",
+    "location": "San Francisco, California",
+    "locations": [
+      "San Francisco, California"
+    ],
+    "remote": false,
+    "posted": "2026-08-23T01:00:00.000Z",
+    "salaryMin": null,
+    "salaryMax": null,
+    "url": "https://www.linkedin.com/jobs/view/principal-product-manager-%24190k-%24225k-%2B-equity-at-tatari-tv-at-jack-jill-4456690563",
+    "source": "LinkedIn",
+    "score": 53,
+    "reasons": [
+      "Positioning fit (platform, network)",
+      "AI signal (AI, machine learning, agent)",
+      "Resume fit ~19%",
+      "Priority location (Chicago/Bay Area)"
+    ],
+    "fetchedAt": "2026-08-23T12:25:22.503Z"
+  },
+  {
+    "id": "NF9LSnZFQkluSHUyYVdJa0FBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBUSFYxWjBKMGRHTlVibFp2V21wNGVsOXZhWFJMTkRaSlNHNUNXSGh5VmtjeFQxSmlkMU5vZGtKUlVuaGxOMEZFTXpsNGFsbDVZVTh6VTBaS2VtZFlkV1kzWW5sMlZHVlViSFpuT1hONlpXSkVaME5hVjJGVFMyWkpRWEJPWVhGdFNXdEhiWGhzWVVnelZVcGpjVkJ0VkVRd1NGOUlVVXRyYzJKVE9VUnRMWEJxWkRkRllUY1NGM0l0WVV0aGRsaHVUbU55U1d0UVNWQjZjazlqZFVGUkdpSkJSSE55T1daUk1WVlROVzFRWm1GR2RGbHpRVEpHWlc1cllWQTRZVTlRVUV4bg",
+    "fingerprint": "group product manager core tpa claims|collective health|efqd48",
+    "title": "Group Product Manager, Core TPA Claims",
+    "company": "Collective Health",
+    "location": "Plano, Texas",
+    "locations": [
+      "Plano, Texas"
+    ],
+    "remote": false,
+    "posted": "2026-08-22T15:00:00.000Z",
+    "salaryMin": null,
+    "salaryMax": null,
+    "url": "https://www.linkedin.com/jobs/view/group-product-manager-core-tpa-claims-at-collective-health-4447193004",
+    "source": "LinkedIn",
+    "score": 19,
+    "reasons": [
+      "Senior/Group title",
+      "Positioning fit (operations)",
+      "AI signal (AI, ML)",
+      "Resume fit ~17%",
+      "Outside target markets"
+    ],
+    "fetchedAt": "2026-08-23T12:25:22.502Z"
+  },
+  {
+    "id": "Uk9jc1VhcjFTRXVhRXB0RkFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTWEIzWW1sRVgxWnNkRVYzYlV4SmJIbzNRbFE1YmtwdWRrSTVjakZ6VEVzNGFHVlpSbGMyUVV4R2RXeGlYMDlLT0dKNlpHNHdlVlF0ZDFWRVdVSndSVVJpWkU1a01FNDBNbHBsVlRkbFFYY3llVFI1Y2s5NWVqUmxSUzF5YVY4M01VOWpXbXh2YWxkUGNETjBialpmY2sxaFMzQnNSWGxWUkc1MUxYTXdjSHBoV21SUU9Wb1NGM0YxWVV0aGNsUllSMXBQWVRRdFJWQnlkVmgzYlZFd0dpSkJSSE55T1daU1JHTjZSMDR0U1U5emVUbFVRemxhUVhwZlUwbHJSbTlmUW1Wbg",
+    "fingerprint": "digital product manager lead sr offer modernization|pnc|-3553s5",
+    "title": "Digital Product Manager Lead Sr- Offer Modernization",
+    "company": "PNC",
+    "location": "Pittsburgh, Pennsylvania",
+    "locations": [
+      "Pittsburgh, Pennsylvania"
+    ],
+    "remote": false,
+    "posted": "2026-08-22T14:00:00.000Z",
+    "salaryMin": null,
+    "salaryMax": null,
+    "url": "https://www.linkedin.com/jobs/view/digital-product-manager-lead-sr-offer-modernization-at-pnc-4457822129",
+    "source": "LinkedIn",
+    "score": 5,
+    "reasons": [
+      "Positioning fit (marketplace, enterprise)",
+      "AI signal (AI, RAG)",
+      "Resume fit ~13%",
+      "Outside target markets"
+    ],
+    "fetchedAt": "2026-08-23T12:25:22.501Z"
+  },
+  {
+    "id": "X3ZtVk9WSDRlY1NWNWtxTEFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTVWhPUjFGR2R6aHlVV3R3VDNaRk0yTXdNazB0VTFKWlozaHhWVEZpWTNaTFVXRXdOekpuWjB0dFUxYzVUbEl3VGtWeWEyTnhUM0ZoY1RFMExWUXlXa1JzV0U0d1ZYZGliMGsxTmxrdGVtVjNiV1ZZVkd4a1RFcFhVV1ZFWXpGdVltcFVhWFJGZG1KRFJteFphV05RVW5oWk9VczVVMDVTY0U1c01XUk5kVWhuUmtOMGRuY1NGM0YxWVV0aGNsUllSMXBQWVRRdFJWQnlkVmgzYlZFd0dpSkJSSE55T1daU1JtbFhYMlYxU3poRGJHaHhlVXR5Y2w4NVRqUlFMV1V6VjI1Qg",
+    "fingerprint": "sr product manager platforms|netapp|-wavqyn",
+    "title": "Sr. Product Manager- Platforms",
+    "company": "NetApp",
+    "location": "Morrisville, North Carolina",
+    "locations": [
+      "Morrisville, North Carolina"
+    ],
+    "remote": false,
+    "posted": "2026-08-22T14:00:00.000Z",
+    "salaryMin": null,
+    "salaryMax": null,
+    "url": "https://www.linkedin.com/jobs/view/sr-product-manager-platforms-at-netapp-4455029805",
+    "source": "LinkedIn",
+    "score": 47,
+    "reasons": [
+      "Senior/Group title",
+      "Positioning fit (platform, operations, vendor)",
+      "AI signal (AI, ML, RAG)",
+      "Resume fit ~29%",
+      "Outside target markets"
+    ],
+    "fetchedAt": "2026-08-23T12:25:22.500Z"
+  },
+  {
+    "id": "Yk5JU3pVUzZDajdIX21JdkFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTV3hwY3pCV1NHdHRhMjFDZW5Jd1JrcEhaV1Z2TXpoemRrSjJTbmw0UmpsQ05YSnBVRFJYZFdWcFpFcG9kRjlzTTBsTWRrUTBNMjlNVERKTlduQjNNRlpoYW5GWlIyaDBlWEpQWlVwa1ZVaHJXRTV2VTFacVNHOUtVakpEVVc1QldrWTRaV2hhY0Rkd1RWRnZiMVJoTkRSeE1qbHZTVmMyWkMxd1ZtZElSakJqVGtWbGJtY1NGM0F0WVV0aGMwTkhTMlJ4TUhCMFVWQTViMWhwYVZGTkdpSkJSSE55T1daU1ZVWnNZME5rY201UlIyaERabk10TTBrdFdVNXZjWEJvYzFSUg",
+    "fingerprint": "senior product manager clinical platform|sprinter health|-ya6hnn",
+    "title": "Senior Product Manager, Clinical Platform",
+    "company": "Sprinter Health",
+    "location": "Menlo Park, California",
+    "locations": [
+      "Menlo Park, California"
+    ],
+    "remote": false,
+    "posted": "2026-08-22T20:00:00.000Z",
+    "salaryMin": null,
+    "salaryMax": null,
+    "url": "https://www.linkedin.com/jobs/view/senior-product-manager-clinical-platform-at-sprinter-health-4455066317",
+    "source": "LinkedIn",
+    "score": 75,
+    "reasons": [
+      "Senior/Group title",
+      "Positioning fit (marketplace, platform, vendor)",
+      "AI signal (AI, agent, RAG)",
+      "Resume fit ~21%",
+      "Priority location (Chicago/Bay Area)"
+    ],
+    "fetchedAt": "2026-08-23T12:25:22.499Z"
+  },
+  {
+    "id": "b2VobzhFVV9nOE5BQWVYWEFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTVWRCUTJoME1VZFZaV2hxTms1TWFHRlpiRGh3ZGs5bExVNUNjbVk1ZVRoRFUweHVjV2xMZVdsSmMxVnRVazFZVGxseGNsbFdaVkl3WVZGalltOHphVmxVU0V0YVpXeHJTSGxCUmpneWNsVXRjbUV3UXpsUFluTkdNbTlKTFZWTFYwZFdTbXhvVkVaeE1Wb3RRMjVZU1ZkSE1XWmlXWFZhUTNoUlZsUlVTMnBWTmpSMllWY1NGM0F0WVV0aGMwTkhTMlJ4TUhCMFVWQTViMWhwYVZGTkdpSkJSSE55T1daVGFGQjJhRGxqVUVsaVoyWjJlRVE1V2tNeVZGTnpjMFl6UTNObg",
+    "fingerprint": "staff product manager ai clinical tools|sprinter health|-luxu0s",
+    "title": "Staff Product Manager, AI Clinical Tools",
+    "company": "Sprinter Health",
+    "location": "Menlo Park, California",
+    "locations": [
+      "Menlo Park, California"
+    ],
+    "remote": false,
+    "posted": "2026-08-22T20:00:00.000Z",
+    "salaryMin": null,
+    "salaryMax": null,
+    "url": "https://www.linkedin.com/jobs/view/staff-product-manager-ai-clinical-tools-at-sprinter-health-4455046340",
+    "source": "LinkedIn",
+    "score": 57,
+    "reasons": [
+      "Positioning fit (marketplace, platform, operations)",
+      "AI signal (AI, machine learning, agent)",
+      "Resume fit ~18%",
+      "Priority location (Chicago/Bay Area)"
+    ],
+    "fetchedAt": "2026-08-23T12:25:22.497Z"
+  },
+  {
+    "id": "NzJJc21aOUJfZ3ZMWFdHYkFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTbEpZZDBGcE5VRndaVWxuUVU5MldHVkNVR0pPT1ZNeWJsaEtSR1ZhZFUxWWJVZ3lTM1JXU21veGN6RXpRVFV0YWtaUlVFcDJhbEY1TkhKWmEwSjJNVXRWU1VNNWJVRkJMVUZOVlc1MlRuTk5MVzR0YW5FNFEycENkMHh5Y0RSc2RVTlVSVE5HT0hSTE5rRm1SVGt6V0VoRVNEQnNOa3hHVjNsbVV6WXljM0p3U0VkRE5EY1NGM0F0WVV0aGMwTkhTMlJ4TUhCMFVWQTViMWhwYVZGTkdpSkJSSE55T1daUlltRk9ibFZETkhONWVHdzRNa05ETUROUlZEWkRPVkJCZDI5bg",
+    "fingerprint": "senior product manager revenue operations|alion|wzbxws",
+    "title": "Senior Product Manager, Revenue Operations",
+    "company": "Alion",
+    "location": "US",
+    "locations": [
+      "US"
+    ],
+    "remote": false,
+    "posted": "2026-08-22T23:00:00.000Z",
+    "salaryMin": null,
+    "salaryMax": null,
+    "url": "https://www.linkedin.com/jobs/view/senior-product-manager-revenue-operations-at-alion-4457863615",
+    "source": "LinkedIn",
+    "score": 45,
+    "reasons": [
+      "Senior/Group title",
+      "Positioning fit (platform, operations, network)",
+      "AI signal (AI, GPT, RAG)",
+      "Resume fit ~27%",
+      "Outside target markets"
+    ],
+    "fetchedAt": "2026-08-23T12:25:22.496Z"
+  },
+  {
+    "id": "eUpOSENlMG5sa0RZQmV0SUFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBURVV4TmtOQlNESnhXR3B5YTBkVVVXaE5hR1J0ZGxCdFZYTmlaRFJtUld4RFpWaHJWM1JHTWxaemRVaE5abEYyVVdwMGMxVTRPRXN3TmtGbVMyOWhNRFp4UVZOck9VVmpNRGROVTNwUmRVeEtZbXQyTVZsWVVUUTFWVzlUVjNaNllUbDFhV1YyYm5nMVFqRXhaVmh4TTBkc2VVNVNSa2RXU21sMVJuQnpZazkzYjFCdU9WRVNGM0F0WVV0aGMwTkhTMlJ4TUhCMFVWQTViMWhwYVZGTkdpSkJSSE55T1daU1gwVmZZM3BKVGpsU1RIZzVXSEkwTmtwRVpFZGpiRTB0ZFRWQg",
+    "fingerprint": "product manager service designer digital product human centered design|reefpoint group|19rxfu",
+    "title": "Product Manager / Service Designer (Digital Product & Human-Centered Design)",
+    "company": "ReefPoint Group",
+    "location": "Tysons, Virginia",
+    "locations": [
+      "Tysons, Virginia"
+    ],
+    "remote": false,
+    "posted": "2026-08-22T15:00:00.000Z",
+    "salaryMin": null,
+    "salaryMax": null,
+    "url": "https://www.linkedin.com/jobs/view/product-manager-service-designer-digital-product-human-centered-design-at-reefpoint-group-4447563840",
+    "source": "LinkedIn",
+    "score": 20,
+    "reasons": [
+      "Positioning fit (platform, enterprise)",
+      "AI signal (AI, ML, RAG)",
+      "Resume fit ~22%",
+      "Outside target markets"
+    ],
+    "fetchedAt": "2026-08-23T12:25:22.495Z"
+  },
+  {
     "id": "blVQRHo5VkhlR1pEWVJIOEFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTWFprVHpnMGMzUTJhWFU1YldkeFNsWlhXazB3ZDJ4T2RUTnZaRzlOTXpaak5rTjBaMlJvVUVWVWVHcFhOVXRwUkVnd1FreEpUbTl6TjNCeFVqaDZYMTlNVG5aeVJrSTRXWEpoUzFaTVl6aHlUMjV0UkhobloyRnVOR2w1UlMxYWVubHRhV3Q2YUZRM2J6aE9helZDUkRkdVIwTjRXRGhNWjJSRWEzSTJkMmhZVUVveWFIQVNGMFphVjBwaGMxOTNTWEZFU1d0UVNWQTJZMGN4Y1VGRkdpSkJSSE55T1daUmJYTkdRMkl6YlhrelVqUkpUMVJXTWs5NVJIQjVVelkwTjB0Qg",
     "fingerprint": "group product manager u s growth|yolo investments|-e3ldt7",
     "title": "Group Product Manager - U.S. Growth",
