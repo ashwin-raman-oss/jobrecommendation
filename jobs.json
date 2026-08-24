@@ -1,5 +1,79 @@
 [
   {
+    "id": "UjM2RTlyMWVGYmx1dW5XRUFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBURTh6YjFweFVXWXhXVzFVYTBOeVkyVXhVV3hSYWxSR1kzZHFaRWhVUlZCRFdrazNNWGN6WTNSM2NFRm1TMWQzU1RSWVgyTkRUR1ZJVWtKRmRuZElNR0ZuWlVvd1IyeDNUMXBrUzAxMU1XNW1iR05HYkc4eVoycHlTazlhWTJkTWVXWXRWV0oyUkdOMWRXUnZURWh4UXpaeFV6SXpWa3AyUWpjMGJrWlNZbVptTjJSdVVFUVNGMjU2Y1UxaGRpMXZUWFJxVVRKeWIxQmZZa2R2YzFGSkdpSkJSSE55T1daU1ZsbEZNbDlUU1cwd09IUmxiVWhWVEZaU05sbENkbk5UYm5aMw",
+    "fingerprint": "senior data product manager|2u|xjfy1w",
+    "title": "Senior Data Product Manager",
+    "company": "2U",
+    "location": "Crystal City, Texas",
+    "locations": [
+      "Crystal City, Texas"
+    ],
+    "remote": false,
+    "posted": "2026-08-23T23:00:00.000Z",
+    "salaryMin": 111000,
+    "salaryMax": 163000,
+    "url": "https://builtin.com/job/senior-data-product-manager/9357943",
+    "source": "Built In",
+    "score": 23,
+    "reasons": [
+      "Senior/Group title",
+      "Positioning fit (platform)",
+      "AI signal (AI, RAG)",
+      "Resume fit ~25%",
+      "Outside target markets"
+    ],
+    "fetchedAt": "2026-08-24T12:35:54.960Z"
+  },
+  {
+    "id": "OV9LZV9yYTMyZmE3TjVia0FBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTWE5CWWxSdFJGSnBSbmxFVEU1b2RHUkJVVkIyV214bFFYSkxURmxCYkhKbFFqQlBVMWxTWDB0TmFGUnNSbVJsWDBOSlRtNXhUek5FYkc5cFptWTJRemN4YVdSNlIwMXlSR1ZQY2xkalVVZFFUblpMU0ZkeFdXSm5OakJvYTBsNlYwVk5Oa1JuYm1kVllucGpTa000Y2pWek5GRkNRMmhoTTNsdGFGWlFNV2xEWWpkdFNDMFNGMjFFY1UxaGNqSjZTMUF5VXpWUFZWQnNaVjk1TkZGSkdpSkJSSE55T1daVU1WcDFhVXBhT1hRMmIxaFZhbGh6V0hSQ2JVdzRkMTh0YzNoUg",
+    "fingerprint": "principal product manager ai powered image video experiences|microsoft ai|o7ckk4",
+    "title": "Principal Product Manager - AI-Powered Image & Video Experiences",
+    "company": "Microsoft AI",
+    "location": "Not specified",
+    "locations": [
+      "Not specified"
+    ],
+    "remote": false,
+    "posted": "2026-08-23T16:00:00.000Z",
+    "salaryMin": null,
+    "salaryMax": null,
+    "url": "https://www.linkedin.com/jobs/view/principal-product-manager-ai-powered-image-video-experiences-at-microsoft-ai-4389970185",
+    "source": "LinkedIn",
+    "score": 81,
+    "reasons": [
+      "Target company (Microsoft)",
+      "Positioning fit (platform)",
+      "AI signal (AI, machine learning, ML)",
+      "Resume fit ~23%"
+    ],
+    "fetchedAt": "2026-08-24T12:35:54.958Z"
+  },
+  {
+    "id": "SjIzcTlsMDNxTjFJaFJxMUFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTak13UWpGNFdreElNMHB6Vmt4b1JsTnROa1pQYTNSTk16VkRSM3BrZW5GQll6bGtNMGg1TjNaa2VYQTBkVnBKWWt4eFgwdFBaV3RtZEZoWE5GUklhV2xWVDJKNFdHMXhhbk5CUWkxUFZuUkZkekZCY1hBMGVqQjRUazE0V0dnd1kwWnNVRUp6YUVWVmF5MW9iSFV6VTBkdGNIVlpNV1JHTW1ZNWVYVk5ha0V3TTIxeGJXWVNGMjFFY1UxaGNqSjZTMUF5VXpWUFZWQnNaVjk1TkZGSkdpSkJSSE55T1daUk9WRTVPWGR6VUVwYWFHTmtWUzExWHpSNldrUjJaRlZXYVZWQg",
+    "fingerprint": "principal product manager|netapp|f6odp5",
+    "title": "Principal Product Manager",
+    "company": "NetApp",
+    "location": "Not specified +1 more",
+    "locations": [
+      "Not specified",
+      "Morrisville, North Carolina"
+    ],
+    "remote": false,
+    "posted": "2026-08-23T14:00:00.000Z",
+    "salaryMin": null,
+    "salaryMax": null,
+    "url": "https://www.linkedin.com/jobs/view/principal-product-manager-at-netapp-4455801197",
+    "source": "LinkedIn",
+    "score": 23,
+    "reasons": [
+      "Positioning fit (platform, operations, enterprise)",
+      "AI signal (AI, ML, RAG)",
+      "Resume fit ~20%",
+      "Outside target markets"
+    ],
+    "fetchedAt": "2026-08-24T12:35:54.957Z"
+  },
+  {
     "id": "X0Fja1pnNC1kOXo5Wk5iSUFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTVkEwUWxkaWRuWnFTMjlsUzJaa2IxTnVNRTg1VERCeVkyY3hTMHRpZVU1SVNVMXdhR3hKWmw5blMwUmxORFJuZG1oUlkzaEtkR1JLVWtkc1J6Sm5VVVJhVnpSR1owVXhhRkZwVlVSbFMwdFpTRWN4VldSMlJYUktkMlJpV1ZneGF6SjVZbnBGTlY5VldtTmZNSE14VTBNeFNXSnZka2xqWTFkT2MwNXRlbmRwYjIxUk5HVVNGM0l0WVV0aGRsaHVUbU55U1d0UVNWQjZjazlqZFVGUkdpSkJSSE55T1daU1YzRlBWR0pGWjBSMVJIZFdVbGxEV1dWQlZVSlFUa0Z3ZGpOUg",
     "fingerprint": "principal product manager 190k 225k equity at tatari tv|jack jill|-f0atnv",
     "title": "Principal Product Manager ($190k-$225k + Equity) at tatari.tv",
