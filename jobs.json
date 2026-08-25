@@ -1,5 +1,278 @@
 [
   {
+    "id": "Y2hZSGp2WTFUMmMxYl93ZUFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTakpPWTNONVRWaFdkbFU1TUhGR2RtcFZTbmQ2VDB0QmQwSk1VMVpEVkZCMk5HZFVkblZJTlZGaU9WRjZjbXRtU1U5T2VGQktZMjV1TkRjM1gwdHBOeTAwWkVKd2EwNUNSMTlhZEVWdlVqUnNaREpsWkVOcVJGWmxRelowUm5OSUxVWndablZaU1dweU5FWjZZaTFaYUdNeWMxaHZjek0xV21WNlpqTldaakF3VlVwRU1VOFNGelJaZFU1aGNHMDJSbVZxVUd0UVNWQTJjMVJ5TkVGekdpSkJSSE55T1daUmVuSjVMVk5zTjJWYVlsSklSazk2TVV0WE9ETlRibTVDV21oMw",
+    "fingerprint": "principal product manager time to first production|camunda|-8cyes",
+    "title": "Principal Product Manager- Time to First Production",
+    "company": "Camunda",
+    "location": "Not specified",
+    "locations": [
+      "Not specified"
+    ],
+    "remote": true,
+    "posted": "2026-08-25T04:00:00.000Z",
+    "salaryMin": null,
+    "salaryMax": null,
+    "url": "https://www.linkedin.com/jobs/view/principal-product-manager-time-to-first-production-at-camunda-4456575277",
+    "source": "LinkedIn",
+    "score": 57,
+    "reasons": [
+      "Positioning fit (platform, B2B, SaaS)",
+      "AI signal (AI, agent)",
+      "Resume fit ~22%",
+      "Remote"
+    ],
+    "fetchedAt": "2026-08-25T12:34:44.235Z"
+  },
+  {
+    "id": "cTB1eTRoLURrT1Y4clpTa0FBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBURzVxWlVaTk5VWmtaa3BzWDNOWWVVZ3dNVGRYU1ZoQ1VGVkxiRTh6VEdGUlZHTkVaVXQzVEdSbFRqWnBlVWx1YUhKMFRWcGxRbmN6VFdSRFpIWlZVMjVaZDBWaGRXeExVR2w0TFU5RGJWQXdSVmgzTVdWRGVIaGFkMDl4Ym5GWVRIbDVVMDlWWDJWZlFVVk1PRkJWWTJSNFpISlVlVXN4TjNkRlFtc3RYelUwVEdSM2FXd1NGekkwZFU1aGIxUlBRMHh0ZVcxTVVWQXpkR2xYYlVGakdpSkJSSE55T1daUlQyMTRNSEEzZUhSTVVrSktYMEZhYkVaclMyZzFhVmcwVW01bg",
+    "fingerprint": "senior product manager|ritchie bros|-4bw6ac",
+    "title": "Senior Product Manager",
+    "company": "Ritchie Bros.",
+    "location": "Westchester, Illinois",
+    "locations": [
+      "Westchester, Illinois"
+    ],
+    "remote": false,
+    "posted": "2026-08-24T20:00:00.000Z",
+    "salaryMin": null,
+    "salaryMax": null,
+    "url": "https://www.linkedin.com/jobs/view/senior-product-manager-at-ritchie-bros-4456523213",
+    "source": "LinkedIn",
+    "score": 38,
+    "reasons": [
+      "Senior/Group title",
+      "Positioning fit (marketplace, platform, B2B)",
+      "AI signal (AI, LLM, ML)",
+      "Resume fit ~21%",
+      "Outside target markets"
+    ],
+    "fetchedAt": "2026-08-25T12:34:44.234Z"
+  },
+  {
+    "id": "bld3WGRaTGU4U1RFMjY5eUFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTM2gyZG01T1JtbGtNR2syTkVaZk5FWm9XRTlEVUdSamREY3plalpKZEdoVVZqQjJjMGhUWlhsNk56ZzFRVEo0TjNZMlRUWjJkMlZIVEZwU1VsbG1OMHBhUlhCcmRFaHFZVTQ0ZGxSVmRFeEhUVk5DTlRJMWFGaGpkMHB3T1hWbVUzUTRha1pVTFhKUGNtZEplRkYwVFU5NWVuazBUbmxMVHpkQ1F6ZEZTVTlWZDFGdmJGOFNGekkwZFU1aGIxUlBRMHh0ZVcxTVVWQXpkR2xYYlVGakdpSkJSSE55T1daVWFtRnNjVWwwTWsxR2VHeFpUV0ZKU2tWaGFXOWxkRGMzYW5wQg",
+    "fingerprint": "sr product manager expense management|bamboohr|-y4ryj2",
+    "title": "Sr. Product Manager, Expense Management",
+    "company": "BambooHR",
+    "location": "Draper, Utah",
+    "locations": [
+      "Draper, Utah"
+    ],
+    "remote": false,
+    "posted": "2026-08-24T21:00:00.000Z",
+    "salaryMin": null,
+    "salaryMax": null,
+    "url": "https://www.linkedin.com/jobs/view/sr-product-manager-expense-management-at-bamboohr-4458510319",
+    "source": "LinkedIn",
+    "score": 31,
+    "reasons": [
+      "Senior/Group title",
+      "Positioning fit (platform)",
+      "AI signal (AI, ML, agent)",
+      "Resume fit ~23%",
+      "Outside target markets"
+    ],
+    "fetchedAt": "2026-08-25T12:34:44.233Z"
+  },
+  {
+    "id": "MjdBTzVKdHg2eC1kUW9vdUFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBURUp1YUd0clRURjBlalJ0ZVRBdGNuZFlTME5DUWxvemRuTXdSV2hPVW1SSFUwNW5Va3g1UVRKZlNrNWhhbFprTlVkcGQwZ3RWVlZzTVc1Mk1uSnBlSE5PWVRWbFZIRktZVFpuVGtZNVRtSlRkMVJCWm5Kc01HNUVaVFkzTUVkb1N6VXlZVE4zTFd4QlRYRlNWbUpWUW5FMk1HbGtTRVZHV2xscVZUbDFibXB1VXpoaFFqVVNGekkwZFU1aGIxUlBRMHh0ZVcxTVVWQXpkR2xYYlVGakdpSkJSSE55T1daUk1tVTFNVEJhVlcxbVpFdzVaVGxUWVdKWU1reDRYeTFJVFdaQg",
+    "fingerprint": "sr product manager|macom|-33a534",
+    "title": "Sr. Product Manager",
+    "company": "MACOM",
+    "location": "Hamilton Township, New Jersey",
+    "locations": [
+      "Hamilton Township, New Jersey"
+    ],
+    "remote": false,
+    "posted": "2026-08-24T19:00:00.000Z",
+    "salaryMin": null,
+    "salaryMax": null,
+    "url": "https://www.linkedin.com/jobs/view/sr-product-manager-at-macom-4458289129",
+    "source": "LinkedIn",
+    "score": 18,
+    "reasons": [
+      "Senior/Group title",
+      "Positioning fit (marketplace, network)",
+      "AI signal (AI)",
+      "Resume fit ~16%",
+      "Outside target markets"
+    ],
+    "fetchedAt": "2026-08-25T12:34:44.231Z"
+  },
+  {
+    "id": "VG16Z21PbHU1dkJtTEYwTUFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTMHBaT1dWS2RYQnNNVmxxTUZoTGVYTndWM2xsYlUxUWFGbHdSMkpNVjJ0RFptMTFkMEZXT0dGblpuaG9jQzE2TW1JNGRIUkdSVGxJWWpWd1NuWlpYMGRzVVcxaFJFazJOMHh2ZWkxaFlsTm1RMjFCYm1sRVJXbEVkSGxVVkhCTVZXVnFNVGRTVW5OSWRtODJXbXBhY2xFeWMxa3hOVVYwWjBWaE4zQk1XVU5rWjJwQ1Nua1NGekkwZFU1aGIxUlBRMHh0ZVcxTVVWQXpkR2xYYlVGakdpSkJSSE55T1daU05rbDZNMDFzTUVaamEyc3dlSEZ3TVVsVGNFVklWSEpIWjFGQg",
+    "fingerprint": "sr product manager tech viewer experience prime video global app experience|prime video amazon mgm studios|iux4at",
+    "title": "Sr. Product Manager - Tech, Viewer Experience, Prime Video Global App Experience",
+    "company": "Prime Video & Amazon MGM Studios",
+    "location": "New York, New York",
+    "locations": [
+      "New York, New York"
+    ],
+    "remote": false,
+    "posted": "2026-08-25T00:00:00.000Z",
+    "salaryMin": null,
+    "salaryMax": null,
+    "url": "https://www.linkedin.com/jobs/view/sr-product-manager-tech-viewer-experience-prime-video-global-app-experience-at-prime-video-amazon-mgm-studios-4458536454",
+    "source": "LinkedIn",
+    "score": 93,
+    "reasons": [
+      "Target company (Amazon)",
+      "Senior/Group title",
+      "Positioning fit (operations)",
+      "AI signal (AI, LLM, GenAI)",
+      "Resume fit ~14%",
+      "Visibility location"
+    ],
+    "fetchedAt": "2026-08-25T12:34:44.230Z"
+  },
+  {
+    "id": "aVRCamY0aTIyZFJxa1JHWUFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTbGRuVVhVeE5rWnFZMEpKUVdWNlVUaEdOVTlHVWt3dGEyeG1iMjlDVlZGbVZuQlBjalZNWm5CWFNHSXlaa0pDYkVWSGEya3pOVE5GYVhZd1ZHZEdXbXhEVDI5NVExbFlVV1JrWDNGWE9YQkNjVkpVUTBkRldqVlZNRVJVYlVkbmFVUmZUa2hPZVRkakxYVlJTRVJWTkVSRFRFTnBTREY2YUVoeFdYZFFkM2RzUTBKclQxRVNGekJ2ZFU1aGRYVkpRWEZwWDJ0UVNWQm5kSEoxTkZGekdpSkJSSE55T1daUlVFMUJiMDlOTjBKMVMyTmZRMFZFU2tsT2FIazVUbFZhVVhobg",
+    "fingerprint": "product manager|abb inc|-j27fuu",
+    "title": "Product Manager",
+    "company": "ABB Inc.",
+    "location": "Mechanicsville, Virginia",
+    "locations": [
+      "Mechanicsville, Virginia"
+    ],
+    "remote": false,
+    "posted": "2026-08-25T00:00:00.000Z",
+    "salaryMin": 100000,
+    "salaryMax": 161000,
+    "url": "https://www.indeed.com/viewjob?jk=f9e2f8360e495fcf",
+    "source": "Indeed",
+    "score": -4,
+    "reasons": [
+      "Positioning fit (network)",
+      "AI signal (AI, RAG)",
+      "Resume fit ~14%",
+      "Outside target markets"
+    ],
+    "fetchedAt": "2026-08-25T12:34:44.228Z"
+  },
+  {
+    "id": "VjVfa185Z1VucEhiVWFuMkFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTek13TXpKa1VsbzFOMmRsT0ZabExXZHJja0Y0VWs1SGJXMXphRVZPTVZsMlZGcDRSbEZ5YlhSS1EwdHdPRU13WDJObmNsbGxlbVJ3Y1VsSFVWcFZkSGhVWkVaRlVGVlZOVEF0YW5ac2JtcDFSV3BpWW5rMFQwTXdRazF5YkdSNU4yZEpXRzQzUTBwU1JXcDJiV2d4ZFVGc2NUUkxWVjlGWlcwMVJFRk5OREJDTjFOd1IwTVNGekJ2ZFU1aGRYVkpRWEZwWDJ0UVNWQm5kSEoxTkZGekdpSkJSSE55T1daVVdXeDZXV2RqUkZsMlVFOVVZV0p6ZFVoVE1URmZWa1V3WmpOUg",
+    "fingerprint": "product manager bidder and forecasting|tegna|-oxatmi",
+    "title": "Product Manager - Bidder and Forecasting",
+    "company": "TEGNA",
+    "location": "Tysons, Virginia",
+    "locations": [
+      "Tysons, Virginia"
+    ],
+    "remote": false,
+    "posted": "2026-08-24T18:00:00.000Z",
+    "salaryMin": null,
+    "salaryMax": null,
+    "url": "https://www.linkedin.com/jobs/view/product-manager-bidder-and-forecasting-at-tegna-4458265719",
+    "source": "LinkedIn",
+    "score": 16,
+    "reasons": [
+      "Positioning fit (platform, operations, supply)",
+      "AI signal (AI, LLM, RAG)",
+      "Resume fit ~14%",
+      "Outside target markets"
+    ],
+    "fetchedAt": "2026-08-25T12:34:44.226Z"
+  },
+  {
+    "id": "bGktbFhOQmI5akFEeHhnSEFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTMlZqVm05SVdrWnNUSHBzUXpSa2NHdDRVVWxYVUhGNllWRTBhV3g1UjNoRGVqRlhlbVZrVDA1Q1dDMXRVMVpqVWpWTGJrcGFRVlJCWXpoNlVsWTNPV2hUZGtWWE1IYzJVM3BKVEZocU9HZGpkV0ZrVFd4V1ZqVnpVM1ZNVjA1bVlWaHRlSE55ZVd4b1pteEtVRTR6VGw4NFdsSk5RWGRVWVZsMVRsaHJTemx0UzA5eWIwY1NGekJ2ZFU1aGRYVkpRWEZwWDJ0UVNWQm5kSEoxTkZGekdpSkJSSE55T1daVVJXSXhjbmRqUW5KS2FrSmhVMlJNWVVsVGVtaEpPVFl6UVdOQg",
+    "fingerprint": "junior ecommerce product manager open to relocation hybrid las vegas usa|fullstack|-mcq7tb",
+    "title": "Junior Ecommerce Product Manager - Open to Relocation & Hybrid - Las Vegas, USA",
+    "company": "FullStack",
+    "location": "Dover, Delaware +2 more",
+    "locations": [
+      "Dover, Delaware",
+      "Charleston, West Virginia",
+      "Richmond, Virginia"
+    ],
+    "remote": false,
+    "posted": "2026-08-24T22:00:00.000Z",
+    "salaryMin": null,
+    "salaryMax": null,
+    "url": "https://www.linkedin.com/jobs/view/junior-ecommerce-product-manager-open-to-relocation-hybrid-las-vegas-usa-at-fullstack-4458514470",
+    "source": "LinkedIn",
+    "score": 6,
+    "reasons": [
+      "Positioning fit (platform)",
+      "AI signal (AI, ML, agent)",
+      "Resume fit ~14%",
+      "Outside target markets"
+    ],
+    "fetchedAt": "2026-08-25T12:34:44.225Z"
+  },
+  {
+    "id": "Z2lXNWNQTDhWZjR0Z2ZHN0FBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBURVpZUkZCb1lXZEtVRWRVVjBkUlFqRmxhWFY0VUZSaE5HVmhiRFpPTTJobFFVVmhUVEE0TUdSU1ZHNUJNR2xrTnpSbE0wWTFibGxOUTJ4bGNFa3RPVTlIYTNKcFJHTnliSFExTUd4V1gyMVpSSGhuVDFkdFNVTkxXVXRMY0ZGSFVsbHZZakJITUZjM2NHbG1WelkxT0ZKSWRVUlphSHBpVG5nM1dGSlpjMmN4ZWtOQmFtY1NGekJ2ZFU1aGRYVkpRWEZwWDJ0UVNWQm5kSEoxTkZGekdpSkJSSE55T1daU1NFSmFlbDh0TjJ0QkxWWldjak5OWW1kU1VEbFhTMWR2UVd0Qg",
+    "fingerprint": "sr product manager tech ai amazon robotics s o pace|amazon|-qcnyxe",
+    "title": "Sr. Product Manager - Tech AI, Amazon Robotics - S&O - PACE",
+    "company": "Amazon",
+    "location": "Arlington, Virginia",
+    "locations": [
+      "Arlington, Virginia"
+    ],
+    "remote": false,
+    "posted": "2026-08-25T00:00:00.000Z",
+    "salaryMin": null,
+    "salaryMax": null,
+    "url": "https://www.linkedin.com/jobs/view/sr-product-manager-tech-ai-amazon-robotics-s-o-pace-at-amazon-4458535467",
+    "source": "LinkedIn",
+    "score": 106,
+    "reasons": [
+      "Target company (Amazon)",
+      "Senior/Group title",
+      "Positioning fit (platform, operations, network)",
+      "AI signal (AI, LLM, GenAI)",
+      "Resume fit ~24%"
+    ],
+    "fetchedAt": "2026-08-25T12:34:44.224Z"
+  },
+  {
+    "id": "VF9Hbjlwc3VoSlZ5MUEtS0FBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTVVUzWWxCTlRuQlRXV3BwVnpSRVVsb3lWMFYzYWxWR1ZrWjZlbGx3UkhKSGRqZGtXV05wYWtoeVExaHNSR2t4ZFc1NmJGQXdORE5MZWpKMFJrOVdja05uUmxWa1QwNUpVa1ppVUZGdWVGcG5Sazl5VVdGUmNWQTRYMVJsUmtaMFIyaHVSbWd3ZEVSS2RFNDRVRlpUT1d4T1VuRjNUbUk1VDAxS0xYZFFWbTlMUlRoelZqZ1NGekJ2ZFU1aGRYVkpRWEZwWDJ0UVNWQm5kSEoxTkZGekdpSkJSSE55T1daUlpIcFJWRjlwYUdSWVUwazRaRU13VHpBNFNqaDFSVVpEUjBoMw",
+    "fingerprint": "senior product manager hybrid or remote|volexity|-vgt0zi",
+    "title": "Senior Product Manager (Hybrid or Remote)",
+    "company": "Volexity",
+    "location": "Not specified",
+    "locations": [
+      "Not specified"
+    ],
+    "remote": true,
+    "posted": "2026-08-25T00:00:00.000Z",
+    "salaryMin": null,
+    "salaryMax": null,
+    "url": "https://www.linkedin.com/jobs/view/senior-product-manager-hybrid-or-remote-at-volexity-4457402275",
+    "source": "LinkedIn",
+    "score": 72,
+    "reasons": [
+      "Senior/Group title",
+      "Positioning fit (platform, operations, vendor)",
+      "AI signal (AI, ML)",
+      "Resume fit ~22%",
+      "Remote"
+    ],
+    "fetchedAt": "2026-08-25T12:34:44.222Z"
+  },
+  {
+    "id": "WmFvbE5ZWTZLRXpUYXFfREFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTemRXU1VWQlRuQkpWM2hFUm5wM2RVOUZiRUZyYTNsVVlVaHJOVXhmYlhNelZHeDJabDgxVjFGVmNXTlhSMmRyTTI1allVTlNhbXRFVURRelUyczFRM013V0ZSTVFtUjJkRlpJWmpkUmJWRlVUV0pwYzA4M01GSTRObmhrUXpoUk5HRklVblJ1WWxsM2RIRXlOVms1YVZRdFNsUjJlbk5QYzJvM01HOUZVSGQyVVVKbFVUQVNGekJ2ZFU1aGRYVkpRWEZwWDJ0UVNWQm5kSEoxTkZGekdpSkJSSE55T1daUllYYzJSVTFEWTFKTlFXcFJOVWMwWW1STWJIQllYMVZYYlV4Mw",
+    "fingerprint": "sr product manager field marketing ischemic stroke remote|stryker|-guaxg3",
+    "title": "Sr. Product Manager, Field Marketing - Ischemic Stroke - Remote",
+    "company": "Stryker",
+    "location": "Not specified",
+    "locations": [
+      "Not specified"
+    ],
+    "remote": true,
+    "posted": "2026-08-24T15:00:00.000Z",
+    "salaryMin": null,
+    "salaryMax": null,
+    "url": "https://www.linkedin.com/jobs/view/sr-product-manager-field-marketing-ischemic-stroke-remote-at-stryker-4457100653",
+    "source": "LinkedIn",
+    "score": 46,
+    "reasons": [
+      "Senior/Group title",
+      "AI signal (AI, RAG)",
+      "Resume fit ~12%",
+      "Remote"
+    ],
+    "fetchedAt": "2026-08-25T12:34:44.222Z"
+  },
+  {
     "id": "UjM2RTlyMWVGYmx1dW5XRUFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBURTh6YjFweFVXWXhXVzFVYTBOeVkyVXhVV3hSYWxSR1kzZHFaRWhVUlZCRFdrazNNWGN6WTNSM2NFRm1TMWQzU1RSWVgyTkRUR1ZJVWtKRmRuZElNR0ZuWlVvd1IyeDNUMXBrUzAxMU1XNW1iR05HYkc4eVoycHlTazlhWTJkTWVXWXRWV0oyUkdOMWRXUnZURWh4UXpaeFV6SXpWa3AyUWpjMGJrWlNZbVptTjJSdVVFUVNGMjU2Y1UxaGRpMXZUWFJxVVRKeWIxQmZZa2R2YzFGSkdpSkJSSE55T1daU1ZsbEZNbDlUU1cwd09IUmxiVWhWVEZaU05sbENkbk5UYm5aMw",
     "fingerprint": "senior data product manager|2u|xjfy1w",
     "title": "Senior Data Product Manager",
