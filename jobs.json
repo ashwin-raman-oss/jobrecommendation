@@ -1,5 +1,226 @@
 [
   {
+    "id": "cTlRczJxbFJXVzUwc0ppZ0FBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTMFYzUmpSTUxYUXpjMkoxUkZOeFlrOXRRMUJDWVZkaGVYSnlkWFZaVWpCVVozUTNibEF0VnpsV2VHUnhZemhyTjBaaVVGUmFWa2RQVHpkQ2FVOWpNVXRSY1dOSFJrUm1lVGRGWTNOU1drcHBVMTlYVWtselgyWnNhSEJ3VFhKT2NHcFdTMVY1YWxKamFHaHJka1JqUzFWRVJFbzJXVE5vYVRGRmFIVnJYMGMyTUdwR1ExOFNGMHBrTms5aGMxOW5SV1pUUXpKeWIxQnhZbGhWY1ZGM0dpSkJSSE55T1daVFpXeDBaa2N3V1d0bGFrNVRkVkp4WlRCdWJFSldWMVE1TTNSbg",
+    "fingerprint": "sr product manager mapping|rivian and volkswagen group technologies|-kqwczb",
+    "title": "Sr. Product Manager, Mapping",
+    "company": "Rivian and Volkswagen Group Technologies",
+    "location": "Palo Alto, California",
+    "locations": [
+      "Palo Alto, California"
+    ],
+    "remote": false,
+    "posted": "2026-08-25T21:00:00.000Z",
+    "salaryMin": 132000,
+    "salaryMax": 182000,
+    "url": "https://www.linkedin.com/jobs/view/sr-product-manager-mapping-at-rivian-and-volkswagen-group-technologies-4457647093",
+    "source": "LinkedIn",
+    "score": 80,
+    "reasons": [
+      "Senior/Group title",
+      "Positioning fit (platform, network)",
+      "AI signal (AI, LLM, RAG)",
+      "Comp disclosed ≥ $175K",
+      "Resume fit ~21%",
+      "Priority location (Chicago/Bay Area)"
+    ],
+    "fetchedAt": "2026-08-26T12:38:07.363Z"
+  },
+  {
+    "id": "UnhrRkg3ZXBmdVdXVVlYX0FBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTbGgwWVUxek5EaDNkMDVGUlUwdGEyYzRkbTFQTkc4elpYZzJObHBwU1UxTE1USnVNbVZuZVY5RlZsVTRTRFk1V0RoWFdHeG9TbEJNVlVkakxUSk1SSEJYYkVVemF6YzNUbDlSVURreWRWZFZWMDlGUjBoU1pHRllkblF4U0VoVVEyTjZOVXhZTVdGYVVGSXdaRTlNYkRkQk5YZDVMVTFRVEZOSlJWb3liMWwxVDFsUFFXZ1NGMHBrTms5aGMxOW5SV1pUUXpKeWIxQnhZbGhWY1ZGM0dpSkJSSE55T1daUlZFWm5kVUZ3YmtNM2Rrd3RkWE15V1ZCeWJVcEdXRlY1V21KUg",
+    "fingerprint": "sr product manager tech aws smgs ops dp i dp i|amazon web services aws|f948zq",
+    "title": "Sr. Product Manager - Tech, AWS SMGS Ops DP&I(DP&I)",
+    "company": "Amazon Web Services (AWS)",
+    "location": "Mountain View, California",
+    "locations": [
+      "Mountain View, California"
+    ],
+    "remote": false,
+    "posted": "2026-08-25T23:00:00.000Z",
+    "salaryMin": null,
+    "salaryMax": null,
+    "url": "https://www.linkedin.com/jobs/view/sr-product-manager-tech-aws-smgs-ops-dp-i-dp-i-at-amazon-web-services-aws-4458725817",
+    "source": "LinkedIn",
+    "score": 107,
+    "reasons": [
+      "Target company (Amazon)",
+      "Senior/Group title",
+      "Positioning fit (platform, operations, enterprise)",
+      "AI signal (AI, RAG)",
+      "Resume fit ~18%",
+      "Priority location (Chicago/Bay Area)"
+    ],
+    "fetchedAt": "2026-08-26T12:38:07.362Z"
+  },
+  {
+    "id": "Y29RZ3Q2OGVtWS04U0NmV0FBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBUSEJqVEZsbWVYWnNlblpMZUdVMlMxQmhkazV2VDA1eWRIWk1SR2xxYm5aRFVtbHFORzlKVDJveFdXaGpUWE5RV0Zwb2NXZFJhR1ozWm1GNWN6Rk1ObnBKTVVjM1FrZHFZWEl6T1dGWmIxWkdNMDlVUlhONGREaFRWemQzVDNSeU1DMTVaRXROWmkxUU5HbEVVMmhJUzFSRmNuWTRTVmRvYVZSQ09GOHdSRVJFZWtjNGMwNFNGMGxPTms5aGMyNTZTR0pFWWpKeWIxQTJjbGRXY1ZFNEdpSkJSSE55T1daU1pWRkVSM1p4WVhCWVoybzRhbTFxYkdsaGRFWjBXbnBsU3pCQg",
+    "fingerprint": "sr product manager tech ai sub same day|amazon|-3rn3j4",
+    "title": "Sr. Product Manager - Tech, AI, Sub Same Day",
+    "company": "Amazon",
+    "location": "Bellevue, Washington",
+    "locations": [
+      "Bellevue, Washington"
+    ],
+    "remote": false,
+    "posted": "2026-08-26T00:00:00.000Z",
+    "salaryMin": null,
+    "salaryMax": null,
+    "url": "https://www.linkedin.com/jobs/view/sr-product-manager-tech-ai-sub-same-day-at-amazon-4459091062",
+    "source": "LinkedIn",
+    "score": 107,
+    "reasons": [
+      "Target company (Amazon)",
+      "Senior/Group title",
+      "Positioning fit (platform, operations, supply)",
+      "AI signal (AI, ML, RAG)",
+      "Resume fit ~24%"
+    ],
+    "fetchedAt": "2026-08-26T12:38:07.359Z"
+  },
+  {
+    "id": "S0FpNkM1QVdYMnRZeTZHeEFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTM1Z6YlhkWVVYWldMVTlGTUMxSGVrNW5SV3BRYlRCWGVrbG5WRWwzVUhobVZEUlJOR00zVUhoV1NIUk1UREpJY210RGJqbDFNM0ZJU25oMk1HSjVOVmRuUVZkWVVEUk9aV041UjIxUlVEUjFOREYxVXpOVFYyMXNkVlIzTUZacE5IZEhRVlowZVRoT2NqbGFUVGxzVm1oMlkwOWpXR00wV2pBelVrd3llREp2VEZkdmJWVVNGMGxPTms5aGMyNTZTR0pFWWpKeWIxQTJjbGRXY1ZFNEdpSkJSSE55T1daVFRtVkJka0pKTm14dFRIY3lPRWQ0UWtwSk5GY3lOQzFFVTB4Ug",
+    "fingerprint": "product manager downstream medical device|micro tech endoscopy usa|fn75vh",
+    "title": "Product Manager - Downstream (Medical Device)",
+    "company": "Micro-Tech Endoscopy USA",
+    "location": "Not specified",
+    "locations": [
+      "Not specified"
+    ],
+    "remote": true,
+    "posted": "2026-08-25T13:00:00.000Z",
+    "salaryMin": null,
+    "salaryMax": null,
+    "url": "https://www.indeed.com/viewjob?jk=3cd6a48893b30f25",
+    "source": "Indeed",
+    "score": 45,
+    "reasons": [
+      "Positioning fit (vendor)",
+      "AI signal (AI, RAG)",
+      "Resume fit ~20%",
+      "Remote"
+    ],
+    "fetchedAt": "2026-08-26T12:38:07.357Z"
+  },
+  {
+    "id": "NDBBa2xqV2pmclNFdzRlLUFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBUSFZRY1hSdmJuWlZiQzFKT1RCblpuZHNTbXRyWm10V1ZsUlljV2xRT1RZNFpXOXBUbnBNTXpaSGVHSTFPRTVVWlZKclZGTnFhMGd0WlVJeFQyMXlhMGRZV1hVeVdFYzFOMjlZTFVoZlNrWnpiR3BYWm1VM1ZrWmFkWFZ2YUd0bGMyRmtVM2wzY2toVlFYSnZWRmxYYlRoallsaHJVRmxhTUhvNWNtVnBPV2xWYTBsUGRWVVNGMGxPTms5aGMyNTZTR0pFWWpKeWIxQTJjbGRXY1ZFNEdpSkJSSE55T1daUmQwaHBZVEZHUzIwMFdFRmhVbXh4WVRKNk1tNHpVMGg1VjJkUg",
+    "fingerprint": "product manager new product development|health monitor network|-cds60f",
+    "title": "Product Manager, New Product Development",
+    "company": "Health Monitor Network",
+    "location": "Montvale, New Jersey",
+    "locations": [
+      "Montvale, New Jersey"
+    ],
+    "remote": false,
+    "posted": "2026-08-25T18:00:00.000Z",
+    "salaryMin": 95,
+    "salaryMax": 120,
+    "url": "https://www.linkedin.com/jobs/view/product-manager-new-product-development-at-health-monitor-network-4459013511",
+    "source": "LinkedIn",
+    "score": 22,
+    "reasons": [
+      "Positioning fit (platform, B2B, vendor)",
+      "AI signal (AI, ML, RAG)",
+      "Resume fit ~24%",
+      "Outside target markets"
+    ],
+    "fetchedAt": "2026-08-26T12:38:07.356Z"
+  },
+  {
+    "id": "U2kzZnlueFpLRjhPenZRa0FBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTMjVyTVZWR2RHWkxOMEpNVjA1T1ptaHpjRFZmYzBGWlRUSXdkVnBEYjFwMVFVTTFhMUpvWTNaTU5WaEZWM2xuY0hkU1VFMDNia1JIZVRWaWQwUXhhazFwUVZnNFdXdFljMFpxVUZsTFNHbFljRXBMV214aE1WbzFkVVkxWm1WdVJrNDVVakZuVGxaWk1uTnhPVVp1VTA0MFl6RmxXRll5T1RsNWNHb3RVMlJxUlUwMk5sb1NGMGxPTms5aGMyNTZTR0pFWWpKeWIxQTJjbGRXY1ZFNEdpSkJSSE55T1daVGF6WnZUMUpWUVRCek0xOW1WSGh1VkZoVVVtaHZiMDlHZGtkbg",
+    "fingerprint": "principal product manager experience and platform|geico|ha1na6",
+    "title": "Principal Product Manager - Experience and Platform",
+    "company": "GEICO",
+    "location": "Bethesda, Maryland",
+    "locations": [
+      "Bethesda, Maryland"
+    ],
+    "remote": false,
+    "posted": "2026-08-26T00:00:00.000Z",
+    "salaryMin": 140425,
+    "salaryMax": 229600,
+    "url": "https://www.linkedin.com/jobs/view/principal-product-manager-experience-and-platform-at-geico-4457655778",
+    "source": "LinkedIn",
+    "score": 22,
+    "reasons": [
+      "Positioning fit (platform)",
+      "AI signal (AI, LLM, machine learning)",
+      "Comp disclosed ≥ $175K",
+      "Resume fit ~20%",
+      "Outside target markets"
+    ],
+    "fetchedAt": "2026-08-26T12:38:07.354Z"
+  },
+  {
+    "id": "dFg1TWx5ZE0wb01wQ3dUZEFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTVkJXZVdkMVNYbzRZbGxIWWkxbVYwRldWMmRSTTBvMWJsOTZjREpvTUZsR0xXcDFkWFpPUVRSQk5FUjFkbWwxTkUwMVVXcFJURGd5Tm10b2NucDBSbXBwUzA0NU5rdHZWRGhPTlhkb2EyczNVbmhYUzBoc1R6VnlRamgxVDJKMmQwdzRWVGx6YVVOU2VVSnBRemxFVDFwUE5YcFJkbmRJWldWSVJrRjJRMGRITFhFMlQyVVNGMGxPTms5aGMyNTZTR0pFWWpKeWIxQTJjbGRXY1ZFNEdpSkJSSE55T1daU1RuZFFRMjVpWDAxSVFYRjFORkZrTmxSaVVrSndZazFwTURsMw",
+    "fingerprint": "product manager|haystack|ty5p3o",
+    "title": "Product Manager",
+    "company": "Haystack",
+    "location": "Oak Grove, North Carolina",
+    "locations": [
+      "Oak Grove, North Carolina"
+    ],
+    "remote": false,
+    "posted": "2026-08-26T00:00:00.000Z",
+    "salaryMin": null,
+    "salaryMax": null,
+    "url": "https://www.linkedin.com/jobs/view/product-manager-at-haystack-4459085563",
+    "source": "LinkedIn",
+    "score": 9,
+    "reasons": [
+      "Positioning fit (platform, enterprise)",
+      "AI signal (AI)",
+      "Resume fit ~21%",
+      "Outside target markets"
+    ],
+    "fetchedAt": "2026-08-26T12:38:07.354Z"
+  },
+  {
+    "id": "VHJxWHA4V05nam1mdnJFZEFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTbTVUYVRCa1dsaFVNRTlZTW1wTFJ6ZFJTbVJ2TWpseWRWVjNVR3A2VVVNMExVaERSRmxOUlZoSFdGUkNUVE42YWt4dVowbHNRbU4wVEdwV1Zsb3pWV3hrU2tabFVtWjZWbTFMU3pNeWRqbFVlVUkxVjBVMGRUTllZMlpJYkhGdVduZEZibUZaV21KM1UzTmtXR1ZXYm5Gd2RrNVJVSHBRZEVkcWRHOTBNMmxaYkdoek4wd1NGMGxPTms5aGMyNTZTR0pFWWpKeWIxQTJjbGRXY1ZFNEdpSkJSSE55T1daVWQwaEhRVFZTYlZjM1NWTmpUMHBCWkc5QmFITmxUMk5yTUVGUg",
+    "fingerprint": "product manager|eteam|s7ei2i",
+    "title": "Product Manager",
+    "company": "eTeam",
+    "location": "Walkersville, Maryland",
+    "locations": [
+      "Walkersville, Maryland"
+    ],
+    "remote": false,
+    "posted": "2026-08-25T14:00:00.000Z",
+    "salaryMin": null,
+    "salaryMax": null,
+    "url": "https://www.linkedin.com/jobs/view/product-manager-at-eteam-4458762917",
+    "source": "LinkedIn",
+    "score": 3,
+    "reasons": [
+      "Positioning fit (operations, supply)",
+      "AI signal (AI)",
+      "Resume fit ~16%",
+      "Outside target markets"
+    ],
+    "fetchedAt": "2026-08-26T12:38:07.352Z"
+  },
+  {
+    "id": "c0c1ZXFDYkFZUXh6dnJXS0FBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBURVpKU0VWMmREWkNPRmg2ZFVJMGMyVkxVa2hpTUhwNlIweFRRa2hETFRWemJURldaV0ZtVWt4dGVtVTJiaTFxT1VKbVlYbDNaVzlPTWxKTmNVdE5UbTlYZVZGalRHcHRaalZyYTJrNVpFOU5ZMkpVVm5CYVlteHZkVUpPUTNwclpYTk9WVTlSVEV0ZlUwdHRlVGN3UTNCR2N6VnlSVGhFY21kUmVGWldaekJvVmpKd05sSVNGMGxPTms5aGMyNTZTR0pFWWpKeWIxQTJjbGRXY1ZFNEdpSkJSSE55T1daU1VFbFNTemRFVG01R2FqbDZUSEZrVGpSVFdYWkVWRTlGY25KQg",
+    "fingerprint": "product manager energy|tech jobs for good|jnr85u",
+    "title": "Product Manager - Energy",
+    "company": "Tech Jobs for Good",
+    "location": "Washington, District of Columbia",
+    "locations": [
+      "Washington, District of Columbia"
+    ],
+    "remote": false,
+    "posted": "2026-08-25T15:00:00.000Z",
+    "salaryMin": null,
+    "salaryMax": null,
+    "url": "https://www.linkedin.com/jobs/view/product-manager-energy-at-tech-jobs-for-good-4458795175",
+    "source": "LinkedIn",
+    "score": -10,
+    "reasons": [
+      "AI signal (AI)",
+      "Resume fit ~12%",
+      "Outside target markets"
+    ],
+    "fetchedAt": "2026-08-26T12:38:07.350Z"
+  },
+  {
     "id": "Y2hZSGp2WTFUMmMxYl93ZUFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTakpPWTNONVRWaFdkbFU1TUhGR2RtcFZTbmQ2VDB0QmQwSk1VMVpEVkZCMk5HZFVkblZJTlZGaU9WRjZjbXRtU1U5T2VGQktZMjV1TkRjM1gwdHBOeTAwWkVKd2EwNUNSMTlhZEVWdlVqUnNaREpsWkVOcVJGWmxRelowUm5OSUxVWndablZaU1dweU5FWjZZaTFaYUdNeWMxaHZjek0xV21WNlpqTldaakF3VlVwRU1VOFNGelJaZFU1aGNHMDJSbVZxVUd0UVNWQTJjMVJ5TkVGekdpSkJSSE55T1daUmVuSjVMVk5zTjJWYVlsSklSazk2TVV0WE9ETlRibTVDV21oMw",
     "fingerprint": "principal product manager time to first production|camunda|-8cyes",
     "title": "Principal Product Manager- Time to First Production",
