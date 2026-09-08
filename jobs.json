@@ -1,5 +1,174 @@
 [
   {
+    "id": "YmluZzoxNzIzNDQ0MTY2LlJldHJv",
+    "fingerprint": "group product manager|brex|-vy76hd",
+    "title": "Group Product Manager",
+    "company": "Brex",
+    "location": "New York, New York",
+    "locations": [
+      "New York, New York"
+    ],
+    "remote": false,
+    "posted": "2026-09-07T06:43:57.000Z",
+    "salaryMin": null,
+    "salaryMax": null,
+    "url": "https://www.linkedin.com/jobs/view/group-product-manager-at-brex-4379097963?trk=bingjobs",
+    "source": "LinkedIn",
+    "score": 115,
+    "reasons": [
+      "Target company (Brex)",
+      "Senior/Group title",
+      "Positioning fit (platform, B2B, operations)",
+      "AI signal (AI, LLM, ML)",
+      "Resume fit ~26%",
+      "Visibility location"
+    ],
+    "fetchedAt": "2026-09-08T15:47:55.848Z"
+  },
+  {
+    "id": "YmluZzotODA0NDY2MTQxLlJldHJv",
+    "fingerprint": "group product manager voice experiences on search|google|5qcm5b",
+    "title": "Group Product Manager, Voice Experiences On Search",
+    "company": "Google",
+    "location": "San Francisco, California",
+    "locations": [
+      "San Francisco, California"
+    ],
+    "remote": false,
+    "posted": "2026-09-07T06:33:42.000Z",
+    "salaryMin": null,
+    "salaryMax": null,
+    "url": "https://www.linkedin.com/jobs/view/group-product-manager-voice-experiences-on-search-at-google-4462959168?trk=bingjobs",
+    "source": "LinkedIn",
+    "score": 92,
+    "reasons": [
+      "Target company (Google)",
+      "Senior/Group title",
+      "AI signal (AI, LLM, machine learning)",
+      "Resume fit ~13%",
+      "Priority location (Chicago/Bay Area)"
+    ],
+    "fetchedAt": "2026-09-08T15:47:55.847Z"
+  },
+  {
+    "id": "YmluZzoxNjM1NjczMTQ1LlJldHJv",
+    "fingerprint": "senior product manager digital marketing|palo alto networks|-1f31cg",
+    "title": "Senior Product Manager, Digital Marketing",
+    "company": "Palo Alto Networks",
+    "location": "Santa Clara, California",
+    "locations": [
+      "Santa Clara, California"
+    ],
+    "remote": false,
+    "posted": "2026-09-07T08:13:04.000Z",
+    "salaryMin": null,
+    "salaryMax": null,
+    "url": "https://www.linkedin.com/jobs/view/senior-product-manager-digital-marketing-at-palo-alto-networks-4398858521?trk=bingjobs",
+    "source": "LinkedIn",
+    "score": 29,
+    "reasons": [
+      "Senior/Group title",
+      "Positioning fit (platform, B2B, operations)",
+      "AI signal (AI, ML)",
+      "Resume fit ~17%",
+      "Outside target markets"
+    ],
+    "fetchedAt": "2026-09-08T15:47:55.846Z"
+  },
+  {
+    "id": "YmluZzotNTUzOTg2MzMyLlJldHJv",
+    "fingerprint": "product manager limb recon osseointegration|alm ortho inc|580oii",
+    "title": "Product Manager, Limb Recon. & Osseointegration",
+    "company": "ALM Ortho, Inc.",
+    "location": "ME, US",
+    "locations": [
+      "ME, US"
+    ],
+    "remote": false,
+    "posted": "2026-09-07T06:39:39.000Z",
+    "salaryMin": null,
+    "salaryMax": null,
+    "url": "https://www.linkedin.com/jobs/view/product-manager-limb-recon-osseointegration-at-alm-ortho-inc-4324663322?trk=bingjobs",
+    "source": "LinkedIn",
+    "score": 9,
+    "reasons": [
+      "Positioning fit (platform)",
+      "AI signal (AI, ML, RAG)",
+      "Resume fit ~16%",
+      "Outside target markets"
+    ],
+    "fetchedAt": "2026-09-08T15:47:55.845Z"
+  },
+  {
+    "id": "YmluZzozODMwNTc5ODQuUmV0cm8",
+    "fingerprint": "sr product manager ii clinicalkey nursing|gigfinder ai|wlfv",
+    "title": "Sr Product Manager II, Clinicalkey Nursing",
+    "company": "GigFinder.ai",
+    "location": "IN, US",
+    "locations": [
+      "IN, US"
+    ],
+    "remote": false,
+    "posted": "2026-09-07T09:42:52.000Z",
+    "salaryMin": null,
+    "salaryMax": null,
+    "url": "https://www.linkedin.com/jobs/view/sr-product-manager-ii-clinicalkey-nursing-at-gigfinder-ai-4462956867?trk=bingjobs",
+    "source": "LinkedIn",
+    "score": 19,
+    "reasons": [
+      "Positioning fit (platform, SaaS, enterprise)",
+      "AI signal (AI, ML)",
+      "Resume fit ~21%",
+      "Outside target markets"
+    ],
+    "fetchedAt": "2026-09-08T15:47:55.844Z"
+  },
+  {
+    "id": "YmluZzo4ODQwNTEyNTQuUmV0cm8",
+    "fingerprint": "technical product manager|haystack|-dtqb61",
+    "title": "Technical Product Manager",
+    "company": "Haystack",
+    "location": "TN, US",
+    "locations": [
+      "TN, US"
+    ],
+    "remote": false,
+    "posted": "2026-09-07T12:56:16.000Z",
+    "salaryMin": null,
+    "salaryMax": null,
+    "url": "https://www.linkedin.com/jobs/view/technical-product-manager-at-haystack-4462228606?trk=bingjobs",
+    "source": "LinkedIn",
+    "score": -4,
+    "reasons": [
+      "AI signal (AI, RAG)",
+      "Resume fit ~13%",
+      "Outside target markets"
+    ],
+    "fetchedAt": "2026-09-08T15:47:55.843Z"
+  },
+  {
+    "id": "YmluZzoxODAzNDc0NDQ2LlJldHJv",
+    "fingerprint": "product manager|haystack|47gnq6",
+    "title": "Product Manager",
+    "company": "Haystack",
+    "location": "GA, US",
+    "locations": [
+      "GA, US"
+    ],
+    "remote": false,
+    "posted": "2026-09-06T18:25:31.000Z",
+    "salaryMin": null,
+    "salaryMax": null,
+    "url": "https://www.linkedin.com/jobs/view/product-manager-at-haystack-4462920252?trk=bingjobs",
+    "source": "LinkedIn",
+    "score": -14,
+    "reasons": [
+      "Resume fit ~14%",
+      "Outside target markets"
+    ],
+    "fetchedAt": "2026-09-08T15:47:55.842Z"
+  },
+  {
     "id": "cTlRczJxbFJXVzUwc0ppZ0FBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTMFYzUmpSTUxYUXpjMkoxUkZOeFlrOXRRMUJDWVZkaGVYSnlkWFZaVWpCVVozUTNibEF0VnpsV2VHUnhZemhyTjBaaVVGUmFWa2RQVHpkQ2FVOWpNVXRSY1dOSFJrUm1lVGRGWTNOU1drcHBVMTlYVWtselgyWnNhSEJ3VFhKT2NHcFdTMVY1YWxKamFHaHJka1JqUzFWRVJFbzJXVE5vYVRGRmFIVnJYMGMyTUdwR1ExOFNGMHBrTms5aGMxOW5SV1pUUXpKeWIxQnhZbGhWY1ZGM0dpSkJSSE55T1daVFpXeDBaa2N3V1d0bGFrNVRkVkp4WlRCdWJFSldWMVE1TTNSbg",
     "fingerprint": "sr product manager mapping|rivian and volkswagen group technologies|-kqwczb",
     "title": "Sr. Product Manager, Mapping",
