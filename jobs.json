@@ -1,5 +1,199 @@
 [
   {
+    "id": "YmluZzotMjA5NjAwMzk0LlJldHJv",
+    "fingerprint": "principal data product manager|gebbs consulting|drkzec",
+    "title": "Principal Data Product Manager",
+    "company": "GeBBS Consulting",
+    "location": "MD, US",
+    "locations": [
+      "MD, US"
+    ],
+    "remote": false,
+    "posted": "2026-09-08T12:45:57.000Z",
+    "salaryMin": null,
+    "salaryMax": null,
+    "url": "https://www.linkedin.com/jobs/view/principal-data-product-manager-at-gebbs-consulting-4463536922?trk=bingjobs",
+    "source": "LinkedIn",
+    "score": 0,
+    "reasons": [
+      "AI signal (AI, ML)",
+      "Resume fit ~17%",
+      "Outside target markets"
+    ],
+    "fetchedAt": "2026-09-09T15:43:45.982Z"
+  },
+  {
+    "id": "YmluZzoxODIzMzA3MjgzLlJldHJv",
+    "fingerprint": "hardware platform product manager|nexthop ai|dtkwcj",
+    "title": "Hardware Platform Product Manager",
+    "company": "Nexthop AI",
+    "location": "CA, US",
+    "locations": [
+      "CA, US"
+    ],
+    "remote": false,
+    "posted": "2026-09-07T22:32:47.000Z",
+    "salaryMin": null,
+    "salaryMax": null,
+    "url": "https://www.linkedin.com/jobs/view/hardware-platform-product-manager-at-nexthop-ai-4463230562?trk=bingjobs",
+    "source": "LinkedIn",
+    "score": 16,
+    "reasons": [
+      "Positioning fit (platform, operations, network)",
+      "AI signal (AI, ML)",
+      "Resume fit ~19%",
+      "Outside target markets"
+    ],
+    "fetchedAt": "2026-09-09T15:43:45.982Z"
+  },
+  {
+    "id": "YmluZzotMjEzMTQ3OTUwMS5SZXRybw",
+    "fingerprint": "principal product manager ava ai|genesys|-jqqprr",
+    "title": "Principal Product Manager, AVA AI",
+    "company": "Genesys",
+    "location": "MA, US",
+    "locations": [
+      "MA, US"
+    ],
+    "remote": false,
+    "posted": "2026-09-08T08:16:12.000Z",
+    "salaryMin": null,
+    "salaryMax": null,
+    "url": "https://www.linkedin.com/jobs/view/principal-product-manager-ava-ai-at-genesys-4457498113?trk=bingjobs",
+    "source": "LinkedIn",
+    "score": 29,
+    "reasons": [
+      "Positioning fit (platform, SaaS, enterprise)",
+      "AI signal (AI, LLM, agent)",
+      "Resume fit ~27%",
+      "Outside target markets"
+    ],
+    "fetchedAt": "2026-09-09T15:43:45.981Z"
+  },
+  {
+    "id": "YmluZzoxNDkzMjgzNzcuUmV0cm8",
+    "fingerprint": "enterprise ai product manager|the carlyle group|-qd2fwu",
+    "title": "Enterprise AI Product Manager",
+    "company": "The Carlyle Group",
+    "location": "DC, US",
+    "locations": [
+      "DC, US"
+    ],
+    "remote": false,
+    "posted": "2026-09-08T12:06:18.000Z",
+    "salaryMin": null,
+    "salaryMax": null,
+    "url": "https://www.linkedin.com/jobs/view/enterprise-ai-product-manager-at-the-carlyle-group-4440085519?trk=bingjobs",
+    "source": "LinkedIn",
+    "score": 25,
+    "reasons": [
+      "Positioning fit (platform, vendor, enterprise)",
+      "AI signal (AI, GPT, agent)",
+      "Resume fit ~22%",
+      "Outside target markets"
+    ],
+    "fetchedAt": "2026-09-09T15:43:45.979Z"
+  },
+  {
+    "id": "YmluZzo4ODg3NDEyOTAuUmV0cm8",
+    "fingerprint": "product manager|evoto ai|-ycgm31",
+    "title": "Product Manager",
+    "company": "Evoto AI",
+    "location": "CA, US",
+    "locations": [
+      "CA, US"
+    ],
+    "remote": false,
+    "posted": "2026-09-07T18:46:02.000Z",
+    "salaryMin": null,
+    "salaryMax": null,
+    "url": "https://www.linkedin.com/jobs/view/product-manager-at-evoto-ai-4462982960?trk=bingjobs",
+    "source": "LinkedIn",
+    "score": 4,
+    "reasons": [
+      "Positioning fit (operations, SaaS)",
+      "AI signal (AI)",
+      "Resume fit ~17%",
+      "Outside target markets"
+    ],
+    "fetchedAt": "2026-09-09T15:43:45.978Z"
+  },
+  {
+    "id": "YmluZzo1NTc2Njg4MDEuUmV0cm8",
+    "fingerprint": "senior product manager legal platform|rocket lawyer|-evgtvd",
+    "title": "Senior Product Manager, Legal Platform",
+    "company": "Rocket Lawyer",
+    "location": "AZ, US",
+    "locations": [
+      "AZ, US"
+    ],
+    "remote": false,
+    "posted": "2026-09-08T07:58:01.000Z",
+    "salaryMin": null,
+    "salaryMax": null,
+    "url": "https://www.linkedin.com/jobs/view/senior-product-manager-legal-platform-at-rocket-lawyer-4455533389?trk=bingjobs",
+    "source": "LinkedIn",
+    "score": 38,
+    "reasons": [
+      "Senior/Group title",
+      "Positioning fit (marketplace, platform, B2B)",
+      "AI signal (AI, ML, agent)",
+      "Resume fit ~20%",
+      "Outside target markets"
+    ],
+    "fetchedAt": "2026-09-09T15:43:45.977Z"
+  },
+  {
+    "id": "YmluZzotNDUxOTYyMzc3LlJldHJv",
+    "fingerprint": "senior product manager ai foundry team|prophet|jvi5fr",
+    "title": "Senior Product Manager — AI Foundry Team",
+    "company": "Prophet",
+    "location": "NY, US",
+    "locations": [
+      "NY, US"
+    ],
+    "remote": false,
+    "posted": "2026-09-08T09:54:16.000Z",
+    "salaryMin": null,
+    "salaryMax": null,
+    "url": "https://www.linkedin.com/jobs/view/senior-product-manager-%E2%80%94-ai-foundry-team-at-prophet-4420695074?trk=bingjobs",
+    "source": "LinkedIn",
+    "score": 43,
+    "reasons": [
+      "Senior/Group title",
+      "Positioning fit (platform, vendor, workflow automation)",
+      "AI signal (AI, LLM, ML)",
+      "Resume fit ~25%",
+      "Outside target markets"
+    ],
+    "fetchedAt": "2026-09-09T15:43:45.976Z"
+  },
+  {
+    "id": "YmluZzoxMzI2MjYyMDYzLlJldHJv",
+    "fingerprint": "senior product manager intelligence products|dtn|vhf5k7",
+    "title": "Senior Product Manager, Intelligence Products",
+    "company": "DTN",
+    "location": "MN, US",
+    "locations": [
+      "MN, US"
+    ],
+    "remote": false,
+    "posted": "2026-09-08T06:36:30.000Z",
+    "salaryMin": null,
+    "salaryMax": null,
+    "url": "https://www.linkedin.com/jobs/view/senior-product-manager-intelligence-products-at-dtn-4443218025?trk=bingjobs",
+    "source": "LinkedIn",
+    "score": 42,
+    "reasons": [
+      "Senior/Group title",
+      "Positioning fit (platform, B2B, operations)",
+      "AI signal (AI, machine learning, RAG)",
+      "Resume fit ~24%",
+      "Outside target markets"
+    ],
+    "fetchedAt": "2026-09-09T15:43:45.974Z"
+  },
+  {
     "id": "YmluZzoxNzIzNDQ0MTY2LlJldHJv",
     "fingerprint": "group product manager|brex|-vy76hd",
     "title": "Group Product Manager",
