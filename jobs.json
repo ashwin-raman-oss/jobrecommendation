@@ -1,5 +1,29 @@
 [
   {
+    "id": "YmluZzoyNTAxNjc3MTEuUmV0cm8",
+    "fingerprint": "sr product manager|the home depot|-v3hw5n",
+    "title": "SR PRODUCT MANAGER",
+    "company": "The Home Depot",
+    "location": "Atlanta, Georgia",
+    "locations": [
+      "Atlanta, Georgia"
+    ],
+    "remote": false,
+    "posted": "2026-09-11T03:17:32.000Z",
+    "salaryMin": null,
+    "salaryMax": null,
+    "url": "https://www.linkedin.com/jobs/view/sr-product-manager-at-the-home-depot-4464580082?trk=bingjobs",
+    "source": "LinkedIn",
+    "score": 11,
+    "reasons": [
+      "Positioning fit (marketplace, enterprise)",
+      "AI signal (AI)",
+      "Resume fit ~23%",
+      "Outside target markets"
+    ],
+    "fetchedAt": "2026-09-12T14:47:23.363Z"
+  },
+  {
     "id": "YmluZzoxNDgzNDMwNzQyLlJldHJv",
     "fingerprint": "senior product manager data analytics platform|intermedia intelligent communications|-1o00n9",
     "title": "Senior Product Manager - Data & Analytics Platform",
@@ -4876,30 +4900,5 @@
       "Outside target markets"
     ],
     "fetchedAt": "2026-08-06T13:49:28.981Z"
-  },
-  {
-    "id": "SlUySjZXOWFCblI0WWg3SEFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBURUpyYmpCd1dsWnpaMFpDZWxCSVdrWkViV1p2UTBwTFVWbHRkVVozZFhkS1VYazNORFo1VW0xRFNXWXdhekZ3ZEZrM1NVTlJSSE5NUVVGQlJtWkdNbEExTFdjdFRtRnpPVlJzTlZGUFpIbEVZMU5qYkdZdFV6UnNiRjl5TFZjelpIbHJYMlo0UTFoME1VWTFXVlU1Wlhsc2JVcE9jRGxxYVdNNE1XZFFiMEphWkRkWU5uY1NGM2h3UWpCaGRYVXRUamR4U2psMU9GQXlTV1ZyTWtGckdpSkJSSE55T1daU1NrSmhUekJZY1V4c1ExQnlZVUpPVGpaWE0xWXlibmhuWnpGbg",
-    "fingerprint": "product manager search|airbnb|chx0ld",
-    "title": "Product Manager, Search",
-    "company": "Airbnb",
-    "location": "Not specified",
-    "locations": [
-      "Not specified"
-    ],
-    "remote": true,
-    "posted": "2026-08-05T19:00:00.000Z",
-    "salaryMin": null,
-    "salaryMax": null,
-    "url": "https://www.linkedin.com/jobs/view/product-manager-search-at-airbnb-4449900253",
-    "source": "LinkedIn",
-    "score": 88,
-    "reasons": [
-      "Target company (Airbnb)",
-      "Positioning fit (operations)",
-      "AI signal (AI, LLM, ML)",
-      "Resume fit ~19%",
-      "Remote"
-    ],
-    "fetchedAt": "2026-08-06T13:49:28.980Z"
   }
 ]
