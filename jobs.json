@@ -1,5 +1,174 @@
 [
   {
+    "id": "R01uZDdtb2piaWZMNGRMb0FBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBURkZZVTNSaFFVVjZSV0oxTFRGS1Nsb3pOVVV4Y2t0VGVtRlpNRk5PU1dKTlRFSmZkRlF6ZFRKV1Z6RktVek55VVRobmNHcHJYM2hvVmpCeVJXZGFTRVF6VURCbFkzQm1Na2N0V21ac2QycE9VVTkwYjJsc01GaDVWVVYzTkhOSUxWOVhSR2haWlU0MU1HSjJkMUJEVUdOemFuTnRUM2xSZEhwZlVHMHlZbTlqVFhCQ1pGb1NGMFZYZVhCaGMwZG1RalZwYm5GMGMxQjVjR3B4YVVGVkdpSkJSSE55T1daU1JHWmhUV2RqWWpoTlExZDBTRkZzY2prelptNXdabUp2ZVVsMw",
+    "fingerprint": "product manager|bowers group|43oxkb",
+    "title": "Product Manager",
+    "company": "Bowers Group",
+    "location": "US",
+    "locations": [
+      "US"
+    ],
+    "remote": false,
+    "posted": "2026-09-15T01:00:00.000Z",
+    "salaryMin": null,
+    "salaryMax": null,
+    "url": "https://www.linkedin.com/jobs/view/product-manager-at-bowers-group-4467422162",
+    "source": "LinkedIn",
+    "score": -8,
+    "reasons": [
+      "AI signal (AI)",
+      "Resume fit ~15%",
+      "Outside target markets"
+    ],
+    "fetchedAt": "2026-09-15T16:02:31.313Z"
+  },
+  {
+    "id": "SC1nUDhrd2Y1R05QZXhnSUFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTMGR5WkVwYVlrRXlTa2hwT1hkQ2FXMVhTMUF3UVU5RWRFUlFlbXhHTFVWblJFdFVXazFNVjB0YU5IbDFTV0pYWkZGUmIwWm5iVkpNYW5CbFQzSkJSazl5WTI1SldGcHdkME5HVTFSeFR6SlNaa1ZtYUZGdVUyeFROM0pOT1VkUE1UUkdWSGRNYVdWNE5rWmhZakJoVERoVFptMHpUMVV4YVhCVE9HcFNNbTQwUTBReFdEWVNGekJIZFhCaGRETmZSblp5ZG5ObFRWQTJTbWxLYTBFNEdpSkJSSE55T1daVE5XMW1SbVZGUTNCUGRXeFdUMEZhYmtKNmJXOXBTRTUxYlVSbg",
+    "fingerprint": "sr product manager digital buying selling|lennar|78kspv",
+    "title": "Sr. Product Manager - Digital Buying & Selling",
+    "company": "Lennar",
+    "location": "Atlanta, Georgia",
+    "locations": [
+      "Atlanta, Georgia"
+    ],
+    "remote": false,
+    "posted": "2026-09-15T04:00:00.000Z",
+    "salaryMin": null,
+    "salaryMax": null,
+    "url": "https://www.linkedin.com/jobs/view/sr-product-manager-digital-buying-selling-at-lennar-4467436833",
+    "source": "LinkedIn",
+    "score": 20,
+    "reasons": [
+      "Senior/Group title",
+      "AI signal (AI, ML, RAG)",
+      "Resume fit ~17%",
+      "Outside target markets"
+    ],
+    "fetchedAt": "2026-09-15T16:02:31.312Z"
+  },
+  {
+    "id": "aFlEY293bXlaUjFVWHJTbkFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTakZ4UTFaYVFYcFRUSEpDV21WVldYQmZNa0pPUjFReE5GOURaRkpNV0RGQ2QyaFJNMmxLZFdOQ2NWTlZiblV3ZGs1MVMzUlFORGxqUkdWamNWRnRaMlpLVUhkMWVVeEVVbEJrTlRGbk5Fc3lVRTl1U0VKZlJtOHlObEk1ZEhkNGQxcFhVblZSVTI5SlJUQXRRbmhHYkhoUVl6Z3djSEoyU0c5RU16RnNPWGhHWWtWM1pWWVNGM2x0ZFhCaGRHSTRSRTVoVUhObFRWQnROa2REYjBGdkdpSkJSSE55T1daUldWSkhaMUJZWkRoVldFNXplVEJqTTNsWFluaG5aRzlSUkhwbg",
+    "fingerprint": "global financial crimes product manager|bank of america|easakw",
+    "title": "Global Financial Crimes Product Manager",
+    "company": "Bank of America",
+    "location": "Newark, Delaware",
+    "locations": [
+      "Newark, Delaware"
+    ],
+    "remote": false,
+    "posted": "2026-09-14T22:00:00.000Z",
+    "salaryMin": null,
+    "salaryMax": null,
+    "url": "https://www.linkedin.com/jobs/view/global-financial-crimes-product-manager-at-bank-of-america-4467296146",
+    "source": "LinkedIn",
+    "score": 12,
+    "reasons": [
+      "Positioning fit (platform)",
+      "AI signal (AI, machine learning)",
+      "Resume fit ~24%",
+      "Outside target markets"
+    ],
+    "fetchedAt": "2026-09-15T16:02:31.311Z"
+  },
+  {
+    "id": "dWdpNThSRHJUSFZYMmxBakFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTMjVHTFZZMGNESldhbTVDVFd4VWJYQnNOR1JoTmxONGNYQXdhamhUVFRKRlFWSlVZVWhaTFhCS2NsQm1Zbmx6V2taS2VUTlpaWEZHUW1KblJFSmxUREJpY0ZGdFltcEpSVE5aTWxkdVRISkthbEIwWm5kV2RsWmtkalJSU1hGemVFeEJRMjVuYjA4elZrVTNkekZKVFdWNVJFRnJMVnBRUjFkVVdUbHZRbkpWU25OdWVEZ1NGM2x0ZFhCaGRHSTRSRTVoVUhObFRWQnROa2REYjBGdkdpSkJSSE55T1daVU5VTkJSV3B3TnpaZldqUlNTek15VG5odVlrTlZlVGRJTUc5bg",
+    "fingerprint": "data product manager|american modern insurance group|-2plpri",
+    "title": "Data Product Manager",
+    "company": "American Modern Insurance Group",
+    "location": "Princeton, New Jersey",
+    "locations": [
+      "Princeton, New Jersey"
+    ],
+    "remote": false,
+    "posted": "2026-09-14T19:00:00.000Z",
+    "salaryMin": null,
+    "salaryMax": null,
+    "url": "https://www.linkedin.com/jobs/view/data-product-manager-at-american-modern-insurance-group-4467247447",
+    "source": "LinkedIn",
+    "score": 15,
+    "reasons": [
+      "Positioning fit (marketplace, platform, vendor)",
+      "AI signal (AI, RAG)",
+      "Resume fit ~18%",
+      "Outside target markets"
+    ],
+    "fetchedAt": "2026-09-15T16:02:31.310Z"
+  },
+  {
+    "id": "MXJiQ3FPM290OWRBY1pVekFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTWE5YWkRSbE1sUTJNVXQ2VW5scFZ6RTBWVlpKTkZWSlNXVndUbFYzYzNOVkxXZDRNMDlPWHpaRVEyaFRVMWx6V1dsMWFYWkpjRnA1UjBJMldFVktiR1l0ZURRd04yMUVhSFZ5WVZCNlNHSnZYemxTUzBoNFFVOVpXVE5UYm10ZmIwcEVTRGQ1UVdsQ1dqZFVjV2xuUTJZeVkwcERaMUZQYlMxbVprNXpVMUJMWVhkcFoxY1NGM2x0ZFhCaGRHSTRSRTVoVUhObFRWQnROa2REYjBGdkdpSkJSSE55T1daU1dHRXpVVlkzVURGRlMwaDBaa1ZmWW01SFFtMW9WelY1Y0VkMw",
+    "fingerprint": "senior product manager technical aerospace edge solutions aes|amazon web services aws|-888u74",
+    "title": "Senior Product Manager Technical , Aerospace Edge Solutions (AES)",
+    "company": "Amazon Web Services (AWS)",
+    "location": "Herndon, Virginia",
+    "locations": [
+      "Herndon, Virginia"
+    ],
+    "remote": false,
+    "posted": "2026-09-15T00:00:00.000Z",
+    "salaryMin": null,
+    "salaryMax": null,
+    "url": "https://www.linkedin.com/jobs/view/senior-product-manager-technical-aerospace-edge-solutions-aes-at-amazon-web-services-aws-4467299699",
+    "source": "LinkedIn",
+    "score": 101,
+    "reasons": [
+      "Target company (Amazon)",
+      "Senior/Group title",
+      "Positioning fit (platform, operations, supply)",
+      "AI signal (AI, ML, RAG)",
+      "Resume fit ~19%"
+    ],
+    "fetchedAt": "2026-09-15T16:02:31.309Z"
+  },
+  {
+    "id": "YVA4NGxuR2hQdEVnaWtxYUFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBURUpsU1RWQ1ZqUlhXVTlLYVc5WFYzRTFWbmg1WkhjemFGZzNiMjR5WjNscFJEQXdlRXBIZEc5TlNFMTVTUzFrTldsWGFqRTRaR3BxYm1ObWEyaE9VRGR4TlU1alVVbFBZbmRrUkVSck9XNUpNMnh3ZGxCTVl5MHlhMkZrWXpsdFZYRjZaWEIzWmpFM2VUTTJOVGhaVGtVM1FUUlNSMFJNYm1SemQybFpWVVpyYlV4MVFsa1NGM2x0ZFhCaGRHSTRSRTVoVUhObFRWQnROa2REYjBGdkdpSkJSSE55T1daVVpUVTFTbmxGWDAxM1FrSnFZbGhuVm5keU5XZG1NRGxqTUY5bg",
+    "fingerprint": "product manager sr product manager|bosch usa|-wafpwj",
+    "title": "Product Manager / Sr. Product Manager",
+    "company": "Bosch USA",
+    "location": "Oakbrook Terrace, Illinois",
+    "locations": [
+      "Oakbrook Terrace, Illinois"
+    ],
+    "remote": false,
+    "posted": "2026-09-14T17:00:00.000Z",
+    "salaryMin": null,
+    "salaryMax": null,
+    "url": "https://www.linkedin.com/jobs/view/product-manager-sr-product-manager-at-bosch-usa-4465222889",
+    "source": "LinkedIn",
+    "score": 27,
+    "reasons": [
+      "Senior/Group title",
+      "Positioning fit (operations, supply)",
+      "AI signal (AI, RAG)",
+      "Resume fit ~19%",
+      "Outside target markets"
+    ],
+    "fetchedAt": "2026-09-15T16:02:31.307Z"
+  },
+  {
+    "id": "RjNWMHRsS2JsUEttZzZSY0FBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTM2xWYUd0WmRrMXhXbEIyYmtORVJVZHdhVUpLTWt0WVZFMHhTVVE0V2xCeFFWRllXazlaYjFONWJGbDVhRkowV2kxeVoxSnpiSG81YVhJMVNWUnRlamczWDFWalptbFlhamxaY1RkbGRGVmtka3MwUVdWWE1VTmhTMU14WDNGRVdVZGxWRWxRYzFKdmFVMUZUVUZTZWtWaFJYRlpVVFZ0UVZjMlEwOXZhR2RXUVdWNk5GY1NGM2x0ZFhCaGRHSTRSRTVoVUhObFRWQnROa2REYjBGdkdpSkJSSE55T1daVU9GVkxOSFphWmxObE0zTmlVM2cyVDBWa1FsbERZblphUVRkQg",
+    "fingerprint": "ai product manager|the hershey company|-mr34js",
+    "title": "AI Product Manager",
+    "company": "The Hershey Company",
+    "location": "Hershey, Pennsylvania",
+    "locations": [
+      "Hershey, Pennsylvania"
+    ],
+    "remote": false,
+    "posted": "2026-09-15T08:00:00.000Z",
+    "salaryMin": null,
+    "salaryMax": null,
+    "url": "https://www.linkedin.com/jobs/view/ai-product-manager-at-the-hershey-company-4466185838",
+    "source": "LinkedIn",
+    "score": 9,
+    "reasons": [
+      "Positioning fit (platform, enterprise)",
+      "AI signal (AI, agent, RAG)",
+      "Resume fit ~12%",
+      "Outside target markets"
+    ],
+    "fetchedAt": "2026-09-15T16:02:31.305Z"
+  },
+  {
     "id": "YmluZzoyNTAxNjc3MTEuUmV0cm8",
     "fingerprint": "sr product manager|the home depot|-v3hw5n",
     "title": "SR PRODUCT MANAGER",
@@ -4731,174 +4900,5 @@
       "Outside target markets"
     ],
     "fetchedAt": "2026-08-07T12:47:09.126Z"
-  },
-  {
-    "id": "OXJiWDFfZnBDc0F0YjJpSEFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTM0ZDUTNkWVgwdzFZa0pyUnpKTVJrMVZUVkZmZGtkS1NIWjZjbTFFYkZoSVJIVlRWbkEyZDE5aFVVUXdhRXMxTFdOeVRsTnlSMWhOYXpCMU4xOHhTVWd0ZFhkUExWQTNaRTVzYmpoQ1RGOUlORWxKVlY5Tk1rZDFVbkpaTm1kT2FYbEZWUzFIVlZSa1ZXVlpNMU5qVG1STU4zQTFUMFJvVGtGWVluUlJlREV0YVY5a2NsVVNGM04wVGpGaGNYVnVUbDl4Yld0UVNWQTRUVU5GZDBGWkdpSkJSSE55T1daVFFrbEhhMkZ4VFY5eGJEVjNPVWR2YWxVM1RHVlNla1pKUWtOMw",
-    "fingerprint": "ai ai entertainment product manager|aria studios inc|-gxg95o",
-    "title": "AI 엔터테인먼트 제품 매니저 | AI Entertainment Product Manager",
-    "company": "Aria Studios, Inc.",
-    "location": "Baxter, Tennessee",
-    "locations": [
-      "Baxter, Tennessee"
-    ],
-    "remote": false,
-    "posted": "2026-08-07T01:00:00.000Z",
-    "salaryMin": null,
-    "salaryMax": null,
-    "url": "https://www.linkedin.com/jobs/view/ai-%EC%97%94%ED%84%B0%ED%85%8C%EC%9D%B8%EB%A8%BC%ED%8A%B8-%EC%A0%9C%ED%92%88-%EB%A7%A4%EB%8B%88%EC%A0%80-ai-entertainment-product-manager-at-aria-studios-inc-4450031210",
-    "source": "LinkedIn",
-    "score": -7,
-    "reasons": [
-      "AI signal (AI, LLM)",
-      "Resume fit ~11%",
-      "Outside target markets"
-    ],
-    "fetchedAt": "2026-08-07T12:47:09.125Z"
-  },
-  {
-    "id": "Rjg1YnA4UDRnd2tfZHY5N0FBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTMjl0YVhWamNrVnJNRk42V1c5NWFXRkZVVVI1Y1hSbE1rNXFSMUJLTUhaQ2FtZ3dVbmxuTkdVeGNWTjJVRWwwTTA5aFRHZHZkRmxsUkZCeVEyTkxaa1kyT0VOM1pXRkRSa05qU2xweGJtSmxOVzVvUkdGcWExcFhVbTU1ZFhkUE5ETkdXa3RrY1ZOR01WUlpaV28zZGpkT1VVWjFjV1J4VjFSS2FWTnJXWFZsTTJVelZGb1NGM04wVGpGaGNYVnVUbDl4Yld0UVNWQTRUVU5GZDBGWkdpSkJSSE55T1daVFZXRmhjVE4zU2tGV1pWZHBTbmw1TVROdFRFaGpVR1pwWDNwUg",
-    "fingerprint": "product manager in life management|intellian technologies|dbf40x",
-    "title": "Product Manager, In-Life Management",
-    "company": "Intellian Technologies",
-    "location": "Rockville, Maryland",
-    "locations": [
-      "Rockville, Maryland"
-    ],
-    "remote": false,
-    "posted": "2026-08-06T19:00:00.000Z",
-    "salaryMin": 115000,
-    "salaryMax": 135000,
-    "url": "https://www.linkedin.com/jobs/view/product-manager-in-life-management-at-intellian-technologies-4449789630",
-    "source": "LinkedIn",
-    "score": 14,
-    "reasons": [
-      "Positioning fit (operations, supply, network)",
-      "AI signal (AI, RAG)",
-      "Resume fit ~21%",
-      "Outside target markets"
-    ],
-    "fetchedAt": "2026-08-07T12:47:09.124Z"
-  },
-  {
-    "id": "NVd5MXczZjF3RHI4VzN1eEFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTa0k1WkVWMWJEWlBlR0ZVVFU1NWVWSnBlalpHTFdac2VVMTZibkZoWkY4eFFsOHhWamRKU0dWSVdGQldWRUpZZGtoU1JsbFNhM2xYVVhkUE1HRlBkVzF0UkVkRFYzUm9jalYxVGs5S1QyOW5iMGQ2V2paNlZYSnJVRUZhWVRSYU5VSXRVbTF5UTJoSVVqbDNUVmRXWkV4dk5XSklha2xWVkdKSVYyaEJUblp4Y2pJeGJWb1NGM04wVGpGaGNYVnVUbDl4Yld0UVNWQTRUVU5GZDBGWkdpSkJSSE55T1daVVdrRkRXVWhUUVZBd2NYY3RkMEpxWWt4SGNIYzRhVmh0V0hwQg",
-    "fingerprint": "devsecops product manager division of information technology|federal reserve board|5rgwxm",
-    "title": "DevSecOps Product Manager - Division of Information Technology",
-    "company": "Federal Reserve Board",
-    "location": "Washington, District of Columbia",
-    "locations": [
-      "Washington, District of Columbia"
-    ],
-    "remote": false,
-    "posted": "2026-08-06T17:00:00.000Z",
-    "salaryMin": null,
-    "salaryMax": null,
-    "url": "https://www.linkedin.com/jobs/view/devsecops-product-manager-division-of-information-technology-at-federal-reserve-board-4449784204",
-    "source": "LinkedIn",
-    "score": 25,
-    "reasons": [
-      "Positioning fit (platform, operations, enterprise)",
-      "AI signal (AI, LLM, ML)",
-      "Resume fit ~22%",
-      "Outside target markets"
-    ],
-    "fetchedAt": "2026-08-07T12:47:09.122Z"
-  },
-  {
-    "id": "TjVJMmw1c3h4cklZb0lnU0FBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTbFptUkZST0xVaHFjMUpzYkRRM1lsOHhXRVpETTNJd2NrRklWRkZDWlZScmRsRk5VVnBUY0VwNmVsRllOemxGTkZsbU4yUnRiMVpvYkRkcVprdHJZazlPTFdsd05XMDFTbGw0V2xwdVh6Um9UMWxYYjJwcGNUUmpWazR5U1dkclVrUnZjREpXT0ZWMWF6TTBkbWRMZEc5WFVVUjFXbVpSVkhwUlgzUkNkRms0VG1wU01sb1NGelExUWpCaGNIWTJRamh4ZGpWT2IxQjRPSFphYjBFd0dpSkJSSE55T1daVGVrSnpTVUpCYVhWcVlTMUxlR3BtUlVWSVRtWXlSVmhaVWpOUg",
-    "fingerprint": "principal product manager evisort ai|workday|mq8qhe",
-    "title": "Principal Product Manager - Evisort AI",
-    "company": "Workday",
-    "location": "Pleasanton, California",
-    "locations": [
-      "Pleasanton, California"
-    ],
-    "remote": false,
-    "posted": "2026-08-06T00:00:00.000Z",
-    "salaryMin": null,
-    "salaryMax": null,
-    "url": "https://www.linkedin.com/jobs/view/principal-product-manager-evisort-ai-at-workday-4448072759",
-    "source": "LinkedIn",
-    "score": 14,
-    "reasons": [
-      "Positioning fit (platform, enterprise)",
-      "AI signal (AI, LLM, machine learning)",
-      "Resume fit ~17%",
-      "Outside target markets"
-    ],
-    "fetchedAt": "2026-08-06T13:49:28.984Z"
-  },
-  {
-    "id": "Y1lqekNHNmpRM21HeDA1QUFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTemd6Ym5Zd2Fsb3RiMW8wYmtkaFRVNXJNRVJ0ZERGRFdFcDZYMkU1YTJSUVowUkVWelp3YTNka1dtVk5ibGhTZFhSRGQwZ3pXa2M1VkdObk9GQlpiMVZoVW5JelkwSXhVVEp3YlhWUlRWVmxaRWx3ZVhoM2VsQXhRMW96YWpOdk1FbFFPWEpKU0hCS1YwTnhjVXMyUmtoSU1UWkVXbmxYUlZGeU1UbFZMVzFwWTJ4cVRqUVNGekkxUWpCaGRrOURRVmxwZFhGMGMxQXpVRTl2YlZGWkdpSkJSSE55T1daU01VSmlSMVl3VVhGQ2JHZGhhSE5pVlhocWRXTkphVUl6UjJwMw",
-    "fingerprint": "product manager financial crime|fivecast|-6w94g2",
-    "title": "Product Manager (Financial Crime)",
-    "company": "Fivecast",
-    "location": "Arlington, Virginia",
-    "locations": [
-      "Arlington, Virginia"
-    ],
-    "remote": false,
-    "posted": "2026-08-06T00:00:00.000Z",
-    "salaryMin": null,
-    "salaryMax": null,
-    "url": "https://www.linkedin.com/jobs/view/product-manager-financial-crime-at-fivecast-4449318780",
-    "source": "LinkedIn",
-    "score": 7,
-    "reasons": [
-      "Positioning fit (SaaS)",
-      "AI signal (AI, ML)",
-      "Resume fit ~20%",
-      "Outside target markets"
-    ],
-    "fetchedAt": "2026-08-06T13:49:28.983Z"
-  },
-  {
-    "id": "bWpxN0JjNU45dTdGcEV5bkFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTV0l4Y2tNellqZ3pTMWh6Y21GaE4zZHFTVFpVVm05aVlqaE1jWFJIVEdGU1VUWkdTako0YTFkNGJtcFdiMWxNTlRneVpqTkNZMDgwV1dOWGVFbHBibGhaVlZwNVZFZGtWelJTZFhSSlQzQnpaVEJTT1Vwa1drTndWRGxYVjB4SFVYZFNOWFZ1WVZNME1VeDFVakUyTjBwM1NFVjVOak5IWVdobGNYVm5MVVI2VG5oR1JEUVNGM2h3UWpCaGRYVXRUamR4U2psMU9GQXlTV1ZyTWtGckdpSkJSSE55T1daVVVuWmZjMUZqYkhOVlMzUkhWVmsyTW5aamJrbGZlbVYyTW5Obg",
-    "fingerprint": "usa senior product manager|walmart data ventures|-oby5q1",
-    "title": "(USA) Senior Product Manager",
-    "company": "Walmart Data Ventures",
-    "location": "San Bruno, California",
-    "locations": [
-      "San Bruno, California"
-    ],
-    "remote": false,
-    "posted": "2026-08-06T03:00:00.000Z",
-    "salaryMin": 117000,
-    "salaryMax": 234000,
-    "url": "https://www.linkedin.com/jobs/view/usa-senior-product-manager-at-walmart-data-ventures-4448066879",
-    "source": "LinkedIn",
-    "score": 51,
-    "reasons": [
-      "Senior/Group title",
-      "Positioning fit (marketplace, platform, B2B)",
-      "AI signal (AI, ML, RAG)",
-      "Comp disclosed ≥ $175K",
-      "Resume fit ~23%",
-      "Outside target markets"
-    ],
-    "fetchedAt": "2026-08-06T13:49:28.982Z"
-  },
-  {
-    "id": "cG1XU3o3bHg0Smsya3pva0FBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBURFZTZWxSNU5YRmhWV0Y0VjNOWk1FcDJNSFZ1ZWs4MVVtNUpUbXBvVVZOMFdrUXhOVmd5TjFOWlNrbHpYemgyTWtGaE56aDJRMFJGTUhGUVNWaDVTa3N0VTE5T2FIcE9OalZLVUZwNmJtNUNhblZVWjJwV1pUbG9ha1Z2VFhFelIwbFljbXhqVFROM1Myd3plVW95UjFaU2FUTnpiRWN5TmtObmVFd3hTazF5VWxWZmN6Z1NGM2h3UWpCaGRYVXRUamR4U2psMU9GQXlTV1ZyTWtGckdpSkJSSE55T1daU1J6ZHdZMWxWVlRodk9GZEJWMnQyYmpsRGIyRk1RbTB0VEZoQg",
-    "fingerprint": "product manager i|atkore|p0i7hi",
-    "title": "Product Manager I",
-    "company": "Atkore",
-    "location": "Philadelphia, Pennsylvania",
-    "locations": [
-      "Philadelphia, Pennsylvania"
-    ],
-    "remote": false,
-    "posted": "2026-08-05T18:00:00.000Z",
-    "salaryMin": null,
-    "salaryMax": null,
-    "url": "https://www.linkedin.com/jobs/view/product-manager-i-at-atkore-4449163450",
-    "source": "LinkedIn",
-    "score": 14,
-    "reasons": [
-      "Positioning fit (vendor, network)",
-      "AI signal (AI, agent)",
-      "Resume fit ~21%",
-      "Outside target markets"
-    ],
-    "fetchedAt": "2026-08-06T13:49:28.981Z"
   }
 ]
