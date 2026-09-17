@@ -1,5 +1,228 @@
 [
   {
+    "id": "YUNFRVRGTjdqVDgtU01zREFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTemt6ZVVWVGNtZDBRMGN3UkUxYVQyOW9OMkZEV0hZemMxWmlibXRmWkMxMWVuRkRaWHB5UWxkSFltOVRaMVJGYUU5NmJXaERlVFpVVDNCS2JFWmxkelZJVVdFelVIbFdUMk53Y2sxWmEwSktialpOVW5BMU1rVlBWQzFQZUdkVlVVOUNNVXgxWWkxMlZGZzRUREI0VFRoWGFVcHVXVXRNYVZjelIwRlVaVWQyV1ZkVlluTVNGMjFCTm5OaGIybGtSWEJVWVRKeWIxQTFTbUpzT0VGckdpSkJSSE55T1daU2FXUjFNRE5hVmxkSU1uaENRMGhzVEZsWVJERjFhMGQxYjNSUg",
+    "fingerprint": "marketing product manager owner|infojini inc|-dgd1zt",
+    "title": "Marketing Product Manager/Owner",
+    "company": "Infojini Inc",
+    "location": "Raleigh, North Carolina",
+    "locations": [
+      "Raleigh, North Carolina"
+    ],
+    "remote": false,
+    "posted": "2026-09-16T21:00:00.000Z",
+    "salaryMin": 60,
+    "salaryMax": 85,
+    "url": "https://www.linkedin.com/jobs/view/marketing-product-manager-owner-at-infojini-inc-4468286603",
+    "source": "LinkedIn",
+    "score": 10,
+    "reasons": [
+      "Positioning fit (platform, operations, vendor)",
+      "AI signal (AI, RAG)",
+      "Resume fit ~18%",
+      "Outside target markets"
+    ],
+    "fetchedAt": "2026-09-17T16:00:28.550Z"
+  },
+  {
+    "id": "VkVqT1NqN2U2cXV0Y0cwRkFBQUFBQT09OkVzc0JDb3dCUVVwcFZEUjBTWEJYVFhwamJqVlNRVkZhWlZOZlVqVnNRVXB0YzNoU1JrNXhNMGd4WlZRMlRYZGlRazVFWW1SblNrcHBjVGhhTFMxeFFsTmtZeTF6U2sxRWFVTnRlRXRUY1ZrNVIxWndja05hVnkxa2JteGpPVTlwY1hGMWJUSTNRemt4WlVKWmRWcE9Remx6WkhjeWFIVjJXRWRCUjNKM1VGaHpNRkpyY0dkNlJ6Vm1aVXhoU0daUVFUSVNGbXQzTm5OaGMzQkJjM0IyYWpSUlgyZHJOV0p2UkdjYUlrRkVjM0k1WmxNd1FrOXRaRlJUVGtkNlYyZHRiSFppUlRSakxVRlpURTVyTm1j",
+    "fingerprint": "sr product manager payments|matrix usa|-f9sfjh",
+    "title": "SR Product Manager - Payments",
+    "company": "Matrix USA",
+    "location": "Jersey City, New Jersey",
+    "locations": [
+      "Jersey City, New Jersey"
+    ],
+    "remote": false,
+    "posted": "2026-09-17T00:00:00.000Z",
+    "salaryMin": null,
+    "salaryMax": null,
+    "url": "https://www.linkedin.com/jobs/view/sr-product-manager-payments-at-matrix-usa-4468309692",
+    "source": "LinkedIn",
+    "score": 13,
+    "reasons": [
+      "Positioning fit (platform, B2B, operations)",
+      "AI signal (AI, RAG)",
+      "Resume fit ~16%",
+      "Outside target markets"
+    ],
+    "fetchedAt": "2026-09-17T16:00:28.549Z"
+  },
+  {
+    "id": "RHJlcHF6QUdvR2lkZW1QQUFBQUFBQT09OkVzc0JDb3dCUVVwcFZEUjBUR2xuTkdWMllsZE1iM05GYVRSbmJqQnJlbmhtTmxWc09GVkRVVTlYTW5kSVRubFVSMUUwV21RNWRYcEdOMWhCWm5aQ2NYUlVSRXh0YkRJNFNFaDZSMVJKZVdsdVpVNDFVMFZtZFd4elNqTllVVXR6WTJ4ME9EVjBWMVJETFdoNlpqSkdXV1ZQZVdWelN6VlRWVGhSYVU4MldXSXlaMTlVYUhScmIzQlNaRWRNUmtSNlYya1NGbXQzTm5OaGMzQkJjM0IyYWpSUlgyZHJOV0p2UkdjYUlrRkVjM0k1WmxKNk1qTXRXWEo0Y0hGM1dHdFJSR2MxVG1kd09VZEdXR1ZoTUZF",
+    "fingerprint": "sr product managers|t mobile|b1dzhh",
+    "title": "Sr Product Managers",
+    "company": "T-Mobile",
+    "location": "Bellevue, Washington",
+    "locations": [
+      "Bellevue, Washington"
+    ],
+    "remote": false,
+    "posted": "2026-09-17T04:00:00.000Z",
+    "salaryMin": null,
+    "salaryMax": null,
+    "url": "https://www.linkedin.com/jobs/view/sr-product-managers-at-t-mobile-4467162627",
+    "source": "LinkedIn",
+    "score": 14,
+    "reasons": [
+      "Positioning fit (operations, network, enterprise)",
+      "AI signal (AI, RAG)",
+      "Resume fit ~17%",
+      "Outside target markets"
+    ],
+    "fetchedAt": "2026-09-17T16:00:28.548Z"
+  },
+  {
+    "id": "OHl3SXhiNXNZVG5OTWNqS0FBQUFBQT09OkVzc0JDb3dCUVVwcFZEUjBTMU5SYm01dlkxbDZZelY1TkZOTWRrUlFVa3R4YTBRd04xVkpORGcxUXpnek5EWTJVMHBaYjNFd1kwZHFhbk5qYUhOWU0wRkdWbnB1ZWxnNVNsQkpiM3BhYjBzM2JGSlNWWFoxZVUxRVNFSldaelV4YXpWVFNXcDNla2MwY1hNNVh6UlRXRFJ1TWpGWFRVNHdjMm94VURZNWFVbFZSWHBDVFU1TWFYRkJNRjluU0dORFV6VVNGbXQzTm5OaGMzQkJjM0IyYWpSUlgyZHJOV0p2UkdjYUlrRkVjM0k1WmxGd1UzcDFXSFI1Tm10VmRWbDBkelJ2Vm1kZk1tMWlValpxU2tF",
+    "fingerprint": "senior product manager search growth|google|-3g7pti",
+    "title": "Senior Product Manager, Search Growth",
+    "company": "Google",
+    "location": "Mountain View, California",
+    "locations": [
+      "Mountain View, California"
+    ],
+    "remote": false,
+    "posted": "2026-09-17T08:00:00.000Z",
+    "salaryMin": 192000,
+    "salaryMax": 278000,
+    "url": "https://www.indeed.com/viewjob?jk=021405b9061368d3",
+    "source": "Indeed",
+    "score": 103,
+    "reasons": [
+      "Target company (Google)",
+      "Senior/Group title",
+      "Positioning fit (platform)",
+      "AI signal (AI)",
+      "Comp disclosed ≥ $175K",
+      "Resume fit ~19%",
+      "Priority location (Chicago/Bay Area)"
+    ],
+    "fetchedAt": "2026-09-17T16:00:28.546Z"
+  },
+  {
+    "id": "ckFleGVpNnM2SUlfRjAzX0FBQUFBQT09OkVzc0JDb3dCUVVwcFZEUjBURTgyT1RSdmJWcHhSa1JKZVVoaVkyMHRTa3BMV2sxalkzVlRaWEpTU0dKMFF6RnBhSFpmYTB4MU5YbFJYM1ZQVG0xa2REWnRNR0k1UkhWMFVVRnhNRE5FY3pGWFUzTnlRV0pzV0hRNFdIQm9MV2xtYjJoWFJHOTVSV3hXVlhnelQxWkNWMWh6YUdjelpsWmxZMXBDWlU1Q0xWSjRhSFJYTTBGNU9GUXRhbEZVVkRWa05VNFNGbXQzTm5OaGMzQkJjM0IyYWpSUlgyZHJOV0p2UkdjYUlrRkVjM0k1WmxSa1Z6QTBNREZUTXpORFpVUnhSMXBRV0ZOQ2FuQkJlVFJuUm5j",
+    "fingerprint": "senior product manager perception world understanding skills|agility robotics|pd9de5",
+    "title": "Senior Product Manager, Perception & World Understanding Skills",
+    "company": "Agility Robotics",
+    "location": "US",
+    "locations": [
+      "US"
+    ],
+    "remote": false,
+    "posted": "2026-09-17T03:00:00.000Z",
+    "salaryMin": null,
+    "salaryMax": null,
+    "url": "https://www.linkedin.com/jobs/view/senior-product-manager-perception-world-understanding-skills-at-agility-robotics-4468345714",
+    "source": "LinkedIn",
+    "score": 27,
+    "reasons": [
+      "Senior/Group title",
+      "Positioning fit (platform)",
+      "AI signal (AI, machine learning, ML)",
+      "Resume fit ~20%",
+      "Outside target markets"
+    ],
+    "fetchedAt": "2026-09-17T16:00:28.545Z"
+  },
+  {
+    "id": "WHZoSXl6S1hRX21iYkRxM0FBQUFBQT09OkVzc0JDb3dCUVVwcFZEUjBTaTE0VG1kQ1NHaGpjVWh3TjJkME5qZEZTMGRsVkVkemJTMTFSV3htZG5BemNVWnFlVEJNYjFWV2NVWmlZemt6U1ZwZlVuQnNhVUl6UlVSNmFrOTRjblJRVTBoRlNYUnFZVzgxVEhCSGVVMXpZblJWYlU1bVJsUldRVzV2ZFdaV04yWTBNemh2WW14akxVUkZNVGxoVGtwa1dtMVFUa1JOTkV0d2FrZHBhMTlDWldodk1uUVNGbXQzTm5OaGMzQkJjM0IyYWpSUlgyZHJOV0p2UkdjYUlrRkVjM0k1WmxGd2NUWkxWRXRwTkVGc09UUllXalJMYjJsQ1QxSnlVR3RIV1ZF",
+    "fingerprint": "senior product manager|greenworks|sem1vj",
+    "title": "Senior Product Manager",
+    "company": "Greenworks",
+    "location": "Mooresville, North Carolina",
+    "locations": [
+      "Mooresville, North Carolina"
+    ],
+    "remote": false,
+    "posted": "2026-09-16T21:00:00.000Z",
+    "salaryMin": null,
+    "salaryMax": null,
+    "url": "https://www.linkedin.com/jobs/view/senior-product-manager-at-greenworks-4468304218",
+    "source": "LinkedIn",
+    "score": 29,
+    "reasons": [
+      "Senior/Group title",
+      "Positioning fit (marketplace, platform, network)",
+      "AI signal (AI, RAG)",
+      "Resume fit ~17%",
+      "Outside target markets"
+    ],
+    "fetchedAt": "2026-09-17T16:00:28.543Z"
+  },
+  {
+    "id": "dU9ULVJmd2hfSko1Z19tVEFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTbkJNTkZCSE1XZHpSbWxQWkRCU1prWldNMmN5WVVoalJWaGliVlZwUjNNeWN5MUtVbWRhU0ZKYWMxQjVTbTVxTW01cFJERXhTek5XYTBwNWNFMWxXVkZHTlVOeWRrNXFaVGxyYkROamFreFFZVXBNZEZKTlpFY3pMVnBqTXpKVGEwcHVOek5FVjIxaVExaG1Ta3BTYkdwQmJ6STNkVXhDYWtaSGMxTTBZVkZJWm1KM01Ha1NGMnBuTm5OaGMzRk9UV0Z0Y0RKeWIxQndMUzFYYTBGdkdpSkJSSE55T1daUlMzWXpYMWgxVjNSSVpHOXBaSGM0U1hsSk5VVkRXRVZ0V0ZWQg",
+    "fingerprint": "product manager collaborations north america stores marketing amazon|amazon|-d9og4",
+    "title": "Product Manager, Collaborations, North America Stores Marketing, Amazon",
+    "company": "Amazon",
+    "location": "Seattle, Washington",
+    "locations": [
+      "Seattle, Washington"
+    ],
+    "remote": false,
+    "posted": "2026-09-17T00:00:00.000Z",
+    "salaryMin": null,
+    "salaryMax": null,
+    "url": "https://www.linkedin.com/jobs/view/product-manager-collaborations-north-america-stores-marketing-amazon-at-amazon-4468311735",
+    "source": "LinkedIn",
+    "score": 82,
+    "reasons": [
+      "Target company (Amazon)",
+      "Positioning fit (operations, vendor)",
+      "AI signal (AI, RAG)",
+      "Resume fit ~18%",
+      "Visibility location"
+    ],
+    "fetchedAt": "2026-09-17T16:00:28.542Z"
+  },
+  {
+    "id": "VFFhZEdqck5pQThwMEFkS0FBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTM2RYYm5kek1reG9MVmxvZEhoMFUzbHNPREJXUVd0ZlIzUlpjVEIwYkUxTVFVaDJSalpRTUZaUUxXNU1aSFJMWjFkdmVGQktRWFpJWWtwNmFEaHFRMWc1VkdZdExVZFhWMGhLTVZoNWFVMUZNVnBtWWxONWFWTk5RbmxXUW1GZlFUZFFORXQ1Y21kUFVqTnFPVzFsUmxSd05sQkJkV2xCZVhGR2EzZE9WbnBET1VvMVpIQVNGMnBuTm5OaGMzRk9UV0Z0Y0RKeWIxQndMUzFYYTBGdkdpSkJSSE55T1daUlIzVjFWakpOZFdONmR6WjZUbnBHYmpOQmRqZE5WbFJ6Wmtsbg",
+    "fingerprint": "strategy portfolio product manager|shrm|-i0iem0",
+    "title": "Strategy & Portfolio Product Manager",
+    "company": "SHRM",
+    "location": "Alexandria, Virginia",
+    "locations": [
+      "Alexandria, Virginia"
+    ],
+    "remote": false,
+    "posted": "2026-09-17T01:00:00.000Z",
+    "salaryMin": null,
+    "salaryMax": null,
+    "url": "https://www.linkedin.com/jobs/view/strategy-portfolio-product-manager-at-shrm-4467133561",
+    "source": "LinkedIn",
+    "score": 11,
+    "reasons": [
+      "Positioning fit (platform)",
+      "AI signal (AI, ML, RAG)",
+      "Resume fit ~18%",
+      "Outside target markets"
+    ],
+    "fetchedAt": "2026-09-17T16:00:28.541Z"
+  },
+  {
+    "id": "bXk4b2JtWGo2RkNsVTRUU0FBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBURzA1VVRoM2NWbHJaVFpDTjFSbk1XVldUR1pRUmtWRVoweFRaRTF2WVMwdGMwVnJWVkJvTlVoM1JrRjZWek4xVEhwNWNHSk9ORTFpVURKRWVXZHBkVTVSV1dGak1sOXJWRGRuTFRGdk9UbGFUMTlxYmxFeWVXeERObHB4Ym5Jd1ZVdFhhMU55YkZkbFJFdHJkRXA2VlZkS00yMUJiM0JKZFhWdlZuRnhTMmR1VVRZeVJWRVNGMnBuTm5OaGMzRk9UV0Z0Y0RKeWIxQndMUzFYYTBGdkdpSkJSSE55T1daUkxUVkhkbWR0WTFRMExXODViMUEwV1ZkZmVrRm1UVWhyUmpWQg",
+    "fingerprint": "senior product manager agency management|geico|-lt4s4i",
+    "title": "Senior Product Manager, Agency Management",
+    "company": "GEICO",
+    "location": "Bethesda, Maryland",
+    "locations": [
+      "Bethesda, Maryland"
+    ],
+    "remote": false,
+    "posted": "2026-09-17T01:00:00.000Z",
+    "salaryMin": 140425,
+    "salaryMax": 229600,
+    "url": "https://www.linkedin.com/jobs/view/senior-product-manager-agency-management-at-geico-4467136634",
+    "source": "LinkedIn",
+    "score": 33,
+    "reasons": [
+      "Senior/Group title",
+      "AI signal (AI, ML, agent)",
+      "Comp disclosed ≥ $175K",
+      "Resume fit ~21%",
+      "Outside target markets"
+    ],
+    "fetchedAt": "2026-09-17T16:00:28.539Z"
+  },
+  {
     "id": "S0txQ2dWQ2I5Qkk3T3R2SkFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTa3RmVW1KQ09VOWtaalpJVVc5aFRIVnlORTVuTUZwRFpYb3plSGhxVTNNd2VrWlFTa2hrUTI5WExWQlhMV1JhVTNsbU5FMXNWMlZGZURsMVlrNDVlVTUzYVVoNVpqSkJRMjFvVVVOR01UaDRNWFE0U2tGWGVqQjBNblJFUTI1eE5DMVhkVzA0UkhSNGNubFVhM2d4U0haT1IyMVVRVU5NV1UxU1kxUkNSa1UwZG1VMVZWTVNGMDQzZVhGaGMzWnpURTVQUWpsMU9GQmZZMTlxWjFFMEdpSkJSSE55T1daU2JIaFhSSHBuUWxSdFZVUkxNVE5mZG1aclJVNTNXazVqVUdaUg",
     "fingerprint": "strategic product manager biotech reagents portfolio|genscript|xbllwy",
     "title": "Strategic Product Manager, Biotech Reagents Portfolio",
@@ -4679,224 +4902,5 @@
       "Remote"
     ],
     "fetchedAt": "2026-08-11T12:48:25.840Z"
-  },
-  {
-    "id": "THc1VjJLU1RjLWVxZEdxRUFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTVk01Y0dnMFRVeE5TV2hZV1ZKWFZUSkhhbTFzVEZKMGJWQXhZblJPYTB0cVEyWjFXblJuZWtOQlpIZG9WWE5PUTFjMlEzQm5WSEF0ZEhSNFozQk1TV0ZWUkdNMlVGSnhTMDVoWTBGVmJGSjViMjVHYVhoeWVrNXhNek5PVDFaSmIwTjRUM0JVUjFSVldWSk1iekJ0Y25sNFVVazFXalp1Wm5SNWMzYzBRbVJCYm5WSU9HY1NGME40Y0RkaGRESjZUM0J1WTJ0UVNWQjRPVmQ1WjBGakdpSkJSSE55T1daVVkyb3lkamxIVjBjdGF6aHpjR2RoWHpSblZFNXZRamRSVmtKbg",
-    "fingerprint": "data product manager|aptask|btqw63",
-    "title": "Data Product Manager",
-    "company": "ApTask",
-    "location": "Malvern, Pennsylvania",
-    "locations": [
-      "Malvern, Pennsylvania"
-    ],
-    "remote": false,
-    "posted": "2026-08-10T14:00:00.000Z",
-    "salaryMin": null,
-    "salaryMax": null,
-    "url": "https://www.linkedin.com/jobs/view/data-product-manager-at-aptask-4451547871",
-    "source": "LinkedIn",
-    "score": 15,
-    "reasons": [
-      "Positioning fit (platform, enterprise)",
-      "AI signal (AI, ML)",
-      "Resume fit ~23%",
-      "Outside target markets"
-    ],
-    "fetchedAt": "2026-08-11T12:48:25.838Z"
-  },
-  {
-    "id": "bld1RHJ6R0JHSVZsMTk5VEFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTM1ZGUWtkc2FraHBOa2xRTjIxcVNFdHZWMGd4UWtoUmVtcEpTVlJTWTJzdFYyeFZlaTFYYVVOcFNIRlNlREkxVkhoalIzYzFUa295VkZCU2MwOTJjRXg0TFU1elpFNU1WbXgxYTFaNFNGbEljVXhaYmpNeFpYSnFhRXBrYWtkSVUxRjJXbFJZU0dsMll6TjViWGxKYkVGaWJIQmlibkIwVUZSd2VFbGhNakZHZEdwM1duRVNGME40Y0RkaGRESjZUM0J1WTJ0UVNWQjRPVmQ1WjBGakdpSkJSSE55T1daUlQyTlpOSEJQU0ZrdFVUaGtaWGhNUkhWaFlsaEphbWxFVXpObg",
-    "fingerprint": "staff product manager agentic platform|scale ai|-smuuzh",
-    "title": "Staff Product Manager, Agentic Platform",
-    "company": "Scale AI",
-    "location": "Washington, District of Columbia",
-    "locations": [
-      "Washington, District of Columbia"
-    ],
-    "remote": false,
-    "posted": "2026-08-10T13:00:00.000Z",
-    "salaryMin": null,
-    "salaryMax": null,
-    "url": "https://www.linkedin.com/jobs/view/staff-product-manager-agentic-platform-at-scale-ai-4314867042",
-    "source": "LinkedIn",
-    "score": 21,
-    "reasons": [
-      "Positioning fit (platform, operations, network)",
-      "AI signal (AI, GenAI, ML)",
-      "Resume fit ~19%",
-      "Outside target markets"
-    ],
-    "fetchedAt": "2026-08-11T12:48:25.837Z"
-  },
-  {
-    "id": "a3VYWjVRbjFvMXBCSENuOUFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTVlEyVjJWV1NXVTRWemRWUzJGNFkycFVUbWczYURremJqRlNibU54VVhWTVFsb3pPRkJtUzFCQlFXMUJaemwwY0VGdWJ6RnJlbkZzVVVGQmJsRmhWR2x3TlRJeU4zaEdSVXhsVFRSU1kyWXhjVE5WWWtKVlVXSkhjV1J4WVhkeVIzcENVMWx2U0dZd1JqZE5keTE1YkVGRVpFMTZiRlkyVjBnNFdFMVNlRU5EZVc4NVRua1NGME40Y0RkaGRESjZUM0J1WTJ0UVNWQjRPVmQ1WjBGakdpSkJSSE55T1daUlFUVkNPRFZEUjNsR05XWlRlVlJ1Y0hFdFIwSXdXa2hmUlRWMw",
-    "fingerprint": "product manager fas digital analytics|vanguard|4lqece",
-    "title": "Product Manager, FAS Digital & Analytics",
-    "company": "Vanguard",
-    "location": "Malvern, Pennsylvania",
-    "locations": [
-      "Malvern, Pennsylvania"
-    ],
-    "remote": false,
-    "posted": "2026-08-10T14:00:00.000Z",
-    "salaryMin": null,
-    "salaryMax": null,
-    "url": "https://www.linkedin.com/jobs/view/product-manager-fas-digital-analytics-at-vanguard-4451547731",
-    "source": "LinkedIn",
-    "score": 1,
-    "reasons": [
-      "AI signal (RAG)",
-      "Resume fit ~23%",
-      "Outside target markets"
-    ],
-    "fetchedAt": "2026-08-11T12:48:25.836Z"
-  },
-  {
-    "id": "SE5GRXBKY2Q1VGp2V1Rzc0FBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBUR2g0ZWpkcFppMUlRbUkxWWxOWVptbHZUM2ROTXpCeVdIYzJZa2xET1V4dk1qaGZNVzFqY0RSUVJFOHdVWEV5YW1Sb2QzWldhM1F4UkU4emNIUkVjV3h1VEZKdFFVWTVSM2xIVkZwT1FXVjNWblpZVnkxQlYzUlROMlkwYzB4YVVUSXpWV1JNWVRocWJETmpMVzkzTFhOSlRqWlRWSE5uWVVSTFZUUlRXVU0xYTJoQloxY1NGME40Y0RkaGRESjZUM0J1WTJ0UVNWQjRPVmQ1WjBGakdpSkJSSE55T1daVWVYUmxkemh0ZFZFeFNsZHZiekpuWXpkdVNsTnFWMjB0VXpaQg",
-    "fingerprint": "product manager project manager|revelare networks|2493m6",
-    "title": "Product Manager / Project Manager",
-    "company": "Revelare Networks",
-    "location": "Not specified",
-    "locations": [
-      "Not specified"
-    ],
-    "remote": true,
-    "posted": "2026-08-10T18:00:00.000Z",
-    "salaryMin": 130000,
-    "salaryMax": 155000,
-    "url": "https://www.linkedin.com/jobs/view/product-manager-project-manager-at-revelare-networks-4451850181",
-    "source": "LinkedIn",
-    "score": 32,
-    "reasons": [
-      "Positioning fit (network)",
-      "AI signal (AI)",
-      "Resume fit ~17%",
-      "Remote"
-    ],
-    "fetchedAt": "2026-08-11T12:48:25.834Z"
-  },
-  {
-    "id": "VVlOT0hwaUM3UHBaZ2MzWEFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTMUJJV2pWWmNVMURWV1JNU2s5NVRtTnhiVzFuUTFweWNVOVRRbUp6TjJSS1YyWlFibTB4UlZGa2JGWjNPWG80U25kbmVIRnllRVpGUlRSQ1lUWnBSbWMzVnpRelFXMVRXWHB6TlUxcVJ6UktRa0pIV21sSWRGRkdYMGxZUkRNM1MwbEtaRGhQYVV0S2NraGFTVUZ3ZDI5UVlXdFFjVk5JUW1GZlIxOVJZMGg0U0VWaWRuWVNGekE0YkRWaGRsQm5SRFptVW10UVNWQnBMWFZYYTBGdkdpSkJSSE55T1daUlVGZHBVM2RYYVdGVmFIWnpTMWRETWtSclZUbDJkMmQ2VTNkUg",
-    "fingerprint": "senior hardware product manager|samsara|-qkrim4",
-    "title": "Senior Hardware Product Manager",
-    "company": "Samsara",
-    "location": "Not specified",
-    "locations": [
-      "Not specified"
-    ],
-    "remote": true,
-    "posted": "2026-08-10T04:00:00.000Z",
-    "salaryMin": 166175,
-    "salaryMax": 195500,
-    "url": "https://www.linkedin.com/jobs/view/senior-hardware-product-manager-at-samsara-4449530422",
-    "source": "LinkedIn",
-    "score": 83,
-    "reasons": [
-      "Senior/Group title",
-      "Positioning fit (platform, operations, supply)",
-      "AI signal (AI, RAG)",
-      "Comp disclosed ≥ $175K",
-      "Resume fit ~23%",
-      "Remote"
-    ],
-    "fetchedAt": "2026-08-10T12:53:47.878Z"
-  },
-  {
-    "id": "WHAzOVZfa0h4NnQ0djd0Y0FBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTMW90ZEhVMllUQk1kbGxJZG1oNGQwWjJkV1JEZFRWRmJFWklkR1k1YVVac2RuTXhOWEZNUWpnek5rTlNhbXBZWlRKM1JGSTFOakp2VEdWaVZXdE1iMEpaTmpGUFRURkhWbGxDZGpGSU9HMDNNWFJJVVMxV2FuWnJUVVZIT1hOeFN6Y3RlVVl4WW5jMFgybFFlalZqYjIwdFZWbzBlVTkyVVhNelV6ZE1ZMnRzWDNOUk9IQVNGM3BOYkRWaGNIVjNUbHB1WjJ0UVNWQm5PR0ZZWjBGVkdpSkJSSE55T1daUmNHSjJWR0pWVUVjM2MxOXpVRWwxUkhwUlRqWnJaSEJLY2tWQg",
-    "fingerprint": "product manager applied ai staff senior staff|permitflow|827gx1",
-    "title": "Product Manager, Applied AI (Staff / Senior Staff)",
-    "company": "PermitFlow",
-    "location": "New York, New York",
-    "locations": [
-      "New York, New York"
-    ],
-    "remote": false,
-    "posted": "2026-08-10T02:00:00.000Z",
-    "salaryMin": null,
-    "salaryMax": null,
-    "url": "https://www.linkedin.com/jobs/view/product-manager-applied-ai-staff-senior-staff-at-permitflow-4451379446",
-    "source": "LinkedIn",
-    "score": 63,
-    "reasons": [
-      "Senior/Group title",
-      "Positioning fit (operations)",
-      "AI signal (AI, LLM, agent)",
-      "Resume fit ~24%",
-      "Visibility location"
-    ],
-    "fetchedAt": "2026-08-10T12:53:47.877Z"
-  },
-  {
-    "id": "enNzZm1qSnBsTGQ4R1NDVkFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBURmRoWTBkd1ZISm9TVTFQYjB0V1lYaFBWRzlwYjB4cE1IZGhaRTU0YTFoRFFURTVSRFZ4VGpad2NqYzRiVzAwZDBzNVZsUmhPVWhQZEhFNFozQkRjMmgwWVcwMFJWcDVhVjlDWVVOTmMxaHZZelpmZEVOU2JsSmpVa2xsY25sVVNucG5iRTF6V2tzNVVsaHVRMUJRY25scVIycGhZVnBOUzFBd01VcEtVRGh4WWxZeGJsOFNGM3BOYkRWaGNIVjNUbHB1WjJ0UVNWQm5PR0ZZWjBGVkdpSkJSSE55T1daVU1HUlliSEpJV1V0SVVFTTVTMHhtUzBGelRuaGFZblJrV0hObg",
-    "fingerprint": "product manager fully remote|padsplit|-rh5rbm",
-    "title": "Product Manager (Fully Remote)",
-    "company": "PadSplit",
-    "location": "Not specified",
-    "locations": [
-      "Not specified"
-    ],
-    "remote": true,
-    "posted": "2026-08-09T23:00:00.000Z",
-    "salaryMin": 130000,
-    "salaryMax": 150000,
-    "url": "https://builtin.com/job/product-manager-fully-remote/9710935",
-    "source": "Built In",
-    "score": 53,
-    "reasons": [
-      "Positioning fit (marketplace, platform, supply)",
-      "AI signal (AI, RAG)",
-      "Resume fit ~23%",
-      "Remote"
-    ],
-    "fetchedAt": "2026-08-10T12:53:47.875Z"
-  },
-  {
-    "id": "Tjl4MUhNZ1N1dmprNVRDY0FBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBUSEozUW1SV1QzZFFlVGROTjFOT2QzUktVbFpCYUcxVVVVVXljMlJ5WjAxUlJYZ3dXbTVsUnpWa2R6bFpYMjlFYjNsaFNVaDBUVFpGTXpoNFEyWkZXRlZXVTFsM1VrSjFWbTEzTlc0eGNVaGlhbWxMZFdaTU9VaEdObGt4ZDJOU05XWjNRVU5IWm5BMGIybHBkbmxEYzJkS1pGVlpkRWR1WjFVdFMySlhPVWRFVDJOUVRFWVNGM3BOYkRWaGNIVjNUbHB1WjJ0UVNWQm5PR0ZZWjBGVkdpSkJSSE55T1daVFRtZ3pkbUZUUW5wNVQyZzROR3BKTVhkek1EUnVSVTVGU2kxQg",
-    "fingerprint": "senior product manager 1 many merchant growth|affirm|-uob69q",
-    "title": "Senior Product Manager, 1: Many Merchant Growth",
-    "company": "Affirm",
-    "location": "Not specified",
-    "locations": [
-      "Not specified"
-    ],
-    "remote": true,
-    "posted": "2026-08-10T06:00:00.000Z",
-    "salaryMin": null,
-    "salaryMax": null,
-    "url": "https://www.linkedin.com/jobs/view/senior-product-manager-1-many-merchant-growth-at-affirm-4451120550",
-    "source": "LinkedIn",
-    "score": 59,
-    "reasons": [
-      "Senior/Group title",
-      "Positioning fit (platform)",
-      "AI signal (AI, RAG)",
-      "Resume fit ~20%",
-      "Remote"
-    ],
-    "fetchedAt": "2026-08-10T12:53:47.873Z"
-  },
-  {
-    "id": "blhYS1RZN0l0RzFIRjFVMEFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTalJVUnpodmJFOUJkamxCVG5BdE4yWm1VM04xZFZSU2QwSmtXV3hKZHpoMFltbG5aVk53TWpkVmVteDFTMjFOUm5NM1ZubGllRWh1YjNWbWFrVmxVMXBhVW01RFdYTnZZa3RqY0VNMFZuWmZUbGx0YVZWclZuWjZZVjkzZFhnd1NWb3pkRU5UVTNaV1VqRnZXR3RRVERWVE1IQk5TRVpEYVZGNVNVeHlUakZCYW5oa1drVVNGMU5ZVWpSaGRYVkdSVTUyY1cxTVVWQjFkVmRmYzFGckdpSkJSSE55T1daU0xYRTRaR1I1VXpNMVlVSnJhVlZ0TVRGZlNFVnVhR2xXU0VoMw",
-    "fingerprint": "product manager centralized entitlements houston tx or midvale ut|zions bancorporation|-qlfum7",
-    "title": "Product Manager – Centralized Entitlements - Houston, TX or Midvale, UT",
-    "company": "Zions Bancorporation",
-    "location": "Houston, Texas",
-    "locations": [
-      "Houston, Texas"
-    ],
-    "remote": false,
-    "posted": "2026-08-09T00:00:00.000Z",
-    "salaryMin": null,
-    "salaryMax": null,
-    "url": "https://www.linkedin.com/jobs/view/product-manager-%E2%80%93-centralized-entitlements-houston-tx-or-midvale-ut-at-zions-bancorporation-4450922790",
-    "source": "LinkedIn",
-    "score": 25,
-    "reasons": [
-      "Positioning fit (platform, operations, vendor)",
-      "AI signal (AI, ML, RAG)",
-      "Resume fit ~23%",
-      "Outside target markets"
-    ],
-    "fetchedAt": "2026-08-09T12:36:28.346Z"
   }
 ]
