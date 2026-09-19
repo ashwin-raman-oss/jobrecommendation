@@ -1,5 +1,204 @@
 [
   {
+    "id": "VXF4LVhEWmFaMkhBR1RmNUFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTVTQxWm1WaFFtOVVaa0poWVZSUWNIVmhORGhNV2xGNFExVTJhbVkyY1U5dlgyMVVRWEZ1TWkxdlVUTXlNSFphYlVSSE5FcE5NV3gxVW1wVmFuUnNiMnRDTFRKWVFtdFZWbnBST0VoNVl6RjNWVFpQYm00MlQyVXlZakpsYlY4d1RHd3hhRGRQY2podFVXWjJRamx0VXpkR1gyUkZWM0ZsUkdKbVducDVaSFZyVTNvMllVOFNGM1ZMVjNWaGNGUjFUMk5ZVkRKeWIxQnVaaTFYYjBGbkdpSkJSSE55T1daVVlucFFhVVJNYkRSTGNGRlVaVlV6V1dKblpqWnNlVlpEWVRGMw",
+    "fingerprint": "senior business product manager|centene corporation|8uv1s2",
+    "title": "Senior Business Product Manager",
+    "company": "Centene Corporation",
+    "location": "Not specified",
+    "locations": [
+      "Not specified"
+    ],
+    "remote": true,
+    "posted": "2026-09-18T22:00:00.000Z",
+    "salaryMin": null,
+    "salaryMax": null,
+    "url": "https://www.linkedin.com/jobs/view/senior-business-product-manager-at-centene-corporation-4469243473",
+    "source": "LinkedIn",
+    "score": 65,
+    "reasons": [
+      "Senior/Group title",
+      "Positioning fit (platform, vendor, enterprise)",
+      "AI signal (AI)",
+      "Resume fit ~20%",
+      "Remote"
+    ],
+    "fetchedAt": "2026-09-19T15:09:55.758Z"
+  },
+  {
+    "id": "bU1HMXZsbmNMM2VJMXdrTUFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTVmxCUW1VNFFXOWljalkwUlVGTmIyOXNRbmN5YWpWUlNFRnpibWd6Tm1SbFdIUjBVRmR0TFRZMU1YcEdiMmxFVVRKeVZWWnNSRkZNZHpGNGJVZzVkR042WlhwcGFWbEROa05xVkhSU09FaEVkSGhyY1VzMWExTktjVzkxV0ZaclZrNVFOVGRqTVhodFdUQlZUV0p2ZFVoaVNIbFVRMlJMYlhKblVrOHdRbmhNWm5GV2Nsb1NGM1ZMVjNWaGNGUjFUMk5ZVkRKeWIxQnVaaTFYYjBGbkdpSkJSSE55T1daVVVYTjViWFJVTFdaTVMxTkxlVE5HYTNsaWRHRlpXVlIxVFc5Qg",
+    "fingerprint": "senior product manager mobile dv|magnite|-iyvrxe",
+    "title": "Senior Product Manager,  Mobile, DV+",
+    "company": "Magnite",
+    "location": "Los Angeles, California",
+    "locations": [
+      "Los Angeles, California"
+    ],
+    "remote": false,
+    "posted": "2026-09-19T00:00:00.000Z",
+    "salaryMin": 155000,
+    "salaryMax": 195000,
+    "url": "https://www.builtinla.com/job/senior-product-manager-mobile-dv/11264358",
+    "source": "Built In LA",
+    "score": 44,
+    "reasons": [
+      "Senior/Group title",
+      "Positioning fit (platform, operations, vendor)",
+      "AI signal (AI, RAG)",
+      "Comp disclosed ≥ $175K",
+      "Resume fit ~21%",
+      "Outside target markets"
+    ],
+    "fetchedAt": "2026-09-19T15:09:55.757Z"
+  },
+  {
+    "id": "clRBVHJSUmZzeFY5ZDJCY0FBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTeTEyU1Vka2VVNTNSM2hPWjBwaVRHWklhekpEVmpOMllXTnVibFpZT0VVMmJIbFJjWGR3YUdGS2NUZHJTbFZsYm1SWmNsRlhaWGxyVkZaQk9GOXVjREY2Wm5sWExXdzRUbDlOWVhGb2RVTjFSbXBHVWpWNE0wRkNWVEYxWW5oS1gyWlpZMlU0YURsbk9ETnlaaTFqYVZSQ2NteHpURkptV1Y5MWNIQmhNMGRNY3pCc1RVVVNGM1ZMVjNWaGNGUjFUMk5ZVkRKeWIxQnVaaTFYYjBGbkdpSkJSSE55T1daUlQzaDFlV0kwUW5aWlRsVkJiR1JyTURCdGNGcFdjRTgxYURKQg",
+    "fingerprint": "senior manager product manager customer restrictions product manager|capital one|wii893",
+    "title": "Senior Manager, Product Manager, Customer Restrictions-Product Manager",
+    "company": "Capital One",
+    "location": "Philadelphia, Pennsylvania",
+    "locations": [
+      "Philadelphia, Pennsylvania"
+    ],
+    "remote": false,
+    "posted": "2026-09-18T20:00:00.000Z",
+    "salaryMin": null,
+    "salaryMax": null,
+    "url": "https://www.linkedin.com/jobs/view/senior-manager-product-manager-customer-restrictions-product-manager-at-capital-one-4469223617",
+    "source": "LinkedIn",
+    "score": 45,
+    "reasons": [
+      "Senior/Group title",
+      "Positioning fit (platform, operations, enterprise)",
+      "AI signal (AI, RAG)",
+      "Resume fit ~33%",
+      "Outside target markets"
+    ],
+    "fetchedAt": "2026-09-19T15:09:55.756Z"
+  },
+  {
+    "id": "aHhVaEpsV3ctdGhGbURZR0FBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBURFZyTUdwdGJscFJVRWh1Vm5GUGQzWndWR05VYkROeFgwaEJSVzVQTm10Q1ZIbDVURTFJY0ZWUlFrbGpVa1J0TVc5MFZrODFaWFkzVTFGM1NqRllUbVZoWnpKbldVMVNWbXRVWDJkRVZETlRkRzkyWm1oUGNqbFVXVVJyVURSV1gxWjRiREptZFRRMFFtNU9aa2hQYVhORlVUUTFOelF5YWkwNVZFNHhOalV0YWs5a2JtY1NGM1ZMVjNWaGNGUjFUMk5ZVkRKeWIxQnVaaTFYYjBGbkdpSkJSSE55T1daUlNFWmZaMWgxUlc5VlpWSjVjMnRxVUVWblZrMHdaaTB5VUZwUg",
+    "fingerprint": "senior product manager data center|intel|-2e5x3c",
+    "title": "Senior Product Manager, Data Center",
+    "company": "Intel",
+    "location": "Hillsboro, Oregon",
+    "locations": [
+      "Hillsboro, Oregon"
+    ],
+    "remote": false,
+    "posted": "2026-09-19T01:00:00.000Z",
+    "salaryMin": null,
+    "salaryMax": null,
+    "url": "https://www.linkedin.com/jobs/view/senior-product-manager-data-center-at-intel-4468042536?refId=IkHdkewl0eWZmx7uS6KlZA%3D%3D&trackingId=bSoptVr8w7VO3r2Kux4H2g%3D%3D",
+    "source": "LinkedIn",
+    "score": 29,
+    "reasons": [
+      "Senior/Group title",
+      "Positioning fit (platform, enterprise)",
+      "AI signal (AI, ML)",
+      "Resume fit ~21%",
+      "Outside target markets"
+    ],
+    "fetchedAt": "2026-09-19T15:09:55.755Z"
+  },
+  {
+    "id": "d09vajRwS0l5Nk5mMHBRZkFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTVmREYURKNWJtdzROM0ZNWm01VE1HVXhkRkp0ZDNCdmMweEpSbVV5YW5wSVVWbHRVV3hOTm5GdFVVNXBYMnBxV1ZCRlgzTlBhRUY1U0c5VWFqQmpibXhuYTJwT09EaGhZbWQxY1VRek5tZEdhMDFUZEZKUFozQktjVFp1V0hwcmNuTTFUMDlsZDJsclFWaDFlV2Q2WVVwU2RtcGFhVzg1UzFKclgxWnNiMFZ3VDNwQ1JGVVNGM0poVjNWaGNuWTRRamMzYkRKeWIxQjRZalprYVZGekdpSkJSSE55T1daUk5sOXJaRjgzWnpjMk5EYzBSM1pzZWxaQmIzWk9TMnh2UzNaMw",
+    "fingerprint": "product manager|crh|-wvuet7",
+    "title": "Product Manager",
+    "company": "CRH",
+    "location": "Avon, Connecticut",
+    "locations": [
+      "Avon, Connecticut"
+    ],
+    "remote": false,
+    "posted": "2026-09-18T17:00:00.000Z",
+    "salaryMin": null,
+    "salaryMax": null,
+    "url": "https://www.linkedin.com/jobs/view/product-manager-at-crh-4469200300",
+    "source": "LinkedIn",
+    "score": 10,
+    "reasons": [
+      "Positioning fit (operations, network, enterprise)",
+      "AI signal (AI)",
+      "Resume fit ~18%",
+      "Outside target markets"
+    ],
+    "fetchedAt": "2026-09-19T15:09:55.754Z"
+  },
+  {
+    "id": "T084U3dySm5NTmNlOGc3ckFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTVU5vWWtGVFEwMVFZV2wxZHpKbFJuWnZlVlJWYW5nMWNrUlRZVmRSVW01VFVIWTNTMk5GZFUxM1lreDFVSEJTY1ZOSk5XZ3lWWFpWWm0xV01HbzVjMmQwTURkelNWTldTa3BwV0RGamRGbHdXWFZJZWpWS2VuSkZVRFZvVjAxbVNEWlVlRzk2V1RnMWEzaEVka3RKY1dwbGJtdGxjMjFYY1ZSWU5WZDFORkpOZUVRelVFd1NGM0poVjNWaGNuWTRRamMzYkRKeWIxQjRZalprYVZGekdpSkJSSE55T1daUlNrUkdibE40Y1ZKTVEzSXpiRGRpU214WU5FSkpjREpPVlVWUg",
+    "fingerprint": "product manager ai predictive analytics|liaison|ssjvhu",
+    "title": "Product Manager, AI & Predictive Analytics",
+    "company": "Liaison",
+    "location": "Pittsburgh, Pennsylvania",
+    "locations": [
+      "Pittsburgh, Pennsylvania"
+    ],
+    "remote": false,
+    "posted": "2026-09-18T21:00:00.000Z",
+    "salaryMin": 100000,
+    "salaryMax": 125000,
+    "url": "https://www.linkedin.com/jobs/view/product-manager-ai-predictive-analytics-at-liaison-4468021234",
+    "source": "LinkedIn",
+    "score": 23,
+    "reasons": [
+      "Positioning fit (platform, workflow automation, SaaS)",
+      "AI signal (AI, LLM, machine learning)",
+      "Resume fit ~25%",
+      "Outside target markets"
+    ],
+    "fetchedAt": "2026-09-19T15:09:55.753Z"
+  },
+  {
+    "id": "VnBvUXRPVUdnODVYcVg5OUFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTWGxhZUZsRmQwaEZOVTFLU0daWVp6WnJhMmRGVEhGMFZtaExSRzk1T1RsRFpVcExRMmRaVmtOWFptZ3lWMHB1ZVhwTWVsSkVibWQ2UzJWYVZtTk9XVkIzVGtGUVl6TnVja0ZqUVROU2QwY3lXVE5oT1RWZmN6WmZRbUpOVGtaTVdXRk9PRU5pZFZCelUxQlRSRWRQVTFkVVRXd3lWamgzZVZOMlVXZzFaMWN5UlhwT00za1NGM0poVjNWaGNuWTRRamMzYkRKeWIxQjRZalprYVZGekdpSkJSSE55T1daUlUwcDZkREpGVEhNd1REUkhhVlJZTjJWbGNsWm1PRkpWVG10Mw",
+    "fingerprint": "usa staff product manager|walmart|t3699",
+    "title": "(USA) Staff, Product Manager",
+    "company": "Walmart",
+    "location": "Bellevue, Washington",
+    "locations": [
+      "Bellevue, Washington"
+    ],
+    "remote": false,
+    "posted": "2026-09-18T22:00:00.000Z",
+    "salaryMin": 132000,
+    "salaryMax": 264000,
+    "url": "https://www.linkedin.com/jobs/view/usa-staff-product-manager-at-walmart-4466921787",
+    "source": "LinkedIn",
+    "score": 36,
+    "reasons": [
+      "Positioning fit (marketplace, platform, B2B)",
+      "AI signal (AI, LLM, ML)",
+      "Comp disclosed ≥ $175K",
+      "Resume fit ~24%",
+      "Outside target markets"
+    ],
+    "fetchedAt": "2026-09-19T15:09:55.752Z"
+  },
+  {
+    "id": "ejk5WUJCZG14NUJrV3NxdEFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTMHR2VmtaMVdWSnVZblY2YkdGSFFrNDRhMFZLVUdKalVWcHNhWFJUYkdWWFpqVTNabEZLU1U5T05GaExVVzlpZEVSbFNqZzFZbHB1Wm1SclNVeDJkM1Y2V0c1bVEwZHVSa1Y0YW1ZMGNucEtSR0kyYlV0cWJsSkZaVFZ1TVZwRGVFbExaREJmVG1jdFpEaE1WVVJpYkdKMlVqSllhM2gyTVhwWFJrOVJkMHhqU2xvMlVIVVNGM0poVjNWaGNuWTRRamMzYkRKeWIxQjRZalprYVZGekdpSkJSSE55T1daU1MyODFiRUZxWVRNeGJWcGtVWGxwY3pSMFNYQmtjbXg2VlZCUg",
+    "fingerprint": "product manager measurement|smith arnold partners|py0cq8",
+    "title": "Product Manager Measurement",
+    "company": "Smith Arnold Partners",
+    "location": "Not specified",
+    "locations": [
+      "Not specified"
+    ],
+    "remote": true,
+    "posted": "2026-09-18T17:00:00.000Z",
+    "salaryMin": 160000,
+    "salaryMax": 180000,
+    "url": "https://www.linkedin.com/jobs/view/product-manager-measurement-at-smith-arnold-partners-4466912874",
+    "source": "LinkedIn",
+    "score": 58,
+    "reasons": [
+      "Positioning fit (platform)",
+      "AI signal (AI, RAG)",
+      "Comp disclosed ≥ $175K",
+      "Resume fit ~23%",
+      "Remote"
+    ],
+    "fetchedAt": "2026-09-19T15:09:55.751Z"
+  },
+  {
     "id": "UDJDVVV3aXk4djRxX2oxdUFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTa1pPYW1ScmIycGlTelJqTjJONFlYVndlV0ZDTVhaQ1duQnRhbk5KVUhaR2MyRnhSakZSTWxaWFEwdDRPVEJSTXpjeGNVeEhVSEpwWVROaVF6ZFRTakJoT0hVeVYzcFlabGxZVUdwdVVtbFdhVVJFTTBoWlIyTlNhUzFHYkhCeFJrc3lTMmw0TlhOUE1IZFdhbkpNVkdKTVdUWTBSR1EzT0RCemIyOWtWVWt5VVRGUGNHSVNGMkZHY1hSaGN6WkNSblEyVFhaeU1GQm5Yekk0YlVGTkdpSkJSSE55T1daVVJHZFBXVzFvVWxVNE5GQmZSR0Z6U0dZd1dqRjJSbE4xWlZCUg",
     "fingerprint": "group product manager agentic code security|google|-gbefyy",
     "title": "Group Product Manager, Agentic Code Security",
@@ -4704,202 +4903,5 @@
       "Outside target markets"
     ],
     "fetchedAt": "2026-08-13T12:54:47.648Z"
-  },
-  {
-    "id": "bnVPdDVyQnZ6WlM3Q3JoZEFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBUSFZLTmtWMmN6VlpTbVJsUVc1WVNWTk5RMGh0YUZNeVNGTkRORGhJT0ZOV2JtUm1Wa0pGTWtSc2MzTklTRXd3WkhkQ1kxbFhjekppZWxKdVVGSTRiR1p0TVZGMFZtSmlha1JrTTFwVFYwMUxPRXBvUkd0VGN5MVhZbnBmU0RObFFXZGZWelZ0U1hWclNHbElkbk5CWDFoaFdubE9SMUJKVjFKSFpXaHJXV2hoU1dGZlNIVVNGMmczTlRsaGNHMURTVGR1Ukd0UVNWQXdZMkp6TkVGbkdpSkJSSE55T1daUmNrTnRWMUZRVlZWSmNFNVpWemxuWlhOeGRWOTRhWEYxTW5obg",
-    "fingerprint": "group product manager generative ai google cloud|google|-cqg4hh",
-    "title": "Group Product Manager, Generative AI, Google Cloud",
-    "company": "Google",
-    "location": "Not specified +1 more",
-    "locations": [
-      "Not specified",
-      "Kirkland, Washington"
-    ],
-    "remote": false,
-    "posted": "2026-08-12T19:00:00.000Z",
-    "salaryMin": null,
-    "salaryMax": null,
-    "url": "https://www.linkedin.com/jobs/view/group-product-manager-generative-ai-google-cloud-at-google-4452734395",
-    "source": "LinkedIn",
-    "score": 95,
-    "reasons": [
-      "Target company (Google)",
-      "Senior/Group title",
-      "Positioning fit (platform, operations, enterprise)",
-      "AI signal (AI, RAG)",
-      "Resume fit ~18%"
-    ],
-    "fetchedAt": "2026-08-13T12:54:47.646Z"
-  },
-  {
-    "id": "ekVwdVNQekIyaDZVWWVDZ0FBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTMXBTT1c1Vk9VaG1OMnhMUlRoMmNsTXpXRkJFYTBWWmNXRjJPVXBTZFc5ckxVbFdiemxKZURKMlJWTXlTRVJmWjBaM2VtdHJTRkZJTXpsQk5qbHFUalJyZGxCaFIzVnVNWHBSYTJabVkyeDNSM1Y2TTNGYWFGUjBkRlp1ZDJzeE1HOHhjVmhKWVRVek5VdFRXRGxKU1doUVIzSk9XR3BMVFZOME9VRkZXazlEU0hSclpYTVNGMmczTlRsaGNHMURTVGR1Ukd0UVNWQXdZMkp6TkVGbkdpSkJSSE55T1daUk5rNVRaSFEzVkhsWlVFeDNOSGhFYkVKM1JWVjBhV1U0UW1GUg",
-    "fingerprint": "product manager remote 80 90 hr|synthires|8jjbno",
-    "title": "Product Manager (Remote | $80 –$90/hr)",
-    "company": "Synthires",
-    "location": "Not specified",
-    "locations": [
-      "Not specified"
-    ],
-    "remote": true,
-    "posted": "2026-08-13T11:00:00.000Z",
-    "salaryMin": 80,
-    "salaryMax": 90,
-    "url": "https://www.linkedin.com/jobs/view/product-manager-remote-%2480-%E2%80%93%2490-hr-at-synthires-4450486526",
-    "source": "LinkedIn",
-    "score": 45,
-    "reasons": [
-      "Positioning fit (platform, operations, enterprise)",
-      "AI signal (AI)",
-      "Resume fit ~21%",
-      "Remote"
-    ],
-    "fetchedAt": "2026-08-13T12:54:47.645Z"
-  },
-  {
-    "id": "LWxZTWVYQm9xVnljTVl6YUFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTVTVPZUcxU2MybFFRbU55YzNZNVQxTjZTMk5mUTNWTGIyd3pVMEpZVEVGV2IxaHJZMjU1ZFdORE5qUkRUazFxVG5wVWNYRnVTRmh6YTNZd1lVRnhUM1JCTFRoUlFqRldXVVZCTkhKQ1IwWnJYelU0ZEdaWk0wSTFSbXRQUm1wV2MwcFRVWGMxY3pGMGNsVmljMjlSWDA5MU1uSkxSMk52ZFhkR1NqRkJNelJvYjBWWlVUY1NGMmczTlRsaGNHMURTVGR1Ukd0UVNWQXdZMkp6TkVGbkdpSkJSSE55T1daUmEzUjRTMVIyYjBkcVUyRnVRbFV5VTNWRWNtbGlaSGhuVkZOMw",
-    "fingerprint": "senior product manager|tract capital management|tjgaz1",
-    "title": "Senior Product Manager",
-    "company": "Tract Capital Management",
-    "location": "Not specified",
-    "locations": [
-      "Not specified"
-    ],
-    "remote": true,
-    "posted": "2026-08-12T19:00:00.000Z",
-    "salaryMin": null,
-    "salaryMax": null,
-    "url": "https://www.linkedin.com/jobs/view/senior-product-manager-at-tract-capital-management-4453355518",
-    "source": "LinkedIn",
-    "score": 61,
-    "reasons": [
-      "Senior/Group title",
-      "Positioning fit (vendor, enterprise)",
-      "AI signal (AI, RAG)",
-      "Resume fit ~17%",
-      "Remote"
-    ],
-    "fetchedAt": "2026-08-13T12:54:47.644Z"
-  },
-  {
-    "id": "aHNla3ZDWFd1V1hVanhfeEFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTek41UVZJeVNFdDZWMmRFVm01Q1ozZHNSM04xWTFOa1lqWldSVzlETFcxWWJXeFNZak5rYmkxeE9ESTNjekJKYURGZlNGQnJWRzB6TVZjMlRGQkRSbkIwVWtWTGEyMTBORE5hYlRGTVNtWXlkRjlhYmprdFNGVjJVemR6VTBSUU4xUkdUbmcxU0ZSbFQzSmxjR3BSWVRBMGR6bHFiRFZ4Um1wcGRFdEJaVTVMTVRGb1dWWVNGekF5ZURoaGRrTk9USFJ4TUhGMGMxQXhkRWREYzFGdkdpSkJSSE55T1daVFEzTlVjM2cwZDB4V2JDMWtjR3RLV0cxRE1rc3RlbVZJZDNwMw",
-    "fingerprint": "product manager consumer goods manufacturing|paris corporation|-m83cwq",
-    "title": "Product Manager-Consumer Goods/Manufacturing",
-    "company": "Paris Corporation",
-    "location": "Westampton Township, New Jersey",
-    "locations": [
-      "Westampton Township, New Jersey"
-    ],
-    "remote": false,
-    "posted": "2026-08-11T15:00:00.000Z",
-    "salaryMin": null,
-    "salaryMax": null,
-    "url": "https://www.linkedin.com/jobs/view/product-manager-consumer-goods-manufacturing-at-paris-corporation-4451691973",
-    "source": "LinkedIn",
-    "score": 15,
-    "reasons": [
-      "Positioning fit (marketplace, platform, operations)",
-      "AI signal (AI, RAG)",
-      "Resume fit ~17%",
-      "Outside target markets"
-    ],
-    "fetchedAt": "2026-08-12T12:53:42.415Z"
-  },
-  {
-    "id": "Si0zWkNCakhFZmR3YXdFbEFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTWFJ0WldGSlFXRlhRa3d0ZEVWMk9VYzRiM1pKZUd0NFgxZEZZVTFyVGpVemVHeDFRVGxUUkRCTE9XOHdVM3AwYkdsU01VaGlNVTF0YUcwMlZXNHRPREJOYUU5dlQxVmFMVmRSY0RNNWVteDRRakpDUWxBemJreDBTamhRV2tWVVluSTBPRkJyWnpKTVVYb3lVMUZDTjBaSFYwVnhWMDlWVnpWTFltdFdSWG8yVUdOMFdXZ1NGekF5ZURoaGRrTk9USFJ4TUhGMGMxQXhkRWREYzFGdkdpSkJSSE55T1daVUxUUmlaemR6VTJsRFgwUm1OM00yZVY5NlFuVlRkbkpYYm1OMw",
-    "fingerprint": "ai native product manager products|accenture|t44hz",
-    "title": "AI Native Product Manager - Products",
-    "company": "Accenture",
-    "location": "Arlington, Virginia",
-    "locations": [
-      "Arlington, Virginia"
-    ],
-    "remote": false,
-    "posted": "2026-08-12T06:00:00.000Z",
-    "salaryMin": null,
-    "salaryMax": null,
-    "url": "https://www.linkedin.com/jobs/view/ai-native-product-manager-products-at-accenture-4452373381",
-    "source": "LinkedIn",
-    "score": 27,
-    "reasons": [
-      "Positioning fit (platform, workflow automation, enterprise)",
-      "AI signal (AI, LLM, agent)",
-      "Resume fit ~24%",
-      "Outside target markets"
-    ],
-    "fetchedAt": "2026-08-12T12:53:42.414Z"
-  },
-  {
-    "id": "bTVETEhENWNaNzQ4S3F3RkFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTalZQY1dsR1VGVlBiVGR4WWpKaVlqZ3lXV3RuTURjMVUxZFlRa1ppVlhaRWFqZGtkVlZ0YW01TlpGbHpaamxuTlhKMlZFeFRlVGh1WTNKTFExTjRjVEkzYkZadllrZzJXVzlUWVdWU1JraExXbFk0Vms1T2FYTmlPVTF1VEhaUU5FbHlTVnBqVGtaTFYzQnRXV3hvTFZRM2FWOXNUMUUyTkRWSmQzQnZWM1JIZWtWM2JuTVNGM2d5ZURoaGRYbFBRVm8yV210UVNWQm9kak5OTUVGbkdpSkJSSE55T1daVFdtcDNTbk5CWmtSM2MzaG9iVVJxWm5FNUxXb3RVVGRUV0hsQg",
-    "fingerprint": "senior product manager|thomson reuters|wia9it",
-    "title": "Senior Product Manager",
-    "company": "Thomson Reuters",
-    "location": "Ann Arbor, Michigan",
-    "locations": [
-      "Ann Arbor, Michigan"
-    ],
-    "remote": false,
-    "posted": "2026-08-11T20:00:00.000Z",
-    "salaryMin": null,
-    "salaryMax": null,
-    "url": "https://www.linkedin.com/jobs/view/senior-product-manager-at-thomson-reuters-4451934348",
-    "source": "LinkedIn",
-    "score": 29,
-    "reasons": [
-      "Senior/Group title",
-      "Positioning fit (operations, enterprise)",
-      "AI signal (AI, ML, agent)",
-      "Resume fit ~16%",
-      "Outside target markets"
-    ],
-    "fetchedAt": "2026-08-12T12:53:42.412Z"
-  },
-  {
-    "id": "N0tXNUo2TkpBa3B4OEVBWkFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBURXRxTUcxSU9GVmplV010ZWw5M05FOXpNa2QxV25nd2MyaHJXVVJ5T0dSblYzUmxZbE5zVWt4TWNtUXRZbU50YkdGTmJWOUphbFI0YkZScVJuTnBXRmd3U1UxRlFUbEhNekZrY0hoMmRVWjVaRFJCVVVoUVJFNWhOSGxqVmt0SFN6RlBTRmx4YVRaRWRYcGZhRk5zZFc1VU1WaFlRVnBvZUcwMmJWUlhaamhaYUhSRGJYa1NGM2d5ZURoaGRYbFBRVm8yV210UVNWQm9kak5OTUVGbkdpSkJSSE55T1daVGRTMHROazV2WTNoS2VYRnJYMGxqVTJsNU5tVjNiRXR2Y0ZGMw",
-    "fingerprint": "sr manager visa accept product manager|visa|f877eq",
-    "title": "Sr Manager, Visa Accept Product Manager",
-    "company": "Visa",
-    "location": "San Francisco, California",
-    "locations": [
-      "San Francisco, California"
-    ],
-    "remote": false,
-    "posted": "2026-08-11T22:00:00.000Z",
-    "salaryMin": null,
-    "salaryMax": null,
-    "url": "https://www.linkedin.com/jobs/view/sr-manager-visa-accept-product-manager-at-visa-4451960469",
-    "source": "LinkedIn",
-    "score": 54,
-    "reasons": [
-      "Positioning fit (platform, operations)",
-      "AI signal (AI, GPT, RAG)",
-      "Resume fit ~20%",
-      "Priority location (Chicago/Bay Area)"
-    ],
-    "fetchedAt": "2026-08-12T12:53:42.410Z"
-  },
-  {
-    "id": "b2VpczhubzlLLWVKejRhU0FBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTM2t0TTJocVV6bHpNR3hzYkhwNU9VNDVVM1ZNVDBKSGIySlVOVk5EVldKemEwOWpVbGROTmxVNU0xZzRlRkp4YnpoU2FqQjNPWGRhTUd4dVJsSkVOMmhGV2kxaVVXbHFTRU5qU0MxUVpuVndTRmwyWlV0eFoybHlibWxsYzNnekxXczBSelZRUjBaaFoybGFjVFpzTWtkWmRta3RjMmN6WW14dUxWSkdkMGR3Y3pOQ2VrUVNGM2RIZURoaGNGOTJTRzl0VHpoTU1GQnJORk4wYlZFNEdpSkJSSE55T1daVFVEUnZUV1JwVDFGUk9VSTBZWGxQTW1KT2VHTldia015UWpWMw",
-    "fingerprint": "senior product manager hyperscale ai infrastructure|verizon|moiv0g",
-    "title": "Senior Product Manager – Hyperscale & AI Infrastructure",
-    "company": "Verizon",
-    "location": "Annapolis Junction, Maryland",
-    "locations": [
-      "Annapolis Junction, Maryland"
-    ],
-    "remote": false,
-    "posted": "2026-08-11T18:00:00.000Z",
-    "salaryMin": null,
-    "salaryMax": null,
-    "url": "https://www.linkedin.com/jobs/view/senior-product-manager-%E2%80%93-hyperscale-ai-infrastructure-at-verizon-4452623074",
-    "source": "LinkedIn",
-    "score": 42,
-    "reasons": [
-      "Senior/Group title",
-      "Positioning fit (platform, operations, network)",
-      "AI signal (AI, ML, RAG)",
-      "Resume fit ~25%",
-      "Outside target markets"
-    ],
-    "fetchedAt": "2026-08-12T12:53:42.408Z"
   }
 ]
