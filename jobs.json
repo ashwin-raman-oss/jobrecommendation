@@ -1,5 +1,30 @@
 [
   {
+    "id": "bjNSb1hDSUI2dW01MUNZaEFBQUFBQT09OkVzc0JDb3dCUVVwcFZEUjBUR1p5Y0hCVVdXcG5WMjlqWVY5VE5VazJSbGxvTVdoT1NrNXhXSFZyZFhWaVduaDVjRnBLVnpkUVlqSlFRVkIxWjJWUk5sTnZMV3R6UTBSUU0xSldiRWgxYUU1emVVdHJialpxYzI1SE5XWTBhbkptTkRBM2RsaFBUa0p6TmtweVNqaGZXbTF4YkRWMFZVVTNla1JqYm5kRWFsY3lVVk5IZW1keVNFaEVZbXAyYUVWc1N6WVNGbTFIZFhoaGIwVnRMWEpRUVRoQkxWcHhTVFpCUVdjYUlrRkVjM0k1WmxJNGMyZGtZVkJVVHpOT1IyVk5iM1p4VkZSSU9VTjZUMFZ2YWxF",
+    "fingerprint": "staff principal product manager marketing technology martech|inkitt|vr20vl",
+    "title": "Staff / Principal Product Manager, Marketing Technology (MarTech)",
+    "company": "Inkitt",
+    "location": "San Francisco, California",
+    "locations": [
+      "San Francisco, California"
+    ],
+    "remote": false,
+    "posted": "2026-09-20T00:00:00.000Z",
+    "salaryMin": 190000,
+    "salaryMax": 225000,
+    "url": "https://www.linkedin.com/jobs/view/staff-principal-product-manager-marketing-technology-martech-at-inkitt-4469815324",
+    "source": "LinkedIn",
+    "score": 64,
+    "reasons": [
+      "Positioning fit (platform, vendor, network)",
+      "AI signal (AI, RAG)",
+      "Comp disclosed ≥ $175K",
+      "Resume fit ~20%",
+      "Priority location (Chicago/Bay Area)"
+    ],
+    "fetchedAt": "2026-09-21T17:38:51.759Z"
+  },
+  {
     "id": "YWRla0R6cDl1SF9RWDVUVkFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTblJCZUhOck9YVnpUSFZJVUc1b2QwOTRWbFkzY1dGRWRHUnRUVTgzVG04d1ZWQndhWHA1WjNsTmMyRlNkVFZHWmtveFRFMUVVWFJyWVRkeGMyUllZVWxmUmxWTmRWbEhkekJtTFdsaGJ6aDFSak4xVkRjMFlYaFBibmhxUm5OUWR6Y3hMVEZWU0VSbVJESmFVRUY0UmkwMFNIWmhPWGR1WmtscFgwRkROMWREY0VoeGExOFNGMDVRYVhaaGIxYzRRalZpU2pGelVWQnZOMkpyT0VGUkdpSkJSSE55T1daU2JYcGpTUzB3WlUxblZpMWtlalpGWVZsSGIxRnVXVXcwTkdSUg",
     "fingerprint": "sr product manager technical deal tooling insights strategic customer engagements|amazon web services aws|h3i5t1",
     "title": "Sr. Product Manager Technical, Deal Tooling & Insights, Strategic Customer Engagements",
@@ -4876,30 +4901,5 @@
       "Outside target markets"
     ],
     "fetchedAt": "2026-08-13T12:54:47.656Z"
-  },
-  {
-    "id": "eEFha0xKV0s1M2Rfb3hweEFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTVXRtVFVOR1NUSnJNM2t4TlhCNExVeE9aR3BwV1RGZlluWlZibVV4WkdkTFozQnZNMnQwY0dJeU5DMUNiM3B1VVdWUmRuWjZZak5GYkU5dlltVXhRVzFRWkU0emFIVTVORVZXWTNZdGFrSk1kMWxsTWtaVE5EaFlWRTFJWVZwaUxVaEJVRTR6VFZGa1oyRjBhRk00Wm1VM1ZUbFljamhZZFdGMFNHUlZkamRLY25sTk9XRVNGMnBpTlRsaGNHMU5UblpwZVcxMGExQnZkV1ZmWjBGVkdpSkJSSE55T1daU1NVcDFTV1F0YmxkWmRFdDBMWFJQUW1RdFFrRjBZVTVGYmw5Mw",
-    "fingerprint": "senior product manager ai data science products|crunchbase|-buxec2",
-    "title": "Senior Product Manager, AI & Data Science Products",
-    "company": "Crunchbase",
-    "location": "Not specified",
-    "locations": [
-      "Not specified"
-    ],
-    "remote": true,
-    "posted": "2026-08-12T23:00:00.000Z",
-    "salaryMin": null,
-    "salaryMax": null,
-    "url": "https://www.linkedin.com/jobs/view/senior-product-manager-ai-data-science-products-at-crunchbase-4452763343",
-    "source": "LinkedIn",
-    "score": 80,
-    "reasons": [
-      "Senior/Group title",
-      "Positioning fit (platform, B2B, operations)",
-      "AI signal (AI, machine learning, ML)",
-      "Resume fit ~25%",
-      "Remote"
-    ],
-    "fetchedAt": "2026-08-13T12:54:47.654Z"
   }
 ]
