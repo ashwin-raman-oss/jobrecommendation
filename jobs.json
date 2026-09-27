@@ -1,5 +1,80 @@
 [
   {
+    "id": "ODFRUjctbE1sc3cxOEZTbEFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBUSEptU25aSE1WQlRNbmxLTURaeFMydHlPVmx2WW0wNWRGQjZZbEJMU2xORVdERTNjRUZOVjNKUldIZHFlWGRwVjNoVE9VRnNXREpaWDJjd2VGRjZaR3R3V0VGclRFOWxiR0ZvY0hCcGJEaElTMnMxVEVkT2NtcHFabVp1YjJoMFV6WTVkSEl6UVRSWWVESmZPV3RFVkhCWE16Wm1PRzFUVDAxWmRrVmZTMDF1TTFJeWRpMFNGMFJyUXpWaGRsZEdUelEyZFhkamMxQndUbTQyWjBGbkdpSkJSSE55T1daUk1FeDJlR1UxYlRac2QwMVllVko1YWpoaVJFMDVkMnR1UjNoUg",
+    "fingerprint": "pipeline senior product manager resy future opportunities|american express|22i55a",
+    "title": "Pipeline - Senior Product Manager, Resy (Future Opportunities)",
+    "company": "American Express",
+    "location": "New York, New York",
+    "locations": [
+      "New York, New York"
+    ],
+    "remote": false,
+    "posted": "2026-09-26T19:00:00.000Z",
+    "salaryMin": 123000,
+    "salaryMax": 215250,
+    "url": "https://www.linkedin.com/jobs/view/pipeline-senior-product-manager-resy-future-opportunities-at-american-express-4439815490",
+    "source": "LinkedIn",
+    "score": 79,
+    "reasons": [
+      "Senior/Group title",
+      "Positioning fit (marketplace, platform, B2B)",
+      "AI signal (AI, RAG)",
+      "Comp disclosed ≥ $175K",
+      "Resume fit ~25%",
+      "Visibility location"
+    ],
+    "fetchedAt": "2026-09-27T16:11:01.521Z"
+  },
+  {
+    "id": "MUt6blpKOTJBX1owUV9wSUFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTMGxWUVhGcVoybDRkWEpHYjE5U05qQlFjbU15VWpGRVpWbHliVkJxU0hFMlZ6WklXVmxuTjJwT2F6UnFaVmRIY2paSFlsSmZkVEpZVm1keWRUbHpOMVIwZG10TWNTMVJZM1ZFTkc1cE0wWlVWVFJhVUMwMFEwRkhTM2x4Ym0xelVFTXlVR1k0YWpOQ2VtaG5XVXRJWTIxRmFucEJXalEzVm1SaWJ6UllTa05ZU1U4M2VsVVNGME5yUXpWaGNXMVpUVGhITlhObFRWQnVPQzAzYzBGRkdpSkJSSE55T1daVE56UjZWMEY2YzBseU9UaEpiMWhxUm04eFZFMXRRVXBLUm14Mw",
+    "fingerprint": "digital technical product manager senior investment services company isco digital and design team|usaa|-eqysm9",
+    "title": "Digital / Technical Product Manager Senior – Investment Services Company (ISCO) Digital and Design Team",
+    "company": "USAA",
+    "location": "Tampa, Florida",
+    "locations": [
+      "Tampa, Florida"
+    ],
+    "remote": false,
+    "posted": "2026-09-26T21:00:00.000Z",
+    "salaryMin": null,
+    "salaryMax": null,
+    "url": "https://www.linkedin.com/jobs/view/digital-technical-product-manager-senior-%E2%80%93-investment-services-company-isco-digital-and-design-team-at-usaa-4470572704",
+    "source": "LinkedIn",
+    "score": 19,
+    "reasons": [
+      "Senior/Group title",
+      "Positioning fit (platform)",
+      "AI signal (AI, RAG)",
+      "Resume fit ~17%",
+      "Outside target markets"
+    ],
+    "fetchedAt": "2026-09-27T16:11:01.520Z"
+  },
+  {
+    "id": "Ti1zQzVmNmdCTkFUTWU3TkFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTM0JGU3pBM2NFVmZlVzUwYzBaVWFVbFZRbk5yUkdkRk9VMDRiRmwzWWxaeE9UY3pVV2x0VW05NlYxOWtiMVZRYTFCS1duRkNjM2RuYUdoNmRYSndZWEpIV1dkc09YcEZlWFJUZWtJeGFrTmxMWEp2Y2xSU1dtMVZSbFZqT0ZWc2QxVjNVVzVNTVcwd2RXNTFNWE5YTUZOZldIVlBkVVJhTjJ0cFRGRTVOWGxMYVVJMlNIa1NGME5yUXpWaGNXMVpUVGhITlhObFRWQnVPQzAzYzBGRkdpSkJSSE55T1daUlZWUnFPRmxqVFVaUlJYRm5VbGxYYTIweFFqQjVZVEpTWTBoUg",
+    "fingerprint": "principal product manager threat detection engine and content hybrid|crowdstrike|-ap1mia",
+    "title": "Principal Product Manager - Threat Detection Engine and Content (Hybrid)",
+    "company": "CrowdStrike",
+    "location": "Arlington, Virginia",
+    "locations": [
+      "Arlington, Virginia"
+    ],
+    "remote": false,
+    "posted": "2026-09-27T09:00:00.000Z",
+    "salaryMin": null,
+    "salaryMax": null,
+    "url": "https://www.linkedin.com/jobs/view/principal-product-manager-threat-detection-engine-and-content-hybrid-at-crowdstrike-4413639059",
+    "source": "LinkedIn",
+    "score": 15,
+    "reasons": [
+      "Positioning fit (platform, network)",
+      "AI signal (AI, ML, RAG)",
+      "Resume fit ~17%",
+      "Outside target markets"
+    ],
+    "fetchedAt": "2026-09-27T16:11:01.519Z"
+  },
+  {
     "id": "NUZuUjNyVEgybF8xX3lPRUFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTWEJVUkc1NVUxcFBXbTkyVjIxckxXTkpPWEF0U0dOQldqaDNaRVV6VDBoMVVYUmpOM0JYY0ZSdGNVdEdOVXBpZVZvNGRFTTBSVnBUYkdVMmRqTjVjMVZOZVZkQ05XczBSMFI1YWxKdlh6QmZiVUYyY0Y4MFEzUnJRbWQyZEdRMWIyVnFOMFpMTjBwa2VUZDZWSFEzV1doWGJFUXhabEZPWm1oZmVXNXNRazEwY0hKS1FXRVNGMUpQVnpOaGMzWk9RMlppU1d0UVNWQXRVR2xJZDFGakdpSkJSSE55T1daVFYyaFBlVmhHUVdaR04zcEVkR3RPY3psM01qUTRSMDFhYjBKbg",
     "fingerprint": "product manager deployed optical systems|anduril industries|-47a7ek",
     "title": "Product Manager, Deployed Optical Systems",
@@ -4826,76 +4901,5 @@
       "Remote"
     ],
     "fetchedAt": "2026-08-19T12:32:44.376Z"
-  },
-  {
-    "id": "WWZCaTJ6RHoyaTdDcGp0d0FBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBURzFQWVhGc1FWWkNTMHR3ZFcwNGNETTNhRWhJY1VkTWRGVjNVbTV2VEVSTGFVVnFMVEpXTmtWeVNISTVhRlpuZERSWWFtZzVXVXQzVkRaSmJEaGpaRjlrVGtkdFdqRTBiR3QyYWxNeVpuRldhazlPV1RKZlNVRnhWVUV4U1dOb01EazVSazR0YUZOdmNIRm9ZVmRETTJGeU1qTmxRbVIyWTNWbmFuUkZkWGhOWDBWU2VXRVNGMWh4UzBaaGRqZDVSMWxIWTNCMFVWQnRjSFp6ZFZGVkdpSkJSSE55T1daUmR6WjJXVkZ2VHpKMFNISXpXbGMyYnpOcFRGcHhjSFo1UkVabg",
-    "fingerprint": "usa principal product manager asset and parts management|walmart connect|ccauw4",
-    "title": "(USA) Principal, Product Manager - Asset and Parts Management",
-    "company": "Walmart Connect",
-    "location": "Bentonville, Arkansas",
-    "locations": [
-      "Bentonville, Arkansas"
-    ],
-    "remote": false,
-    "posted": "2026-08-19T04:00:00.000Z",
-    "salaryMin": 110000,
-    "salaryMax": 220000,
-    "url": "https://www.linkedin.com/jobs/view/usa-principal-product-manager-asset-and-parts-management-at-walmart-connect-4456158153",
-    "source": "LinkedIn",
-    "score": 36,
-    "reasons": [
-      "Positioning fit (platform, B2B, operations)",
-      "AI signal (AI, ML, RAG)",
-      "Comp disclosed ≥ $175K",
-      "Resume fit ~23%",
-      "Outside target markets"
-    ],
-    "fetchedAt": "2026-08-19T12:32:44.374Z"
-  },
-  {
-    "id": "V1o5b1ZpV181M2VBc0JybEFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTMnhUWVVaMmVqZHJVREZLU1hoT1pYRmhVaTAwZVhKSmVrWXRkbFJGUTJKbE1EbExUVTFmZFdkbFptWlRObGhuZG1WSE1GVXlUMGxQWWprMmRWWlFNMUIxZUdoZlFYcFljWGc0VFRZMmREZHhTWFJuV1ZJdGRXbzFNa3RqZEhwQ2EydHRUMEZtYUZSaWVGVjFWRkZHTXpWM1VrTXdTMVUyYm1WQldqUkVNV0UzYTJsNVFtZ1NGMWh4UzBaaGRqZDVSMWxIWTNCMFVWQnRjSFp6ZFZGVkdpSkJSSE55T1daU1prUTBaRTFGT0VRMlduQldUbTh3ZDJ4bVkwWkZSMXAzZWxabg",
-    "fingerprint": "solar product incharge product manager|saur energy international|m1wj5k",
-    "title": "Solar - Product Incharge/Product Manager",
-    "company": "Saur Energy International",
-    "location": "US",
-    "locations": [
-      "US"
-    ],
-    "remote": false,
-    "posted": "2026-08-18T00:00:00.000Z",
-    "salaryMin": null,
-    "salaryMax": null,
-    "url": "https://www.linkedin.com/jobs/view/solar-product-incharge-product-manager-at-saur-energy-international-4455721516",
-    "source": "LinkedIn",
-    "score": -14,
-    "reasons": [
-      "AI signal (AI)",
-      "Resume fit ~8%",
-      "Outside target markets"
-    ],
-    "fetchedAt": "2026-08-19T12:32:44.373Z"
-  },
-  {
-    "id": "ZFZJOE42RkRiT3lEem5KZEFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTa1pPVldOV1IyeFhRMjh6V0U1cGRrUjNSa3g1T1ZsTWJFa3lNa3BsYkdGalZHdzRWSFJKU1hVd1RFMXdjSEpVWlY5WFoxaFRZVWw0Tlhwd2NsaDZhVXhDVkVOWFYwUnZhbGt5WTBaZlNucENWa00yYTFGeVNFSXdTVkIxU1dSVFdtTTRZbmRQY0RrNVdGSkpaMjVTWTBoV2NqSlpRblJpUkhkRU1ISTJNVEkyWTFkNVIwd1NGMWh4UzBaaGRqZDVSMWxIWTNCMFVWQnRjSFp6ZFZGVkdpSkJSSE55T1daVFIzWjJkemRPTms4MFduaG5UbFJQV0dVNGJsUnlNRTh3Ym1kUg",
-    "fingerprint": "product manager surveillance technology|consultnet technology services and solutions|fnp7qo",
-    "title": "Product Manager- Surveillance Technology",
-    "company": "ConsultNet Technology Services and Solutions",
-    "location": "Rockville, Maryland",
-    "locations": [
-      "Rockville, Maryland"
-    ],
-    "remote": false,
-    "posted": "2026-08-18T15:00:00.000Z",
-    "salaryMin": null,
-    "salaryMax": null,
-    "url": "https://www.linkedin.com/jobs/view/product-manager-surveillance-technology-at-consultnet-technology-services-and-solutions-4455766772",
-    "source": "LinkedIn",
-    "score": -5,
-    "reasons": [
-      "Positioning fit (platform)",
-      "Resume fit ~17%",
-      "Outside target markets"
-    ],
-    "fetchedAt": "2026-08-19T12:32:44.370Z"
   }
 ]
