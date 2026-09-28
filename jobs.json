@@ -1,5 +1,101 @@
 [
   {
+    "id": "ZVY1Q1RzVkFldjJIemVOaEFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTMHRHY25aR2FYUklkVWQxYmxabWNrTkRPUzFLTXpRMmEydEJUSEV5VVRSTVJHZzJaVlJtVEdOelpVUXlWbHB4VUZSMWNXbDViRjk2YWxaSmNVTm9UR2c0VmpWeFpWUnNVME5HTXpNMVVXRklhR1JCWlVsWU1VZFhWa3BJWDIxaU1UVkNaWHBLU0dkT2FUbERZM1F6ZWxvemRtSlFaWEpGUkUxclltZHZWak41VVZrMmJuTVNGMVEzY1RaaGRubHJTMGxYZG5GMGMxQnNjbXBTYzFGckdpSkJSSE55T1daVVgzUjZkakZ1YkZOQlgyZEdWbmxYWjJZM1FWbDZVR1UxUVc5Qg",
+    "fingerprint": "product manager revenue cycle|davita kidney care|-j8oky3",
+    "title": "Product Manager, Revenue Cycle",
+    "company": "DaVita Kidney Care",
+    "location": "US",
+    "locations": [
+      "US"
+    ],
+    "remote": false,
+    "posted": "2026-09-28T00:00:00.000Z",
+    "salaryMin": 78000,
+    "salaryMax": 119000,
+    "url": "https://builtin.com/job/product-manager-revenue-cycle/11393075",
+    "source": "Built In",
+    "score": 7,
+    "reasons": [
+      "Positioning fit (platform, operations)",
+      "AI signal (AI, RAG)",
+      "Resume fit ~19%",
+      "Outside target markets"
+    ],
+    "fetchedAt": "2026-09-28T19:04:51.214Z"
+  },
+  {
+    "id": "cEszbTRONmxMS256OXJVZEFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTMUY1YmtoQ1NucFVka2hsU0hWYWRWSTNURUpsUlZwck9EWk9jMGRYWTNGV1ZYSlRUMHBGZEhkbmJESkxiVVp3WkVGUVNYcHNZMXBwVWxSUk1HOXpUMVpxWlVndGVtMXBZVFJKTWxocE5WWTFVWEV4UXpSMGFGZ3RWV05RTFdkVk5reFJkRmswVnpoU2MyNXRhMDFOVEd0RWF6TnVhbXBZZDJ0b1ZHRkNTbWh1VW5OVVpsZ1NGMVEzY1RaaGRubHJTMGxYZG5GMGMxQnNjbXBTYzFGckdpSkJSSE55T1daUk1rVm1TR1pFY2pkWWVGRXRSMGhVVDNOdE1URTVSM0YyYkVkUg",
+    "fingerprint": "service product manager gcms|shimadzu scientific instruments|ikegyy",
+    "title": "Service Product Manager - GCMS",
+    "company": "Shimadzu Scientific Instruments",
+    "location": "Columbia, Maryland",
+    "locations": [
+      "Columbia, Maryland"
+    ],
+    "remote": false,
+    "posted": "2026-09-28T15:00:00.000Z",
+    "salaryMin": null,
+    "salaryMax": null,
+    "url": "https://www.linkedin.com/jobs/view/service-product-manager-gcms-at-shimadzu-scientific-instruments-4472756151",
+    "source": "LinkedIn",
+    "score": 2,
+    "reasons": [
+      "Positioning fit (operations, network)",
+      "AI signal (AI)",
+      "Resume fit ~14%",
+      "Outside target markets"
+    ],
+    "fetchedAt": "2026-09-28T19:04:51.213Z"
+  },
+  {
+    "id": "clFhVkU5eHJQZzF6MUxsYkFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTVmgzWVRsclpqTklVRlI0ZEMxRVFuRnlXRGRPY0ZKMGRrb3dkekl6YWxVeWIzRjNYelJ6Y3pOSlkyczBhSFp5WVMxZlgxRXpkWGRpTm1KR1pGQnZWV3hzVkRoNE4xQmlWMWhzZVdreWQxQnVWVkZxY0daTFRscHRjRGR6ZGtsR1FVZGFiVVZSZG5Sa1V6SldTalYwYkhWaFEzQnBWbEJGWm1oWmJXVklSRU5QWVRkRGNtRVNGMVEzY1RaaGRubHJTMGxYZG5GMGMxQnNjbXBTYzFGckdpSkJSSE55T1daUmNVNUlXbFF0UXkwMk1WY3lObG8yV0dsdmVVdDNZVzF4WTBOMw",
+    "fingerprint": "group product manager aurora il|mitutoyo america corporation|k8yeu6",
+    "title": "Group Product Manager - Aurora, IL",
+    "company": "Mitutoyo America Corporation",
+    "location": "Aurora, Illinois",
+    "locations": [
+      "Aurora, Illinois"
+    ],
+    "remote": false,
+    "posted": "2026-09-28T16:00:00.000Z",
+    "salaryMin": 135000,
+    "salaryMax": 145000,
+    "url": "https://www.indeed.com/viewjob?jk=b7c75232e5514c16",
+    "source": "Indeed",
+    "score": 4,
+    "reasons": [
+      "Senior/Group title",
+      "AI signal (AI)",
+      "Resume fit ~17%",
+      "Outside target markets"
+    ],
+    "fetchedAt": "2026-09-28T19:04:51.212Z"
+  },
+  {
+    "id": "TnZiZ3QwYmd0LTVKREltY0FBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBUSEpWVGxSelkwNHpPRGxuV1Y5eWMyUlNTMHhSUWpGcVprWXhaRkpSYVdWT04xZFlTR2h0TFU1VVVXSTVaamhRYlZsc2NrUm1RWGw1V0RoNmMwSlBiRTFyVG05bFVXaGxWRTh3VkdvdFlVdDZVMUY1U25Ka2Jua3hTMHRsZFROSGRtdEZiakpoYkRZMldFNVRTR1EyYkRKc1pFVXdOMHh1TlVOYWRFNVhaVTV0ZWkxVWRWb1NGMU55Y1RaaGMzVjJTVXBxVUdoaVNWQnZkR0ptT0VGekdpSkJSSE55T1daVU9FTnphVGxqZDBsSVRuTlNVa3AwVERGeFVsTm9iMjF1UXpKUg",
+    "fingerprint": "digital product manager away from home|lassonde|-o03p72",
+    "title": "Digital & Product Manager – Away From Home",
+    "company": "Lassonde",
+    "location": "Rougemont, North Carolina",
+    "locations": [
+      "Rougemont, North Carolina"
+    ],
+    "remote": false,
+    "posted": "2026-09-28T16:00:00.000Z",
+    "salaryMin": null,
+    "salaryMax": null,
+    "url": "https://www.linkedin.com/jobs/view/digital-product-manager-%E2%80%93-away-from-home-at-lassonde-4470882773",
+    "source": "LinkedIn",
+    "score": 4,
+    "reasons": [
+      "Positioning fit (platform, B2B)",
+      "AI signal (AI, RAG)",
+      "Resume fit ~12%",
+      "Outside target markets"
+    ],
+    "fetchedAt": "2026-09-28T19:04:51.211Z"
+  },
+  {
     "id": "ODFRUjctbE1sc3cxOEZTbEFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBUSEptU25aSE1WQlRNbmxLTURaeFMydHlPVmx2WW0wNWRGQjZZbEJMU2xORVdERTNjRUZOVjNKUldIZHFlWGRwVjNoVE9VRnNXREpaWDJjd2VGRjZaR3R3V0VGclRFOWxiR0ZvY0hCcGJEaElTMnMxVEVkT2NtcHFabVp1YjJoMFV6WTVkSEl6UVRSWWVESmZPV3RFVkhCWE16Wm1PRzFUVDAxWmRrVmZTMDF1TTFJeWRpMFNGMFJyUXpWaGRsZEdUelEyZFhkamMxQndUbTQyWjBGbkdpSkJSSE55T1daUk1FeDJlR1UxYlRac2QwMVllVko1YWpoaVJFMDVkMnR1UjNoUg",
     "fingerprint": "pipeline senior product manager resy future opportunities|american express|22i55a",
     "title": "Pipeline - Senior Product Manager, Resy (Future Opportunities)",
@@ -4801,105 +4897,5 @@
       "Outside target markets"
     ],
     "fetchedAt": "2026-08-19T12:32:44.381Z"
-  },
-  {
-    "id": "Ny1Wanh3YVNVdHZqS2RQZ0FBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTVWhGUVhSU01uWlBUVFZOZWxsT1QxQnNkRWhOUkZaVmVsQkxkbWhoVm5sa1UwMVNiMDR6UWxoc0xWY3hiVE13VG1WbU4wSTRWREJSY1VGWWNIWmFOemh5VERKc2FqWjRjekpmYVZkSk5YSnNZVWxvVld4YVluWldUbTVMYXpWVFIzRmFNMHRwWVRKYVozQkthVkZJWkZWRFFrNUJORXA2UWt4UmN6a3RibFZWZFRkcVNFb1NGMXBMUzBaaGNHVnJUWFZUY1hjNFkxQTNiek5XTmxGSkdpSkJSSE55T1daU1dtdFJNakZUVWxWaU1GZHVibFZOTFVGdU5FRmpiVFl4TVZKbg",
-    "fingerprint": "senior product manager wealth management|new york technology partners|qin9gg",
-    "title": "Senior Product Manager - Wealth Management",
-    "company": "New York Technology Partners",
-    "location": "Irvine, California",
-    "locations": [
-      "Irvine, California"
-    ],
-    "remote": false,
-    "posted": "2026-08-18T20:00:00.000Z",
-    "salaryMin": null,
-    "salaryMax": null,
-    "url": "https://www.linkedin.com/jobs/view/senior-product-manager-wealth-management-at-new-york-technology-partners-4455953716",
-    "source": "LinkedIn",
-    "score": 17,
-    "reasons": [
-      "Senior/Group title",
-      "Positioning fit (operations)",
-      "AI signal (AI)",
-      "Resume fit ~20%",
-      "Outside target markets"
-    ],
-    "fetchedAt": "2026-08-19T12:32:44.380Z"
-  },
-  {
-    "id": "ajRnWkZ4dmJOUi16WDdrZUFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTVGRMWTNVNVgxcHJibWxLWmpOVFJXTjFPVGsxYVhod1RVZFpSbTgzWXpaZk1sQnZZMGRQZDNOcE1HcHJkWGsxWlcxSk1qQXROR05zY2tkSVl6UTRaa2hRVFRaTVdURkNZakl6VDFnNU5rOURkMnRzZEZJM1NEaFhXVTgwWlZGR2VEZG1hMUZRWldoVFNqWlhXVjlKVGxFM1ZIWkpUelEzVW1KVmFXUkplRlI2V2xVMVdXa1NGMXBMUzBaaGNHVnJUWFZUY1hjNFkxQTNiek5XTmxGSkdpSkJSSE55T1daUlUycDNhamx2UWxselRISnFNMDFVWjNaYWJIZHNZbFkxYWpsQg",
-    "fingerprint": "senior product manager valuation software|s p global|-h740vf",
-    "title": "Senior Product Manager – Valuation Software",
-    "company": "S&P Global",
-    "location": "Not specified",
-    "locations": [
-      "Not specified"
-    ],
-    "remote": false,
-    "posted": "2026-08-18T23:00:00.000Z",
-    "salaryMin": null,
-    "salaryMax": null,
-    "url": "https://builtin.com/job/senior-product-manager-valuation-software/10732956",
-    "source": "Built In",
-    "score": 31,
-    "reasons": [
-      "Senior/Group title",
-      "Positioning fit (platform, B2B, supply)",
-      "AI signal (AI, RAG)",
-      "Resume fit ~19%",
-      "Outside target markets"
-    ],
-    "fetchedAt": "2026-08-19T12:32:44.379Z"
-  },
-  {
-    "id": "clBUck5DS2x4VTdTYU1fRUFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBURVU1VkZad1YweDNjMmRqYVZreE9EZHlUVFJJY1dGaVdFY3lVSEpETmxGVlVXSXhUbGhVZFVwcVlXRnpla2REUTJaS1luSmplbXBPUW1aS1VEY3lkRlJtWkRGVWNGUnFWVkIyTTBscGNYSjFTV3QxZEVSbGFGVndOVTF6UjJSSFJXNWxURXRRZG5abGJGTkhjelZSWWtsYVRETllWV2xuY210dlNVMU1NblZzUm5VeGEySVNGMXBMUzBaaGNHVnJUWFZUY1hjNFkxQTNiek5XTmxGSkdpSkJSSE55T1daU2RrVkdOMUJPZUdneFUydHBjbEp2T0hFdGNWVm9jSFZoU2pCbg",
-    "fingerprint": "senior product manager tech efs|amazon web services aws|q3g0pk",
-    "title": "Senior Product Manager Tech, EFS",
-    "company": "Amazon Web Services (AWS)",
-    "location": "Boston, Massachusetts",
-    "locations": [
-      "Boston, Massachusetts"
-    ],
-    "remote": false,
-    "posted": "2026-08-18T18:00:00.000Z",
-    "salaryMin": null,
-    "salaryMax": null,
-    "url": "https://www.linkedin.com/jobs/view/senior-product-manager-tech-efs-at-amazon-web-services-aws-4455906985",
-    "source": "LinkedIn",
-    "score": 100,
-    "reasons": [
-      "Target company (Amazon)",
-      "Senior/Group title",
-      "Positioning fit (platform, operations, network)",
-      "AI signal (AI, machine learning, RAG)",
-      "Resume fit ~18%"
-    ],
-    "fetchedAt": "2026-08-19T12:32:44.377Z"
-  },
-  {
-    "id": "YURONUxWN1JKbUJXcVJoMEFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTalJVY2xjMVZIbHRMVU5YU2todlVHRnhOV3BhZFZJNFRrTjBTM1pzZEdGb1dXTmpPRk51ZVdKSlRGSmtiMDFhTmxjek5Xc3lWa2N5U2toM0xWTlpaMkpGY0ZSUkxXRjJSMUZuYlZkQ09UWndkbXhzT1ZaSWNtTjRWelJQUjBwM2VFaFRZak40Um5OdE5sRmFVR2xVVFRsdWMySnlNMjF1VjBKZlVIQk9NMXBZYVRWS1ptVVNGMXBMUzBaaGNHVnJUWFZUY1hjNFkxQTNiek5XTmxGSkdpSkJSSE55T1daVFJVaEZhVFZmU0hoMGRGUmpablZIWkhob1FtVlpiR0ZRVTA1bg",
-    "fingerprint": "sr product manager analytics and data governance|under armour|36fkoe",
-    "title": "Sr. Product Manager - Analytics and Data Governance",
-    "company": "Under Armour",
-    "location": "Not specified",
-    "locations": [
-      "Not specified"
-    ],
-    "remote": true,
-    "posted": "2026-08-18T00:00:00.000Z",
-    "salaryMin": null,
-    "salaryMax": null,
-    "url": "https://www.linkedin.com/jobs/view/sr-product-manager-analytics-and-data-governance-at-under-armour-4445901957",
-    "source": "LinkedIn",
-    "score": 65,
-    "reasons": [
-      "Senior/Group title",
-      "Positioning fit (platform, operations, enterprise)",
-      "AI signal (AI, ML)",
-      "Resume fit ~16%",
-      "Remote"
-    ],
-    "fetchedAt": "2026-08-19T12:32:44.376Z"
   }
 ]
