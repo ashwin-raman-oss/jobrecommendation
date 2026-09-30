@@ -1,5 +1,301 @@
 [
   {
+    "id": "UUNrcDZuMUZLMmcwTUdTSEFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTa00xTWxWNVRGODBZbmQ2TFZsSGFGa3RMV013YkhSSldqSldjemRXTTJ4M1EwWjJlVk15TkVwV2FHNWlUM1paYlhoNlYwNHdiREYwWkZOblZFNVlObTVxVlc5cFJXVlZlRXAwVXpCd1JUWjNWMDloWjFONVNFbFBSVUU1V1doSWFFcHdUbXB6YjBwMFpHWndXRmh0VGpjdGNqbENZM1p0VFhGUlNEbFpUM05XWm5wNVowOFNGM0pyVnpsaGNUSk5TR0poZEhKMVJWQXlZV1Z6ZVZFNEdpSkJSSE55T1daVE9YZ3pUemRIZDBKRk1WVm5MVk52VVVWbmJqWlBka0l4ZEhwQg",
+    "fingerprint": "product manager self service data platform|geico|sw6m97",
+    "title": "Product Manager, Self-Service Data Platform",
+    "company": "GEICO",
+    "location": "Bethesda, Maryland",
+    "locations": [
+      "Bethesda, Maryland"
+    ],
+    "remote": false,
+    "posted": "2026-09-30T09:00:00.000Z",
+    "salaryMin": 95325,
+    "salaryMax": 157850,
+    "url": "https://www.linkedin.com/jobs/view/product-manager-self-service-data-platform-at-geico-4454935825",
+    "source": "LinkedIn",
+    "score": 26,
+    "reasons": [
+      "Positioning fit (platform, vendor, enterprise)",
+      "AI signal (AI, LLM, ML)",
+      "Resume fit ~28%",
+      "Outside target markets"
+    ],
+    "fetchedAt": "2026-09-30T17:24:01.312Z"
+  },
+  {
+    "id": "TjRQZXFBTlRiS3lOSURUQUFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTMUJwVXkweFZscFNWbU40WDFkZlluVlVaMk41ZEMxcllreGhRekEyVFhReWNFTmhaWE5XU1dFMFgyTlpXVzh6TkRGTFowWXRWMmR3YzJ4cWMxOHphMkZtTm1wdWNIUjVUVGRQTWs1b1NHazVjM0U0VFhWZk1EQm5YMXBsWDFOMFRqZHdURWt3UTBkRU1GQTBkVE5CYUhSRWFVSkZZVE5aTjJjME1XbE5WMGh5ZVc1T2FGa1NGM0pyVnpsaGNUSk5TR0poZEhKMVJWQXlZV1Z6ZVZFNEdpSkJSSE55T1daVFJtSXlja0Z3Y1VkSGRFaENSVE4xZGs1TlpqbFhNRkJ3VkRKbg",
+    "fingerprint": "product manager|napa home garden|iec9md",
+    "title": "Product Manager",
+    "company": "Napa Home & Garden",
+    "location": "Norcross, Georgia",
+    "locations": [
+      "Norcross, Georgia"
+    ],
+    "remote": false,
+    "posted": "2026-09-29T20:00:00.000Z",
+    "salaryMin": null,
+    "salaryMax": null,
+    "url": "https://www.linkedin.com/jobs/view/product-manager-at-napa-home-garden-4471961285",
+    "source": "LinkedIn",
+    "score": 9,
+    "reasons": [
+      "Positioning fit (operations, vendor, enterprise)",
+      "AI signal (AI)",
+      "Resume fit ~17%",
+      "Outside target markets"
+    ],
+    "fetchedAt": "2026-09-30T17:24:01.311Z"
+  },
+  {
+    "id": "SUVUUEF3b0VGUmZMejFXR0FBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTMlpRWkdRMGVGWmZhM05LYW1obVFXbG1SR1pITURWVlpVZEhTemhUVGw5M1pHUmxWSE50WDFCNmJrVlVTRTVmUVdOd1ZqbHJiMDgxT1c5UFFqWjFUbkZ0UzFvNE5uUlpZelprYXpSblVWUlNVMDFEZGpaVVpGTm1RMlJEU1dOeVdEVjNVelpOUm5ReFRHVjRaMFJxTURCSGVXeFFSR3hvTmpVNWNtZHhjVXRqT1VoU01YUVNGM0pyVnpsaGNUSk5TR0poZEhKMVJWQXlZV1Z6ZVZFNEdpSkJSSE55T1daVFRUZGFaM0psVEc1S2RWODRUVWN5VDFSbU5XWnVRM2MxYjJsMw",
+    "fingerprint": "principal product manager|sofi|em7y2n",
+    "title": "Principal Product Manager",
+    "company": "SoFi",
+    "location": "New York, New York",
+    "locations": [
+      "New York, New York"
+    ],
+    "remote": false,
+    "posted": "2026-09-29T21:00:00.000Z",
+    "salaryMin": 240000,
+    "salaryMax": 330000,
+    "url": "https://www.linkedin.com/jobs/view/principal-product-manager-at-sofi-4473548102",
+    "source": "LinkedIn",
+    "score": 57,
+    "reasons": [
+      "Positioning fit (platform, operations, vendor)",
+      "AI signal (AI)",
+      "Comp disclosed ≥ $175K",
+      "Resume fit ~23%",
+      "Visibility location"
+    ],
+    "fetchedAt": "2026-09-30T17:24:01.309Z"
+  },
+  {
+    "id": "dUtRclpXMmhaSUItSW9rbUFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTbFZGWWpoQlEwVnBNMEZSVjJObVgzUjFSMmg0Y1ZBNGJHbGFRa1YxYmxWQ2NqWkZNM2d6Y1ZSUFNITnRiVU5GYmtoVE9YTmpORjl5WVcxNk1WcERSR3R4VUMxbFUxcDNYMFJXYWxWUlUyNHhhRkp4YlhSQ1RYaDJhV2RaZEZOVmVGYzRNa1J2ZUVOME1FVTNWVTVaVDJwdlNGbG9OM0JqZEdaMVNHMUpNeko2YTFKc1pqUVNGM0pyVnpsaGNUSk5TR0poZEhKMVJWQXlZV1Z6ZVZFNEdpSkJSSE55T1daU1FXNVRUVk0yVXpsSGN6WnJjVkEwTkVKQlJVWlhWRTVrV0dkMw",
+    "fingerprint": "group lead product manager patient data platform|cedar|-vyo4zr",
+    "title": "Group Lead Product Manager (Patient Data Platform)",
+    "company": "Cedar",
+    "location": "Not specified",
+    "locations": [
+      "Not specified"
+    ],
+    "remote": true,
+    "posted": "2026-09-29T21:00:00.000Z",
+    "salaryMin": null,
+    "salaryMax": null,
+    "url": "https://www.linkedin.com/jobs/view/group-lead-product-manager-patient-data-platform-at-cedar-4473553042",
+    "source": "LinkedIn",
+    "score": 83,
+    "reasons": [
+      "Senior/Group title",
+      "Positioning fit (platform, operations, network)",
+      "AI signal (AI, agent, RAG)",
+      "Resume fit ~29%",
+      "Remote"
+    ],
+    "fetchedAt": "2026-09-30T17:24:01.308Z"
+  },
+  {
+    "id": "UGVSMklHR2RWVGZWaERDWEFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBUREU1T0V4SVJYaFFZamhTTUMxalUwZFJabVpZWmpsTldWSkpkR2xMYUVJMllXVXlNbUZoZEhCWVVtMHlSRmxRTTJSdVUyRkZaalJWWmxGTlJsZ3RPRFV0UVMxZlYyNWtiM2RMV0RodmVtdGFXVFpLWnpWalRHRXdNRmRLVUUxaFozZExNWEpTWWpSaVJXeEVTRkl6ZDBwcFIzRlhhWFJFUkZoSlNGWjNZMkZDWkZwUVFrMFNGM0ZGVnpsaGRVTmFSQzF5VmpWT2IxQjBUVVJITUVGckdpSkJSSE55T1daVVdHeGxRa2M0VFdwaVZHUXdaMnR4YUhkbE1UWjNPVzE1VTE5Ug",
+    "fingerprint": "retirement wealth sr product manager remote|inspira financial|lgrhg",
+    "title": "Retirement & Wealth - Sr. Product Manager (Remote)",
+    "company": "Inspira Financial",
+    "location": "Not specified",
+    "locations": [
+      "Not specified"
+    ],
+    "remote": true,
+    "posted": "2026-09-30T00:00:00.000Z",
+    "salaryMin": 115000,
+    "salaryMax": 145000,
+    "url": "https://www.builtinchicago.org/job/retirement-wealth-sr-product-manager-remote/11440268",
+    "source": "Built In Chicago",
+    "score": 50,
+    "reasons": [
+      "Senior/Group title",
+      "Positioning fit (platform)",
+      "AI signal (AI)",
+      "Resume fit ~21%",
+      "Remote"
+    ],
+    "fetchedAt": "2026-09-30T17:24:01.306Z"
+  },
+  {
+    "id": "b0RObVcwVjUtSjdIdlh0ekFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBUR3hET0c5QlVqbDVNalpLWW05aVZGZE1kbDlVVFVWME4wNTFjbGRKZFhKYU1EWllWSGxuYTNCNVJHNVFabG81UWkxM2RGbHhhbUV6TjJaMVVEbDNVMjF6UmxNM1RVOVBaRWhRZW5nMFZYWndaM2RwTW5saVpGUk1XSFIzUTJsMFowNUNTR1JUVFRnNU1URjBNV05xVGtsVFNtMHliVVpSTkc4eGJXSnFZa3RHUW5nd1RVc1NGM0ZGVnpsaGRVTmFSQzF5VmpWT2IxQjBUVVJITUVGckdpSkJSSE55T1daVVJsTlZMVnB1UzBkR1NGOHdTRWxFY0dweVNscDVMV2RsWm5KUg",
+    "fingerprint": "senior manager product manager hybrid|collins aerospace|qlm715",
+    "title": "Senior Manager Product Manager (Hybrid)",
+    "company": "Collins Aerospace",
+    "location": "New York, New York",
+    "locations": [
+      "New York, New York"
+    ],
+    "remote": false,
+    "posted": "2026-09-29T21:00:00.000Z",
+    "salaryMin": null,
+    "salaryMax": null,
+    "url": "https://www.linkedin.com/jobs/view/senior-manager-product-manager-hybrid-at-collins-aerospace-4473553021",
+    "source": "LinkedIn",
+    "score": 52,
+    "reasons": [
+      "Senior/Group title",
+      "Positioning fit (operations, supply)",
+      "AI signal (AI, RAG)",
+      "Resume fit ~14%",
+      "Visibility location"
+    ],
+    "fetchedAt": "2026-09-30T17:24:01.304Z"
+  },
+  {
+    "id": "RUszMllrVEF1R1docFBjZUFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBURTkyY1dOS01XcFdZMnAwV2xkNGJFeFpSbGhEVFZKV1UyeHdSa1JtYW5oMU1qSkhOV3RwTmxGdk9YWlJZV1ZyYm1KMlQwaHBaMlJxVm5vNFUxcG9lbmN5YUdnMFNrMVBNMHhyWm1oZk5DMXlObFZWZVVNdFVHNTJWVUV5U1hGM2JtSjFZbXN5YkVZdFEzTnhMVlJQYTBGV2Qxb3pOalJvWkcxM1VqSXhZa2R0Y2tsNk1WVVNGM0ZGVnpsaGRVTmFSQzF5VmpWT2IxQjBUVVJITUVGckdpSkJSSE55T1daU2VXZERiMlJGWVZkWFNXYzRla0pCVmtGWGREWTViRmxrZEhKQg",
+    "fingerprint": "sr product manager global us coronary marketing|medtronic|-v42ls3",
+    "title": "Sr. Product Manager - Global/US Coronary Marketing",
+    "company": "Medtronic",
+    "location": "Santa Ana, California",
+    "locations": [
+      "Santa Ana, California"
+    ],
+    "remote": false,
+    "posted": "2026-09-29T20:00:00.000Z",
+    "salaryMin": null,
+    "salaryMax": null,
+    "url": "https://www.linkedin.com/jobs/view/sr-product-manager-global-us-coronary-marketing-at-medtronic-4473528451",
+    "source": "LinkedIn",
+    "score": 25,
+    "reasons": [
+      "Senior/Group title",
+      "Positioning fit (platform, operations, supply)",
+      "AI signal (AI, RAG)",
+      "Resume fit ~13%",
+      "Outside target markets"
+    ],
+    "fetchedAt": "2026-09-30T17:24:01.303Z"
+  },
+  {
+    "id": "VU9xRnVfMVZJZFNoLVFzWkFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBURUY1UkRSaWRWbHBaMEZtUTBwU1kwZG1NWEZPUkhwd1EwZHhTV2x2ZVVOQlIyMTFjMjloY1ZaaGJWSnVWSGR2ZW5VNVJFeFRia2hCYTJwbU1FWkVRbXhUUVdOUVVTMUdOVVE1UTNObFowWnVVVzVTT1haTGJqWkViMk4yUmxoTlkxWlBhekpzYjJ4UE0wbHZTRzVGVUVkQlRGRkpabk56UkZsc1YxOTFVeTEyWmpSRFZWSVNGM0ZGVnpsaGRVTmFSQzF5VmpWT2IxQjBUVVJITUVGckdpSkJSSE55T1daUmQxWmhhWE5VVG1SaFREQXpPVEYxVDNwcVduZERkblJwYmtOMw",
+    "fingerprint": "senior product manager poker|caesars entertainment|-n9uzh2",
+    "title": "Senior Product Manager, Poker",
+    "company": "Caesars Entertainment",
+    "location": "Jersey City, New Jersey",
+    "locations": [
+      "Jersey City, New Jersey"
+    ],
+    "remote": false,
+    "posted": "2026-09-29T00:00:00.000Z",
+    "salaryMin": null,
+    "salaryMax": null,
+    "url": "https://www.linkedin.com/jobs/view/senior-product-manager-poker-at-caesars-entertainment-4473297447",
+    "source": "LinkedIn",
+    "score": 30,
+    "reasons": [
+      "Senior/Group title",
+      "Positioning fit (platform, vendor)",
+      "AI signal (AI, ML)",
+      "Resume fit ~22%",
+      "Outside target markets"
+    ],
+    "fetchedAt": "2026-09-30T17:24:01.301Z"
+  },
+  {
+    "id": "aGVjU2hrcDctakJkT0lIdEFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBURzQ1TlRsdVMxTlFiVzVqWldGRFYxcHdabFpZY2tKMlRURmxiV00zTXpka1FVdzRUV05XVlRGWk1EaDZkRUZIWDNwNU5tSnVSMFp3YVdGdFIzcExXbVYzVDBkR1FXaDROMlpCVVhveU5tOXpOR1ZOTjNwaVRsSjVRVGhSTVZZMmNFaHdOMU51ZWpCaU0yZ3lUbnBtYm5oR1VrdzNSM1ZhTjBsbE5XbElOVU52VTNRMFpsSVNGM0JWVnpsaGRsQnhSR05IWnpWT2IxQTFTWEV5ZFVGakdpSkJSSE55T1daUlpFTjRPVlJLYjNKbWVsWjFNMWw2V0ZKcFNGWXhhRzFyV0Y5Qg",
+    "fingerprint": "senior product manager network api|verizon|-9s12r6",
+    "title": "Senior Product Manager, Network API",
+    "company": "Verizon",
+    "location": "Ashburn, Virginia",
+    "locations": [
+      "Ashburn, Virginia"
+    ],
+    "remote": false,
+    "posted": "2026-09-29T19:00:00.000Z",
+    "salaryMin": null,
+    "salaryMax": null,
+    "url": "https://www.linkedin.com/jobs/view/senior-product-manager-network-api-at-verizon-4473504866",
+    "source": "LinkedIn",
+    "score": 35,
+    "reasons": [
+      "Senior/Group title",
+      "Positioning fit (platform, B2B, network)",
+      "AI signal (AI, ML, agent)",
+      "Resume fit ~18%",
+      "Outside target markets"
+    ],
+    "fetchedAt": "2026-09-30T17:24:01.300Z"
+  },
+  {
+    "id": "REFzQWJJZVJQNTduTE00dkFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTbWxhZG5oak5ESmFNR2RpUlhOc1FqTjZaMFJLYVVoU2VXSllXRzEwVm01SVJHcDZWQzFRU0ZkVlFuZGtSWGhRUm5oek9UWnZia3BwUjNCTVVYRjVOWFV5V1c1ZmJURkJZbXA1VDJGcVRHdDVWemRWTlZveldsQnpUR2xEUTJwV2FrcEhTMHhKVFdaV2NYZzBTR0V4VjI5TGREbEZaa1pWZFZkamJHeE9hRUoxYWpaUkxXNFNGM0JWVnpsaGRsQnhSR05IWnpWT2IxQTFTWEV5ZFVGakdpSkJSSE55T1daVGJsaGhlbkV5WkVwdk1GUkxlREpSVDA5alNqSTNURnBHUXpCQg",
+    "fingerprint": "product manager privacy remote|hallmark cards|8p92tl",
+    "title": "Product Manager- Privacy (remote)",
+    "company": "Hallmark Cards",
+    "location": "Not specified",
+    "locations": [
+      "Not specified"
+    ],
+    "remote": true,
+    "posted": "2026-09-29T21:00:00.000Z",
+    "salaryMin": null,
+    "salaryMax": null,
+    "url": "https://www.linkedin.com/jobs/view/product-manager-privacy-remote-at-hallmark-cards-4471960344",
+    "source": "LinkedIn",
+    "score": 62,
+    "reasons": [
+      "Positioning fit (platform, operations, enterprise)",
+      "AI signal (AI, LLM, RAG)",
+      "Resume fit ~23%",
+      "Remote"
+    ],
+    "fetchedAt": "2026-09-30T17:24:01.299Z"
+  },
+  {
+    "id": "al9MWnBpZ1FjSVN0V05fV0FBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTVzlHV1VSblZWVnlaVU5VVVhWRlMyRjNOV2x5TmtsNFdqbEtObFZVU20wMU9IZ3lXRVV6V0hCWGNVTk5lbEpIUzFjelVsQXdUSFpGYVd4RVJraDBlVXBvUTFsR1EwWk1kMGh4UjBsb2NtMVZaM2RrU0hKWVgwTnNXVFJUUmxwdVJuZDFOMk56Y1U1amJVbGZUV3Q1TWxabWFITjJTMHRXV2tSbk5VbDBWek5HY0V4SE9YVVNGM0JWVnpsaGRsQnhSR05IWnpWT2IxQTFTWEV5ZFVGakdpSkJSSE55T1daUlpIbHNkM2hRYjJKQlRGTXhWSGxXVUVreFVVaFVOSEprV1Y5Mw",
+    "fingerprint": "senior product manager pcs m w d|fluence|xhs24o",
+    "title": "Senior Product Manager PCS (m/w/d)",
+    "company": "Fluence",
+    "location": "Arlington, Virginia",
+    "locations": [
+      "Arlington, Virginia"
+    ],
+    "remote": false,
+    "posted": "2026-09-29T21:00:00.000Z",
+    "salaryMin": null,
+    "salaryMax": null,
+    "url": "https://www.linkedin.com/jobs/view/senior-product-manager-pcs-m-w-d-at-fluence-4473540937",
+    "source": "LinkedIn",
+    "score": 22,
+    "reasons": [
+      "Senior/Group title",
+      "Positioning fit (supply)",
+      "AI signal (AI, RAG)",
+      "Resume fit ~19%",
+      "Outside target markets"
+    ],
+    "fetchedAt": "2026-09-30T17:24:01.297Z"
+  },
+  {
+    "id": "M1kzb0UtUnpOOVZwTEMta0FBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTakZNZEdkWE5HcGlOV2xTWVVaYU5HOXRZbWRhTlRCbVgxQmFlbk5UVEZSUFRqVnNRM041ZDE5Vk0wRkxWWG80UW1wV2JtWmhaMUpuVDFWaVFsOXVPRlUwVkhGWlJGQjBiVEowUmpWMVpIWjZhRWRVWTE5SlFrSjZRM0o0YmtsblpFMUhZVGswYjB0RGNuQmZaVXA1YW5SdU5TMVliSGhTZUhZNFJXUm9OSHBXTWpWeGIwc1NGM0JWVnpsaGRsQnhSR05IWnpWT2IxQTFTWEV5ZFVGakdpSkJSSE55T1daU2NuWjRlVEY2WnkwMldGQjVVeTFYVUhKUVpYWklVekJVV1dwbg",
+    "fingerprint": "principal product manager|meltwater|-yjvj5w",
+    "title": "Principal Product Manager",
+    "company": "Meltwater",
+    "location": "Washington, District of Columbia",
+    "locations": [
+      "Washington, District of Columbia"
+    ],
+    "remote": false,
+    "posted": "2026-09-29T23:00:00.000Z",
+    "salaryMin": null,
+    "salaryMax": null,
+    "url": "https://www.linkedin.com/jobs/view/principal-product-manager-at-meltwater-4471963611",
+    "source": "LinkedIn",
+    "score": 15,
+    "reasons": [
+      "Positioning fit (platform)",
+      "AI signal (AI, ML, RAG)",
+      "Resume fit ~22%",
+      "Outside target markets"
+    ],
+    "fetchedAt": "2026-09-30T17:24:01.295Z"
+  },
+  {
     "id": "akhVZUVpU1R3RFJqV1Q5REFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTMWw1U1ZKSkxXNWlibTVUYkhOWVJYUXpORm8yWjNGeWEwRjFhR2h4Wm1KUmVVaFNZVXAyWldaUlJUWXhhbUZhVW5abU5tTmxVbGRDU0ROaU0yUkZNVnB6U1VkclNVRXdTSFZSTUdoQ2NXTktVVmxHZFcxR05VMU9PWEZPYmtGdlRVNWtOalIyYUhNMU16QnVWbDh4YmtSaVoyNXNjbXhSU1RodGFuVlhia2RIUW01RmFGTVNGekpRVXpkaGNFOW1UVGd0V1hObFRWQjNjRU50YlZFMEdpSkJSSE55T1daU2FtVjNiRFEzZUdOUVpFbDRSelZwYnpSc1NVaGlPR1ZLUVRkMw",
     "fingerprint": "group product manager core infrastructure reliability|coinbase|auuujz",
     "title": "Group Product Manager, Core Infrastructure & Reliability",
@@ -4601,301 +4897,5 @@
       "Remote"
     ],
     "fetchedAt": "2026-08-22T12:24:56.828Z"
-  },
-  {
-    "id": "eGttWUxQa25UWnlmSFlEakFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTelpsY205aVFuVklNRTFXY2tOWmNHdEVlbGxsUzJwalNIbzNZMUZuZEhSa1NTMTBaekIyVkZORGNIZ3RNbXhXZFdFMU9GQk9lbDlLTW1WR1p5MXlNbkJwVFdsamFqQTRTVjgwWjJreVVISkxRMEo0VkVWWFZsOTNNMEk1WkhSbVJuVnNTRmR6VEY4elpYTm9Vemd5VEV0dU4wUXllbWM1WDBzek5HdHlUR1ZyWlhObGVXSVNGMEZLVjBwaGNVTTRUelJRUzJ0UVNWQnBMWGxGY1VGdkdpSkJSSE55T1daUloxVjJaMTl5VFdoUVNYQk5XQzFoVm1zeGVuUTROMk5xWm1wbg",
-    "fingerprint": "product manager dhs ocio|techsur solutions|l4vucs",
-    "title": "Product Manager - DHS OCIO",
-    "company": "TechSur Solutions",
-    "location": "Springfield, Virginia",
-    "locations": [
-      "Springfield, Virginia"
-    ],
-    "remote": false,
-    "posted": "2026-08-21T21:00:00.000Z",
-    "salaryMin": null,
-    "salaryMax": null,
-    "url": "https://www.linkedin.com/jobs/view/product-manager-dhs-ocio-at-techsur-solutions-4454662945",
-    "source": "LinkedIn",
-    "score": 3,
-    "reasons": [
-      "Positioning fit (platform, operations)",
-      "AI signal (RAG)",
-      "Resume fit ~16%",
-      "Outside target markets"
-    ],
-    "fetchedAt": "2026-08-22T12:24:56.827Z"
-  },
-  {
-    "id": "VHJxWHA4V05nam1mdnJFZEFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTbXhCVlVaS2FIUklVbFphUW5sMWRsWnFhVkJLWms5TWJsSlVYMjlzT1d3MlVrRlhUbmhEYkU1TU5qWlFNMFZGYlY5TVQzTk5iV2xPWVU5a1psUTViVWRpZWpoa2FVUnJjR2xwWW1SUlZIUnRVMUJMTTBsa1owaEdkbkpHWkZWMGNIbHNRMHRrU2t0eFYyWjVkVUphTFUxbmVUQmhSR0V4VFdwMlprZHNNeTA0TkhCUlJEQVNGMEZLVjBwaGNVTTRUelJRUzJ0UVNWQnBMWGxGY1VGdkdpSkJSSE55T1daVVlWcHpkR3hNYVdReVlVSkRSelF3YUhabWVVWkVNSGRwV1dWUg",
-    "fingerprint": "product manager|spectraforce|-38gvdz",
-    "title": "Product Manager",
-    "company": "SPECTRAFORCE",
-    "location": "Walkersville, Maryland",
-    "locations": [
-      "Walkersville, Maryland"
-    ],
-    "remote": false,
-    "posted": "2026-08-21T18:00:00.000Z",
-    "salaryMin": 60,
-    "salaryMax": 65,
-    "url": "https://www.linkedin.com/jobs/view/product-manager-at-spectraforce-4457390364",
-    "source": "LinkedIn",
-    "score": -2,
-    "reasons": [
-      "Positioning fit (operations, supply)",
-      "AI signal (AI)",
-      "Resume fit ~16%",
-      "Outside target markets"
-    ],
-    "fetchedAt": "2026-08-22T12:24:56.826Z"
-  },
-  {
-    "id": "OEdLeTNlOElMVVV2Sm9FR0FBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTVGcxUzJWeFdUZ3djV3hHUVVkMU1UQXpNbVpQTVdaamQwcE9WV05tYnpOaExWWTJOamhZZVdKS05YUkZPVWRqUVdOd2IyTkdSVEUwV1dsSVZtWldkR010TlV0a2Mzb3dWVWcwVEZsR1MweFJWSE14WldodU5rUlJXaTB6TTFSRE5qbFZOWHBHVmpGd1UxQm9iM1JXU2xNelExWnpNV1IzUzAxNk5YQkpSemxSVEdnMVYwY1NGMmhWVjBsaGRWOU9UbTlYV1hCMFVWQjJZVWRvT0ZGbkdpSkJSSE55T1daVVNsQm5kemxrYW5KU1pYbHdNMnBrYVV0cFJqZHBZbkZhVUcxUg",
-    "fingerprint": "product manager with pblic sector experience|i link solutions|-xm8joo",
-    "title": "Product Manager with Pblic sector experience",
-    "company": "i-Link Solutions",
-    "location": "US",
-    "locations": [
-      "US"
-    ],
-    "remote": false,
-    "posted": "2026-08-20T16:00:00.000Z",
-    "salaryMin": null,
-    "salaryMax": null,
-    "url": "https://www.linkedin.com/jobs/view/product-manager-with-pblic-sector-experience-at-i-link-solutions-4454128540",
-    "source": "LinkedIn",
-    "score": 9,
-    "reasons": [
-      "Positioning fit (platform, vendor, enterprise)",
-      "AI signal (AI)",
-      "Resume fit ~16%",
-      "Outside target markets"
-    ],
-    "fetchedAt": "2026-08-21T12:33:12.518Z"
-  },
-  {
-    "id": "VXljSk1QT25MX2xVbXI5ZUFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTalJ1Um1SWVpsSk5TVXRNT0c1U1gxOTZUVUUxWkRaaFlsTXdUMGw2YTA5b1JXOUhObXR0YnpnNWNYcEdVa2RtVlVFelpFb3dUV3BHWWxaS1RrcHFWVGRETkMxSmJWTmpRamhFTmpkblJYTkdZa3RwUjJoR1duazVjMEZtYldSNVJFWjZUM0l5TW5JelZqQjNXalF3TWpSRlZISnVWVzFpTlZBeFgxQjNVbVZ2UTNoTGIzTVNGMll3VjBsaGNVOVlURTFMUjNCMFVWQTJXVXQyTmtGbkdpSkJSSE55T1daVVowZDNaRFpHV1RkR2RtdGtabTkzVmpkU05UaGFXV1ZoVmxobg",
-    "fingerprint": "appian product manager senior consultant|deloitte|srmkzt",
-    "title": "Appian Product Manager, Senior Consultant",
-    "company": "Deloitte",
-    "location": "US",
-    "locations": [
-      "US"
-    ],
-    "remote": false,
-    "posted": "2026-08-21T00:00:00.000Z",
-    "salaryMin": null,
-    "salaryMax": null,
-    "url": "https://www.linkedin.com/jobs/view/appian-product-manager-senior-consultant-at-deloitte-4457045364",
-    "source": "LinkedIn",
-    "score": 25,
-    "reasons": [
-      "Senior/Group title",
-      "Positioning fit (platform, operations, enterprise)",
-      "AI signal (AI, RAG)",
-      "Resume fit ~13%",
-      "Outside target markets"
-    ],
-    "fetchedAt": "2026-08-21T12:33:12.517Z"
-  },
-  {
-    "id": "Tm8xcGxGbllHcjBSRW4xS0FBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTbTB0YW1jdFYyTndRbVJ0U0dWdlVHNU9jREJ5ZDBkc04wNXZiSGxaYkhoSGVtSnRlRnBPV1RCbVYxWjBRMWcwYm1neWFtNDVWRU5vZFdSQmVtcDBiMGR3V0ZORk1HZE5SMG8yUkZkcVRsb3pWSFZSWlVkUk4wOUpZV2x5TUVaVGEydGhjelJqYmxNeFRHSkxUbFJhTjI5Q1FWbHNaMngzU2t0cldsVm9aVFJaVkRGR2RtWVNGMll3VjBsaGNVOVlURTFMUjNCMFVWQTJXVXQyTmtGbkdpSkJSSE55T1daVE5IRlVTMlV4WVZvMFJtNXplazR3UldWVFFqRjFOM1pGWDNCQg",
-    "fingerprint": "senior data product manager|vanguard|-884dos",
-    "title": "Senior Data Product Manager",
-    "company": "Vanguard",
-    "location": "Malvern, Pennsylvania",
-    "locations": [
-      "Malvern, Pennsylvania"
-    ],
-    "remote": false,
-    "posted": "2026-08-21T03:00:00.000Z",
-    "salaryMin": null,
-    "salaryMax": null,
-    "url": "https://www.linkedin.com/jobs/view/senior-data-product-manager-at-vanguard-4457065453",
-    "source": "LinkedIn",
-    "score": 35,
-    "reasons": [
-      "Senior/Group title",
-      "Positioning fit (enterprise)",
-      "AI signal (AI, agent, RAG)",
-      "Resume fit ~27%",
-      "Outside target markets"
-    ],
-    "fetchedAt": "2026-08-21T12:33:12.516Z"
-  },
-  {
-    "id": "dTZySFVvSkl0NHVCRDB5SEFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBUR3N0V0MweVdrSXdNV3hUT0U5Q1pXTTJlRkZYU1VWeFkycHdVVUZ5Wkc1c05qaFdZMEl0YlhVMWJXSlVjblEyZGt0NlFtWTJTMmRZYTNCRmVuTTFiWFp3ZG5selpVcFdRVzFUWHpkVFNWbFZVV3hmWTJkRFNUaDVaREV6VWtkak1EazVMVU5tWmt0WkxVTlNaRk42ZWtobmVVTTRWVGxKZDJGNVoxbExaVlJMU1dWME1YWVNGMll3VjBsaGNVOVlURTFMUjNCMFVWQTJXVXQyTmtGbkdpSkJSSE55T1daU1EyZEJSMUYxYUZGVkxXSjBNbFoyVjBONU1UaHRUbUY1ZDNGMw",
-    "fingerprint": "sr product manager cloud connected products|comtecnova north america|-bvhjn7",
-    "title": "Sr. Product Manager - Cloud & Connected Products",
-    "company": "ComtecNova North America",
-    "location": "Dallas, Texas",
-    "locations": [
-      "Dallas, Texas"
-    ],
-    "remote": false,
-    "posted": "2026-08-20T14:00:00.000Z",
-    "salaryMin": null,
-    "salaryMax": null,
-    "url": "https://www.linkedin.com/jobs/view/sr-product-manager-cloud-connected-products-at-comtecnova-north-america-4454107093",
-    "source": "LinkedIn",
-    "score": 27,
-    "reasons": [
-      "Senior/Group title",
-      "Positioning fit (platform, operations, vendor)",
-      "AI signal (AI)",
-      "Resume fit ~20%",
-      "Outside target markets"
-    ],
-    "fetchedAt": "2026-08-21T12:33:12.516Z"
-  },
-  {
-    "id": "NV9wc0FjUnUzZE95YjVkYkFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTek56YzA4M2MxbHBValZwTlZoUWVqTk9VMUJ0ZGpBeFVESTBaMjFYYkRjMVduTkJlRmhVWW1wM1NVUnNkbkIzUW5STVR6bDRaRlJQYnpCcU1YVk1hV2RGV1UwNVNXRnJTM2RYTW1ZMGNDMDNlVFJxT0ZCWlVpMWlhazF2UjJKeFVVOVRjWE5RV1V4alpXRktNRGxMWTFoUFNYSmZiaTF3YTFwbVpVNHdVMU5oT0c5MGVXOFNGMll3VjBsaGNVOVlURTFMUjNCMFVWQTJXVXQyTmtGbkdpSkJSSE55T1daVWJYWndhWG90WVZwVk5IUXpZVk5PTm5ONWJTMW1TRlJ6Ym5oQg",
-    "fingerprint": "senior product manager|inficon|-cwb34q",
-    "title": "Senior Product Manager",
-    "company": "INFICON",
-    "location": "Longmont, Colorado",
-    "locations": [
-      "Longmont, Colorado"
-    ],
-    "remote": false,
-    "posted": "2026-08-20T16:00:00.000Z",
-    "salaryMin": null,
-    "salaryMax": null,
-    "url": "https://www.linkedin.com/jobs/view/senior-product-manager-at-inficon-4456744717",
-    "source": "LinkedIn",
-    "score": 20,
-    "reasons": [
-      "Senior/Group title",
-      "Positioning fit (operations)",
-      "AI signal (AI, RAG)",
-      "Resume fit ~18%",
-      "Outside target markets"
-    ],
-    "fetchedAt": "2026-08-21T12:33:12.514Z"
-  },
-  {
-    "id": "YXJIcVdUYVlqUXdGN1R0RUFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTbFpOYVhZM05UVktValZYY1ZOb05pMXBOMlExZDNWVmRsUjFia2xDZWs1QlozSjBSV05TZHkweVpWZDRRV2RXT0RGclVEVlVRbWsyYmxaUk5uUlpaazFmUTNGMGVucFJaRXB0VXpkR2JubG9lRk5mVlVGcVFXZFVZM2wxUzJSdGMxQmhORWhKZW1WaFNHa3hjRzF4V0ZkbGRXaFNNMWh3Y0ZwaFdWSXhMVnAwWjIxeUxVWVNGMlZWVjBsaGRYWjFTblp4Y25CMFVWQXRZeTB6Y1VGbkdpSkJSSE55T1daU01VNVBMVEptVldwcFptUnBNbFprYlRCcmEzRnRiMDU1UWpSbg",
-    "fingerprint": "senior product manager analysis ready data products|planet|zf8ddy",
-    "title": "Senior Product Manager, Analysis Ready Data Products",
-    "company": "Planet",
-    "location": "Arlington, Virginia",
-    "locations": [
-      "Arlington, Virginia"
-    ],
-    "remote": false,
-    "posted": "2026-08-20T00:00:00.000Z",
-    "salaryMin": null,
-    "salaryMax": null,
-    "url": "https://www.linkedin.com/jobs/view/senior-product-manager-analysis-ready-data-products-at-planet-4446701274",
-    "source": "LinkedIn",
-    "score": 31,
-    "reasons": [
-      "Senior/Group title",
-      "Positioning fit (platform, enterprise)",
-      "AI signal (AI, LLM, RAG)",
-      "Resume fit ~18%",
-      "Outside target markets"
-    ],
-    "fetchedAt": "2026-08-21T12:33:12.513Z"
-  },
-  {
-    "id": "QlVuSk9UWE9ZMF9hanhtd0FBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTVFpaTjIxZmR6WndZbGsyVW01M1YwNWxjVGRDTWtjME5tUm5RbUozV0ZsQ1ZsRmlhWGQ0VG1Wc01ESllWM2RzV0ZCdlRuZEVWMkkxVGpGRFVrWkxXREZqYVRnNWJVMXNPR3A0ZGprNVZUUm9VblpRY2pFNExUZGFOSGhsWTFndFRsbDJZamxPU1ROWFoxbHVWVmhvTFdad2NHMXZOR2xZYm1ScmFWcFlWWHBLUWpCMWMyVVNGMlZWVjBsaGRYWjFTblp4Y25CMFVWQXRZeTB6Y1VGbkdpSkJSSE55T1daUk9HWmthMFZ3ZFRKRVFuWkROblJsY2tOaGFITk1Na1JhYVRaMw",
-    "fingerprint": "product manager terminals|1 st technology xpressbet and amtote international|-jb4qk8",
-    "title": "Product Manager - Terminals",
-    "company": "1/ST Technology - Xpressbet and AmTote International",
-    "location": "Cockeysville, Maryland",
-    "locations": [
-      "Cockeysville, Maryland"
-    ],
-    "remote": false,
-    "posted": "2026-08-20T17:00:00.000Z",
-    "salaryMin": null,
-    "salaryMax": null,
-    "url": "https://www.linkedin.com/jobs/view/product-manager-terminals-at-1-st-technology-xpressbet-and-amtote-international-4456013768",
-    "source": "LinkedIn",
-    "score": 7,
-    "reasons": [
-      "Positioning fit (marketplace, platform, B2B)",
-      "AI signal (AI)",
-      "Resume fit ~15%",
-      "Outside target markets"
-    ],
-    "fetchedAt": "2026-08-21T12:33:12.511Z"
-  },
-  {
-    "id": "UkY1Y0ktbE9rLWxvVHo0MEFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBURFpOVjBJNVZUY3pkMDV1TlZGamRsTlFaWFZxTmxOalIyTjJaR0pSUlhwa2N6WkthMDVmVTAxMWVubGFSMFZ0Ums5UGRsaHpUVnB5Y0cxRlRtUmxlbWd6YWtsT1F5MTBVR05VYzB3eGQwZDJlVGN0VWprMmVuTTJkR1pEVkhOa2VFeG9TR2RPTjFkVlIzYzJSMU5WY1U1NWNGWmlTRVpLTlY5R04ySk1SM0JIYWtJNWNHc1NGMUJtVTBkaGRVUnFRaTFVTFhBNE5GQXRURXgwWjFFMEdpSkJSSE55T1daVFVsRlJMVjlIUldadldFOWFaMFZ0Wms5MVZtbEVYMGQ1U0ZWMw",
-    "fingerprint": "convergesports head product manager data and product engineering manager i nnovation delivery transformation|deloitte|ob3t3f",
-    "title": "ConvergeSPORTS - Head Product Manager - Data and Product Engineering (Manager) -I nnovation_Delivery_Transformation",
-    "company": "Deloitte",
-    "location": "Philadelphia, Pennsylvania",
-    "locations": [
-      "Philadelphia, Pennsylvania"
-    ],
-    "remote": false,
-    "posted": "2026-08-19T18:00:00.000Z",
-    "salaryMin": null,
-    "salaryMax": null,
-    "url": "https://www.linkedin.com/jobs/view/convergesports-head-product-manager-data-and-product-engineering-manager-i-nnovation-delivery-transformation-at-deloitte-4456344998",
-    "source": "LinkedIn",
-    "score": 32,
-    "reasons": [
-      "Positioning fit (platform, SaaS, enterprise)",
-      "AI signal (AI, GenAI, ML)",
-      "Resume fit ~29%",
-      "Outside target markets"
-    ],
-    "fetchedAt": "2026-08-20T12:34:07.807Z"
-  },
-  {
-    "id": "WFZUSm44S1hWVFJ4Nk9NeEFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBUSGd5Y0RGSGRYZENjWFJOWTJzM1FsQjZWMFpWZVhKeGJqQnRaVkZrYzBGWmRUbFVYMUJuZDA5cFgycENNa1JXYzIxaFNURmZjbnB5UzJkcVJHMUpaa2RYYVRkZlkwMUlYMmR6TkhKRFJUQnhRalJWV21ZNFNtcEtlV3d3ZVVaSVYxbHhSekk0WTBGdFJqTnRZM2wxYUZKWWRVRlpXbE5FVDI4M2NXUldTRU56WW5kaldHb1NGMDFRVTBkaGIxaElUVnBEWDNBNE5GQjVUek5ETkZFMEdpSkJSSE55T1daVVVEUjFObXhxTXpWT05GTlVUMVZNY2s0dFMxaGxWRXd6V25aUg",
-    "fingerprint": "senior product manager vehicle delivery and ownership|slate auto|5obn7o",
-    "title": "Senior Product Manager, Vehicle Delivery and Ownership",
-    "company": "Slate Auto",
-    "location": "US",
-    "locations": [
-      "US"
-    ],
-    "remote": false,
-    "posted": "2026-08-19T16:00:00.000Z",
-    "salaryMin": 155000,
-    "salaryMax": 177000,
-    "url": "https://www.indeed.com/viewjob?jk=b78a30b7288d57a1",
-    "source": "Indeed",
-    "score": 42,
-    "reasons": [
-      "Senior/Group title",
-      "Positioning fit (B2B, operations)",
-      "AI signal (AI, ML, RAG)",
-      "Comp disclosed ≥ $175K",
-      "Resume fit ~19%",
-      "Outside target markets"
-    ],
-    "fetchedAt": "2026-08-20T12:34:07.806Z"
-  },
-  {
-    "id": "NzlacWRjcGpvTXI5MEFuc0FBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTVUZKWmpSMlJ6TmZTbTlMUm1kaU5VOTVhRFZrWmtWR1RIUnhhbEY0TjBOdWJqZ3pYM1kwVHpReGVHTmtjemxZZGxoMlIweGpSa2QyVXpkM1QwRk5aMlpPZEhoaFlVcDRNMHhLYzNKaVRrVTBNbU5SUjFkUFRFUllSek5FVnpGZldWaG1TV0Z0VTBOeFVGTm5XVVIzV1dGYVNsSkdaMVJ5V25Ka2NERm1hRmQwVDFka1FVNFNGMDFRVTBkaGIxaElUVnBEWDNBNE5GQjVUek5ETkZFMEdpSkJSSE55T1daVFREaHBZVjl6VEZKMVlqVklTRTVwUWtSelptaGlRM0F3YTI5Ug",
-    "fingerprint": "product manager senior care|u s news world report|i1jxmn",
-    "title": "Product Manager, Senior Care",
-    "company": "U.S. News & World Report",
-    "location": "New York, New York",
-    "locations": [
-      "New York, New York"
-    ],
-    "remote": false,
-    "posted": "2026-08-19T16:00:00.000Z",
-    "salaryMin": null,
-    "salaryMax": null,
-    "url": "https://www.linkedin.com/jobs/view/product-manager-senior-care-at-u-s-news-world-report-4455435284",
-    "source": "LinkedIn",
-    "score": 57,
-    "reasons": [
-      "Senior/Group title",
-      "Positioning fit (platform, B2B)",
-      "AI signal (AI, RAG)",
-      "Resume fit ~18%",
-      "Visibility location"
-    ],
-    "fetchedAt": "2026-08-20T12:34:07.806Z"
   }
 ]
