@@ -1,5 +1,271 @@
 [
   {
+    "id": "MmpoZk9ES0NvaHJ3R2EtNEFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTVTF5VkVOcGRXdFlhV2hyVkdKa2JsWnVNbGN0ZEdsMFFrcGplWFkwV1cxRVVGQXdUbTlsWWpWM2VXWm5NRmROWkdSMmNsVnhYMmRwUVd4M09VMXFibWxwT1VOaVduQmhVMUpKYVVwMWNHTkhTa1pmYTBNeVJYRm1TRXBrUVZSeVdUbEZaSGxLVFd4RGQyeHJSSFpVUVUxVWNHSkZSamRZYXkwMWFrRklZWEZzUlRCMGQxOFNGMDFsWVY5aGNHbEdRVFI1TFd0UVNWQmZUbGQ0TkZGM0dpSkJSSE55T1daU1ZHWXpSVGhUWjJsUGRraEZXRWRKU1hoak5WbzNjV3hTTVd4Mw",
+    "fingerprint": "product manager|the judge group|qkmotg",
+    "title": "Product Manager",
+    "company": "The Judge Group",
+    "location": "Burlington, New Jersey",
+    "locations": [
+      "Burlington, New Jersey"
+    ],
+    "remote": false,
+    "posted": "2026-10-01T18:00:00.000Z",
+    "salaryMin": 90000,
+    "salaryMax": 120000,
+    "url": "https://www.linkedin.com/jobs/view/product-manager-at-the-judge-group-4472595734",
+    "source": "LinkedIn",
+    "score": 14,
+    "reasons": [
+      "Positioning fit (marketplace, operations, vendor)",
+      "AI signal (AI, RAG)",
+      "Resume fit ~21%",
+      "Outside target markets"
+    ],
+    "fetchedAt": "2026-10-02T17:13:23.639Z"
+  },
+  {
+    "id": "eS1YZ1NJTHBpUE1WaFd1dkFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTMVZPTjNKNFUyOXZPVmRNTTBOUVgzcEhOVmRRWDBwNGMwTm9iV1phVkRRd1NuTlVjMnBYUXpadWRXdFViVTlGT0ZKWVRsQnhZbmRVU0ROV1gwZG9Semh1VGxwa05USXRNamszVW1obGJqTXRlVFEyUkRneldGYzBPRlZCWlhKamFFcFhkbkV3VEUxbFJXZENia0Z1YzNaQlUwc3lkVUppVEdSR2FqWkNjblJXY1d4TmJDMFNGMDFsWVY5aGNHbEdRVFI1TFd0UVNWQmZUbGQ0TkZGM0dpSkJSSE55T1daVWRsWmxTa1V3TVdNd2VXOVVOMmxWTlhKT1ptVktlRXBmZFMxbg",
+    "fingerprint": "product manager|wild marketing group|-uzy290",
+    "title": "Product Manager",
+    "company": "Wild Marketing Group",
+    "location": "Waukesha, Wisconsin",
+    "locations": [
+      "Waukesha, Wisconsin"
+    ],
+    "remote": false,
+    "posted": "2026-10-01T19:00:00.000Z",
+    "salaryMin": null,
+    "salaryMax": null,
+    "url": "https://www.linkedin.com/jobs/view/product-manager-at-wild-marketing-group-4474383896",
+    "source": "LinkedIn",
+    "score": -5,
+    "reasons": [
+      "AI signal (AI)",
+      "Resume fit ~17%",
+      "Outside target markets"
+    ],
+    "fetchedAt": "2026-10-02T17:13:23.638Z"
+  },
+  {
+    "id": "VlFYNU1NQ0ZYMXdwVjdtRkFBQUFBQT09OkVzc0JDb3dCUVVwcFZEUjBTeTB5WkV0clJqQm9abmR6ZW5wTFRHVlVaMlppVkhkV1VtMU5NamhpWDFCNFNWa3hUVGRhWmkxSFJWSjBlbkJLWlZWUGNsOVZiM1ZHWW5sTGRWQkZhalIxWjJKd2MycDJXVkJuZVZBek9YUXpaWFUxYUVKbk5qVmtaM0JWYmxOclpITlRhbXhLUXpKTlUydEpNSEZCZG5OaFdUYzVMVEpIUkROS1pqWlNhbmxJU1Vod1pVY1NGa3gxWVY5aGNtWmxTRTFRUlhBNE5GQnRUR0V4VjBFYUlrRkVjM0k1WmxGRFdUaGllV2czTkUwdFpuQk1VRmhVYkZad1VWaFRSWEpxUW5j",
+    "fingerprint": "senior product manager electrical firmware|arc by chargeitspot|-uavadq",
+    "title": "Senior Product Manager, Electrical & Firmware",
+    "company": "ARC by ChargeItSpot",
+    "location": "Not specified",
+    "locations": [
+      "Not specified"
+    ],
+    "remote": true,
+    "posted": "2026-10-02T08:00:00.000Z",
+    "salaryMin": null,
+    "salaryMax": null,
+    "url": "https://www.linkedin.com/jobs/view/senior-product-manager-electrical-firmware-at-arc-by-chargeitspot-4474706555",
+    "source": "LinkedIn",
+    "score": 57,
+    "reasons": [
+      "Senior/Group title",
+      "Positioning fit (operations, vendor, supply)",
+      "AI signal (AI)",
+      "Resume fit ~13%",
+      "Remote"
+    ],
+    "fetchedAt": "2026-10-02T17:13:23.637Z"
+  },
+  {
+    "id": "WHRIOF9WQm80VUNsWERPWkFBQUFBQT09OkVzc0JDb3dCUVVwcFZEUjBTa2QzZURaV1pWcEdiblpIZW1kdGR5MDVTbGhGUWxSMWFXMTNZbGhOUVdOM2NscEtWV1U0ZFZwMWJHRkhValY1T0RjNFJHMVhUblZsY2t0cVZFSkpMVTFmUkhsV1JuaFBNemRQTmtzMFp6WjJhMEZqYWs1UVNITnlUM0pEU1dsRFNVbEJaVzh5TFZWelJsaDJNRzVDWkY5T1ptbDRTMVo1ZEVwWE1rNHhaelkyT0RGNWNsZ1NGa3gxWVY5aGNtWmxTRTFRUlhBNE5GQnRUR0V4VjBFYUlrRkVjM0k1WmxKSU5qRmlhSHBtVm1sVVJUQmtVbVozVWxCUFEzQjJaeko2TUdj",
+    "fingerprint": "sr product manager|pitney bowes|-olla9z",
+    "title": "Sr Product Manager",
+    "company": "Pitney Bowes",
+    "location": "Shelton, Connecticut",
+    "locations": [
+      "Shelton, Connecticut"
+    ],
+    "remote": false,
+    "posted": "2026-10-01T21:00:00.000Z",
+    "salaryMin": null,
+    "salaryMax": null,
+    "url": "https://www.linkedin.com/jobs/view/sr-product-manager-at-pitney-bowes-4471993485",
+    "source": "LinkedIn",
+    "score": 21,
+    "reasons": [
+      "Positioning fit (platform, supply, network)",
+      "AI signal (AI, LLM, ML)",
+      "Resume fit ~19%",
+      "Outside target markets"
+    ],
+    "fetchedAt": "2026-10-02T17:13:23.636Z"
+  },
+  {
+    "id": "aFRfcFRiM29BODFfd0FlN0FBQUFBQT09OkVzc0JDb3dCUVVwcFZEUjBTazVQZVRsclZISmxVblJuVkhvNVMyWlRjR1pNTWpOMWIxOUxaRUZJTWkxVE9FY3hhRko2TVdobWRraHFWRmhKTnpWbmMzSjBla3ByYlhSb1NEQnhlVzFIYkRoQ1FqaHhRVGhMZERKRGEzTk5VMXB6TlVaZlVtdFNWRXd0Ym1sYWJHUjJXbVpZU2pWV1RqZFBaV1EzYjBWUVYyMVphVlF6TVc5dmRFRTViVk13YzJsTFgzUVNGa3gxWVY5aGNtWmxTRTFRUlhBNE5GQnRUR0V4VjBFYUlrRkVjM0k1WmxGaFVHYzFXaTF1YTNZd1QxVnNNM3AwU1doRmEyWnhTMHBrZVZF",
+    "fingerprint": "senior data product manager|haystack|-zi4tnt",
+    "title": "Senior Data Product Manager",
+    "company": "Haystack",
+    "location": "Not specified",
+    "locations": [
+      "Not specified"
+    ],
+    "remote": true,
+    "posted": "2026-10-02T05:00:00.000Z",
+    "salaryMin": null,
+    "salaryMax": null,
+    "url": "https://www.linkedin.com/jobs/view/senior-data-product-manager-at-haystack-4473108408",
+    "source": "LinkedIn",
+    "score": 84,
+    "reasons": [
+      "Senior/Group title",
+      "Positioning fit (platform, operations, enterprise)",
+      "AI signal (AI, machine learning, ML)",
+      "Resume fit ~29%",
+      "Remote"
+    ],
+    "fetchedAt": "2026-10-02T17:13:23.636Z"
+  },
+  {
+    "id": "SkdDU2JNRVFqV0M1b2c1MkFBQUFBQT09OkVzc0JDb3dCUVVwcFZEUjBTMkZyY3pONGNYWmFOVk5oTlhCelpsQjZibFpKVEdSSFgweHZTakJFUTNOUFRGOWZibGRRZHpSTFJEUjJRbFJpVkZwMVJVMDFMVU5tU25sNlV6bFdkMlZMYWpKTlpXaEtSbWxLYkVsQlFsOW9TakZGV2tvNVRrczJaVE5GZDFOUWFrMWFNVlV4ZUhWaFZVRnhMV3QzUm01UmMwOU5OamxtTVZScU5EZEtka1p1WTFCcFpVTVNGa3gxWVY5aGNtWmxTRTFRUlhBNE5GQnRUR0V4VjBFYUlrRkVjM0k1WmxSWFpUTkxkbUpNVGpOYVNWTjJZWFl6YW1saGNHeFVhV3MzVWtF",
+    "fingerprint": "confluent senior product manager cloud networking|ibm|q2ev8s",
+    "title": "Confluent - Senior Product Manager, Cloud Networking",
+    "company": "IBM",
+    "location": "Not specified",
+    "locations": [
+      "Not specified"
+    ],
+    "remote": true,
+    "posted": "2026-10-02T02:00:00.000Z",
+    "salaryMin": null,
+    "salaryMax": null,
+    "url": "https://www.linkedin.com/jobs/view/confluent-senior-product-manager-cloud-networking-at-ibm-4472983957",
+    "source": "LinkedIn",
+    "score": 69,
+    "reasons": [
+      "Senior/Group title",
+      "Positioning fit (network, SaaS, enterprise)",
+      "AI signal (AI, RAG)",
+      "Resume fit ~20%",
+      "Remote"
+    ],
+    "fetchedAt": "2026-10-02T17:13:23.635Z"
+  },
+  {
+    "id": "WnQxa1VyYmpJNk01aVJQUEFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTVFEzZVRONFF5MURZemhtVEVOTFUySlFXblJmTTNGb1pETjNPREJDZDNCYWJqVXlkVlZwT1hoVVoxZHlkMUZNZUhwcVNteDZUV05YWTFCc2EyWjBhMDVsVjJSNFMySTBaVzVIWkZGWlExVlNMWEJrYTFNME5VMW5MVmhYWTB4R1gzUnZOakk0VUZNMGRETXRWVTQzWlRkRVJHTlZOV0oxWjB4SldGQlFPRlJFYm1STlVVVVNGMG90WVY5aGRVTnJUemxRVW5BNE5GQTJaazg1TkVGUkdpSkJSSE55T1daVFpqUXpRVEY1T0ZJMWRrWnNjRWwxVlZsNlZFeGxiM1ZzYm10bg",
+    "fingerprint": "product manager compliance operational efficiency|quest analytics llc|fig06k",
+    "title": "Product Manager - Compliance & Operational Efficiency",
+    "company": "Quest Analytics®,LLC",
+    "location": "Not specified",
+    "locations": [
+      "Not specified"
+    ],
+    "remote": true,
+    "posted": "2026-10-02T14:00:00.000Z",
+    "salaryMin": null,
+    "salaryMax": null,
+    "url": "https://www.linkedin.com/jobs/view/product-manager-compliance-operational-efficiency-at-quest-analytics%C2%AE-llc-4473350068",
+    "source": "LinkedIn",
+    "score": 57,
+    "reasons": [
+      "Positioning fit (network, SaaS)",
+      "AI signal (AI, LLM, GPT)",
+      "Resume fit ~22%",
+      "Remote"
+    ],
+    "fetchedAt": "2026-10-02T17:13:23.634Z"
+  },
+  {
+    "id": "bHdFYjl5Q01jb1Z6T01tcEFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTbWMzWmpkemNEQnVhR1oyWWkxaGExRTFaMVo1Y2xBNGQxUlNXbmwyWjNSRWFWSlVkVW80YkVoNWJHSk9SRWs0WmpWWFRFUkJhVXRsTjNGR1pFaEdOa3haYjE5RWRISjNRV1JXWVdWYVZIaG9MVWhzUjBWbVYybDFjR0kyY2xsd1JqbHRVVUpmWm5rNFYxUTRVR2hpVmt3eE0zWnBTRTlSUTFSMWREZFhTa0UwV21aRmMwVVNGMG90WVY5aGRVTnJUemxRVW5BNE5GQTJaazg1TkVGUkdpSkJSSE55T1daVFUzQnJjVFpKUjBKdk9GbE1ZbWR2Y1Rrd1NIcHZlWE5hZURabg",
+    "fingerprint": "staff product manager credit pricing|affirm|1yf8n0",
+    "title": "Staff Product Manager, Credit & Pricing",
+    "company": "Affirm",
+    "location": "Not specified",
+    "locations": [
+      "Not specified"
+    ],
+    "remote": true,
+    "posted": "2026-10-01T19:00:00.000Z",
+    "salaryMin": null,
+    "salaryMax": null,
+    "url": "https://www.linkedin.com/jobs/view/staff-product-manager-credit-pricing-at-affirm-4472597812",
+    "source": "LinkedIn",
+    "score": 46,
+    "reasons": [
+      "Positioning fit (marketplace, platform)",
+      "AI signal (AI, RAG)",
+      "Resume fit ~17%",
+      "Remote"
+    ],
+    "fetchedAt": "2026-10-02T17:13:23.632Z"
+  },
+  {
+    "id": "WXJiTndxaHhQYXdCVGtEYkFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTV1JtVG5GS1VWZFpZV3hSWmxSVGRITlZlbGRYV1dkMVYzQllRazV2Tm5aM1ZHMWpMVFIwTjFodWVESnRaamN4UkdKbmQycG5lQzFMWkdka1RURTBlVjlPYm5BdE5GWXhSRTlSWmtSamJFeHpiUzFUWjNaYWEwTmlibkJGVWpab1dtUlRVVTVQY3pBek1GOXpObUpmYlRaRGVWaDFXV293VERsUE1XRmtlVFZHWlVOdVIxOFNGMG90WVY5aGRVTnJUemxRVW5BNE5GQTJaazg1TkVGUkdpSkJSSE55T1daUlJtcHZNRkpaVEhJeE5VcExiV1F4YjFsdmVURjVWVXRwUzBWQg",
+    "fingerprint": "product manager|trane technologies|-wcr6lb",
+    "title": "Product Manager",
+    "company": "Trane Technologies",
+    "location": "Towson, Maryland",
+    "locations": [
+      "Towson, Maryland"
+    ],
+    "remote": false,
+    "posted": "2026-10-02T03:00:00.000Z",
+    "salaryMin": null,
+    "salaryMax": null,
+    "url": "https://www.linkedin.com/jobs/view/product-manager-at-trane-technologies-4472874013",
+    "source": "LinkedIn",
+    "score": 19,
+    "reasons": [
+      "Positioning fit (platform, operations)",
+      "AI signal (AI, ML, RAG)",
+      "Resume fit ~22%",
+      "Outside target markets"
+    ],
+    "fetchedAt": "2026-10-02T17:13:23.630Z"
+  },
+  {
+    "id": "UHVFN21oR0tkWmlQS0N5aUFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTMnRZY1dKWGFFNVFUa2hMZUdNNU9ITjJUMjFwU1hKYVNtaFdWR3BFYlRCS1YyVXlhalpxVmtveFRXODViazFyZEVwb1ZGTjZUWGswV1hOV1h6ZE1UbkF4ZWt0VFoxQnFSSHBHVEdwTE5rNVFiMFZLY0d3elVVcFJZWFJpVWtOUmFqaFBSa2RsZVhJMlYyWXdUMjV2UzBwS1JsRjFlbE5pTmsxS00zQm9ZVE5XWmpKQlVrc1NGMG90WVY5aGRVTnJUemxRVW5BNE5GQTJaazg1TkVGUkdpSkJSSE55T1daVVh6UlBZekl6V0V4YWJqZzVZVWxzTmxwdU9Xb3hZbTh4WWs1Ug",
+    "fingerprint": "product manager full time remote|executiveplacements com|hiqs0a",
+    "title": "Product Manager- Full Time (Remote)",
+    "company": "ExecutivePlacements.com",
+    "location": "US",
+    "locations": [
+      "US"
+    ],
+    "remote": false,
+    "posted": "2026-10-02T04:00:00.000Z",
+    "salaryMin": null,
+    "salaryMax": null,
+    "url": "https://www.linkedin.com/jobs/view/product-manager-full-time-remote-at-executiveplacements-com-4474593406",
+    "source": "LinkedIn",
+    "score": 17,
+    "reasons": [
+      "Positioning fit (platform, operations)",
+      "AI signal (AI, ML)",
+      "Resume fit ~24%",
+      "Outside target markets"
+    ],
+    "fetchedAt": "2026-10-02T17:13:23.629Z"
+  },
+  {
+    "id": "WjhXVmJ3WHpZSkdIUTdqR0FBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTMjlVYUZOWGF6ZEZhamRFWDNSeVVraFlZaTFqYTBWV1dFdzNWMjgxYUc1WlMyVmlaekl0VUU4NFVsUnBZblpKVVRsMlV6aFFiMmx6TVZkUVgzbzJUSFp5YkZkNlRtODJVVEkwWkd0TWFuWm5NM2xYUkRoRVZVbGZkakp3Y2xCMFZsbDZiVkZRZGt4TFRHTnliSEJhVmpRdFZtaGxZVU5qUWtsbWRtMTRUVTV6TkU1VFZYa1NGMG90WVY5aGRVTnJUemxRVW5BNE5GQTJaazg1TkVGUkdpSkJSSE55T1daVWIyWnpTMWgxTW14c1dFeEpiM2gyVFhselNVdERVVmhMZVZsbg",
+    "fingerprint": "product manager card team|capital one|-aj0mb7",
+    "title": "Product Manager - Card Team",
+    "company": "Capital One",
+    "location": "McLean, Virginia",
+    "locations": [
+      "McLean, Virginia"
+    ],
+    "remote": false,
+    "posted": "2026-10-01T20:00:00.000Z",
+    "salaryMin": null,
+    "salaryMax": null,
+    "url": "https://www.linkedin.com/jobs/view/product-manager-card-team-at-capital-one-4474502687",
+    "source": "LinkedIn",
+    "score": 31,
+    "reasons": [
+      "Positioning fit (platform, operations, enterprise)",
+      "AI signal (AI, ML, agent)",
+      "Resume fit ~29%",
+      "Outside target markets"
+    ],
+    "fetchedAt": "2026-10-02T17:13:23.627Z"
+  },
+  {
     "id": "dksxN1cyWDkyQVhCckgwVkFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTVmhvYTA5WFMwaDFVM1p1UjNOa2RHaDVOelZsTWxKVU1qaEJiMnhNVHpkNVZrdGpUV2xHT0c1WllTMVJRMU40YVZsaGJFeHhRMEpSTlRaMGQzUk9PR2N4TkhGSGFETkZkVTUxYzJnek5EaDZlRll3VTBwMFZuaHNlVFl3YXpFeFVGWkJZaTFETkhCTGJYZGpZV0ZXVlZnM1RXVmpWMlJpU1RJdGFHMWhWV1ZJWmtFME5WOFNGMmcxTWkxaGNWOTZUV1EzUVhBNE5GQnRMVkJVYlZGM0dpSkJSSE55T1daU04yTmhkR2t6V1hCdVVVVklZVGhEZWtwWFFsOUNRVlZMY210bg",
     "fingerprint": "product manager product analytics experimentation|tegna|kiky4x",
     "title": "Product Manager, Product Analytics & Experimentation",
@@ -4629,275 +4895,5 @@
       "Remote"
     ],
     "fetchedAt": "2026-08-25T12:34:44.222Z"
-  },
-  {
-    "id": "UjM2RTlyMWVGYmx1dW5XRUFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBURTh6YjFweFVXWXhXVzFVYTBOeVkyVXhVV3hSYWxSR1kzZHFaRWhVUlZCRFdrazNNWGN6WTNSM2NFRm1TMWQzU1RSWVgyTkRUR1ZJVWtKRmRuZElNR0ZuWlVvd1IyeDNUMXBrUzAxMU1XNW1iR05HYkc4eVoycHlTazlhWTJkTWVXWXRWV0oyUkdOMWRXUnZURWh4UXpaeFV6SXpWa3AyUWpjMGJrWlNZbVptTjJSdVVFUVNGMjU2Y1UxaGRpMXZUWFJxVVRKeWIxQmZZa2R2YzFGSkdpSkJSSE55T1daU1ZsbEZNbDlUU1cwd09IUmxiVWhWVEZaU05sbENkbk5UYm5aMw",
-    "fingerprint": "senior data product manager|2u|xjfy1w",
-    "title": "Senior Data Product Manager",
-    "company": "2U",
-    "location": "Crystal City, Texas",
-    "locations": [
-      "Crystal City, Texas"
-    ],
-    "remote": false,
-    "posted": "2026-08-23T23:00:00.000Z",
-    "salaryMin": 111000,
-    "salaryMax": 163000,
-    "url": "https://builtin.com/job/senior-data-product-manager/9357943",
-    "source": "Built In",
-    "score": 23,
-    "reasons": [
-      "Senior/Group title",
-      "Positioning fit (platform)",
-      "AI signal (AI, RAG)",
-      "Resume fit ~25%",
-      "Outside target markets"
-    ],
-    "fetchedAt": "2026-08-24T12:35:54.960Z"
-  },
-  {
-    "id": "OV9LZV9yYTMyZmE3TjVia0FBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTWE5CWWxSdFJGSnBSbmxFVEU1b2RHUkJVVkIyV214bFFYSkxURmxCYkhKbFFqQlBVMWxTWDB0TmFGUnNSbVJsWDBOSlRtNXhUek5FYkc5cFptWTJRemN4YVdSNlIwMXlSR1ZQY2xkalVVZFFUblpMU0ZkeFdXSm5OakJvYTBsNlYwVk5Oa1JuYm1kVllucGpTa000Y2pWek5GRkNRMmhoTTNsdGFGWlFNV2xEWWpkdFNDMFNGMjFFY1UxaGNqSjZTMUF5VXpWUFZWQnNaVjk1TkZGSkdpSkJSSE55T1daVU1WcDFhVXBhT1hRMmIxaFZhbGh6V0hSQ2JVdzRkMTh0YzNoUg",
-    "fingerprint": "principal product manager ai powered image video experiences|microsoft ai|o7ckk4",
-    "title": "Principal Product Manager - AI-Powered Image & Video Experiences",
-    "company": "Microsoft AI",
-    "location": "Not specified",
-    "locations": [
-      "Not specified"
-    ],
-    "remote": false,
-    "posted": "2026-08-23T16:00:00.000Z",
-    "salaryMin": null,
-    "salaryMax": null,
-    "url": "https://www.linkedin.com/jobs/view/principal-product-manager-ai-powered-image-video-experiences-at-microsoft-ai-4389970185",
-    "source": "LinkedIn",
-    "score": 81,
-    "reasons": [
-      "Target company (Microsoft)",
-      "Positioning fit (platform)",
-      "AI signal (AI, machine learning, ML)",
-      "Resume fit ~23%"
-    ],
-    "fetchedAt": "2026-08-24T12:35:54.958Z"
-  },
-  {
-    "id": "SjIzcTlsMDNxTjFJaFJxMUFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTak13UWpGNFdreElNMHB6Vmt4b1JsTnROa1pQYTNSTk16VkRSM3BrZW5GQll6bGtNMGg1TjNaa2VYQTBkVnBKWWt4eFgwdFBaV3RtZEZoWE5GUklhV2xWVDJKNFdHMXhhbk5CUWkxUFZuUkZkekZCY1hBMGVqQjRUazE0V0dnd1kwWnNVRUp6YUVWVmF5MW9iSFV6VTBkdGNIVlpNV1JHTW1ZNWVYVk5ha0V3TTIxeGJXWVNGMjFFY1UxaGNqSjZTMUF5VXpWUFZWQnNaVjk1TkZGSkdpSkJSSE55T1daUk9WRTVPWGR6VUVwYWFHTmtWUzExWHpSNldrUjJaRlZXYVZWQg",
-    "fingerprint": "principal product manager|netapp|f6odp5",
-    "title": "Principal Product Manager",
-    "company": "NetApp",
-    "location": "Not specified +1 more",
-    "locations": [
-      "Not specified",
-      "Morrisville, North Carolina"
-    ],
-    "remote": false,
-    "posted": "2026-08-23T14:00:00.000Z",
-    "salaryMin": null,
-    "salaryMax": null,
-    "url": "https://www.linkedin.com/jobs/view/principal-product-manager-at-netapp-4455801197",
-    "source": "LinkedIn",
-    "score": 23,
-    "reasons": [
-      "Positioning fit (platform, operations, enterprise)",
-      "AI signal (AI, ML, RAG)",
-      "Resume fit ~20%",
-      "Outside target markets"
-    ],
-    "fetchedAt": "2026-08-24T12:35:54.957Z"
-  },
-  {
-    "id": "X0Fja1pnNC1kOXo5Wk5iSUFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTVkEwUWxkaWRuWnFTMjlsUzJaa2IxTnVNRTg1VERCeVkyY3hTMHRpZVU1SVNVMXdhR3hKWmw5blMwUmxORFJuZG1oUlkzaEtkR1JLVWtkc1J6Sm5VVVJhVnpSR1owVXhhRkZwVlVSbFMwdFpTRWN4VldSMlJYUktkMlJpV1ZneGF6SjVZbnBGTlY5VldtTmZNSE14VTBNeFNXSnZka2xqWTFkT2MwNXRlbmRwYjIxUk5HVVNGM0l0WVV0aGRsaHVUbU55U1d0UVNWQjZjazlqZFVGUkdpSkJSSE55T1daU1YzRlBWR0pGWjBSMVJIZFdVbGxEV1dWQlZVSlFUa0Z3ZGpOUg",
-    "fingerprint": "principal product manager 190k 225k equity at tatari tv|jack jill|-f0atnv",
-    "title": "Principal Product Manager ($190k-$225k + Equity) at tatari.tv",
-    "company": "Jack & Jill",
-    "location": "San Francisco, California",
-    "locations": [
-      "San Francisco, California"
-    ],
-    "remote": false,
-    "posted": "2026-08-23T01:00:00.000Z",
-    "salaryMin": null,
-    "salaryMax": null,
-    "url": "https://www.linkedin.com/jobs/view/principal-product-manager-%24190k-%24225k-%2B-equity-at-tatari-tv-at-jack-jill-4456690563",
-    "source": "LinkedIn",
-    "score": 53,
-    "reasons": [
-      "Positioning fit (platform, network)",
-      "AI signal (AI, machine learning, agent)",
-      "Resume fit ~19%",
-      "Priority location (Chicago/Bay Area)"
-    ],
-    "fetchedAt": "2026-08-23T12:25:22.503Z"
-  },
-  {
-    "id": "NF9LSnZFQkluSHUyYVdJa0FBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBUSFYxWjBKMGRHTlVibFp2V21wNGVsOXZhWFJMTkRaSlNHNUNXSGh5VmtjeFQxSmlkMU5vZGtKUlVuaGxOMEZFTXpsNGFsbDVZVTh6VTBaS2VtZFlkV1kzWW5sMlZHVlViSFpuT1hONlpXSkVaME5hVjJGVFMyWkpRWEJPWVhGdFNXdEhiWGhzWVVnelZVcGpjVkJ0VkVRd1NGOUlVVXRyYzJKVE9VUnRMWEJxWkRkRllUY1NGM0l0WVV0aGRsaHVUbU55U1d0UVNWQjZjazlqZFVGUkdpSkJSSE55T1daUk1WVlROVzFRWm1GR2RGbHpRVEpHWlc1cllWQTRZVTlRVUV4bg",
-    "fingerprint": "group product manager core tpa claims|collective health|efqd48",
-    "title": "Group Product Manager, Core TPA Claims",
-    "company": "Collective Health",
-    "location": "Plano, Texas",
-    "locations": [
-      "Plano, Texas"
-    ],
-    "remote": false,
-    "posted": "2026-08-22T15:00:00.000Z",
-    "salaryMin": null,
-    "salaryMax": null,
-    "url": "https://www.linkedin.com/jobs/view/group-product-manager-core-tpa-claims-at-collective-health-4447193004",
-    "source": "LinkedIn",
-    "score": 19,
-    "reasons": [
-      "Senior/Group title",
-      "Positioning fit (operations)",
-      "AI signal (AI, ML)",
-      "Resume fit ~17%",
-      "Outside target markets"
-    ],
-    "fetchedAt": "2026-08-23T12:25:22.502Z"
-  },
-  {
-    "id": "Uk9jc1VhcjFTRXVhRXB0RkFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTWEIzWW1sRVgxWnNkRVYzYlV4SmJIbzNRbFE1YmtwdWRrSTVjakZ6VEVzNGFHVlpSbGMyUVV4R2RXeGlYMDlLT0dKNlpHNHdlVlF0ZDFWRVdVSndSVVJpWkU1a01FNDBNbHBsVlRkbFFYY3llVFI1Y2s5NWVqUmxSUzF5YVY4M01VOWpXbXh2YWxkUGNETjBialpmY2sxaFMzQnNSWGxWUkc1MUxYTXdjSHBoV21SUU9Wb1NGM0YxWVV0aGNsUllSMXBQWVRRdFJWQnlkVmgzYlZFd0dpSkJSSE55T1daU1JHTjZSMDR0U1U5emVUbFVRemxhUVhwZlUwbHJSbTlmUW1Wbg",
-    "fingerprint": "digital product manager lead sr offer modernization|pnc|-3553s5",
-    "title": "Digital Product Manager Lead Sr- Offer Modernization",
-    "company": "PNC",
-    "location": "Pittsburgh, Pennsylvania",
-    "locations": [
-      "Pittsburgh, Pennsylvania"
-    ],
-    "remote": false,
-    "posted": "2026-08-22T14:00:00.000Z",
-    "salaryMin": null,
-    "salaryMax": null,
-    "url": "https://www.linkedin.com/jobs/view/digital-product-manager-lead-sr-offer-modernization-at-pnc-4457822129",
-    "source": "LinkedIn",
-    "score": 5,
-    "reasons": [
-      "Positioning fit (marketplace, enterprise)",
-      "AI signal (AI, RAG)",
-      "Resume fit ~13%",
-      "Outside target markets"
-    ],
-    "fetchedAt": "2026-08-23T12:25:22.501Z"
-  },
-  {
-    "id": "X3ZtVk9WSDRlY1NWNWtxTEFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTVWhPUjFGR2R6aHlVV3R3VDNaRk0yTXdNazB0VTFKWlozaHhWVEZpWTNaTFVXRXdOekpuWjB0dFUxYzVUbEl3VGtWeWEyTnhUM0ZoY1RFMExWUXlXa1JzV0U0d1ZYZGliMGsxTmxrdGVtVjNiV1ZZVkd4a1RFcFhVV1ZFWXpGdVltcFVhWFJGZG1KRFJteFphV05RVW5oWk9VczVVMDVTY0U1c01XUk5kVWhuUmtOMGRuY1NGM0YxWVV0aGNsUllSMXBQWVRRdFJWQnlkVmgzYlZFd0dpSkJSSE55T1daU1JtbFhYMlYxU3poRGJHaHhlVXR5Y2w4NVRqUlFMV1V6VjI1Qg",
-    "fingerprint": "sr product manager platforms|netapp|-wavqyn",
-    "title": "Sr. Product Manager- Platforms",
-    "company": "NetApp",
-    "location": "Morrisville, North Carolina",
-    "locations": [
-      "Morrisville, North Carolina"
-    ],
-    "remote": false,
-    "posted": "2026-08-22T14:00:00.000Z",
-    "salaryMin": null,
-    "salaryMax": null,
-    "url": "https://www.linkedin.com/jobs/view/sr-product-manager-platforms-at-netapp-4455029805",
-    "source": "LinkedIn",
-    "score": 47,
-    "reasons": [
-      "Senior/Group title",
-      "Positioning fit (platform, operations, vendor)",
-      "AI signal (AI, ML, RAG)",
-      "Resume fit ~29%",
-      "Outside target markets"
-    ],
-    "fetchedAt": "2026-08-23T12:25:22.500Z"
-  },
-  {
-    "id": "Yk5JU3pVUzZDajdIX21JdkFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTV3hwY3pCV1NHdHRhMjFDZW5Jd1JrcEhaV1Z2TXpoemRrSjJTbmw0UmpsQ05YSnBVRFJYZFdWcFpFcG9kRjlzTTBsTWRrUTBNMjlNVERKTlduQjNNRlpoYW5GWlIyaDBlWEpQWlVwa1ZVaHJXRTV2VTFacVNHOUtVakpEVVc1QldrWTRaV2hhY0Rkd1RWRnZiMVJoTkRSeE1qbHZTVmMyWkMxd1ZtZElSakJqVGtWbGJtY1NGM0F0WVV0aGMwTkhTMlJ4TUhCMFVWQTViMWhwYVZGTkdpSkJSSE55T1daU1ZVWnNZME5rY201UlIyaERabk10TTBrdFdVNXZjWEJvYzFSUg",
-    "fingerprint": "senior product manager clinical platform|sprinter health|-ya6hnn",
-    "title": "Senior Product Manager, Clinical Platform",
-    "company": "Sprinter Health",
-    "location": "Menlo Park, California",
-    "locations": [
-      "Menlo Park, California"
-    ],
-    "remote": false,
-    "posted": "2026-08-22T20:00:00.000Z",
-    "salaryMin": null,
-    "salaryMax": null,
-    "url": "https://www.linkedin.com/jobs/view/senior-product-manager-clinical-platform-at-sprinter-health-4455066317",
-    "source": "LinkedIn",
-    "score": 75,
-    "reasons": [
-      "Senior/Group title",
-      "Positioning fit (marketplace, platform, vendor)",
-      "AI signal (AI, agent, RAG)",
-      "Resume fit ~21%",
-      "Priority location (Chicago/Bay Area)"
-    ],
-    "fetchedAt": "2026-08-23T12:25:22.499Z"
-  },
-  {
-    "id": "b2VobzhFVV9nOE5BQWVYWEFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTVWRCUTJoME1VZFZaV2hxTms1TWFHRlpiRGh3ZGs5bExVNUNjbVk1ZVRoRFUweHVjV2xMZVdsSmMxVnRVazFZVGxseGNsbFdaVkl3WVZGalltOHphVmxVU0V0YVpXeHJTSGxCUmpneWNsVXRjbUV3UXpsUFluTkdNbTlKTFZWTFYwZFdTbXhvVkVaeE1Wb3RRMjVZU1ZkSE1XWmlXWFZhUTNoUlZsUlVTMnBWTmpSMllWY1NGM0F0WVV0aGMwTkhTMlJ4TUhCMFVWQTViMWhwYVZGTkdpSkJSSE55T1daVGFGQjJhRGxqVUVsaVoyWjJlRVE1V2tNeVZGTnpjMFl6UTNObg",
-    "fingerprint": "staff product manager ai clinical tools|sprinter health|-luxu0s",
-    "title": "Staff Product Manager, AI Clinical Tools",
-    "company": "Sprinter Health",
-    "location": "Menlo Park, California",
-    "locations": [
-      "Menlo Park, California"
-    ],
-    "remote": false,
-    "posted": "2026-08-22T20:00:00.000Z",
-    "salaryMin": null,
-    "salaryMax": null,
-    "url": "https://www.linkedin.com/jobs/view/staff-product-manager-ai-clinical-tools-at-sprinter-health-4455046340",
-    "source": "LinkedIn",
-    "score": 57,
-    "reasons": [
-      "Positioning fit (marketplace, platform, operations)",
-      "AI signal (AI, machine learning, agent)",
-      "Resume fit ~18%",
-      "Priority location (Chicago/Bay Area)"
-    ],
-    "fetchedAt": "2026-08-23T12:25:22.497Z"
-  },
-  {
-    "id": "NzJJc21aOUJfZ3ZMWFdHYkFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTbEpZZDBGcE5VRndaVWxuUVU5MldHVkNVR0pPT1ZNeWJsaEtSR1ZhZFUxWWJVZ3lTM1JXU21veGN6RXpRVFV0YWtaUlVFcDJhbEY1TkhKWmEwSjJNVXRWU1VNNWJVRkJMVUZOVlc1MlRuTk5MVzR0YW5FNFEycENkMHh5Y0RSc2RVTlVSVE5HT0hSTE5rRm1SVGt6V0VoRVNEQnNOa3hHVjNsbVV6WXljM0p3U0VkRE5EY1NGM0F0WVV0aGMwTkhTMlJ4TUhCMFVWQTViMWhwYVZGTkdpSkJSSE55T1daUlltRk9ibFZETkhONWVHdzRNa05ETUROUlZEWkRPVkJCZDI5bg",
-    "fingerprint": "senior product manager revenue operations|alion|wzbxws",
-    "title": "Senior Product Manager, Revenue Operations",
-    "company": "Alion",
-    "location": "US",
-    "locations": [
-      "US"
-    ],
-    "remote": false,
-    "posted": "2026-08-22T23:00:00.000Z",
-    "salaryMin": null,
-    "salaryMax": null,
-    "url": "https://www.linkedin.com/jobs/view/senior-product-manager-revenue-operations-at-alion-4457863615",
-    "source": "LinkedIn",
-    "score": 45,
-    "reasons": [
-      "Senior/Group title",
-      "Positioning fit (platform, operations, network)",
-      "AI signal (AI, GPT, RAG)",
-      "Resume fit ~27%",
-      "Outside target markets"
-    ],
-    "fetchedAt": "2026-08-23T12:25:22.496Z"
-  },
-  {
-    "id": "eUpOSENlMG5sa0RZQmV0SUFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBURVV4TmtOQlNESnhXR3B5YTBkVVVXaE5hR1J0ZGxCdFZYTmlaRFJtUld4RFpWaHJWM1JHTWxaemRVaE5abEYyVVdwMGMxVTRPRXN3TmtGbVMyOWhNRFp4UVZOck9VVmpNRGROVTNwUmRVeEtZbXQyTVZsWVVUUTFWVzlUVjNaNllUbDFhV1YyYm5nMVFqRXhaVmh4TTBkc2VVNVNSa2RXU21sMVJuQnpZazkzYjFCdU9WRVNGM0F0WVV0aGMwTkhTMlJ4TUhCMFVWQTViMWhwYVZGTkdpSkJSSE55T1daU1gwVmZZM3BKVGpsU1RIZzVXSEkwTmtwRVpFZGpiRTB0ZFRWQg",
-    "fingerprint": "product manager service designer digital product human centered design|reefpoint group|19rxfu",
-    "title": "Product Manager / Service Designer (Digital Product & Human-Centered Design)",
-    "company": "ReefPoint Group",
-    "location": "Tysons, Virginia",
-    "locations": [
-      "Tysons, Virginia"
-    ],
-    "remote": false,
-    "posted": "2026-08-22T15:00:00.000Z",
-    "salaryMin": null,
-    "salaryMax": null,
-    "url": "https://www.linkedin.com/jobs/view/product-manager-service-designer-digital-product-human-centered-design-at-reefpoint-group-4447563840",
-    "source": "LinkedIn",
-    "score": 20,
-    "reasons": [
-      "Positioning fit (platform, enterprise)",
-      "AI signal (AI, ML, RAG)",
-      "Resume fit ~22%",
-      "Outside target markets"
-    ],
-    "fetchedAt": "2026-08-23T12:25:22.495Z"
   }
 ]
