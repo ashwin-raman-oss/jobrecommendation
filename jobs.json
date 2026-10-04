@@ -1,5 +1,78 @@
 [
   {
+    "id": "VnktenBuQVVPbHBmeFJkUUFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTVmxFUVRrMlFrMWZWR2QxYjJGR2RrOXVXamw2YWs1WmNscEhZbmhFWDBKWldXSkJaa1pYYWtWQ1FUSk5RbnBwTmpWbFUxTmhiME5OYmkxcFJHOHhPVTF6TTFaMFl6bDRXV2x4ZVhOek5YVlNPV3RMU1ZOcmVHY3pabVJPWHpJdExVYzNhVm93UWxOd00wMHhNa2x2V25kZlJUbDBNV1JwVldKWU5YcGpPRU5GYld0ZlRHZ1NGelZJZGtOaGMyazRSVzgzU210UVNWQndkbTV0YjBGakdpSkJSSE55T1daVFVrVlVhR2hoWWtSbFkwTkNSMUIzV2tKdlkxOUNNa05WWm5SQg",
+    "fingerprint": "sr technical product manager ai analytics|mckesson|s6y8ff",
+    "title": "Sr. Technical Product Manager, AI & Analytics",
+    "company": "McKesson",
+    "location": "Columbus, Ohio",
+    "locations": [
+      "Columbus, Ohio"
+    ],
+    "remote": false,
+    "posted": "2026-10-03T00:00:00.000Z",
+    "salaryMin": null,
+    "salaryMax": null,
+    "url": "https://www.linkedin.com/jobs/view/sr-technical-product-manager-ai-analytics-at-mckesson-4475332684",
+    "source": "LinkedIn",
+    "score": 45,
+    "reasons": [
+      "Senior/Group title",
+      "Positioning fit (platform, operations, supply)",
+      "AI signal (AI, GenAI, ML)",
+      "Resume fit ~27%",
+      "Outside target markets"
+    ],
+    "fetchedAt": "2026-10-04T16:16:55.278Z"
+  },
+  {
+    "id": "VmVobm0xZmhjUjR2R3pPa0FBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTMnhmU0cxM2RVZHRVelo0WlUxeVRWRmZYMnBpWkMxNFpVZHNkV2RCWkdWU2NrSldkbGQwYWtGUmFtOXJWM2N4TWtoeGVVSkRURTFSV2xSbFUzQXpWVGhwY0VJME9FTjVTME5HVkdsb1dHbHFRa2R4V2s1UU5WRmpXa1l5YkV0c2F6QlBVMEpIWWtrMWVUUjJkVXRGVTE5eWJtZEZORXBuTW1KNU1FUnplRmRyVlZscGFqVVNGelZJZGtOaGMyazRSVzgzU210UVNWQndkbTV0YjBGakdpSkJSSE55T1daVFYxZHplbDlZYlZSSGQwOUtRMDVYVlZkQ1NUZEtYMEpoTWtSbg",
+    "fingerprint": "tiktok shop product manager leader 1p app store integration|tiktok|fljh88",
+    "title": "TikTok Shop - Product Manager Leader, 1P App Store Integration",
+    "company": "TikTok",
+    "location": "Seattle, Washington",
+    "locations": [
+      "Seattle, Washington"
+    ],
+    "remote": false,
+    "posted": "2026-10-03T18:00:00.000Z",
+    "salaryMin": null,
+    "salaryMax": null,
+    "url": "https://www.linkedin.com/jobs/view/tiktok-shop-product-manager-leader-1p-app-store-integration-at-tiktok-4473866730",
+    "source": "LinkedIn",
+    "score": 44,
+    "reasons": [
+      "Positioning fit (platform)",
+      "AI signal (AI, LLM, ML)",
+      "Resume fit ~21%",
+      "Visibility location"
+    ],
+    "fetchedAt": "2026-10-04T16:16:55.276Z"
+  },
+  {
+    "id": "c0VqMmJXTWFGLWtUMThsM0FBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTbDlRVEdaTFJuTlhXR2cyT1dSelZXUndhMWx1Vm5WVFYyZEdZMTg0UjJoQmRHWnVTVXhRV2pFMVozSkJSeTA0YkVWdE1uWmhXazF1WWt4RVoyTllTbVF0UW14bWNWZGFUV3MyV2xkWlNGbDZlV2haVUc5SE9GQXpVMng1YnpSSllXOWxkMUV5VmtsNVltbEJVV28xT0UxQlF6VXdZVWgyUlMxbFpGRlJSRlJ1ZWxVeVduY1NGelZJZGtOaGMyazRSVzgzU210UVNWQndkbTV0YjBGakdpSkJSSE55T1daVFJVeExNRzkyUzNwd1dGRmtaVmt4UmxSYU5XVjVRakU0TjJOMw",
+    "fingerprint": "product manager ai for quantum|nvidia|-qb7jsj",
+    "title": "Product Manager, AI for Quantum",
+    "company": "NVIDIA",
+    "location": "Not specified",
+    "locations": [
+      "Not specified"
+    ],
+    "remote": true,
+    "posted": "2026-10-04T00:00:00.000Z",
+    "salaryMin": null,
+    "salaryMax": null,
+    "url": "https://www.linkedin.com/jobs/view/product-manager-ai-for-quantum-at-nvidia-4473879566",
+    "source": "LinkedIn",
+    "score": 35,
+    "reasons": [
+      "Positioning fit (platform)",
+      "AI signal (AI, machine learning)",
+      "Resume fit ~11%",
+      "Remote"
+    ],
+    "fetchedAt": "2026-10-04T16:16:55.275Z"
+  },
+  {
     "id": "OWNaMDU5VnQ2RmZ6Tkx4OEFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTWEIxUm1vME0xTkVXWEZpVmt4QlpVUXhia3QyUlhCT1VIRmtNaTFTZWpWRlNtMWphVTlhVFhFelMyeDBlVkZ4ZWxvM1VFcEJWV1psVDFSNVQwMXVaVkEwWVc5WFltdDVaR3M0VkRGS1VGcHBRM2N0Y0RodGNWZHVUM0ZrUm5SMFNUTkxhbEpRTFRnNWJVNXFiVXBrVjBkdmRsRnVlamRWTUcxQmFqVmpkWEJ4T1dseFVuUVNGMGhUUkVKaGIxTnhURXRZYUd0UVNWQTVZbXBpTmxGSkdpSkJSSE55T1daVGRrOWxSREIxZUUxSU1HSk1XVkp1VGxsV1MxOHRWMVpoUzB0Qg",
     "fingerprint": "senior product manager growth|duolingo|-ok0so2",
     "title": "Senior Product Manager, Growth",
@@ -4819,76 +4892,5 @@
       "Outside target markets"
     ],
     "fetchedAt": "2026-08-26T12:38:07.354Z"
-  },
-  {
-    "id": "dFg1TWx5ZE0wb01wQ3dUZEFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTVkJXZVdkMVNYbzRZbGxIWWkxbVYwRldWMmRSTTBvMWJsOTZjREpvTUZsR0xXcDFkWFpPUVRSQk5FUjFkbWwxTkUwMVVXcFJURGd5Tm10b2NucDBSbXBwUzA0NU5rdHZWRGhPTlhkb2EyczNVbmhYUzBoc1R6VnlRamgxVDJKMmQwdzRWVGx6YVVOU2VVSnBRemxFVDFwUE5YcFJkbmRJWldWSVJrRjJRMGRITFhFMlQyVVNGMGxPTms5aGMyNTZTR0pFWWpKeWIxQTJjbGRXY1ZFNEdpSkJSSE55T1daU1RuZFFRMjVpWDAxSVFYRjFORkZrTmxSaVVrSndZazFwTURsMw",
-    "fingerprint": "product manager|haystack|ty5p3o",
-    "title": "Product Manager",
-    "company": "Haystack",
-    "location": "Oak Grove, North Carolina",
-    "locations": [
-      "Oak Grove, North Carolina"
-    ],
-    "remote": false,
-    "posted": "2026-08-26T00:00:00.000Z",
-    "salaryMin": null,
-    "salaryMax": null,
-    "url": "https://www.linkedin.com/jobs/view/product-manager-at-haystack-4459085563",
-    "source": "LinkedIn",
-    "score": 9,
-    "reasons": [
-      "Positioning fit (platform, enterprise)",
-      "AI signal (AI)",
-      "Resume fit ~21%",
-      "Outside target markets"
-    ],
-    "fetchedAt": "2026-08-26T12:38:07.354Z"
-  },
-  {
-    "id": "VHJxWHA4V05nam1mdnJFZEFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTbTVUYVRCa1dsaFVNRTlZTW1wTFJ6ZFJTbVJ2TWpseWRWVjNVR3A2VVVNMExVaERSRmxOUlZoSFdGUkNUVE42YWt4dVowbHNRbU4wVEdwV1Zsb3pWV3hrU2tabFVtWjZWbTFMU3pNeWRqbFVlVUkxVjBVMGRUTllZMlpJYkhGdVduZEZibUZaV21KM1UzTmtXR1ZXYm5Gd2RrNVJVSHBRZEVkcWRHOTBNMmxaYkdoek4wd1NGMGxPTms5aGMyNTZTR0pFWWpKeWIxQTJjbGRXY1ZFNEdpSkJSSE55T1daVWQwaEhRVFZTYlZjM1NWTmpUMHBCWkc5QmFITmxUMk5yTUVGUg",
-    "fingerprint": "product manager|eteam|s7ei2i",
-    "title": "Product Manager",
-    "company": "eTeam",
-    "location": "Walkersville, Maryland",
-    "locations": [
-      "Walkersville, Maryland"
-    ],
-    "remote": false,
-    "posted": "2026-08-25T14:00:00.000Z",
-    "salaryMin": null,
-    "salaryMax": null,
-    "url": "https://www.linkedin.com/jobs/view/product-manager-at-eteam-4458762917",
-    "source": "LinkedIn",
-    "score": 3,
-    "reasons": [
-      "Positioning fit (operations, supply)",
-      "AI signal (AI)",
-      "Resume fit ~16%",
-      "Outside target markets"
-    ],
-    "fetchedAt": "2026-08-26T12:38:07.352Z"
-  },
-  {
-    "id": "c0c1ZXFDYkFZUXh6dnJXS0FBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBURVpKU0VWMmREWkNPRmg2ZFVJMGMyVkxVa2hpTUhwNlIweFRRa2hETFRWemJURldaV0ZtVWt4dGVtVTJiaTFxT1VKbVlYbDNaVzlPTWxKTmNVdE5UbTlYZVZGalRHcHRaalZyYTJrNVpFOU5ZMkpVVm5CYVlteHZkVUpPUTNwclpYTk9WVTlSVEV0ZlUwdHRlVGN3UTNCR2N6VnlSVGhFY21kUmVGWldaekJvVmpKd05sSVNGMGxPTms5aGMyNTZTR0pFWWpKeWIxQTJjbGRXY1ZFNEdpSkJSSE55T1daU1VFbFNTemRFVG01R2FqbDZUSEZrVGpSVFdYWkVWRTlGY25KQg",
-    "fingerprint": "product manager energy|tech jobs for good|jnr85u",
-    "title": "Product Manager - Energy",
-    "company": "Tech Jobs for Good",
-    "location": "Washington, District of Columbia",
-    "locations": [
-      "Washington, District of Columbia"
-    ],
-    "remote": false,
-    "posted": "2026-08-25T15:00:00.000Z",
-    "salaryMin": null,
-    "salaryMax": null,
-    "url": "https://www.linkedin.com/jobs/view/product-manager-energy-at-tech-jobs-for-good-4458795175",
-    "source": "LinkedIn",
-    "score": -10,
-    "reasons": [
-      "AI signal (AI)",
-      "Resume fit ~12%",
-      "Outside target markets"
-    ],
-    "fetchedAt": "2026-08-26T12:38:07.350Z"
   }
 ]
