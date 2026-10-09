@@ -1,5 +1,129 @@
 [
   {
+    "id": "dThodm5McjZtYWxwVzJuaUFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBURWhPZG1oMFYwZEhSMnRFUXpSYWFrOUJOVzVrZUdOdWFGTkxWRGhRYVdsQmEwdEJWMVZOTkdkYU5HRjFVM1ZJY2pkME9VTTFjMHBsTW1WMWJtcHlVRTFSVjNkSmFrZzFjWEJEVUZRM1UweHZZemt0YzJReU5FWjNkVUp3ZDJGZlQwZG9VbkExTjNFNVdYcFRURVZ4YW5GWlVWZzVNbGh6TVZkUGRFaElPR0pNV25sVmVXb1NGMUpEYmtwaGIyNVlTR05MYjJoMlkxQnBZV3A0YlVGekdpSkJSSE55T1daVVFqaDNSVzgyUVdSaWEycEJWRXhZU0hSNFpGUklVVU5ZTm1SMw",
+    "fingerprint": "senior product manager bioprofile|nova biomedical|zfs57l",
+    "title": "Senior Product Manager - Bioprofile",
+    "company": "Nova Biomedical",
+    "location": "Not specified",
+    "locations": [
+      "Not specified"
+    ],
+    "remote": true,
+    "posted": "2026-10-08T20:00:00.000Z",
+    "salaryMin": null,
+    "salaryMax": null,
+    "url": "https://www.linkedin.com/jobs/view/senior-product-manager-bioprofile-at-nova-biomedical-4474863061",
+    "source": "LinkedIn",
+    "score": 70,
+    "reasons": [
+      "Senior/Group title",
+      "Positioning fit (marketplace, operations, supply)",
+      "AI signal (AI, RAG)",
+      "Resume fit ~21%",
+      "Remote"
+    ],
+    "fetchedAt": "2026-10-09T17:50:05.662Z"
+  },
+  {
+    "id": "Y0VVdml1bWxDTnZsU1NrS0FBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTM1Z1VW1nMFF6QmtjMGxGY0RKSFpHTkxaVUptTkVWWFNsSmhTelI2WVVSQ0xYVjVhWFJvY2tkT1ZqVk1hakZzUkZwS2NrSk5RVVpPV2xseFVFZHdjakV3UTIxV01XRkJOMEZmYVU1dlIyMVBkRUZCVld4Qk1HNXNSbXBqV0daU2J6Wnpabk5CU25OSU5UZFliRmQ0WmpkbFgwTXRibXN6WlVsVWJqRTJXRGhsUkZocVdXc1NGMUpEYmtwaGIyNVlTR05MYjJoMlkxQnBZV3A0YlVGekdpSkJSSE55T1daVFFuWklTM0JmYW5Wd1dUZFNTMDVHZUZWMFExRkZMVmRPU0ZaUg",
+    "fingerprint": "senior product manager|first citizens bank|7n5psm",
+    "title": "Senior Product Manager",
+    "company": "First Citizens Bank",
+    "location": "Not specified",
+    "locations": [
+      "Not specified"
+    ],
+    "remote": true,
+    "posted": "2026-10-08T21:00:00.000Z",
+    "salaryMin": null,
+    "salaryMax": null,
+    "url": "https://www.linkedin.com/jobs/view/senior-product-manager-at-first-citizens-bank-4477461832",
+    "source": "LinkedIn",
+    "score": 69,
+    "reasons": [
+      "Senior/Group title",
+      "Positioning fit (platform, operations, vendor)",
+      "AI signal (AI, LLM)",
+      "Resume fit ~19%",
+      "Remote"
+    ],
+    "fetchedAt": "2026-10-09T17:50:05.661Z"
+  },
+  {
+    "id": "VHp5X2tsU05WaWIyS3BMTkFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBUQzFsTmxCT1pHWlVWeTFpYzFSWldWUnhaSEJhVFRrMVUwMXVWVGhwYWpJNGMwVmZWRlIyTFZKT1drMXhSbk16VW5VMVR6QmFXbVpxTTNReGJUVkpSRTVoUTBaMFducGpkR2hVWlZGWFYzUnNiRWx4ZUdGdlZGRktVbVExZVRCMVUyVlRaRU5WYjI5TFoyUTFWMlJUYUY5SFlWY3RabFl3WmtKb1NGOXpNRXhKWjFKS2JtSVNGMUJUYmtwaGNVUjZTWEkyV0doMlkxQXpjbTUwYTBGdkdpSkJSSE55T1daU1NFTjZaVWREY0hodGRITnRXREZZTWtwVFJURk5kRlJGVkdWMw",
+    "fingerprint": "senior product manager salesforce platform|salesforce|3x2ge6",
+    "title": "Senior Product Manager, Salesforce Platform",
+    "company": "Salesforce",
+    "location": "New York, New York",
+    "locations": [
+      "New York, New York"
+    ],
+    "remote": false,
+    "posted": "2026-10-09T01:00:00.000Z",
+    "salaryMin": null,
+    "salaryMax": null,
+    "url": "https://www.linkedin.com/jobs/view/senior-product-manager-salesforce-platform-at-salesforce-4477615182",
+    "source": "LinkedIn",
+    "score": 100,
+    "reasons": [
+      "Target company (Salesforce)",
+      "Senior/Group title",
+      "Positioning fit (platform, enterprise)",
+      "AI signal (AI, agent)",
+      "Resume fit ~22%",
+      "Visibility location"
+    ],
+    "fetchedAt": "2026-10-09T17:50:05.660Z"
+  },
+  {
+    "id": "eFBmanVZYXVHbmwtTGZkRUFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTbEZFT0dWb1RqaE5VMkZaUkVOaGFXZFhiMmxEVVZGdFEwaGlVWEZYV0hWRmJuVTVSSGxwVFRKV2RIUkRObUl6ZVRGTFJVSklhM2hHYTFSVWEybFBaVVJoY2tGUlZETndVa2RyVjNSaFJuZzVUa3RTTUhsS1pUZ3hUemt4VURaWmFUVkxUblJhZGxaNWJIWTBaRE5vY0hVMGRFMUlja2hrTW5GR2IyRkVYMW96T1cxR2FVVVNGMUJUYmtwaGNVUjZTWEkyV0doMlkxQXpjbTUwYTBGdkdpSkJSSE55T1daUmJsTTBibWx0WnpaT1ZGRTRSMGxyTTE5eGRVa3dkR1poTWxsUg",
+    "fingerprint": "senior product manager consumer payments|affirm|fr150z",
+    "title": "Senior Product Manager, Consumer Payments",
+    "company": "Affirm",
+    "location": "Not specified",
+    "locations": [
+      "Not specified"
+    ],
+    "remote": true,
+    "posted": "2026-10-08T18:00:00.000Z",
+    "salaryMin": null,
+    "salaryMax": null,
+    "url": "https://www.linkedin.com/jobs/view/senior-product-manager-consumer-payments-at-affirm-4476202092",
+    "source": "LinkedIn",
+    "score": 51,
+    "reasons": [
+      "Senior/Group title",
+      "AI signal (AI, RAG)",
+      "Resume fit ~17%",
+      "Remote"
+    ],
+    "fetchedAt": "2026-10-09T17:50:05.659Z"
+  },
+  {
+    "id": "OXZaTkFnT0ZYckQzR0MzYkFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTelZSWlc1Q1pYUXhOM0ptUzBoNFgzSm9URVZ5UW5SSVUxaEpRVWxSVFUxUFNHUjRTVGN3T1hjdGFtNHRlRVZET1ZaU1kwSmhjVlUyVWtwc1UzZEZia3BQYldkMlNsOWhiVjlUVWw4M1ptUkNUMVJIVEVKQk5WOUxYM2RuU1dKdGRGRlpValUxTkVzM1pXTTBNMTlqVVZoNFNqTm1WMjFuUmt0VU4zcExZemh6ZVZWVE5WQVNGMUJUYmtwaGNVUjZTWEkyV0doMlkxQXpjbTUwYTBGdkdpSkJSSE55T1daUlUzQmtUWEV3TkVoTE5XZGtiWHBTY0Y5YVpqQjZVWFJ0U20xbg",
+    "fingerprint": "product manager fastening roofing siding dewalt|stanley black decker inc|m7voph",
+    "title": "Product Manager: Fastening, Roofing & Siding – DEWALT",
+    "company": "Stanley Black & Decker, Inc.",
+    "location": "Towson, Maryland",
+    "locations": [
+      "Towson, Maryland"
+    ],
+    "remote": false,
+    "posted": "2026-10-08T22:00:00.000Z",
+    "salaryMin": null,
+    "salaryMax": null,
+    "url": "https://www.linkedin.com/jobs/view/product-manager-fastening-roofing-siding-%E2%80%93-dewalt-at-stanley-black-decker-inc-4477487329",
+    "source": "LinkedIn",
+    "score": 5,
+    "reasons": [
+      "Positioning fit (operations, vendor)",
+      "AI signal (AI)",
+      "Resume fit ~17%",
+      "Outside target markets"
+    ],
+    "fetchedAt": "2026-10-09T17:50:05.658Z"
+  },
+  {
     "id": "RngwLUxsS2VWd1NScE1KbUFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTWFU1U0V0ek1UQjZVRVJIUzBONWFrNURlSGxKY3pCcFdVWnhkemRhY0hOSE5GTnpUakF5UzFaWVpuTjNOblF4ZVV0dVVqUnBURkYwTXpaa1EyTklkakJFWjFGYVQzSk9XRFZDWVZWcWFqbGFVV0ZOWVVoMmJrZHlabmQ0UTJVdGExWlRPRFZSVEZoZlpWSnZRWFptWlV0c1FrOVNhVzFyTmxWNWFHbGhZMXBNWDJkcllWRVNGMGs1TjBoaGRIWnpTR051TUhsamExQnlURTlaY1ZGSkdpSkJSSE55T1daVE1HVjFTWFZ6WVRNeVJURlhYM0p6YUZCT1FXbDNUbUpZYlZWMw",
     "fingerprint": "lead product manager bankingsuite products platforms|deloitte|-yug9al",
     "title": "Lead Product Manager, BankingSuite - Products & Platforms",
@@ -4781,122 +4905,5 @@
       "Outside target markets"
     ],
     "fetchedAt": "2026-09-11T15:40:31.677Z"
-  },
-  {
-    "id": "YmluZzoyNjgzMzA4MjguUmV0cm8",
-    "fingerprint": "product manager|vaspire technologies|9v3ol",
-    "title": "Product Manager ",
-    "company": "Vaspire Technologies",
-    "location": "NY, US",
-    "locations": [
-      "NY, US"
-    ],
-    "remote": false,
-    "posted": "2026-09-10T07:46:20.000Z",
-    "salaryMin": null,
-    "salaryMax": null,
-    "url": "https://www.linkedin.com/jobs/view/product-manager-at-vaspire-technologies-inc-4464542254?trk=bingjobs",
-    "source": "LinkedIn",
-    "score": 8,
-    "reasons": [
-      "AI signal (AI, machine learning, RAG)",
-      "Resume fit ~21%",
-      "Outside target markets"
-    ],
-    "fetchedAt": "2026-09-11T15:40:31.676Z"
-  },
-  {
-    "id": "YmluZzo5OTUxODUzODIuUmV0cm8",
-    "fingerprint": "product manager health benefits portal experience|wex|3w0ihz",
-    "title": "Product Manager (Health & Benefits Portal Experience)",
-    "company": "WEX",
-    "location": "ME, US",
-    "locations": [
-      "ME, US"
-    ],
-    "remote": false,
-    "posted": "2026-09-09T15:51:07.000Z",
-    "salaryMin": null,
-    "salaryMax": null,
-    "url": "https://www.linkedin.com/jobs/view/product-manager-health-benefits-portal-experience-at-wex-4465343746?trk=bingjobs",
-    "source": "LinkedIn",
-    "score": 30,
-    "reasons": [
-      "Positioning fit (platform, SaaS, enterprise)",
-      "AI signal (AI, LLM, ML)",
-      "Resume fit ~27%",
-      "Outside target markets"
-    ],
-    "fetchedAt": "2026-09-11T15:40:31.675Z"
-  },
-  {
-    "id": "YmluZzoxODkzNTk0MjUzLlJldHJv",
-    "fingerprint": "sr sap fico product manager leo finance technology|amazon|9i3n7u",
-    "title": "Sr. SAP FICO Product Manager, Leo Finance Technology",
-    "company": "Amazon",
-    "location": "NY, US",
-    "locations": [
-      "NY, US"
-    ],
-    "remote": false,
-    "posted": "2026-09-09T11:05:32.000Z",
-    "salaryMin": null,
-    "salaryMax": null,
-    "url": "https://www.linkedin.com/jobs/view/sr-sap-fico-product-manager-leo-finance-technology-at-amazon-4455900873?trk=bingjobs",
-    "source": "LinkedIn",
-    "score": 90,
-    "reasons": [
-      "Target company (Amazon)",
-      "Senior/Group title",
-      "Positioning fit (vendor, supply)",
-      "AI signal (AI, RAG)",
-      "Resume fit ~18%"
-    ],
-    "fetchedAt": "2026-09-10T15:38:43.799Z"
-  },
-  {
-    "id": "YmluZzoxNzk1OTQyMzguUmV0cm8",
-    "fingerprint": "product manager ai|wing assistant|sj1vwv",
-    "title": "Product Manager - AI",
-    "company": "Wing Assistant",
-    "location": "ID, US",
-    "locations": [
-      "ID, US"
-    ],
-    "remote": false,
-    "posted": "2026-09-08T15:39:08.000Z",
-    "salaryMin": null,
-    "salaryMax": null,
-    "url": "https://www.linkedin.com/jobs/view/product-manager-ai-at-wing-assistant-4462555257?trk=bingjobs",
-    "source": "LinkedIn",
-    "score": 1,
-    "reasons": [
-      "AI signal (AI, agent)",
-      "Resume fit ~18%",
-      "Outside target markets"
-    ],
-    "fetchedAt": "2026-09-10T15:38:43.797Z"
-  },
-  {
-    "id": "YmluZzo2OTA5MzE4OTEuUmV0cm8",
-    "fingerprint": "product manager|yibi group global manufacturing partner for luxury jewelry leather goods hardware|-ky8rfb",
-    "title": "Product Manager",
-    "company": "Yibi Group  Global Manufacturing Partner for Luxury Jewelry & Leather Goods Hardware",
-    "location": "CA, US",
-    "locations": [
-      "CA, US"
-    ],
-    "remote": false,
-    "posted": "2026-09-08T18:44:40.000Z",
-    "salaryMin": null,
-    "salaryMax": null,
-    "url": "https://www.linkedin.com/jobs/view/product-manager-at-yibi-group-global-manufacturing-partner-for-luxury-jewelry-leather-goods-hardware-4462551802?trk=bingjobs",
-    "source": "LinkedIn",
-    "score": -14,
-    "reasons": [
-      "Resume fit ~14%",
-      "Outside target markets"
-    ],
-    "fetchedAt": "2026-09-10T15:38:43.796Z"
   }
 ]
