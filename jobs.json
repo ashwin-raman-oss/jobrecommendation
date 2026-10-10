@@ -1,5 +1,276 @@
 [
   {
+    "id": "Tk5oR2ZXQzF4RnpQX1ZoV0FBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBURkU1TWpkbGNYSnlTRlp4UkhWc1RFZG9OVkZEZEZSV2RYVnROV28zZUV0SVRFcDZaVVJhZEUxU1dqZEZaSEJwZGpaM1VTMDFabkJGWXpGdFQycExURE5TV0VOdU9EZzNjVXhCY0VabU5XVTJWRXhOVW5oV1gxVTBjVXc1Y0VOd2RIUmlkblpGU2xVNVl6WnJhM1ZaTVRabWQxVkdSWGxQU3pKaWRqRlFObmRKVUVkelEza1NGM0ZIZGt0aGNFeDFUblJtU0d0UVNWQjRaVXRJZFZFNEdpSkJSSE55T1daUlZXRXRiRGc1Y0ZGaVZVRnNkRnBSYjFKRWMxTnZSMDFNVEhkQg",
+    "fingerprint": "lead product manager|entegris|9egqu7",
+    "title": "Lead, Product Manager",
+    "company": "Entegris",
+    "location": "Danbury, Connecticut",
+    "locations": [
+      "Danbury, Connecticut"
+    ],
+    "remote": false,
+    "posted": "2026-10-09T19:00:00.000Z",
+    "salaryMin": null,
+    "salaryMax": null,
+    "url": "https://www.linkedin.com/jobs/view/lead-product-manager-at-entegris-4477856446",
+    "source": "LinkedIn",
+    "score": 13,
+    "reasons": [
+      "Positioning fit (operations, supply)",
+      "AI signal (AI, RAG)",
+      "Resume fit ~21%",
+      "Outside target markets"
+    ],
+    "fetchedAt": "2026-10-10T16:45:32.003Z"
+  },
+  {
+    "id": "ejktMzRlVEtIMnhZbi1TN0FBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBUSGxMTFdKUFZVdHhPRGQzWkVFMlNrOWlOMEpqTTJ4RFpHOXZkM0l0ZW14eVpWRlphV1pVWm5JMFFXTlpObFJRV1d4MlRqQklPVVl4TmtkeGFsOXVhRmxTVGtoQmRteG9lRGxCT1ROS1RHRXpVR2hmYlhOZlF6bGhOVVJTUldkT2RGZEdaazAzU1c1dGFXd3pPVVo0WkhOa01YZE1lV3h1VlZoQ1VuUXhPVWxVVTNveWEwOFNGMjlYZGt0aGRIVlVRV1I1VW5WeU9GQnJVR2xFTkVGckdpSkJSSE55T1daU09IcEJiRFpwUTBGRE5UTlVkVXR0ZFZWRU4wNDJUak5YT1Zabg",
+    "fingerprint": "senior product manager hybrid|klein tools|27lddc",
+    "title": "Senior Product Manager - Hybrid",
+    "company": "Klein Tools",
+    "location": "Lincolnshire, Illinois",
+    "locations": [
+      "Lincolnshire, Illinois"
+    ],
+    "remote": false,
+    "posted": "2026-10-09T18:00:00.000Z",
+    "salaryMin": null,
+    "salaryMax": null,
+    "url": "https://www.linkedin.com/jobs/view/senior-product-manager-hybrid-at-klein-tools-4477853051",
+    "source": "LinkedIn",
+    "score": 17,
+    "reasons": [
+      "Senior/Group title",
+      "Positioning fit (supply)",
+      "AI signal (AI)",
+      "Resume fit ~19%",
+      "Outside target markets"
+    ],
+    "fetchedAt": "2026-10-10T16:45:32.002Z"
+  },
+  {
+    "id": "eTV4VzY3MlkzV2lTaWxCTUFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBUSFJvTlhoNmQxRkNUVkZ0V0RaSWFGZ3hWRFV4VkVoQlVuQkxNSGRGWlRGSFdHaHJaelYyVmt0U09GRk5ORTFHYkd4S1VpMWhSa1l5UVZaRVdrRjZWa3BzUjJOakxUVnVWVk41ZVVOcFFraERlVkpFYW1OR2VIUlVXREUwYlRCMWF5MUZTM2QwWm1GZlgxUkZUR1ZGWTI1RlNWb3hlREJKTUhWMlVuSnBNekJsZFY5VVNXWVNGMjlYZGt0aGRIVlVRV1I1VW5WeU9GQnJVR2xFTkVGckdpSkJSSE55T1daVE1tWTVRVzVaYlVWc1JsQmpNRTFDVjBsb1NISXdSM1pxTjNwMw",
+    "fingerprint": "senior product manager business strategy|charles schwab|vl9lsk",
+    "title": "Senior Product Manager - Business Strategy",
+    "company": "Charles Schwab",
+    "location": "Lone Tree, Colorado",
+    "locations": [
+      "Lone Tree, Colorado"
+    ],
+    "remote": false,
+    "posted": "2026-10-09T20:00:00.000Z",
+    "salaryMin": 102000,
+    "salaryMax": 170000,
+    "url": "https://www.linkedin.com/jobs/view/senior-product-manager-business-strategy-at-charles-schwab-4475248896",
+    "source": "LinkedIn",
+    "score": 18,
+    "reasons": [
+      "Senior/Group title",
+      "Positioning fit (operations)",
+      "AI signal (AI, RAG)",
+      "Resume fit ~21%",
+      "Outside target markets"
+    ],
+    "fetchedAt": "2026-10-10T16:45:32.001Z"
+  },
+  {
+    "id": "Sm0zVEE5cEdNaUNnaER2cUFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTelUwWVdaV01XSlZhSEp2VVZGeGVFcFFYMHRKT0VSNWRITTRiMlp4YVdOUlpYUjFhbDlGZUVwblZqWmZSamxYWjBsTlRFcDNTRXBwVW1SNVFuRjZjMlZVTkRFdGJGZE1kRFJxWnpkV1JEQlhRbUZzVlhsSWR6RlNMVVZwUkVWRGVrdGtjMmRoUnpKYVlVWk5iWG8yWjFoRlUwRnBRM1ZFWDNSQlNtZHZaVjkxZW5adlVWY1NGMjlYZGt0aGRIVlVRV1I1VW5WeU9GQnJVR2xFTkVGckdpSkJSSE55T1daVFdFOVNkWGd5VVZWMlR5MHhkVlpXWldwV1RtUjRZM2R1Wm5OUg",
+    "fingerprint": "senior product manager web apps|beacon biosignals|2c9j2",
+    "title": "Senior Product Manager, Web Apps",
+    "company": "Beacon Biosignals",
+    "location": "Not specified",
+    "locations": [
+      "Not specified"
+    ],
+    "remote": true,
+    "posted": "2026-10-10T00:00:00.000Z",
+    "salaryMin": null,
+    "salaryMax": null,
+    "url": "https://www.linkedin.com/jobs/view/senior-product-manager-web-apps-at-beacon-biosignals-4478006231",
+    "source": "LinkedIn",
+    "score": 65,
+    "reasons": [
+      "Senior/Group title",
+      "Positioning fit (platform, operations)",
+      "AI signal (AI, ML)",
+      "Resume fit ~21%",
+      "Remote"
+    ],
+    "fetchedAt": "2026-10-10T16:45:32.001Z"
+  },
+  {
+    "id": "aWpFLUdFYl9LemNpSXBlQ0FBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTemgwTVhSV1QxZDFVMlZ6UTFVMlNYWmtjWEJ3VjJKTU1WSjRVbE13T0ZoVlFqZEJTazVRZEd0WVNuZFhlVzB5VlhWdmNVTXdUazh6YldGNExXNVZiM2REUmpKVFRFMUpjek5pVXpoVlgycG1XRUYwYzE5eVNGOVVNMVJ6ZVZObldHNXJlSFl5V1ZCT1RYSm9jamxYZVV0VVVUSm1kMk16V0dSeVNVcGtPVFpsTkc1Q2VXZ1NGMjlYZGt0aGRIVlVRV1I1VW5WeU9GQnJVR2xFTkVGckdpSkJSSE55T1daU1FubGZSMGRZV0hSUmRXNDVabmN4WVc5YU1ESm1TbFJYUkdkUg",
+    "fingerprint": "senior product manager b2b remote|motion recruitment|-erhplv",
+    "title": "Senior Product Manager / B2B / Remote",
+    "company": "Motion Recruitment",
+    "location": "Not specified",
+    "locations": [
+      "Not specified"
+    ],
+    "remote": true,
+    "posted": "2026-10-09T21:00:00.000Z",
+    "salaryMin": 60,
+    "salaryMax": 90,
+    "url": "https://www.linkedin.com/jobs/view/senior-product-manager-b2b-remote-at-motion-recruitment-4477877474",
+    "source": "LinkedIn",
+    "score": 59,
+    "reasons": [
+      "Senior/Group title",
+      "Positioning fit (platform, B2B, SaaS)",
+      "AI signal (AI)",
+      "Resume fit ~19%",
+      "Remote"
+    ],
+    "fetchedAt": "2026-10-10T16:45:32.000Z"
+  },
+  {
+    "id": "MTdVQXA1V2ppMWd6V3VJVUFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTMDlEZW14SU55MUlMVkoyYlhsS2VtczNXVzkwVGxsTWNHcG1jekowYlRWbVpYQlZhbUZ6VDJkT1JDMWFYMDVmUjFwS1dFSnVVMDluU0V4QlMxSm1PRTh3TXpKT04zUlVlak4yVFhSWWVIaFZUWEV4YzFnMU1tRTRObVF6ZEhkaFFtMHRUQzFqWjAxMU1rOVNUVFp2WkZGWGR6RlBZVFpQUkhSbmVuSmxibmhWUTJkUWJFY1NGMjlYZGt0aGRIVlVRV1I1VW5WeU9GQnJVR2xFTkVGckdpSkJSSE55T1daVE5scHlZa1pxVTNwd1ZrUXdkbTVrTFRsSFNVWjBPRVZsZEZSUg",
+    "fingerprint": "senior product manager workday total rewards|u s bank|17eg69",
+    "title": "Senior Product Manager - Workday Total Rewards",
+    "company": "U.S. Bank",
+    "location": "Irving, Texas",
+    "locations": [
+      "Irving, Texas"
+    ],
+    "remote": false,
+    "posted": "2026-10-09T19:00:00.000Z",
+    "salaryMin": null,
+    "salaryMax": null,
+    "url": "https://www.linkedin.com/jobs/view/senior-product-manager-workday-total-rewards-at-u-s-bank-4477850661",
+    "source": "LinkedIn",
+    "score": 34,
+    "reasons": [
+      "Senior/Group title",
+      "Positioning fit (platform, vendor, enterprise)",
+      "AI signal (AI, ML)",
+      "Resume fit ~21%",
+      "Outside target markets"
+    ],
+    "fetchedAt": "2026-10-10T16:45:31.999Z"
+  },
+  {
+    "id": "ZWZQTlJLLVFqNU5FVm1QNkFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTVjl3V0ZOMFZESm1RM2hLU0Rab2VGTlliMXA0ZG5SS1lWcHBhV0p6VFdkNlRtMTRjVWhNWlhwV1pEUmxTalV5ZFRkYVRHcFZjalJKYW5ZM1MydE1ibkZEUTB4bGMzTkpia0pOVDJOMVpXbzFSa0pUVDBaZllrd3diV2QwVkhabE9EbDBURFEyWldaQ2NUZDJNSEZtUlMxZk9XaHBTWGx5YTBaWU9FMXBhakZMTW5CaWRUZ1NGMjlYZGt0aGRIVlVRV1I1VW5WeU9GQnJVR2xFTkVGckdpSkJSSE55T1daUllXNUxjVzlZWm5Cd2JuSTFVMVpDYjBRMFJsOU1SVk4yV0Vkbg",
+    "fingerprint": "sr product manager circular saw blades bonded abrasives dewalt remote connecticut massachusetts|stanley black decker inc|-1nhx9r",
+    "title": "Sr. Product Manager (Circular Saw Blades & Bonded Abrasives – DEWALT) – Remote Connecticut/Massachusetts",
+    "company": "Stanley Black & Decker, Inc.",
+    "location": "Not specified",
+    "locations": [
+      "Not specified"
+    ],
+    "remote": true,
+    "posted": "2026-10-09T22:00:00.000Z",
+    "salaryMin": null,
+    "salaryMax": null,
+    "url": "https://www.linkedin.com/jobs/view/sr-product-manager-circular-saw-blades-bonded-abrasives-%E2%80%93-dewalt-%E2%80%93-remote-connecticut-massachusetts-at-stanley-black-decker-inc-4477889301",
+    "source": "LinkedIn",
+    "score": 58,
+    "reasons": [
+      "Senior/Group title",
+      "Positioning fit (operations, vendor)",
+      "AI signal (AI)",
+      "Resume fit ~19%",
+      "Remote"
+    ],
+    "fetchedAt": "2026-10-10T16:45:31.998Z"
+  },
+  {
+    "id": "ckc2WG1Ya1k2cHpkRnNTVkFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTeTE2YlZGa2NsQkhkbUZXWldZdGJGRjJlblZUYlMxUVJYUm9ObVpPU1ZSYVZVbFRlVFprUmpaMVpuVnVTRmRHV21zdE1qSkNWR293WDFoemIyUmZZbHB5WkV4cVRFSXdSMFJqTUdWbk4yaHBVR1ZWWWw4elZscDRWbEpHUjFwV1pGcE9USFZITUVRNWIyazFRV0V5VnpoVFYyaHNTR0ZKZVhreFprWkZiV1JQWVhCT1NrUVNGMjVYZGt0aGRtMUdRMjl4TUdoMlkxQjJZM1ZZT0ZGekdpSkJSSE55T1daU1VscDJTRjlrYkV3MFZVeFROMHhXU0hKR2IzZDFRbXRKVGpKQg",
+    "fingerprint": "product manager advanced detection remote|crowdstrike|pibqfg",
+    "title": "Product Manager - Advanced Detection (Remote)",
+    "company": "CrowdStrike",
+    "location": "Not specified",
+    "locations": [
+      "Not specified"
+    ],
+    "remote": true,
+    "posted": "2026-10-09T23:00:00.000Z",
+    "salaryMin": null,
+    "salaryMax": null,
+    "url": "https://www.linkedin.com/jobs/view/product-manager-advanced-detection-remote-at-crowdstrike-4475274274",
+    "source": "LinkedIn",
+    "score": 51,
+    "reasons": [
+      "Positioning fit (platform, network)",
+      "AI signal (AI, ML, RAG)",
+      "Resume fit ~17%",
+      "Remote"
+    ],
+    "fetchedAt": "2026-10-10T16:45:31.996Z"
+  },
+  {
+    "id": "S0pJUFpKSC1uZlJxZmNoQUFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTa3hMYm5aMWRFbGFRVFZqWlhKV2QycFNaWGhhT0dkTmJuTjRjRGgzV2pKSFVGWkhPRFI2TTNsWlIwRm5Uemt3UWtoQldEZDBhM2haUldsaFNYZFJVMHh0Ykhad2NrSlBlV3BHWDJOeVJXTnBRVkoyVDB4clFWbDVSblZhUldwbVkyODJWakUwYkVSQ01UTnlRVkoyYW1aWU5XbE9SbloyWlRremNVTlBNRlI1UXkxRlRWQVNGMjVYZGt0aGRtMUdRMjl4TUdoMlkxQjJZM1ZZT0ZGekdpSkJSSE55T1daVU4yNWxTMUZVWm5kRlozVmxYM0I0ZEdwbVNXRXljMG8wZDFKbg",
+    "fingerprint": "usa principal product manager offsite ads|walmart|-eu9icu",
+    "title": "(USA) Principal, Product Manager - Offsite Ads",
+    "company": "Walmart",
+    "location": "Hoboken, New Jersey",
+    "locations": [
+      "Hoboken, New Jersey"
+    ],
+    "remote": false,
+    "posted": "2026-10-10T04:00:00.000Z",
+    "salaryMin": 132000,
+    "salaryMax": 264000,
+    "url": "https://www.linkedin.com/jobs/view/usa-principal-product-manager-offsite-ads-at-walmart-4475605121",
+    "source": "LinkedIn",
+    "score": 32,
+    "reasons": [
+      "Positioning fit (B2B, enterprise)",
+      "AI signal (AI, ML, RAG)",
+      "Comp disclosed ≥ $175K",
+      "Resume fit ~24%",
+      "Outside target markets"
+    ],
+    "fetchedAt": "2026-10-10T16:45:31.995Z"
+  },
+  {
+    "id": "Z2ZJNFdJVTQ1TnJoaXY0Q0FBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTbTlTUjNkV1VIUldXVFJYVUVWVFRUY3lkRXRDWVZVdFN6ZzFZWFpsZERNME0wSnRNRTVuUTJseFdrVlNjRVF6Y3pKWldsUTFPRkI0WWpnMVMwdHVOekZ5TFRaak9XTk5VVlJTUlVoeVdGcENRMFozYzNSdFdsYzRRbUZtVkhCRlQyTmZVRFJsVTJoSVJGQnhSalJSY0d0U2FsSlFUUzF4YldkdWIwMWpTRVkwUVhKMk0zQVNGMjVYZGt0aGRtMUdRMjl4TUdoMlkxQjJZM1ZZT0ZGekdpSkJSSE55T1daUllUSktSVGRwYzFaeFIwZElTelpsVUhGYVNHOVdXbFZJTnpoUg",
+    "fingerprint": "product manager technical iii external services aws training and certification|amazon web services aws|hdmpf9",
+    "title": "Product Manager, Technical III, External Services, AWS Training and Certification",
+    "company": "Amazon Web Services (AWS)",
+    "location": "Arlington, Virginia",
+    "locations": [
+      "Arlington, Virginia"
+    ],
+    "remote": false,
+    "posted": "2026-10-10T00:00:00.000Z",
+    "salaryMin": null,
+    "salaryMax": null,
+    "url": "https://www.linkedin.com/jobs/view/product-manager-technical-iii-external-services-aws-training-and-certification-at-amazon-web-services-aws-4477893400",
+    "source": "LinkedIn",
+    "score": 86,
+    "reasons": [
+      "Target company (Amazon)",
+      "Positioning fit (platform, operations, network)",
+      "AI signal (AI, machine learning, agent)",
+      "Resume fit ~19%"
+    ],
+    "fetchedAt": "2026-10-10T16:45:31.994Z"
+  },
+  {
+    "id": "aVVCOTNGNFNObDNPdW56ZkFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTVFJrVURCNlQyTXRlbTAwYVRkblZERlpZMWxNVTFsM0xXNU1ibVZLWldScVduRnNhM2hPUVdndGJ6SXliV0ZRTUdGT2FqQXhWR1YzUmpaaVpERjVPRlJZYkRad01WSXpUWGxKTW5JemFWcFZhM1Y1VlVvMVQyMUdjVWMyZFRWMVozcFdObEpXYTNsblNtMXNPVTFpWVdzdE0wVnhSVVZETjNGaFRXNHdVMFpEVWxwc1p6VVNGMjVYZGt0aGRtMUdRMjl4TUdoMlkxQjJZM1ZZT0ZGekdpSkJSSE55T1daVFRqUjVWR3BPWjBwSVdWTlpla2s0Y0U4MlQweFNaVEZGY0dobg",
+    "fingerprint": "lead product manager intellectual property|clarivate|-bh639d",
+    "title": "Lead Product Manager (Intellectual Property)",
+    "company": "Clarivate",
+    "location": "Alexandria, Virginia",
+    "locations": [
+      "Alexandria, Virginia"
+    ],
+    "remote": false,
+    "posted": "2026-10-09T23:00:00.000Z",
+    "salaryMin": null,
+    "salaryMax": null,
+    "url": "https://www.linkedin.com/jobs/view/lead-product-manager-intellectual-property-at-clarivate-4477874975",
+    "source": "LinkedIn",
+    "score": 14,
+    "reasons": [
+      "Positioning fit (platform, enterprise)",
+      "AI signal (AI, RAG)",
+      "Resume fit ~22%",
+      "Outside target markets"
+    ],
+    "fetchedAt": "2026-10-10T16:45:31.992Z"
+  },
+  {
     "id": "dThodm5McjZtYWxwVzJuaUFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBURWhPZG1oMFYwZEhSMnRFUXpSYWFrOUJOVzVrZUdOdWFGTkxWRGhRYVdsQmEwdEJWMVZOTkdkYU5HRjFVM1ZJY2pkME9VTTFjMHBsTW1WMWJtcHlVRTFSVjNkSmFrZzFjWEJEVUZRM1UweHZZemt0YzJReU5FWjNkVUp3ZDJGZlQwZG9VbkExTjNFNVdYcFRURVZ4YW5GWlVWZzVNbGh6TVZkUGRFaElPR0pNV25sVmVXb1NGMUpEYmtwaGIyNVlTR05MYjJoMlkxQnBZV3A0YlVGekdpSkJSSE55T1daVVFqaDNSVzgyUVdSaWEycEJWRXhZU0hSNFpGUklVVU5ZTm1SMw",
     "fingerprint": "senior product manager bioprofile|nova biomedical|zfs57l",
     "title": "Senior Product Manager - Bioprofile",
@@ -4637,273 +4908,5 @@
       "Outside target markets"
     ],
     "fetchedAt": "2026-09-11T15:40:31.691Z"
-  },
-  {
-    "id": "YmluZzo0MjI2NDk1MzYuUmV0cm8",
-    "fingerprint": "senior product manager card issuance and experiences|bill|88d30k",
-    "title": "Senior Product Manager - Card Issuance And Experiences",
-    "company": "BILL",
-    "location": "CA, US",
-    "locations": [
-      "CA, US"
-    ],
-    "remote": false,
-    "posted": "2026-09-10T06:12:09.000Z",
-    "salaryMin": null,
-    "salaryMax": null,
-    "url": "https://www.linkedin.com/jobs/view/senior-product-manager-card-issuance-and-experiences-at-bill-4438562979?trk=bingjobs",
-    "source": "LinkedIn",
-    "score": 30,
-    "reasons": [
-      "Senior/Group title",
-      "Positioning fit (platform, operations, vendor)",
-      "AI signal (AI, RAG)",
-      "Resume fit ~18%",
-      "Outside target markets"
-    ],
-    "fetchedAt": "2026-09-11T15:40:31.690Z"
-  },
-  {
-    "id": "YmluZzotMTA4NzE2MzU2LlJldHJv",
-    "fingerprint": "senior product manager platform magnet one|magnet forensics|atuyhu",
-    "title": "Senior Product Manager, Platform - Magnet One",
-    "company": "Magnet Forensics",
-    "location": "Tampa, Florida",
-    "locations": [
-      "Tampa, Florida"
-    ],
-    "remote": false,
-    "posted": "2026-09-09T18:20:11.000Z",
-    "salaryMin": null,
-    "salaryMax": null,
-    "url": "https://www.linkedin.com/jobs/view/senior-product-manager-platform-magnet-one-at-magnet-forensics-4465362855?trk=bingjobs",
-    "source": "LinkedIn",
-    "score": 39,
-    "reasons": [
-      "Senior/Group title",
-      "Positioning fit (platform, B2B, operations)",
-      "AI signal (AI, LLM, ML)",
-      "Resume fit ~21%",
-      "Outside target markets"
-    ],
-    "fetchedAt": "2026-09-11T15:40:31.689Z"
-  },
-  {
-    "id": "YmluZzotMTIwMTQwNy5SZXRybw",
-    "fingerprint": "sr product manager retirement products|ascensus|-a4der3",
-    "title": "Sr Product Manager, Retirement Products",
-    "company": "Ascensus",
-    "location": "MA, US",
-    "locations": [
-      "MA, US"
-    ],
-    "remote": false,
-    "posted": "2026-09-10T10:03:07.000Z",
-    "salaryMin": null,
-    "salaryMax": null,
-    "url": "https://www.linkedin.com/jobs/view/sr-product-manager-retirement-products-at-ascensus-4456738848?trk=bingjobs",
-    "source": "LinkedIn",
-    "score": 7,
-    "reasons": [
-      "Positioning fit (platform)",
-      "AI signal (AI, RAG)",
-      "Resume fit ~20%",
-      "Outside target markets"
-    ],
-    "fetchedAt": "2026-09-11T15:40:31.687Z"
-  },
-  {
-    "id": "YmluZzoxMjE1ODg2NjA2LlJldHJv",
-    "fingerprint": "senior staff product manager vault|harvey|-tmcrk9",
-    "title": "Senior/Staff Product Manager, Vault",
-    "company": "Harvey",
-    "location": "NY, US",
-    "locations": [
-      "NY, US"
-    ],
-    "remote": false,
-    "posted": "2026-09-10T09:04:26.000Z",
-    "salaryMin": null,
-    "salaryMax": null,
-    "url": "https://www.linkedin.com/jobs/view/senior-staff-product-manager-vault-at-harvey-4436874567?trk=bingjobs",
-    "source": "LinkedIn",
-    "score": 40,
-    "reasons": [
-      "Senior/Group title",
-      "Positioning fit (platform, operations, SaaS)",
-      "AI signal (AI, ML, agent)",
-      "Resume fit ~22%",
-      "Outside target markets"
-    ],
-    "fetchedAt": "2026-09-11T15:40:31.686Z"
-  },
-  {
-    "id": "YmluZzotMjA5NjAzNjk3NC5SZXRybw",
-    "fingerprint": "senior product manager hardware|nrg energy|5qmv5t",
-    "title": "Senior Product Manager, Hardware",
-    "company": "NRG Energy",
-    "location": "WA, US",
-    "locations": [
-      "WA, US"
-    ],
-    "remote": false,
-    "posted": "2026-09-09T18:13:22.000Z",
-    "salaryMin": null,
-    "salaryMax": null,
-    "url": "https://www.linkedin.com/jobs/view/senior-product-manager-hardware-at-nrg-energy-4430272004?trk=bingjobs",
-    "source": "LinkedIn",
-    "score": 29,
-    "reasons": [
-      "Senior/Group title",
-      "Positioning fit (platform)",
-      "AI signal (AI, ML, RAG)",
-      "Resume fit ~22%",
-      "Outside target markets"
-    ],
-    "fetchedAt": "2026-09-11T15:40:31.684Z"
-  },
-  {
-    "id": "YmluZzoxMjI0Njk3NTE0LlJldHJv",
-    "fingerprint": "product manager|sidi gaber language school for boys|-pha05l",
-    "title": "Product Manager",
-    "company": "Sidi Gaber Language School for Boys",
-    "location": "CA, US",
-    "locations": [
-      "CA, US"
-    ],
-    "remote": false,
-    "posted": "2026-09-09T15:40:42.000Z",
-    "salaryMin": null,
-    "salaryMax": null,
-    "url": "https://www.linkedin.com/jobs/view/product-manager-at-sidi-gaber-language-school-for-boys-4463076474?trk=bingjobs",
-    "source": "LinkedIn",
-    "score": -3,
-    "reasons": [
-      "Positioning fit (platform)",
-      "AI signal (AI)",
-      "Resume fit ~15%",
-      "Outside target markets"
-    ],
-    "fetchedAt": "2026-09-11T15:40:31.682Z"
-  },
-  {
-    "id": "YmluZzoxMDQyODY3Njc5LlJldHJv",
-    "fingerprint": "staff product manager ecosystem health|grindr|qepnpm",
-    "title": "Staff Product Manager, Ecosystem Health",
-    "company": "Grindr",
-    "location": "NY, US",
-    "locations": [
-      "NY, US"
-    ],
-    "remote": false,
-    "posted": "2026-09-09T19:53:30.000Z",
-    "salaryMin": null,
-    "salaryMax": null,
-    "url": "https://www.linkedin.com/jobs/view/staff-product-manager-ecosystem-health-at-grindr-4465392379?trk=bingjobs",
-    "source": "LinkedIn",
-    "score": 27,
-    "reasons": [
-      "Positioning fit (marketplace, platform, operations)",
-      "AI signal (AI, machine learning, ML)",
-      "Resume fit ~25%",
-      "Outside target markets"
-    ],
-    "fetchedAt": "2026-09-11T15:40:31.681Z"
-  },
-  {
-    "id": "YmluZzoyMTQ1NDM4NTE2LlJldHJv",
-    "fingerprint": "product manager|growy|-enq35o",
-    "title": "Product Manager",
-    "company": "Growy",
-    "location": "NY, US +1 more",
-    "locations": [
-      "NY, US",
-      "NJ, US"
-    ],
-    "remote": false,
-    "posted": "2026-09-09T15:50:33.000Z",
-    "salaryMin": null,
-    "salaryMax": null,
-    "url": "https://www.linkedin.com/jobs/view/product-manager-at-growx-4464135453?trk=bingjobs",
-    "source": "LinkedIn",
-    "score": 19,
-    "reasons": [
-      "Positioning fit (platform, vendor, enterprise)",
-      "AI signal (AI, LLM)",
-      "Resume fit ~22%",
-      "Outside target markets"
-    ],
-    "fetchedAt": "2026-09-11T15:40:31.681Z"
-  },
-  {
-    "id": "YmluZzo1MzU0OTcyNDAuUmV0cm8",
-    "fingerprint": "product manager technology solutions|dentsu|-jr39vj",
-    "title": "Product Manager, Technology Solutions",
-    "company": "dentsu",
-    "location": "NY, US",
-    "locations": [
-      "NY, US"
-    ],
-    "remote": false,
-    "posted": "2026-09-10T09:51:08.000Z",
-    "salaryMin": null,
-    "salaryMax": null,
-    "url": "https://www.linkedin.com/jobs/view/product-manager-technology-solutions-at-dentsu-4461341932?trk=bingjobs",
-    "source": "LinkedIn",
-    "score": -4,
-    "reasons": [
-      "AI signal (AI, RAG)",
-      "Resume fit ~14%",
-      "Outside target markets"
-    ],
-    "fetchedAt": "2026-09-11T15:40:31.679Z"
-  },
-  {
-    "id": "YmluZzotNDUzNDcyMTEuUmV0cm8",
-    "fingerprint": "product manager|market research reports inc|20pcvk",
-    "title": "Product Manager",
-    "company": "Market Research Reports Inc.",
-    "location": "CA, US",
-    "locations": [
-      "CA, US"
-    ],
-    "remote": false,
-    "posted": "2026-09-09T15:42:51.000Z",
-    "salaryMin": null,
-    "salaryMax": null,
-    "url": "https://www.linkedin.com/jobs/view/product-manager-at-market-research-reports-4464131482?trk=bingjobs",
-    "source": "LinkedIn",
-    "score": 7,
-    "reasons": [
-      "Positioning fit (B2B, enterprise)",
-      "AI signal (AI)",
-      "Resume fit ~19%",
-      "Outside target markets"
-    ],
-    "fetchedAt": "2026-09-11T15:40:31.678Z"
-  },
-  {
-    "id": "YmluZzotMjk5OTEzNzI1LlJldHJv",
-    "fingerprint": "product manager|realself|xqcajo",
-    "title": "Product Manager",
-    "company": "RealSelf",
-    "location": "NY, US",
-    "locations": [
-      "NY, US"
-    ],
-    "remote": false,
-    "posted": "2026-09-09T16:40:01.000Z",
-    "salaryMin": null,
-    "salaryMax": null,
-    "url": "https://www.linkedin.com/jobs/view/product-manager-at-realself-4465364188?trk=bingjobs",
-    "source": "LinkedIn",
-    "score": 15,
-    "reasons": [
-      "Positioning fit (marketplace, platform, B2B)",
-      "AI signal (AI, RAG)",
-      "Resume fit ~17%",
-      "Outside target markets"
-    ],
-    "fetchedAt": "2026-09-11T15:40:31.677Z"
   }
 ]
