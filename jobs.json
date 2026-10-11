@@ -1,5 +1,54 @@
 [
   {
+    "id": "VnZiMW1jMWdlUHEtY2JPdkFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTWEJTU1dsc1ptbFdRbkZOYXpVdFNrdG1kRTlCZHpCTVlsVXpkMTh6WDFvd2JXYzJabDl4TVZCblVVUlRTVkV3ZFdwc1kyeE5XV3BoYjJSR2FqSnNkR0ZvYjIxclNUVlFiVUZZTkMxSlptYzRZelkyY0V4R2JWcG5Xbk5OYlRNMGIxTlVhVEJwYTFVMVkyWlJRa1pSY0Vrd2VYVkJURmd6YURORmEyUjFYMnhIYkVSMU5VNFNGMFZ6VUV4aGIzcGhTR0pQVm1oMlkxQjZjbFI0T0VGakdpSkJSSE55T1daU1IzVlZNMlExVTNSb1ExRnllVWxaUTBOc09IWkpkV1poZVV4Qg",
+    "fingerprint": "senior product manager recommendations and personalization|best buy|-24wmjd",
+    "title": "Senior Product Manager - Recommendations and Personalization",
+    "company": "Best Buy",
+    "location": "US",
+    "locations": [
+      "US"
+    ],
+    "remote": false,
+    "posted": "2026-10-11T01:00:00.000Z",
+    "salaryMin": null,
+    "salaryMax": null,
+    "url": "https://www.linkedin.com/jobs/view/senior-product-manager-recommendations-and-personalization-at-best-buy-4477241527",
+    "source": "LinkedIn",
+    "score": 16,
+    "reasons": [
+      "Senior/Group title",
+      "Positioning fit (enterprise)",
+      "AI signal (AI)",
+      "Resume fit ~18%",
+      "Outside target markets"
+    ],
+    "fetchedAt": "2026-10-11T17:11:02.546Z"
+  },
+  {
+    "id": "cWs3UXJRVUp4a21tQ19jUkFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTbVpxYkdaelRYaFVZMVJGYm5VeE9VSXpWalZUVEZOWmNYcGpSa2xwVkUxVVNVMVNka3BEZEROVFdWWnhlaTF3TUU5Rk1VUlRhekpNT1Rjd1NGQnBOemxzYkdvd1dHOHRjV015YzFOemRISm1hM3AwWmtOdVRVZGxNRUZsUlVSNVgxZHhiR1U0UzFodmRtbzVkRVV5UkRGak1uVkhMWFYxTFRSZlIwTXRUMHROUldGNWJUY1NGMFZ6VUV4aGIzcGhTR0pQVm1oMlkxQjZjbFI0T0VGakdpSkJSSE55T1daUmNFTTRXVEZmTldnNE1FVmtVa3hLTW0xTE4zVnRhRWhhYm5Sbg",
+    "fingerprint": "principal product manager enterprise ai|procore technologies|v6e1rx",
+    "title": "Principal Product Manager, Enterprise AI",
+    "company": "Procore Technologies",
+    "location": "Austin, Texas",
+    "locations": [
+      "Austin, Texas"
+    ],
+    "remote": false,
+    "posted": "2026-10-11T04:00:00.000Z",
+    "salaryMin": null,
+    "salaryMax": null,
+    "url": "https://www.linkedin.com/jobs/view/principal-product-manager-enterprise-ai-at-procore-technologies-4478090586",
+    "source": "LinkedIn",
+    "score": 50,
+    "reasons": [
+      "Positioning fit (platform, vendor, enterprise)",
+      "AI signal (AI, LLM, agent)",
+      "Resume fit ~17%",
+      "Visibility location"
+    ],
+    "fetchedAt": "2026-10-11T17:11:02.545Z"
+  },
+  {
     "id": "Tk5oR2ZXQzF4RnpQX1ZoV0FBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBURkU1TWpkbGNYSnlTRlp4UkhWc1RFZG9OVkZEZEZSV2RYVnROV28zZUV0SVRFcDZaVVJhZEUxU1dqZEZaSEJwZGpaM1VTMDFabkJGWXpGdFQycExURE5TV0VOdU9EZzNjVXhCY0VabU5XVTJWRXhOVW5oV1gxVTBjVXc1Y0VOd2RIUmlkblpGU2xVNVl6WnJhM1ZaTVRabWQxVkdSWGxQU3pKaWRqRlFObmRKVUVkelEza1NGM0ZIZGt0aGNFeDFUblJtU0d0UVNWQjRaVXRJZFZFNEdpSkJSSE55T1daUlZXRXRiRGc1Y0ZGaVZVRnNkRnBSYjFKRWMxTnZSMDFNVEhkQg",
     "fingerprint": "lead product manager|entegris|9egqu7",
     "title": "Lead, Product Manager",
@@ -4859,54 +4908,5 @@
       "Outside target markets"
     ],
     "fetchedAt": "2026-09-15T16:02:31.305Z"
-  },
-  {
-    "id": "YmluZzoyNTAxNjc3MTEuUmV0cm8",
-    "fingerprint": "sr product manager|the home depot|-v3hw5n",
-    "title": "SR PRODUCT MANAGER",
-    "company": "The Home Depot",
-    "location": "Atlanta, Georgia",
-    "locations": [
-      "Atlanta, Georgia"
-    ],
-    "remote": false,
-    "posted": "2026-09-11T03:17:32.000Z",
-    "salaryMin": null,
-    "salaryMax": null,
-    "url": "https://www.linkedin.com/jobs/view/sr-product-manager-at-the-home-depot-4464580082?trk=bingjobs",
-    "source": "LinkedIn",
-    "score": 11,
-    "reasons": [
-      "Positioning fit (marketplace, enterprise)",
-      "AI signal (AI)",
-      "Resume fit ~23%",
-      "Outside target markets"
-    ],
-    "fetchedAt": "2026-09-12T14:47:23.363Z"
-  },
-  {
-    "id": "YmluZzoxNDgzNDMwNzQyLlJldHJv",
-    "fingerprint": "senior product manager data analytics platform|intermedia intelligent communications|-1o00n9",
-    "title": "Senior Product Manager - Data & Analytics Platform",
-    "company": "Intermedia Intelligent Communications",
-    "location": "CA, US",
-    "locations": [
-      "CA, US"
-    ],
-    "remote": false,
-    "posted": "2026-09-10T08:59:18.000Z",
-    "salaryMin": null,
-    "salaryMax": null,
-    "url": "https://www.linkedin.com/jobs/view/senior-product-manager-data-analytics-platform-at-intermedia-intelligent-communications-4463907019?trk=bingjobs",
-    "source": "LinkedIn",
-    "score": 48,
-    "reasons": [
-      "Senior/Group title",
-      "Positioning fit (platform, B2B, SaaS)",
-      "AI signal (AI, ML, agent)",
-      "Resume fit ~30%",
-      "Outside target markets"
-    ],
-    "fetchedAt": "2026-09-11T15:40:31.691Z"
   }
 ]
