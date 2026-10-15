@@ -1,5 +1,227 @@
 [
   {
+    "id": "MXBTUzdSU0JQcVlzSlNNckFBQUFBQT09OkVzc0JDb3dCUVVwcFZEUjBTVmh3UWxCU2JFNWlRMFpOZFRWUFRrbG9kRXB3YWxod2RYZGZMWGxHUXpGZlp6TkdNMjVMYUZVeFZYSk9XVlEzYUU5T2MzcEJMVTlXTURoRFdEQlBORTVxTUhSMFFYTkdTRk5VVVdoSGVYVk1Xa0ZyV1dOdE1HVTNlVUZ4VURGU05FOHpXVkI0VlVKQk1YSjBkRXgxWTJOR2VFdGlORGhyVW5kaGEzQm5UR05HYkdKcFRub1NGa0pRY2xGaGRsTlZRMjlpVnpCUVJWQTVObWw2U1ZFYUlrRkVjM0k1WmxFemEyUnFNbmR6Vmtkak9XdFZNUzFNV1ZRd1VYRkxTM05mVGxF",
+    "fingerprint": "product manager water treatment|chart industries inc|4fkx6k",
+    "title": "Product Manager-Water Treatment",
+    "company": "Chart Industries, Inc.",
+    "location": "Brentwood, New Hampshire",
+    "locations": [
+      "Brentwood, New Hampshire"
+    ],
+    "remote": false,
+    "posted": "2026-10-15T06:00:00.000Z",
+    "salaryMin": null,
+    "salaryMax": null,
+    "url": "https://www.linkedin.com/jobs/view/product-manager-water-treatment-at-chart-industries-inc-4477055449",
+    "source": "LinkedIn",
+    "score": 0,
+    "reasons": [
+      "Positioning fit (operations)",
+      "AI signal (AI, RAG)",
+      "Resume fit ~13%",
+      "Outside target markets"
+    ],
+    "fetchedAt": "2026-10-15T16:06:31.110Z"
+  },
+  {
+    "id": "R1ZJY3l4WV9pc19CRTJKRUFBQUFBQT09OkVzc0JDb3dCUVVwcFZEUjBTMmR6VXpKV1RWZzRURVJmYlhwU1pVdG5NazlpZDNkbmMzSkZVVkphYTJwVGIyRktRMVkzYkZkYVRXbDRkbkZPUVhaQmQzVXdheTFyTVdKSFNVdGFlR2RXYkVvNVRHUnplbE5FYWpSTFUzSmxiMVo1WlhSTGJVcFBWR1pJVUZveVYwcElNWEJ5TldWRVgyZExZMnhaV1VSRlVsZFRNMlZFU2tKemMzaG9lR3RVUmxSRU9TMFNGa0pRY2xGaGRsTlZRMjlpVnpCUVJWQTVObWw2U1ZFYUlrRkVjM0k1WmxKMlYxWk1SMnhDYkRCc1RYUmxSVjlyVG1OdVFrOXZXbGd4TFZF",
+    "fingerprint": "product manager outdoor living solutions|continental industry|-5jig0",
+    "title": "Product Manager - Outdoor Living Solutions",
+    "company": "Continental Industry",
+    "location": "Winchester, Virginia",
+    "locations": [
+      "Winchester, Virginia"
+    ],
+    "remote": false,
+    "posted": "2026-10-14T20:00:00.000Z",
+    "salaryMin": null,
+    "salaryMax": null,
+    "url": "https://www.linkedin.com/jobs/view/product-manager-outdoor-living-solutions-at-continental-industry-4478489740",
+    "source": "LinkedIn",
+    "score": 0,
+    "reasons": [
+      "Positioning fit (operations)",
+      "AI signal (AI)",
+      "Resume fit ~18%",
+      "Outside target markets"
+    ],
+    "fetchedAt": "2026-10-15T16:06:31.109Z"
+  },
+  {
+    "id": "RXFFUjNtNWZsOE5OajYxQUFBQUFBQT09OkVzc0JDb3dCUVVwcFZEUjBTMWRCY1ZnM1lXMWtXR3h3WDFwR01VdEtSVFYwVG5kS01sbHVXRW8wWkZWd2RHd3pOa3hHZUhOck1VaE1ZMlZqYzFoVVdsOTVNVTVrZG1JNVQwMWxXa1kyWTJwS09XNVRWbDlvTmtwU1dGUTVXa3RwTURCWGFVZEpPRjkwTTJ4VVUwUjNURzAxVGtKeGNVMWlTRFpPVEZsa04xYzJlRFJLYTFCMU5Xb3lZa2N3UzNKTWRXVVNGa0pRY2xGaGRsTlZRMjlpVnpCUVJWQTVObWw2U1ZFYUlrRkVjM0k1WmxKYVdrNVJVR05vVTAxUmJVTTNaSEJFYkRsRVZGTklVemRuWmxF",
+    "fingerprint": "group product manager wearables platform wear os|google|-ylbp62",
+    "title": "Group Product Manager, Wearables Platform, Wear OS",
+    "company": "Google",
+    "location": "Mountain View, California",
+    "locations": [
+      "Mountain View, California"
+    ],
+    "remote": false,
+    "posted": "2026-10-15T12:00:00.000Z",
+    "salaryMin": null,
+    "salaryMax": null,
+    "url": "https://www.linkedin.com/jobs/view/group-product-manager-wearables-platform-wear-os-at-google-4478859713",
+    "source": "LinkedIn",
+    "score": 104,
+    "reasons": [
+      "Target company (Google)",
+      "Senior/Group title",
+      "Positioning fit (platform)",
+      "AI signal (AI, ML, agent)",
+      "Resume fit ~19%",
+      "Priority location (Chicago/Bay Area)"
+    ],
+    "fetchedAt": "2026-10-15T16:06:31.108Z"
+  },
+  {
+    "id": "TUpzQTJpUTVnYW1KWUNBN0FBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTa2xFTmtGT2VEVlFhR1o2UWs5c1h6RlJibE5ZUTFKME5FMVZXazV4YzNGa1NHNVNhMUZsT1ZKSGNYRlJTVTlwUkMxWGNDMXJUVFYxTW1WR04yUldUa3hSWmpCaFdrVXliMjh5U3pSdlFrZEtVVEJFTm1kaFJqWlRTVEZoVEc1c1QxRllVbGRHUjJWdlVFYzVTR1JIVlVVek5rcHFaRmhxVFZvNFMwZFZXR3RSVTNaNFdra1NGMTlmYmxGaGMwOW5UbkZ4Vm1oMlkxQjZPREphZDBGckdpSkJSSE55T1daVFpsTjNiRFF5VEdOdFQyOXpTa1IwVlVsWGJXWk5lRE5DYjBsMw",
+    "fingerprint": "senior principal product manager infusion|inovalon|wmbb2g",
+    "title": "Senior Principal Product Manager - Infusion",
+    "company": "Inovalon",
+    "location": "Not specified",
+    "locations": [
+      "Not specified"
+    ],
+    "remote": true,
+    "posted": "2026-10-14T19:00:00.000Z",
+    "salaryMin": null,
+    "salaryMax": null,
+    "url": "https://www.linkedin.com/jobs/view/senior-principal-product-manager-infusion-at-inovalon-4479572910",
+    "source": "LinkedIn",
+    "score": 60,
+    "reasons": [
+      "Senior/Group title",
+      "Positioning fit (operations)",
+      "AI signal (AI, RAG)",
+      "Resume fit ~20%",
+      "Remote"
+    ],
+    "fetchedAt": "2026-10-15T16:06:31.106Z"
+  },
+  {
+    "id": "S19nakdycW9yVHV3dDBLd0FBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTVTVUVXpSdFFqSnlUM2xsU1dkaGNtSnlWWFpEZDBwWVRGQjFjSE55TkhjelVFaGhRMkZQTTFod2MyaGpSalY0UmpFd2NtWlRZMWRSYlVJemF5MU9iM1ZJVDE4MFZFMXlTRVl0Y1U5MGNIQnBkVkp2WjJkSk5HUllZbFpHYVU5VU9XZDZOMlZXVVhOU2QxVmZaV1JETkhoelRGRm1ZWEZsTFZnM1JUSm9TMEkzWTBSSVVYY1NGemwyYmxGaGRGY3lUWFl6UWpRdFJWQmZUVVJrYVVGbkdpSkJSSE55T1daUlozQTFTRWRTVFZaSWFqTTVUMms1VlVOcU5FMWlRMkprZFhwUg",
+    "fingerprint": "product manager orchestration platform|f lix|-yew925",
+    "title": "Product Manager, Orchestration Platform",
+    "company": "Félix",
+    "location": "Not specified",
+    "locations": [
+      "Not specified"
+    ],
+    "remote": true,
+    "posted": "2026-10-15T02:00:00.000Z",
+    "salaryMin": null,
+    "salaryMax": null,
+    "url": "https://www.linkedin.com/jobs/view/product-manager-orchestration-platform-at-f%C3%A9lix-4478833159",
+    "source": "LinkedIn",
+    "score": 56,
+    "reasons": [
+      "Positioning fit (platform, operations)",
+      "AI signal (AI, RAG)",
+      "Resume fit ~26%",
+      "Remote"
+    ],
+    "fetchedAt": "2026-10-15T16:06:31.105Z"
+  },
+  {
+    "id": "TnFNSWtqN1pLckVJckZNeUFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTWGxQTm1weFp6ZFphREJrWkdrMmVWTm1VVzlQWmxsUFowa3RNakJETjBWMGVFNU5kR2xCTWxOSGNIUkdMVWhaTkRWQ1IxZ3lSM0pUWkZBNWVqZG1VMDlhWVRBNFpFbHlSM0k1UkhndGVrRnlRMkZxTkdaM2NGSTVUWE51TFdJMmMwWTNSWGxGTkdsaFJEbHNWR1J3U0hWMGJXVnlhM2RYYlZCdWNrZFBWbnB3UjBnNFYzRVNGemwyYmxGaGRGY3lUWFl6UWpRdFJWQmZUVVJrYVVGbkdpSkJSSE55T1daVGNFcG9SVjl5ZHpoWWFHdGxZV2hEU0RWbVoxSm1aRGhMYzNCMw",
+    "fingerprint": "usa senior product manager|walmart|-4pwn28",
+    "title": "(USA) Senior Product Manager",
+    "company": "Walmart",
+    "location": "McCordsville, Indiana",
+    "locations": [
+      "McCordsville, Indiana"
+    ],
+    "remote": false,
+    "posted": "2026-10-15T04:00:00.000Z",
+    "salaryMin": 90000,
+    "salaryMax": 180000,
+    "url": "https://www.linkedin.com/jobs/view/usa-senior-product-manager-at-walmart-4477036871",
+    "source": "LinkedIn",
+    "score": 55,
+    "reasons": [
+      "Senior/Group title",
+      "Positioning fit (B2B, operations, vendor)",
+      "AI signal (AI, LLM, ML)",
+      "Comp disclosed ≥ $175K",
+      "Resume fit ~28%",
+      "Outside target markets"
+    ],
+    "fetchedAt": "2026-10-15T16:06:31.103Z"
+  },
+  {
+    "id": "aERCTVlhaXhzX3NyczItb0FBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTVWw1V1ZCTFUwTldVMVpNVGtVNWJVZGFRMFpyV1cxV2VITlpNblV4TjJadVJEVTJSblZoWVRWVlh6aFZkVEpLUkd4ZmFEZzBSamsyUTIxUFUyeHNZMjF6Wkhsc2F5MW5UVGxvY0VGcFZITlVaM0E0Y0RaV1JGb3pUM0ZtWmpOclZWOTNRakZEUVMxQlQwVlZUM2hvWWtzNVpVbFlOMGg2UldaR1FUTkhSa2h1WTA4MlQwc1NGemwyYmxGaGRGY3lUWFl6UWpRdFJWQmZUVVJrYVVGbkdpSkJSSE55T1daVE9FMU1abWc0YVcweE16TnhibFoyZWpOeGFrcExObGhrWjFobg",
+    "fingerprint": "senior product manager ai enablement analytics capital one shopping remote eligible|capital one|-e7yzab",
+    "title": "Senior Product Manager, AI Enablement - Analytics: Capital One Shopping (Remote-Eligible)",
+    "company": "Capital One",
+    "location": "McLean, Virginia",
+    "locations": [
+      "McLean, Virginia"
+    ],
+    "remote": false,
+    "posted": "2026-10-14T20:00:00.000Z",
+    "salaryMin": null,
+    "salaryMax": null,
+    "url": "https://www.linkedin.com/jobs/view/senior-product-manager-ai-enablement-analytics-capital-one-shopping-remote-eligible-at-capital-one-4479585550",
+    "source": "LinkedIn",
+    "score": 50,
+    "reasons": [
+      "Senior/Group title",
+      "Positioning fit (platform, operations, enterprise)",
+      "AI signal (AI, ML, agent)",
+      "Resume fit ~32%",
+      "Outside target markets"
+    ],
+    "fetchedAt": "2026-10-15T16:06:31.102Z"
+  },
+  {
+    "id": "Z2Y1dU1mc3lROEE0UGFyUUFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTV05WYTNoQ1VqSndRakJvU0d4eU56WnNRVTB0TFRkbVdtbGxlRkU1Tm5odWVUbENMVEJPWWpkUFRrY3hlbUZqVjBKUlpGOVllVkZHU0ZkVFNrSmhTR0U0Um1oblVVTnlOM1JsTkZVMWVWUXdhRWxNU1hsTE5rVnBXVXhmUlhWMU1GbERZbTVwTnpGaVpUWlFWelF3Y3psdlJYbG5UMjFhTmxZM2MwbFNSVmhqZGpnMFJuUVNGemwyYmxGaGRGY3lUWFl6UWpRdFJWQmZUVVJrYVVGbkdpSkJSSE55T1daVE5EQnhXbUpZZWpkS1dUTXRUVUk1VkZocWRGVTVRWEoxYzNkMw",
+    "fingerprint": "product manager|accenture federal services|2j8bep",
+    "title": "Product Manager",
+    "company": "Accenture Federal Services",
+    "location": "Springfield, Virginia",
+    "locations": [
+      "Springfield, Virginia"
+    ],
+    "remote": false,
+    "posted": "2026-10-14T22:00:00.000Z",
+    "salaryMin": null,
+    "salaryMax": null,
+    "url": "https://www.linkedin.com/jobs/view/product-manager-at-accenture-federal-services-4479707559",
+    "source": "LinkedIn",
+    "score": -6,
+    "reasons": [
+      "Positioning fit (platform)",
+      "AI signal (AI)",
+      "Resume fit ~12%",
+      "Outside target markets"
+    ],
+    "fetchedAt": "2026-10-15T16:06:31.101Z"
+  },
+  {
+    "id": "U1VhbEJTSXhuSlZZVFB4cEFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBUR2hvV1ZwcFVrczNObEJzT0Vkd05GaElZa0ozTkZoVUxVc3dSMFZ1VEVobmRTMWpNRTVpZURSMFVYUTVNekJpTkdkTWVWSkZhMlU0T0ZwcE5VWlJhbWhyZUUwNE9FMVNibk5GYTE5cWVtNHljMkpKTjIxVldESXpZemN3WlVoSVpGVmxOVmQ2U2tKU05XNXNVVFpzVFV0dVJIZHBia3hFWTB0elozRktaR2hETFZnNWRWTVNGemwyYmxGaGRGY3lUWFl6UWpRdFJWQmZUVVJrYVVGbkdpSkJSSE55T1daUmNHcE9UWFY2Um5BeE5VNWxkelpVVm0xNVVrVlZaVFI0ZW1wMw",
+    "fingerprint": "product manager partnerships|capital one|nx0lrh",
+    "title": "Product Manager - Partnerships",
+    "company": "Capital One",
+    "location": "McLean, Virginia",
+    "locations": [
+      "McLean, Virginia"
+    ],
+    "remote": false,
+    "posted": "2026-10-14T20:00:00.000Z",
+    "salaryMin": null,
+    "salaryMax": null,
+    "url": "https://www.linkedin.com/jobs/view/product-manager-partnerships-at-capital-one-4479701036",
+    "source": "LinkedIn",
+    "score": 22,
+    "reasons": [
+      "Positioning fit (operations)",
+      "AI signal (AI, ML, RAG)",
+      "Resume fit ~29%",
+      "Outside target markets"
+    ],
+    "fetchedAt": "2026-10-15T16:06:31.099Z"
+  },
+  {
     "id": "dFhHQ1diZjVBVjd5N2pwTUFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTek5UY201SVJtcFBWSFZKTW10S2JXNUhlVWQwWWkxRWJtTk1Sbmh6VEdOV09YcG1hV000YzBaMWRFNDVjMnhvVnpodGIyWkdTRTlNYTJoWlVFVTVZM3BKY0RKemRUaEZjRko2U3pOSFpWOU9lRzVLU2pnMGRXMVZOMjV5WVRjeVZrcHZVakJvVWpsa2JqRmhOVXBRUmxNeVFVcGpRbEp4VURSNlZEWmpXSEUxWkRneVEyZ1NGMVZoZGxCaGRHcG9TVFpZYlRGbE9GQnhkVWRuYjBGWkdpSkJSSE55T1daU2RrNUNWV2hDVkVOS00wOXFXV2N5VjBKc1pqWnFUemxEY1Zabg",
     "fingerprint": "founding product manager us|voize|ak9sxk",
     "title": "Founding Product Manager - US",
@@ -4687,223 +4909,5 @@
       "Outside target markets"
     ],
     "fetchedAt": "2026-09-18T15:36:11.294Z"
-  },
-  {
-    "id": "UExuc3V5bXg5ZmY1M01xYkFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBURFk0TlROalp6TktOR1ZwUkdkRGNISnRTV1JPVUhkSlluTTBURTR3ZERacFlrZ3lVVVo1UzNod09HdFhjVE40WTJKb1oydzFVMWhxUW1kcVJsbHdSelY0VkdKMU5rMVBNMEkxV2xsSlNEQkZNV3BrZUY5bE1HUnFZM2hQVTBKRlkxOUhORkpJTUY4NWJra3RTSFU1YTBGaU5VUnBVVXBSYTFSSGRuRnRjSE01WTJ0V1YwNFNGMWhXY1hSaGMwTkdTMkpQY1hoak9GQjJkRmR2YVZGSkdpSkJSSE55T1daU1pHVnhhVnBsY0RoelEycFNRMGd0YlU0MVUyb3dXbWxyV1hSQg",
-    "fingerprint": "product manager payment integrity|zelis|-95nmrj",
-    "title": "Product Manager, Payment Integrity",
-    "company": "Zelis",
-    "location": "Morristown, New Jersey",
-    "locations": [
-      "Morristown, New Jersey"
-    ],
-    "remote": false,
-    "posted": "2026-09-17T23:00:00.000Z",
-    "salaryMin": null,
-    "salaryMax": null,
-    "url": "https://www.linkedin.com/jobs/view/product-manager-payment-integrity-at-zelis-4466630325",
-    "source": "LinkedIn",
-    "score": 29,
-    "reasons": [
-      "Positioning fit (platform, operations, vendor)",
-      "AI signal (AI, machine learning, RAG)",
-      "Resume fit ~26%",
-      "Outside target markets"
-    ],
-    "fetchedAt": "2026-09-18T15:36:11.293Z"
-  },
-  {
-    "id": "dWs5cFFLN2xScmxhM3E2TEFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTVEZDZVZjdFJHeE1hMFJRY201NFZXbHZYMlpuWkUxdmVVeEJibEF3VkRBMGNGZERUamRyTTJwb1QzWjVXamcyU0VZNWMybElaR3MyVms4eWQwZFZNVzFWWTA1bGNVaHViWGRqYTA0dExUWjFkV1IzT1hwWFlYZzJSaTF5T1c5T1preEpNMmx1ZDI1eWFFUlRlVkYxVjNsRE5sY3RTV2hQVG1RekxWaGhlbXRJT0Mxb09UWVNGMWhXY1hSaGMwTkdTMkpQY1hoak9GQjJkRmR2YVZGSkdpSkJSSE55T1daVU4yOTBkRGxIWnpsbVMzWktValF5Y2s1blJrOTVhVGRRTWtWUg",
-    "fingerprint": "principal product manager technical performance demand tech products|amazon|-hunju8",
-    "title": "Principal Product Manager- Technical - Performance, Demand Tech Products",
-    "company": "Amazon",
-    "location": "New York, New York",
-    "locations": [
-      "New York, New York"
-    ],
-    "remote": false,
-    "posted": "2026-09-17T23:00:00.000Z",
-    "salaryMin": null,
-    "salaryMax": null,
-    "url": "https://www.linkedin.com/jobs/view/principal-product-manager-technical-performance-demand-tech-products-at-amazon-4468838886",
-    "source": "LinkedIn",
-    "score": 76,
-    "reasons": [
-      "Target company (Amazon)",
-      "AI signal (AI, ML, agent)",
-      "Resume fit ~18%",
-      "Visibility location"
-    ],
-    "fetchedAt": "2026-09-18T15:36:11.291Z"
-  },
-  {
-    "id": "eU1UUzA5azhwXzFKQktHakFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBUR3BmYld0c2QzZG9ZMncxUkY5V1ZXWTFOSFpRYkVwTFozTlpXVEJTZDFOVWJHSmtNbXBKUzFaa2QyeFFlbEJHTmtOT1ZFOWxORVZOZUd0WWNUWmpSSEZWTm5abVFqTlVaV3QzZDNGbVMzbDZjbXBSYWpsT1dscElUSFZRTlVvelpXSXRabkF6TWxkQ1FsRlFka0ZqZG5aMFV6UlJSbVkzVkdZMmNFZFJZemR3VkZwTk9ISVNGMWhXY1hSaGMwTkdTMkpQY1hoak9GQjJkRmR2YVZGSkdpSkJSSE55T1daVE9UaFJOemcxZGtWRGVITkVPVEpWZWt4NGMxTkVkVm81YkhGQg",
-    "fingerprint": "staff product manager platform|verily health|99eal5",
-    "title": "Staff Product Manager, Platform",
-    "company": "Verily Health",
-    "location": "Boston, Massachusetts",
-    "locations": [
-      "Boston, Massachusetts"
-    ],
-    "remote": false,
-    "posted": "2026-09-18T04:00:00.000Z",
-    "salaryMin": null,
-    "salaryMax": null,
-    "url": "https://www.linkedin.com/jobs/view/staff-product-manager-platform-at-verily-health-4469103286",
-    "source": "LinkedIn",
-    "score": 17,
-    "reasons": [
-      "Positioning fit (platform, operations)",
-      "AI signal (AI, ML)",
-      "Resume fit ~25%",
-      "Outside target markets"
-    ],
-    "fetchedAt": "2026-09-18T15:36:11.290Z"
-  },
-  {
-    "id": "S2U0c1g1OHkxMl9IUTZXOEFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTalZyYlZkdlIzZFJiSG96UkY5TFlVRXRkMjFVUzJzMk4waEVURFJSWm1WQldVaElUMVZWYTFFMGNuYzJjalYyTURneFFreE1NV05oY0ZsRExXeHBTRjlYVjJobVowbFhTazlOYVVsdWVEWnFjWFoxWVV4alFVWnhiRFZyTFhoVlRIbDFTbmRtZUdKNllVMUVXWG93ZWxWNlJYZHJaVkJtYkhZNVZsSlViWEZQWDJSSGIwZ1NGMWhXY1hSaGMwTkdTMkpQY1hoak9GQjJkRmR2YVZGSkdpSkJSSE55T1daVWREQm1hR0ZRWlhsWGFVY3pkMk10VjNobGVtRXhkVkZKVTNGQg",
-    "fingerprint": "ai product manager|hewlett packard enterprise|-u8ffn9",
-    "title": "AI Product Manager",
-    "company": "Hewlett Packard Enterprise",
-    "location": "Boynton, Georgia +1 more",
-    "locations": [
-      "Boynton, Georgia",
-      "Oak Grove, North Carolina"
-    ],
-    "remote": false,
-    "posted": "2026-09-17T22:00:00.000Z",
-    "salaryMin": null,
-    "salaryMax": null,
-    "url": "https://www.linkedin.com/jobs/view/ai-product-manager-at-hewlett-packard-enterprise-4468822753",
-    "source": "LinkedIn",
-    "score": 18,
-    "reasons": [
-      "Positioning fit (platform, vendor, network)",
-      "AI signal (AI, LLM, ML)",
-      "Resume fit ~16%",
-      "Outside target markets"
-    ],
-    "fetchedAt": "2026-09-18T15:36:11.289Z"
-  },
-  {
-    "id": "QzdBU2diRnB1cDVpbW93RUFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBURmxKU1dOUlFXOHlUVkZ6YjNjemNWRnhZMlJUVDFwTE1XaEtNVlpoV0hwc2JrRXRjRmgyY1VGcldGbHJZWFZMVms1bmJVZEhVV0ZHVVdJNVMxZzFVR1F4VmpOdExVaGtPVk5pTmxkM1dsRXhaREpOTVZGbFRYSkphV3hUUkhoWFdtRlVSMWhNYVdKclYydHZTVWR0Ym5kWFpXOW1abTlqWVZCbmMwVklRMHBwYzI1WWMza1NGMWhXY1hSaGMwTkdTMkpQY1hoak9GQjJkRmR2YVZGSkdpSkJSSE55T1daUk1ESkRZbmhmZEhOVVgyVkRlSGR2VjNCcFMxOXZNRGhCUlZaQg",
-    "fingerprint": "product manager ii|alarm com|-8k1pao",
-    "title": "Product Manager II",
-    "company": "Alarm.com",
-    "location": "Tysons, Virginia",
-    "locations": [
-      "Tysons, Virginia"
-    ],
-    "remote": false,
-    "posted": "2026-09-17T21:00:00.000Z",
-    "salaryMin": null,
-    "salaryMax": null,
-    "url": "https://www.linkedin.com/jobs/view/product-manager-ii-at-alarm-com-4466626004",
-    "source": "LinkedIn",
-    "score": 23,
-    "reasons": [
-      "Positioning fit (marketplace, platform, operations)",
-      "AI signal (AI, machine learning, agent)",
-      "Resume fit ~20%",
-      "Outside target markets"
-    ],
-    "fetchedAt": "2026-09-18T15:36:11.287Z"
-  },
-  {
-    "id": "ZlZNS2VLZEpLRF9HMEs2N0FBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTVWRRY0RZdFEwdENSazVLYjJadGRqWmhNQzFEVHpndFZXaHRSVGRMYzIxR1MyVlhja3hvU0VWVlZFeDFPREZEUVZKUU5WRTVObVZDUmxSM1QwOVpTM0puVEc1YVlWY3lOMmt4Um1WSWRHMVpObEpIVTBGaFpVZDVkelZwWVdaNGFrcHJiamd6VUMxM1YwSllkbWwzUzBOelQyNVpiMXBxUmxOUWFGaE9iREpOZGpOUGRrMFNGMWhXY1hSaGMwTkdTMkpQY1hoak9GQjJkRmR2YVZGSkdpSkJSSE55T1daU2IwRnlWVWR6ZFVWUFdFTkRjRWs0UzNWUE4xUnpiQzF1WDFWUg",
-    "fingerprint": "usa staff product manager|walmart data ventures|-yh3o92",
-    "title": "(USA) Staff, Product Manager",
-    "company": "Walmart Data Ventures",
-    "location": "Hoboken, New Jersey",
-    "locations": [
-      "Hoboken, New Jersey"
-    ],
-    "remote": false,
-    "posted": "2026-09-18T04:00:00.000Z",
-    "salaryMin": 132000,
-    "salaryMax": 264000,
-    "url": "https://www.linkedin.com/jobs/view/usa-staff-product-manager-at-walmart-data-ventures-4468898146",
-    "source": "LinkedIn",
-    "score": 35,
-    "reasons": [
-      "Positioning fit (platform, B2B, SaaS)",
-      "AI signal (AI, ML, RAG)",
-      "Comp disclosed ≥ $175K",
-      "Resume fit ~22%",
-      "Outside target markets"
-    ],
-    "fetchedAt": "2026-09-18T15:36:11.285Z"
-  },
-  {
-    "id": "YUNFRVRGTjdqVDgtU01zREFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTemt6ZVVWVGNtZDBRMGN3UkUxYVQyOW9OMkZEV0hZemMxWmlibXRmWkMxMWVuRkRaWHB5UWxkSFltOVRaMVJGYUU5NmJXaERlVFpVVDNCS2JFWmxkelZJVVdFelVIbFdUMk53Y2sxWmEwSktialpOVW5BMU1rVlBWQzFQZUdkVlVVOUNNVXgxWWkxMlZGZzRUREI0VFRoWGFVcHVXVXRNYVZjelIwRlVaVWQyV1ZkVlluTVNGMjFCTm5OaGIybGtSWEJVWVRKeWIxQTFTbUpzT0VGckdpSkJSSE55T1daU2FXUjFNRE5hVmxkSU1uaENRMGhzVEZsWVJERjFhMGQxYjNSUg",
-    "fingerprint": "marketing product manager owner|infojini inc|-dgd1zt",
-    "title": "Marketing Product Manager/Owner",
-    "company": "Infojini Inc",
-    "location": "Raleigh, North Carolina",
-    "locations": [
-      "Raleigh, North Carolina"
-    ],
-    "remote": false,
-    "posted": "2026-09-16T21:00:00.000Z",
-    "salaryMin": 60,
-    "salaryMax": 85,
-    "url": "https://www.linkedin.com/jobs/view/marketing-product-manager-owner-at-infojini-inc-4468286603",
-    "source": "LinkedIn",
-    "score": 10,
-    "reasons": [
-      "Positioning fit (platform, operations, vendor)",
-      "AI signal (AI, RAG)",
-      "Resume fit ~18%",
-      "Outside target markets"
-    ],
-    "fetchedAt": "2026-09-17T16:00:28.550Z"
-  },
-  {
-    "id": "VkVqT1NqN2U2cXV0Y0cwRkFBQUFBQT09OkVzc0JDb3dCUVVwcFZEUjBTWEJYVFhwamJqVlNRVkZhWlZOZlVqVnNRVXB0YzNoU1JrNXhNMGd4WlZRMlRYZGlRazVFWW1SblNrcHBjVGhhTFMxeFFsTmtZeTF6U2sxRWFVTnRlRXRUY1ZrNVIxWndja05hVnkxa2JteGpPVTlwY1hGMWJUSTNRemt4WlVKWmRWcE9Remx6WkhjeWFIVjJXRWRCUjNKM1VGaHpNRkpyY0dkNlJ6Vm1aVXhoU0daUVFUSVNGbXQzTm5OaGMzQkJjM0IyYWpSUlgyZHJOV0p2UkdjYUlrRkVjM0k1WmxNd1FrOXRaRlJUVGtkNlYyZHRiSFppUlRSakxVRlpURTVyTm1j",
-    "fingerprint": "sr product manager payments|matrix usa|-f9sfjh",
-    "title": "SR Product Manager - Payments",
-    "company": "Matrix USA",
-    "location": "Jersey City, New Jersey",
-    "locations": [
-      "Jersey City, New Jersey"
-    ],
-    "remote": false,
-    "posted": "2026-09-17T00:00:00.000Z",
-    "salaryMin": null,
-    "salaryMax": null,
-    "url": "https://www.linkedin.com/jobs/view/sr-product-manager-payments-at-matrix-usa-4468309692",
-    "source": "LinkedIn",
-    "score": 13,
-    "reasons": [
-      "Positioning fit (platform, B2B, operations)",
-      "AI signal (AI, RAG)",
-      "Resume fit ~16%",
-      "Outside target markets"
-    ],
-    "fetchedAt": "2026-09-17T16:00:28.549Z"
-  },
-  {
-    "id": "RHJlcHF6QUdvR2lkZW1QQUFBQUFBQT09OkVzc0JDb3dCUVVwcFZEUjBUR2xuTkdWMllsZE1iM05GYVRSbmJqQnJlbmhtTmxWc09GVkRVVTlYTW5kSVRubFVSMUUwV21RNWRYcEdOMWhCWm5aQ2NYUlVSRXh0YkRJNFNFaDZSMVJKZVdsdVpVNDFVMFZtZFd4elNqTllVVXR6WTJ4ME9EVjBWMVJETFdoNlpqSkdXV1ZQZVdWelN6VlRWVGhSYVU4MldXSXlaMTlVYUhScmIzQlNaRWRNUmtSNlYya1NGbXQzTm5OaGMzQkJjM0IyYWpSUlgyZHJOV0p2UkdjYUlrRkVjM0k1WmxKNk1qTXRXWEo0Y0hGM1dHdFJSR2MxVG1kd09VZEdXR1ZoTUZF",
-    "fingerprint": "sr product managers|t mobile|b1dzhh",
-    "title": "Sr Product Managers",
-    "company": "T-Mobile",
-    "location": "Bellevue, Washington",
-    "locations": [
-      "Bellevue, Washington"
-    ],
-    "remote": false,
-    "posted": "2026-09-17T04:00:00.000Z",
-    "salaryMin": null,
-    "salaryMax": null,
-    "url": "https://www.linkedin.com/jobs/view/sr-product-managers-at-t-mobile-4467162627",
-    "source": "LinkedIn",
-    "score": 14,
-    "reasons": [
-      "Positioning fit (operations, network, enterprise)",
-      "AI signal (AI, RAG)",
-      "Resume fit ~17%",
-      "Outside target markets"
-    ],
-    "fetchedAt": "2026-09-17T16:00:28.548Z"
   }
 ]
