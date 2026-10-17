@@ -1,5 +1,103 @@
 [
   {
+    "id": "dE1SV1N0SFYzWFZwLXZkcUFBQUFBQT09OkVzc0JDb3dCUVVwcFZEUjBTMEpFTW05c2NIWnFRbE5KY0UwMmRXSlhlakZqZVdkSFN6UkhUMmd3Y1Y5TU4wVm9WVUpSVjJ0eVVqaFRaRkp5WWsxVVZXRlBUMTlUWXpOelNXRkpkRUpHU1VSSVUzaDRkRFZWZEdWa2NGWjBhMGR6UTFKMFJWaEZNM2gzVUdaNlJWOTVlSEJJTFd4ZldEVlFOa2h4ZW05YVdsQjJSbWxOYjNoMmRtaExSRmx5Vm1nek5ITVNGbHB2Y2xSaGMxaFVTa3RVV2pWT2IxQjFUWG8yUlVFYUlrRkVjM0k1WmxKbE5tbFZhV3QxVkdrNFptRkNSaTFqU0dOMmRsWmpPV0ZWWlVF",
+    "fingerprint": "sr software product manager|mmd services|qfd7ad",
+    "title": "Sr. Software Product Manager",
+    "company": "MMD Services",
+    "location": "Rosemont, Illinois",
+    "locations": [
+      "Rosemont, Illinois"
+    ],
+    "remote": false,
+    "posted": "2026-10-16T19:00:00.000Z",
+    "salaryMin": 130000,
+    "salaryMax": 160000,
+    "url": "https://www.linkedin.com/jobs/view/sr-software-product-manager-at-mmd-services-4479608799",
+    "source": "LinkedIn",
+    "score": 16,
+    "reasons": [
+      "Senior/Group title",
+      "Positioning fit (operations, vendor)",
+      "AI signal (AI)",
+      "Resume fit ~19%",
+      "Outside target markets"
+    ],
+    "fetchedAt": "2026-10-17T14:47:13.380Z"
+  },
+  {
+    "id": "S3UwUWtEeV9pNXVXSkdaS0FBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTbTVUZG5GUGFtaG1SMmcxT1ROWmNuUkJjSFpNT0VWYWJVRnBPRE56Y1cxNlFUbHVlVlpuUm5oa1luZHJlVWxQYWpCYWNEVXRTMDlTZEhoME4xSkpTMVp6YVd0TWNuSmtkRFZHU1RWSlUwcGhjakJ2Ym1sSUxYUnJZWEkwWkRkMVkwMUxYM2xIYjNsQlUzbFRha3hVTTIxMVJuTjZNbk5sUm1oQ1UxbEdhRWhxYjB0U2IxRVNGMWh2Y2xSaGMycDVSaTB0YURWT2IxQm9aSEpLZDBGbkdpSkJSSE55T1daVFVVWXhVamRaU1ZkUGFXaHRNVnBzYXpGcFYxWXlUSE0wWW1Kbg",
+    "fingerprint": "lead product manager salesforce platform p765|84 51|dsjqf0",
+    "title": "Lead Product Manager- Salesforce Platform (P765)",
+    "company": "84.51˚",
+    "location": "Cincinnati, Ohio",
+    "locations": [
+      "Cincinnati, Ohio"
+    ],
+    "remote": false,
+    "posted": "2026-10-16T17:00:00.000Z",
+    "salaryMin": null,
+    "salaryMax": null,
+    "url": "https://www.linkedin.com/jobs/view/lead-product-manager-salesforce-platform-p765-at-84-51%CB%9A-4480527291",
+    "source": "LinkedIn",
+    "score": 28,
+    "reasons": [
+      "Positioning fit (platform, operations, network)",
+      "AI signal (AI, agent)",
+      "Resume fit ~30%",
+      "Outside target markets"
+    ],
+    "fetchedAt": "2026-10-17T14:47:13.379Z"
+  },
+  {
+    "id": "TVdoYTdxRXJFalJRYWxGOEFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTakl5VlhWVGIybHRUMnRpTVZWUVNHZGpSVzlRUnpOblIyMTNTMGs1YlZGVlJWZGxNMlEyZGt4MFlVNUhTMnRyZEZCSFpuaElhbE14YlZOa2VIazVVM294U1ZGcWNWZGlMVlJLVVZZdFUzVktjR1ZXUVhkVlNucGZRVEZDV1dGcVp6RTJjM2hxUW1NM1ZVdHJZMDFOVVVwSWEwWk9ZMlZNVDBGek9HaFRSMlJtZEVNMVlYQVNGMWh2Y2xSaGMycDVSaTB0YURWT2IxQm9aSEpLZDBGbkdpSkJSSE55T1daVFVXOU5WM2h6WDJ0emQzTlpkbFJTY1doS05XTkRRVlp0YTBOQg",
+    "fingerprint": "product manager e commerce|solomon page|2t9ntq",
+    "title": "Product Manager(e-commerce)",
+    "company": "Solomon Page",
+    "location": "Kissimmee, Florida",
+    "locations": [
+      "Kissimmee, Florida"
+    ],
+    "remote": false,
+    "posted": "2026-10-16T23:00:00.000Z",
+    "salaryMin": null,
+    "salaryMax": null,
+    "url": "https://www.linkedin.com/jobs/view/product-manager-e-commerce-at-solomon-page-4477735487",
+    "source": "LinkedIn",
+    "score": 9,
+    "reasons": [
+      "Positioning fit (platform, operations)",
+      "AI signal (AI, ML)",
+      "Resume fit ~17%",
+      "Outside target markets"
+    ],
+    "fetchedAt": "2026-10-17T14:47:13.379Z"
+  },
+  {
+    "id": "T1lHdHR2cHRoY3NOVEI4REFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBURk5qUkhNNFNFSnlNa0p2VWpscGJXMUdRM2x1VDB4SFkzRjNkR2hQVlRGck56SnRXakZVTlc1MkxYUkhXV1UxT1hscmNWaFVNekpVVWt4bWVUTkxaV2RpZUVoV1ExQkNlREZYTTNkTFMwUXhXVTlVWXpOcFFVaDJOUzFGTjNCalZHVmxORmxVZWtoTE1DMW9UMXBZU0Y5Qk1scEZWREV3TUdkSmRUSmFZVVZaVFc5amVtVVNGMWh2Y2xSaGMycDVSaTB0YURWT2IxQm9aSEpLZDBGbkdpSkJSSE55T1daUlNGRkxMWFJvVm1sUWJsOXVkeTE2TWpOT01XOXJObmswUmpoUg",
+    "fingerprint": "group product manager cloud dedicated|google|-vsftyo",
+    "title": "Group Product Manager, Cloud Dedicated",
+    "company": "Google",
+    "location": "Reston, Virginia",
+    "locations": [
+      "Reston, Virginia"
+    ],
+    "remote": false,
+    "posted": "2026-10-16T00:00:00.000Z",
+    "salaryMin": null,
+    "salaryMax": null,
+    "url": "https://www.linkedin.com/jobs/view/group-product-manager-cloud-dedicated-at-google-4479360785",
+    "source": "LinkedIn",
+    "score": 91,
+    "reasons": [
+      "Target company (Google)",
+      "Senior/Group title",
+      "Positioning fit (platform, operations, SaaS)",
+      "AI signal (AI, RAG)",
+      "Resume fit ~14%"
+    ],
+    "fetchedAt": "2026-10-17T14:47:13.377Z"
+  },
+  {
     "id": "RUFnY3o2MlJ1amZOTVdObEFBQUFBQT09OkVzc0JDb3dCUVVwcFZEUjBTamRYVjFWdE5tUlNVMGhwYkVSZk1WVnNYMFI2V2xSRVZUSnhXWEpyT0MwdE9VeExUWE5RT0RoTmEwUnpaME5sZDBVeVdUUlFVM1JCUlhkbGJHVnNZa0oyVTFsMlluaFJlVEUwVWswd2VXZGtWMm95WkMxSVVsOWZSeTB6WTBWUWFGOUZNa1F6Um5kVmJqSktaMjFWTTJkMlYxTlBZemhGWlZGME4xbERWa2xtVGxGUmMwUVNGbkJyYWxOaGRIQm1kMkl0ZFRSUkxYazFiM3BLUWxFYUlrRkVjM0k1WmxGdk9ITmZlVTh0U0VkTFVqRmhUWGxMVEZKTFRqSkpOak5oUkdj",
     "fingerprint": "agile team product manager payments|u s bank|-oihbxv",
     "title": "Agile Team Product Manager - Payments",
@@ -4807,103 +4905,5 @@
       "Outside target markets"
     ],
     "fetchedAt": "2026-09-19T15:09:55.756Z"
-  },
-  {
-    "id": "aHhVaEpsV3ctdGhGbURZR0FBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBURFZyTUdwdGJscFJVRWh1Vm5GUGQzWndWR05VYkROeFgwaEJSVzVQTm10Q1ZIbDVURTFJY0ZWUlFrbGpVa1J0TVc5MFZrODFaWFkzVTFGM1NqRllUbVZoWnpKbldVMVNWbXRVWDJkRVZETlRkRzkyWm1oUGNqbFVXVVJyVURSV1gxWjRiREptZFRRMFFtNU9aa2hQYVhORlVUUTFOelF5YWkwNVZFNHhOalV0YWs5a2JtY1NGM1ZMVjNWaGNGUjFUMk5ZVkRKeWIxQnVaaTFYYjBGbkdpSkJSSE55T1daUlNFWmZaMWgxUlc5VlpWSjVjMnRxVUVWblZrMHdaaTB5VUZwUg",
-    "fingerprint": "senior product manager data center|intel|-2e5x3c",
-    "title": "Senior Product Manager, Data Center",
-    "company": "Intel",
-    "location": "Hillsboro, Oregon",
-    "locations": [
-      "Hillsboro, Oregon"
-    ],
-    "remote": false,
-    "posted": "2026-09-19T01:00:00.000Z",
-    "salaryMin": null,
-    "salaryMax": null,
-    "url": "https://www.linkedin.com/jobs/view/senior-product-manager-data-center-at-intel-4468042536?refId=IkHdkewl0eWZmx7uS6KlZA%3D%3D&trackingId=bSoptVr8w7VO3r2Kux4H2g%3D%3D",
-    "source": "LinkedIn",
-    "score": 29,
-    "reasons": [
-      "Senior/Group title",
-      "Positioning fit (platform, enterprise)",
-      "AI signal (AI, ML)",
-      "Resume fit ~21%",
-      "Outside target markets"
-    ],
-    "fetchedAt": "2026-09-19T15:09:55.755Z"
-  },
-  {
-    "id": "d09vajRwS0l5Nk5mMHBRZkFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTVmREYURKNWJtdzROM0ZNWm01VE1HVXhkRkp0ZDNCdmMweEpSbVV5YW5wSVVWbHRVV3hOTm5GdFVVNXBYMnBxV1ZCRlgzTlBhRUY1U0c5VWFqQmpibXhuYTJwT09EaGhZbWQxY1VRek5tZEdhMDFUZEZKUFozQktjVFp1V0hwcmNuTTFUMDlsZDJsclFWaDFlV2Q2WVVwU2RtcGFhVzg1UzFKclgxWnNiMFZ3VDNwQ1JGVVNGM0poVjNWaGNuWTRRamMzYkRKeWIxQjRZalprYVZGekdpSkJSSE55T1daUk5sOXJaRjgzWnpjMk5EYzBSM1pzZWxaQmIzWk9TMnh2UzNaMw",
-    "fingerprint": "product manager|crh|-wvuet7",
-    "title": "Product Manager",
-    "company": "CRH",
-    "location": "Avon, Connecticut",
-    "locations": [
-      "Avon, Connecticut"
-    ],
-    "remote": false,
-    "posted": "2026-09-18T17:00:00.000Z",
-    "salaryMin": null,
-    "salaryMax": null,
-    "url": "https://www.linkedin.com/jobs/view/product-manager-at-crh-4469200300",
-    "source": "LinkedIn",
-    "score": 10,
-    "reasons": [
-      "Positioning fit (operations, network, enterprise)",
-      "AI signal (AI)",
-      "Resume fit ~18%",
-      "Outside target markets"
-    ],
-    "fetchedAt": "2026-09-19T15:09:55.754Z"
-  },
-  {
-    "id": "T084U3dySm5NTmNlOGc3ckFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTVU5vWWtGVFEwMVFZV2wxZHpKbFJuWnZlVlJWYW5nMWNrUlRZVmRSVW01VFVIWTNTMk5GZFUxM1lreDFVSEJTY1ZOSk5XZ3lWWFpWWm0xV01HbzVjMmQwTURkelNWTldTa3BwV0RGamRGbHdXWFZJZWpWS2VuSkZVRFZvVjAxbVNEWlVlRzk2V1RnMWEzaEVka3RKY1dwbGJtdGxjMjFYY1ZSWU5WZDFORkpOZUVRelVFd1NGM0poVjNWaGNuWTRRamMzYkRKeWIxQjRZalprYVZGekdpSkJSSE55T1daUlNrUkdibE40Y1ZKTVEzSXpiRGRpU214WU5FSkpjREpPVlVWUg",
-    "fingerprint": "product manager ai predictive analytics|liaison|ssjvhu",
-    "title": "Product Manager, AI & Predictive Analytics",
-    "company": "Liaison",
-    "location": "Pittsburgh, Pennsylvania",
-    "locations": [
-      "Pittsburgh, Pennsylvania"
-    ],
-    "remote": false,
-    "posted": "2026-09-18T21:00:00.000Z",
-    "salaryMin": 100000,
-    "salaryMax": 125000,
-    "url": "https://www.linkedin.com/jobs/view/product-manager-ai-predictive-analytics-at-liaison-4468021234",
-    "source": "LinkedIn",
-    "score": 23,
-    "reasons": [
-      "Positioning fit (platform, workflow automation, SaaS)",
-      "AI signal (AI, LLM, machine learning)",
-      "Resume fit ~25%",
-      "Outside target markets"
-    ],
-    "fetchedAt": "2026-09-19T15:09:55.753Z"
-  },
-  {
-    "id": "VnBvUXRPVUdnODVYcVg5OUFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTWGxhZUZsRmQwaEZOVTFLU0daWVp6WnJhMmRGVEhGMFZtaExSRzk1T1RsRFpVcExRMmRaVmtOWFptZ3lWMHB1ZVhwTWVsSkVibWQ2UzJWYVZtTk9XVkIzVGtGUVl6TnVja0ZqUVROU2QwY3lXVE5oT1RWZmN6WmZRbUpOVGtaTVdXRk9PRU5pZFZCelUxQlRSRWRQVTFkVVRXd3lWamgzZVZOMlVXZzFaMWN5UlhwT00za1NGM0poVjNWaGNuWTRRamMzYkRKeWIxQjRZalprYVZGekdpSkJSSE55T1daUlUwcDZkREpGVEhNd1REUkhhVlJZTjJWbGNsWm1PRkpWVG10Mw",
-    "fingerprint": "usa staff product manager|walmart|t3699",
-    "title": "(USA) Staff, Product Manager",
-    "company": "Walmart",
-    "location": "Bellevue, Washington",
-    "locations": [
-      "Bellevue, Washington"
-    ],
-    "remote": false,
-    "posted": "2026-09-18T22:00:00.000Z",
-    "salaryMin": 132000,
-    "salaryMax": 264000,
-    "url": "https://www.linkedin.com/jobs/view/usa-staff-product-manager-at-walmart-4466921787",
-    "source": "LinkedIn",
-    "score": 36,
-    "reasons": [
-      "Positioning fit (marketplace, platform, B2B)",
-      "AI signal (AI, LLM, ML)",
-      "Comp disclosed ≥ $175K",
-      "Resume fit ~24%",
-      "Outside target markets"
-    ],
-    "fetchedAt": "2026-09-19T15:09:55.752Z"
   }
 ]
