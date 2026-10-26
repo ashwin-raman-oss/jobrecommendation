@@ -1,5 +1,225 @@
 [
   {
+    "id": "YmluZzoxNzQzODI2OTEzLlJldHJv",
+    "fingerprint": "product manager natural gas|picarro|-ef0zbd",
+    "title": "Product Manager, Natural Gas",
+    "company": "Picarro",
+    "location": "Santa Clara, California",
+    "locations": [
+      "Santa Clara, California"
+    ],
+    "remote": false,
+    "posted": "2026-10-25T08:23:04.000Z",
+    "salaryMin": null,
+    "salaryMax": null,
+    "url": "https://www.linkedin.com/jobs/view/product-manager-natural-gas-at-picarro-4420685741?trk=bingjobs",
+    "source": "LinkedIn",
+    "score": 14,
+    "reasons": [
+      "Positioning fit (platform, operations, network)",
+      "AI signal (AI)",
+      "Resume fit ~22%",
+      "Outside target markets"
+    ],
+    "fetchedAt": "2026-10-26T18:03:43.004Z"
+  },
+  {
+    "id": "YmluZzoxODUxMDI5MjEuUmV0cm8",
+    "fingerprint": "product manager|beggars group|dux10j",
+    "title": "Product Manager",
+    "company": "Beggars Group",
+    "location": "Manhattan, Kansas",
+    "locations": [
+      "Manhattan, Kansas"
+    ],
+    "remote": false,
+    "posted": "2026-10-25T09:25:21.000Z",
+    "salaryMin": null,
+    "salaryMax": null,
+    "url": "https://www.linkedin.com/jobs/view/product-manager-at-beggars-group-4481405053?trk=bingjobs",
+    "source": "LinkedIn",
+    "score": 4,
+    "reasons": [
+      "Positioning fit (network)",
+      "AI signal (AI, agent, RAG)",
+      "Resume fit ~12%",
+      "Outside target markets"
+    ],
+    "fetchedAt": "2026-10-26T18:03:43.003Z"
+  },
+  {
+    "id": "YmluZzotMTQyMzY4MjI2OC5SZXRybw",
+    "fingerprint": "product manager residential security|nice group|-kbr2e5",
+    "title": "Product Manager (Residential Security)",
+    "company": "Nice Group",
+    "location": "Carlsbad, California",
+    "locations": [
+      "Carlsbad, California"
+    ],
+    "remote": false,
+    "posted": "2026-10-25T06:36:12.000Z",
+    "salaryMin": null,
+    "salaryMax": null,
+    "url": "https://www.linkedin.com/jobs/view/product-manager-residential-security-at-nice-group-4473293360?trk=bingjobs",
+    "source": "LinkedIn",
+    "score": 9,
+    "reasons": [
+      "Positioning fit (vendor, supply)",
+      "AI signal (AI)",
+      "Resume fit ~21%",
+      "Outside target markets"
+    ],
+    "fetchedAt": "2026-10-26T18:03:43.003Z"
+  },
+  {
+    "id": "YmluZzozNTQwMjE4NjguUmV0cm8",
+    "fingerprint": "senior product manager|steris|-o6gydt",
+    "title": "Senior Product Manager",
+    "company": "STERIS",
+    "location": "Vernon Hills, Illinois",
+    "locations": [
+      "Vernon Hills, Illinois"
+    ],
+    "remote": false,
+    "posted": "2026-10-25T10:00:28.000Z",
+    "salaryMin": null,
+    "salaryMax": null,
+    "url": "https://www.linkedin.com/jobs/view/senior-product-manager-at-steris-4438549026?trk=bingjobs",
+    "source": "LinkedIn",
+    "score": 31,
+    "reasons": [
+      "Senior/Group title",
+      "Positioning fit (platform, network)",
+      "AI signal (AI, ML, RAG)",
+      "Resume fit ~19%",
+      "Outside target markets"
+    ],
+    "fetchedAt": "2026-10-26T18:03:43.002Z"
+  },
+  {
+    "id": "YmluZzo3MDAyMzgyNjAuUmV0cm8",
+    "fingerprint": "senior product manager|alarm com|7tka2x",
+    "title": "Senior Product Manager",
+    "company": "Alarm.com",
+    "location": "Redwood City, California",
+    "locations": [
+      "Redwood City, California"
+    ],
+    "remote": false,
+    "posted": "2026-10-25T08:20:59.000Z",
+    "salaryMin": null,
+    "salaryMax": null,
+    "url": "https://www.linkedin.com/jobs/view/senior-product-manager-at-alarm-com-4473437996?trk=bingjobs",
+    "source": "LinkedIn",
+    "score": 72,
+    "reasons": [
+      "Senior/Group title",
+      "Positioning fit (marketplace, platform, operations)",
+      "AI signal (AI, RAG)",
+      "Resume fit ~22%",
+      "Priority location (Chicago/Bay Area)"
+    ],
+    "fetchedAt": "2026-10-26T18:03:43.001Z"
+  },
+  {
+    "id": "YmluZzotNjE4OTMwNjMyLlJldHJv",
+    "fingerprint": "principal product manager tech amazon connect|amazon|emg4m",
+    "title": "Principal Product Manager, Tech, Amazon Connect",
+    "company": "Amazon",
+    "location": "NY, US",
+    "locations": [
+      "NY, US"
+    ],
+    "remote": false,
+    "posted": "2026-10-25T09:19:43.000Z",
+    "salaryMin": null,
+    "salaryMax": null,
+    "url": "https://www.linkedin.com/jobs/view/principal-product-manager-tech-amazon-connect-at-amazon-web-services-aws-4466704056?trk=bingjobs",
+    "source": "LinkedIn",
+    "score": 84,
+    "reasons": [
+      "Target company (Amazon)",
+      "Positioning fit (platform, network, SaaS)",
+      "AI signal (AI, ML, agent)",
+      "Resume fit ~17%"
+    ],
+    "fetchedAt": "2026-10-26T18:03:43.000Z"
+  },
+  {
+    "id": "YmluZzoxMjM1NDcxNjMwLlJldHJv",
+    "fingerprint": "remote senior product manager provider experience|parachute health|86zvzm",
+    "title": "Remote Senior Product Manager, Provider Experience",
+    "company": "Parachute Health",
+    "location": "US",
+    "locations": [
+      "US"
+    ],
+    "remote": true,
+    "posted": "2026-10-25T09:22:18.000Z",
+    "salaryMin": null,
+    "salaryMax": null,
+    "url": "https://www.linkedin.com/jobs/view/remote-senior-product-manager-provider-experience-at-parachute-health-4481092443?trk=bingjobs",
+    "source": "LinkedIn",
+    "score": 73,
+    "reasons": [
+      "Senior/Group title",
+      "Positioning fit (platform, operations, network)",
+      "AI signal (AI, RAG)",
+      "Resume fit ~24%",
+      "Remote"
+    ],
+    "fetchedAt": "2026-10-26T18:03:42.999Z"
+  },
+  {
+    "id": "YmluZzo3MTUwNDY0ODguUmV0cm8",
+    "fingerprint": "product manager product governance|ascensus|eeorvu",
+    "title": "Product Manager - Product Governance",
+    "company": "Ascensus",
+    "location": "KS, US",
+    "locations": [
+      "KS, US"
+    ],
+    "remote": false,
+    "posted": "2026-10-25T07:20:28.000Z",
+    "salaryMin": null,
+    "salaryMax": null,
+    "url": "https://www.linkedin.com/jobs/view/product-manager-product-governance-at-ascensus-4466325668?trk=bingjobs",
+    "source": "LinkedIn",
+    "score": 16,
+    "reasons": [
+      "Positioning fit (platform, operations, enterprise)",
+      "AI signal (AI, RAG)",
+      "Resume fit ~18%",
+      "Outside target markets"
+    ],
+    "fetchedAt": "2026-10-26T18:03:42.997Z"
+  },
+  {
+    "id": "YmluZzoyMTQwODM4OTM4LlJldHJv",
+    "fingerprint": "technology senior product manager|pjt partners|efu7a9",
+    "title": "Technology (Senior Product Manager)",
+    "company": "PJT Partners",
+    "location": "NY, US",
+    "locations": [
+      "NY, US"
+    ],
+    "remote": false,
+    "posted": "2026-10-25T09:02:07.000Z",
+    "salaryMin": null,
+    "salaryMax": null,
+    "url": "https://www.linkedin.com/jobs/view/technology-senior-product-manager-at-pjt-partners-4408902797?trk=bingjobs",
+    "source": "LinkedIn",
+    "score": 32,
+    "reasons": [
+      "Senior/Group title",
+      "Positioning fit (platform, vendor, SaaS)",
+      "AI signal (AI, ML, RAG)",
+      "Resume fit ~15%",
+      "Outside target markets"
+    ],
+    "fetchedAt": "2026-10-26T18:03:42.996Z"
+  },
+  {
     "id": "ZzBad3VYR3pua3VobWlVTUFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTemh5ZURseGVYVTVhV1J0UVhGc09UVlViSGRGZG14Zk1HSkpRMEZPTlhBNWFtWndUekZwWkRWMVNHaEdSVzg1VEd4WlUyOXJiSEJETUZvMFYwVmZhbmRKZDBSeWRHeG9lRnBEY210NFNuaFRaRWRmZFU1ck9EVlFRakpRTlcxRFprUXlkemsxVkRsemNVaFpWMWxHYUd4S1IycDNORTFJVTFsdlQwNTZObE4wZEhkS1J6WVNGelp2Wm1KaGNEZElSRmxxT1RWUFZWQjJjMWhOYVVGM0dpSkJSSE55T1daU2VrUXlUMDk2VmxGbmRFWllUelUxWmpnNFdVTmxjelJOVjNaUg",
     "fingerprint": "commercial product manager fermentation intelligence software us ethanol industry|keit industrial analytics|a6u1c2",
     "title": "Commercial Product Manager – Fermentation Intelligence Software | US Ethanol Industry",
@@ -4680,226 +4900,5 @@
       "Remote"
     ],
     "fetchedAt": "2026-09-23T15:54:53.892Z"
-  },
-  {
-    "id": "SFVudTlnb0tvOU9QamJmMEFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBUR28wVG1FeVVEQlpiMmc1TFdScVRHbHNSVmhHYjI1alN6RlJTRzF3YjBab1ZrWkJiVWhrZUdkNk1FbDBkbGwxTUdWc2VucG1NRkJwTUhSQk9FbHhlR2xHZVVSMFpUVnhhMVpaUTBwZk9FRkdkbUUxTnpka2FuUXdNaloyY2xoM05WVldkM1l6VVZGQ2RtdFRaMFpYTkY5alVVbERkMEpSYlc1d2NHVXhNWFZzVkhOWlVrOFNGeTAyWVhsaGRIWTJSalUzVFRGelVWQXlaR2sxYVVGckdpSkJSSE55T1daVGFWb3dWbFpzZERKRE9TMDVWa3BpVlZOc1ZFeFBTRFoyUTBobg",
-    "fingerprint": "sr product manager worldwide grocery stores wwgs location strategy analytics|amazon|-ckz9tm",
-    "title": "Sr. Product Manager, Worldwide Grocery Stores (WWGS) - Location, Strategy & Analytics",
-    "company": "Amazon",
-    "location": "New York, New York",
-    "locations": [
-      "New York, New York"
-    ],
-    "remote": false,
-    "posted": "2026-09-22T01:00:00.000Z",
-    "salaryMin": null,
-    "salaryMax": null,
-    "url": "https://www.linkedin.com/jobs/view/sr-product-manager-worldwide-grocery-stores-wwgs-location-strategy-analytics-at-amazon-4470215318",
-    "source": "LinkedIn",
-    "score": 94,
-    "reasons": [
-      "Target company (Amazon)",
-      "Senior/Group title",
-      "Positioning fit (operations, enterprise)",
-      "AI signal (AI, RAG)",
-      "Resume fit ~16%",
-      "Visibility location"
-    ],
-    "fetchedAt": "2026-09-22T16:04:34.447Z"
-  },
-  {
-    "id": "RVZESzNGSUVEeEFHN2x2VEFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTVzg0VldGdmQyWTJXQzFDVlhKVVQxZHFabE56Ukd3M1VsRmFiMDB6Wm1oamQwUnFTMUV0TUZkYVdHbGpjbGRPVTJ4Uk0xWTRiVlJZUjAxQ1FrbzBaRmxOZEVWNk5HYzNhSE50YVRGYVVuRmtRMk5HV0dNNVpWRlhhbEZXT0haQ00wZHdZM1JTTXpVMFJWZDZOblZ2ZDFwVVRGZGlRbkJvVTFVMExYbGZWVkZNZUZOQ01GRVNGeTAyWVhsaGRIWTJSalUzVFRGelVWQXlaR2sxYVVGckdpSkJSSE55T1daVWNUVlNUbXB4YTFCTGVIVTBTamhmVXpsdWFsTktTemN6U1V0Mw",
-    "fingerprint": "senior product manager cyber pam and iam|iridium|-2jvsrl",
-    "title": "Senior Product Manager (Cyber, PAM and IAM)",
-    "company": "Iridium",
-    "location": "McLean, Virginia",
-    "locations": [
-      "McLean, Virginia"
-    ],
-    "remote": false,
-    "posted": "2026-09-21T19:00:00.000Z",
-    "salaryMin": null,
-    "salaryMax": null,
-    "url": "https://www.linkedin.com/jobs/view/senior-product-manager-cyber-pam-and-iam-at-iridium-4457806575",
-    "source": "LinkedIn",
-    "score": 32,
-    "reasons": [
-      "Senior/Group title",
-      "Positioning fit (platform, operations, vendor)",
-      "AI signal (AI, RAG)",
-      "Resume fit ~20%",
-      "Outside target markets"
-    ],
-    "fetchedAt": "2026-09-22T16:04:34.446Z"
-  },
-  {
-    "id": "U3RTd3V1ZEQ2TGx1ODRnQUFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTa3hRYTFkcE1GWldOMGQ2YkZFNFkxRnJNbWRNYkRGSFluaFVNRnB3WDNCT1VWVktXREpPVjBJeU1XbElXSFZoYlhWd2FqQnRkSG93WldWemVFRkRYMVl3VmxCZlVVdExheTFCUlRoVVgwaE9WRWd4YkhaaGJYUlVkWGR2V1dKS1drMUVaMHhPYjJrdE5uUlNXVTV4V2paa2RsRldTWGRKYmtOb01ITkZObUpPVTFWNFRIVVNGeTFMWVhsaGRVZHVSSEppV1RGelVWQXRXbGRPZDFGM0dpSkJSSE55T1daVFQwSjBXazFxUkZsTGVuSlhSMUZPYUZscU0zbHBSRkZZYURkQg",
-    "fingerprint": "product manager ads platform sales products|netflix|-1i14ji",
-    "title": "Product Manager, Ads Platform - Sales Products",
-    "company": "Netflix",
-    "location": "Los Angeles, California",
-    "locations": [
-      "Los Angeles, California"
-    ],
-    "remote": false,
-    "posted": "2026-09-22T00:00:00.000Z",
-    "salaryMin": 440000,
-    "salaryMax": 725000,
-    "url": "https://www.builtinla.com/job/product-manager-ads-platform-sales-products/11293197",
-    "source": "Built In L.A.",
-    "score": 101,
-    "reasons": [
-      "Target company (Netflix)",
-      "Positioning fit (platform, operations, supply)",
-      "AI signal (AI, agent, RAG)",
-      "Comp disclosed ≥ $175K",
-      "Resume fit ~24%"
-    ],
-    "fetchedAt": "2026-09-22T16:04:34.444Z"
-  },
-  {
-    "id": "Z1VTRzRhVEhBelUwSEJ4VkFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTVFJST0ZKMGRHd3RheTEyZGpWd1pHcHhWVEZaUmpKd1YwaE1ORlJpU21kSGFuazJUM0JXZVVFMVZUSlZWV2RTV0U1eVdIRnNUM2xUZW1oa2NsZ3dRMHRCZURFeFYxbExlRkpWT1ZaaVEydEVja3RDTkVaR2NYRnpYMUJmYUdWQ2FqVTBiVjlVYm14WE5HVlZUak5VU0RkTE1EaFdWbm81TjJGeU5UTkpTVjlyU1RGbVJuRVNGeTFMWVhsaGRVZHVSSEppV1RGelVWQXRXbGRPZDFGM0dpSkJSSE55T1daUlh6RTJWVmhsZVdRNVlqUlFPVU5pZFUxV1NtcHhabDk2V0VGQg",
-    "fingerprint": "product manager connect|clair|-3ixauu",
-    "title": "Product Manager, Connect",
-    "company": "Clair",
-    "location": "New York, New York",
-    "locations": [
-      "New York, New York"
-    ],
-    "remote": false,
-    "posted": "2026-09-21T19:00:00.000Z",
-    "salaryMin": null,
-    "salaryMax": null,
-    "url": "https://www.linkedin.com/jobs/view/product-manager-connect-at-clair-4468136116",
-    "source": "LinkedIn",
-    "score": 44,
-    "reasons": [
-      "Positioning fit (platform, operations)",
-      "AI signal (AI, RAG)",
-      "Resume fit ~20%",
-      "Visibility location"
-    ],
-    "fetchedAt": "2026-09-22T16:04:34.443Z"
-  },
-  {
-    "id": "WjB3VHU1cTZ3UXozcU1RREFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTbmRrWkRSaU1GWTNTMk4zU1c5bmVWQTRNRFZxYUdoR1NETlFVbTQwY0VGa2VVdEVTV1I0YzA5a1VXZHVhR05zV0dFNWFXMVNWSFZSZDFkR1NHTjZaRkpTVW1aTmFUSXRjMEpOZFRGblVHNVljVmhEWlRsS1JqWnFabXRFVG5CUGIwZHNOVGxwWVZabGNFUTBhRzkwZFRacU0yWTFha3RDWW14NVFVRlhjVlpQYlY4MFpqVVNGeTFMWVhsaGRVZHVSSEppV1RGelVWQXRXbGRPZDFGM0dpSkJSSE55T1daU1drTXdabk5MYjNjNU5XODNjSEZxYTBOMVVXNVVObkZMVUVkQg",
-    "fingerprint": "product manager|infinity by marvin|-7iya05",
-    "title": "Product Manager",
-    "company": "Infinity by Marvin",
-    "location": "Eagan, Minnesota",
-    "locations": [
-      "Eagan, Minnesota"
-    ],
-    "remote": false,
-    "posted": "2026-09-21T18:00:00.000Z",
-    "salaryMin": null,
-    "salaryMax": null,
-    "url": "https://www.linkedin.com/jobs/view/product-manager-at-infinity-by-marvin-4469938574",
-    "source": "LinkedIn",
-    "score": 7,
-    "reasons": [
-      "Positioning fit (operations)",
-      "AI signal (AI, RAG)",
-      "Resume fit ~19%",
-      "Outside target markets"
-    ],
-    "fetchedAt": "2026-09-22T16:04:34.441Z"
-  },
-  {
-    "id": "U1FJYWFHS29uX3ZOVnNHakFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTMGhEYVZOVlIxOUZlV2RpV20xRU0yOWFNWFEwZDFCT1l6ZFhUaTFUUm1kVmR6QkxORmxNWWxkbFdrWnpaM0oxU2podFEwNW9VbEpsZWkxNmVEQlhjVzkxT0hnelJEQTJUREZUYjNwcVpuZFlWV1JZYjFCa05EWjZTR0Z6UWtvNFpuUkROWGRXTjIwM2IyNUVRWE5QVDJKTlREUnZOblpWZFZGS1RVSlRNRkUyUVhkNVluVVNGeTFMWVhsaGRVZHVSSEppV1RGelVWQXRXbGRPZDFGM0dpSkJSSE55T1daU1ZtTkhkbWd0ZFZobmFrTmtNbmRHVlROTWMweEdRWFZuYlhWbg",
-    "fingerprint": "product manager veeva clinical operations|veeva systems|-aik6bl",
-    "title": "Product Manager - Veeva Clinical Operations",
-    "company": "Veeva Systems",
-    "location": "Not specified",
-    "locations": [
-      "Not specified"
-    ],
-    "remote": true,
-    "posted": "2026-09-22T09:00:00.000Z",
-    "salaryMin": null,
-    "salaryMax": null,
-    "url": "https://www.linkedin.com/jobs/view/product-manager-veeva-clinical-operations-at-veeva-systems-4468548583",
-    "source": "LinkedIn",
-    "score": 53,
-    "reasons": [
-      "Positioning fit (platform, B2B, operations)",
-      "AI signal (AI, ML)",
-      "Resume fit ~18%",
-      "Remote"
-    ],
-    "fetchedAt": "2026-09-22T16:04:34.440Z"
-  },
-  {
-    "id": "MWY1dlItUVhBdkNmV1duekFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTblJ5UVVwRU4ySXdXRloyY1ZndFZVdFpSSEY2Yms5S2IzRm9RakYzY0hGRVIxSjBhRU5XUVRWbFJWbEdkMEZ0VVVoT2NVZzVMVTU1YTJRM1drRk5aRk5uVFZOeVVYaFlibkJTYWsxb2VIUkxaV1pqZVU1RFVVSTNUVUY1U2xwTmRtcHlkakpEV25aa1ZWUnpRbU5zWjI5a05XTmFPRlZmTVVoT1RYbEhNMFU1VjNkV1VVb1NGeTFMWVhsaGRVZHVSSEppV1RGelVWQXRXbGRPZDFGM0dpSkJSSE55T1daVE1YTjRVRU4wYkZreU5WOVVabWx2TlV4dlpYTnFXa1V4TVd0bg",
-    "fingerprint": "product manager hybrid in ct|hearst health|-3fh32g",
-    "title": "Product Manager - Hybrid in CT",
-    "company": "Hearst Health",
-    "location": "Guilford, Connecticut",
-    "locations": [
-      "Guilford, Connecticut"
-    ],
-    "remote": false,
-    "posted": "2026-09-21T20:00:00.000Z",
-    "salaryMin": null,
-    "salaryMax": null,
-    "url": "https://www.linkedin.com/jobs/view/product-manager-hybrid-in-ct-at-hearst-health-4469969250",
-    "source": "LinkedIn",
-    "score": 5,
-    "reasons": [
-      "AI signal (AI, LLM)",
-      "Resume fit ~22%",
-      "Outside target markets"
-    ],
-    "fetchedAt": "2026-09-22T16:04:34.439Z"
-  },
-  {
-    "id": "bjNSb1hDSUI2dW01MUNZaEFBQUFBQT09OkVzc0JDb3dCUVVwcFZEUjBUR1p5Y0hCVVdXcG5WMjlqWVY5VE5VazJSbGxvTVdoT1NrNXhXSFZyZFhWaVduaDVjRnBLVnpkUVlqSlFRVkIxWjJWUk5sTnZMV3R6UTBSUU0xSldiRWgxYUU1emVVdHJialpxYzI1SE5XWTBhbkptTkRBM2RsaFBUa0p6TmtweVNqaGZXbTF4YkRWMFZVVTNla1JqYm5kRWFsY3lVVk5IZW1keVNFaEVZbXAyYUVWc1N6WVNGbTFIZFhoaGIwVnRMWEpRUVRoQkxWcHhTVFpCUVdjYUlrRkVjM0k1WmxJNGMyZGtZVkJVVHpOT1IyVk5iM1p4VkZSSU9VTjZUMFZ2YWxF",
-    "fingerprint": "staff principal product manager marketing technology martech|inkitt|vr20vl",
-    "title": "Staff / Principal Product Manager, Marketing Technology (MarTech)",
-    "company": "Inkitt",
-    "location": "San Francisco, California",
-    "locations": [
-      "San Francisco, California"
-    ],
-    "remote": false,
-    "posted": "2026-09-20T00:00:00.000Z",
-    "salaryMin": 190000,
-    "salaryMax": 225000,
-    "url": "https://www.linkedin.com/jobs/view/staff-principal-product-manager-marketing-technology-martech-at-inkitt-4469815324",
-    "source": "LinkedIn",
-    "score": 64,
-    "reasons": [
-      "Positioning fit (platform, vendor, network)",
-      "AI signal (AI, RAG)",
-      "Comp disclosed ≥ $175K",
-      "Resume fit ~20%",
-      "Priority location (Chicago/Bay Area)"
-    ],
-    "fetchedAt": "2026-09-21T17:38:51.759Z"
-  },
-  {
-    "id": "YWRla0R6cDl1SF9RWDVUVkFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTblJCZUhOck9YVnpUSFZJVUc1b2QwOTRWbFkzY1dGRWRHUnRUVTgzVG04d1ZWQndhWHA1WjNsTmMyRlNkVFZHWmtveFRFMUVVWFJyWVRkeGMyUllZVWxmUmxWTmRWbEhkekJtTFdsaGJ6aDFSak4xVkRjMFlYaFBibmhxUm5OUWR6Y3hMVEZWU0VSbVJESmFVRUY0UmkwMFNIWmhPWGR1WmtscFgwRkROMWREY0VoeGExOFNGMDVRYVhaaGIxYzRRalZpU2pGelVWQnZOMkpyT0VGUkdpSkJSSE55T1daU2JYcGpTUzB3WlUxblZpMWtlalpGWVZsSGIxRnVXVXcwTkdSUg",
-    "fingerprint": "sr product manager technical deal tooling insights strategic customer engagements|amazon web services aws|h3i5t1",
-    "title": "Sr. Product Manager Technical, Deal Tooling & Insights, Strategic Customer Engagements",
-    "company": "Amazon Web Services (AWS)",
-    "location": "Boston, Massachusetts",
-    "locations": [
-      "Boston, Massachusetts"
-    ],
-    "remote": false,
-    "posted": "2026-09-19T18:00:00.000Z",
-    "salaryMin": null,
-    "salaryMax": null,
-    "url": "https://www.linkedin.com/jobs/view/sr-product-manager-technical-deal-tooling-insights-strategic-customer-engagements-at-amazon-web-services-aws-4460544238",
-    "source": "LinkedIn",
-    "score": 98,
-    "reasons": [
-      "Target company (Amazon)",
-      "Senior/Group title",
-      "Positioning fit (platform, operations)",
-      "AI signal (AI, GenAI, RAG)",
-      "Resume fit ~20%"
-    ],
-    "fetchedAt": "2026-09-20T15:14:04.496Z"
   }
 ]
