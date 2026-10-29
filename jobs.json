@@ -1,5 +1,408 @@
 [
   {
+    "id": "bGlua2VkaW46NDQ3NzEzOTcyMg",
+    "fingerprint": "group product manager frontier model protection deepmind|google deepmind|ejsxeu",
+    "title": "Group Product Manager, Frontier Model Protection, DeepMind",
+    "company": "Google DeepMind",
+    "location": "New York, US +1 more",
+    "locations": [
+      "New York, US",
+      "San Francisco, California"
+    ],
+    "remote": false,
+    "posted": "2026-10-29T12:00:00.000Z",
+    "salaryMin": null,
+    "salaryMax": null,
+    "url": "https://www.linkedin.com/jobs/view/group-product-manager-frontier-model-protection-deepmind-at-google-deepmind-4477139722",
+    "source": "LinkedIn",
+    "score": 88,
+    "reasons": [
+      "Target company (Google)",
+      "Senior/Group title",
+      "AI signal (AI, LLM, machine learning)",
+      "Resume fit ~15%",
+      "Visibility location"
+    ],
+    "fetchedAt": "2026-10-29T17:53:05.944Z"
+  },
+  {
+    "id": "bGlua2VkaW46NDQ3NTQ0MTIyMw",
+    "fingerprint": "group product manager voice experiences on search|google|-etrctc",
+    "title": "Group Product Manager, Voice Experiences on Search",
+    "company": "Google",
+    "location": "New York, US +1 more",
+    "locations": [
+      "New York, US",
+      "San Francisco, California"
+    ],
+    "remote": false,
+    "posted": "2026-10-29T11:00:00.000Z",
+    "salaryMin": null,
+    "salaryMax": null,
+    "url": "https://www.linkedin.com/jobs/view/group-product-manager-voice-experiences-on-search-at-google-4475441223",
+    "source": "LinkedIn",
+    "score": 88,
+    "reasons": [
+      "Target company (Google)",
+      "Senior/Group title",
+      "AI signal (AI, LLM, machine learning)",
+      "Resume fit ~15%",
+      "Visibility location"
+    ],
+    "fetchedAt": "2026-10-29T17:53:05.944Z"
+  },
+  {
+    "id": "bGlua2VkaW46NDQ3Njk1OTk0MA",
+    "fingerprint": "lead product manager uber health|uber|-h8n2vv",
+    "title": "Lead Product Manager - Uber Health",
+    "company": "Uber",
+    "location": "New York, New York",
+    "locations": [
+      "New York, New York"
+    ],
+    "remote": false,
+    "posted": "2026-10-29T12:00:00.000Z",
+    "salaryMin": null,
+    "salaryMax": null,
+    "url": "https://www.linkedin.com/jobs/view/lead-product-manager-uber-health-at-uber-4476959940",
+    "source": "LinkedIn",
+    "score": 91,
+    "reasons": [
+      "Target company (Uber)",
+      "Positioning fit (marketplace, platform, operations)",
+      "AI signal (AI, RAG)",
+      "Resume fit ~22%",
+      "Visibility location"
+    ],
+    "fetchedAt": "2026-10-29T17:53:05.944Z"
+  },
+  {
+    "id": "bGlua2VkaW46NDQ0OTQ0NjM5NQ",
+    "fingerprint": "senior product manager core platform customer portal data delivery|fieldai|-hp9vb0",
+    "title": "Senior Product Manager, Core Platform (Customer Portal & Data Delivery)",
+    "company": "FieldAI",
+    "location": "Irvine, California",
+    "locations": [
+      "Irvine, California"
+    ],
+    "remote": false,
+    "posted": "2026-10-29T11:00:00.000Z",
+    "salaryMin": 180000,
+    "salaryMax": 250000,
+    "url": "https://www.linkedin.com/jobs/view/senior-product-manager-core-platform-customer-portal-data-delivery-at-fieldai-4449446395",
+    "source": "LinkedIn",
+    "score": 45,
+    "reasons": [
+      "Senior/Group title",
+      "Positioning fit (platform, B2B, SaaS)",
+      "AI signal (AI)",
+      "Comp disclosed ≥ $175K",
+      "Resume fit ~27%",
+      "Outside target markets"
+    ],
+    "fetchedAt": "2026-10-29T17:53:05.943Z"
+  },
+  {
+    "id": "bGlua2VkaW46NDQ4MjU3NjA1NQ",
+    "fingerprint": "sr product manager|sony interactive entertainment|-klpeum",
+    "title": "Sr. Product Manager",
+    "company": "Sony Interactive Entertainment",
+    "location": "San Diego, California",
+    "locations": [
+      "San Diego, California"
+    ],
+    "remote": false,
+    "posted": "2026-10-28T23:00:00.000Z",
+    "salaryMin": null,
+    "salaryMax": null,
+    "url": "https://www.linkedin.com/jobs/view/sr-product-manager-at-sony-interactive-entertainment-4482576055",
+    "source": "LinkedIn",
+    "score": 27,
+    "reasons": [
+      "Senior/Group title",
+      "Positioning fit (platform, network)",
+      "AI signal (AI, RAG)",
+      "Resume fit ~19%",
+      "Outside target markets"
+    ],
+    "fetchedAt": "2026-10-29T17:53:05.943Z"
+  },
+  {
+    "id": "bGlua2VkaW46NDQ2NjIzNjQwOA",
+    "fingerprint": "senior product manager chronosphere|palo alto networks|3xa0bg",
+    "title": "Senior Product Manager (Chronosphere)",
+    "company": "Palo Alto Networks",
+    "location": "Austin, Texas",
+    "locations": [
+      "Austin, Texas"
+    ],
+    "remote": false,
+    "posted": "2026-10-29T16:00:00.000Z",
+    "salaryMin": null,
+    "salaryMax": null,
+    "url": "https://www.linkedin.com/jobs/view/senior-product-manager-chronosphere-at-palo-alto-networks-4466236408",
+    "source": "LinkedIn",
+    "score": 67,
+    "reasons": [
+      "Senior/Group title",
+      "Positioning fit (platform, B2B, network)",
+      "AI signal (AI, GenAI, RAG)",
+      "Resume fit ~18%",
+      "Visibility location"
+    ],
+    "fetchedAt": "2026-10-29T17:53:05.942Z"
+  },
+  {
+    "id": "bGlua2VkaW46NDQ3NDgwNDAzNQ",
+    "fingerprint": "sr product manager lakebase lakehouse|databricks|-7rt848",
+    "title": "Sr. Product Manager, Lakebase/Lakehouse",
+    "company": "Databricks",
+    "location": "San Francisco, California",
+    "locations": [
+      "San Francisco, California"
+    ],
+    "remote": false,
+    "posted": "2026-10-29T10:00:00.000Z",
+    "salaryMin": null,
+    "salaryMax": null,
+    "url": "https://www.linkedin.com/jobs/view/sr-product-manager-lakebase-lakehouse-at-databricks-4474804035",
+    "source": "LinkedIn",
+    "score": 100,
+    "reasons": [
+      "Target company (Databricks)",
+      "Senior/Group title",
+      "Positioning fit (platform, enterprise)",
+      "AI signal (AI, agent)",
+      "Resume fit ~16%",
+      "Priority location (Chicago/Bay Area)"
+    ],
+    "fetchedAt": "2026-10-29T17:53:05.942Z"
+  },
+  {
+    "id": "bGlua2VkaW46NDQwMDQ5MTAzMg",
+    "fingerprint": "sr product manager instinct ai gpu products|amd|vc4ca1",
+    "title": "Sr. Product Manager, Instinct AI GPU Products",
+    "company": "AMD",
+    "location": "Austin, Texas",
+    "locations": [
+      "Austin, Texas"
+    ],
+    "remote": false,
+    "posted": "2026-10-29T09:00:00.000Z",
+    "salaryMin": 154800,
+    "salaryMax": 232200,
+    "url": "https://www.linkedin.com/jobs/view/sr-product-manager-instinct-ai-gpu-products-at-amd-4400491032",
+    "source": "LinkedIn",
+    "score": 73,
+    "reasons": [
+      "Senior/Group title",
+      "Positioning fit (platform, network, enterprise)",
+      "AI signal (AI, RAG)",
+      "Comp disclosed ≥ $175K",
+      "Resume fit ~19%",
+      "Visibility location"
+    ],
+    "fetchedAt": "2026-10-29T17:53:05.941Z"
+  },
+  {
+    "id": "bGlua2VkaW46NDQ3NDQ5MjUzMA",
+    "fingerprint": "sr product manager lakebase lakehouse|databricks|-inasn3",
+    "title": "Sr. Product Manager, Lakebase/Lakehouse",
+    "company": "Databricks",
+    "location": "Seattle, Washington",
+    "locations": [
+      "Seattle, Washington"
+    ],
+    "remote": false,
+    "posted": "2026-10-29T10:00:00.000Z",
+    "salaryMin": null,
+    "salaryMax": null,
+    "url": "https://www.linkedin.com/jobs/view/sr-product-manager-lakebase-lakehouse-at-databricks-4474492530",
+    "source": "LinkedIn",
+    "score": 92,
+    "reasons": [
+      "Target company (Databricks)",
+      "Senior/Group title",
+      "Positioning fit (platform, enterprise)",
+      "AI signal (AI, agent)",
+      "Resume fit ~14%",
+      "Visibility location"
+    ],
+    "fetchedAt": "2026-10-29T17:53:05.940Z"
+  },
+  {
+    "id": "bGlua2VkaW46NDQ3NTEzNDUwNQ",
+    "fingerprint": "senior product manager dgx station|nvidia|cx5js4",
+    "title": "Senior Product Manager – DGX Station",
+    "company": "NVIDIA",
+    "location": "Santa Clara, California",
+    "locations": [
+      "Santa Clara, California"
+    ],
+    "remote": false,
+    "posted": "2026-10-28T18:00:00.000Z",
+    "salaryMin": null,
+    "salaryMax": null,
+    "url": "https://www.linkedin.com/jobs/view/senior-product-manager-%E2%80%93-dgx-station-at-nvidia-4475134505",
+    "source": "LinkedIn",
+    "score": 36,
+    "reasons": [
+      "Senior/Group title",
+      "Positioning fit (platform, operations, supply)",
+      "AI signal (AI, ML, agent)",
+      "Resume fit ~18%",
+      "Outside target markets"
+    ],
+    "fetchedAt": "2026-10-29T17:53:05.940Z"
+  },
+  {
+    "id": "bGlua2VkaW46NDQ3Njk4OTg1OA",
+    "fingerprint": "principal product manager oci cloud security|oracle|-qul62b",
+    "title": "Principal Product Manager (OCI Cloud Security)",
+    "company": "Oracle",
+    "location": "Nashville, Tennessee",
+    "locations": [
+      "Nashville, Tennessee"
+    ],
+    "remote": false,
+    "posted": "2026-10-29T09:00:00.000Z",
+    "salaryMin": null,
+    "salaryMax": null,
+    "url": "https://www.linkedin.com/jobs/view/principal-product-manager-oci-cloud-security-at-oracle-4476989858",
+    "source": "LinkedIn",
+    "score": 15,
+    "reasons": [
+      "Positioning fit (platform, operations, network)",
+      "AI signal (AI, RAG)",
+      "Resume fit ~18%",
+      "Outside target markets"
+    ],
+    "fetchedAt": "2026-10-29T17:53:05.939Z"
+  },
+  {
+    "id": "bGlua2VkaW46NDQ1ODM4NTA5Mg",
+    "fingerprint": "senior product manager campaign manager|veeva systems|-50ho3l",
+    "title": "Senior Product Manager - Campaign Manager",
+    "company": "Veeva Systems",
+    "location": "Indianapolis, Indiana",
+    "locations": [
+      "Indianapolis, Indiana"
+    ],
+    "remote": false,
+    "posted": "2026-10-29T15:00:00.000Z",
+    "salaryMin": null,
+    "salaryMax": null,
+    "url": "https://www.linkedin.com/jobs/view/senior-product-manager-campaign-manager-at-veeva-systems-4458385092",
+    "source": "LinkedIn",
+    "score": 25,
+    "reasons": [
+      "Senior/Group title",
+      "Positioning fit (platform, operations, SaaS)",
+      "AI signal (AI)",
+      "Resume fit ~17%",
+      "Outside target markets"
+    ],
+    "fetchedAt": "2026-10-29T17:53:05.938Z"
+  },
+  {
+    "id": "bGlua2VkaW46NDQzNzI4NjgxMQ",
+    "fingerprint": "product manager auto insurance|mobility global|sgjg7e",
+    "title": "Product Manager, Auto Insurance",
+    "company": "Mobility Global",
+    "location": "Southfield, Michigan",
+    "locations": [
+      "Southfield, Michigan"
+    ],
+    "remote": false,
+    "posted": "2026-10-29T12:00:00.000Z",
+    "salaryMin": null,
+    "salaryMax": null,
+    "url": "https://www.linkedin.com/jobs/view/product-manager-auto-insurance-at-mobility-global-4437286811",
+    "source": "LinkedIn",
+    "score": 5,
+    "reasons": [
+      "Positioning fit (operations)",
+      "AI signal (AI, agent)",
+      "Resume fit ~18%",
+      "Outside target markets"
+    ],
+    "fetchedAt": "2026-10-29T17:53:05.938Z"
+  },
+  {
+    "id": "bGlua2VkaW46NDQ0ODkyMTgwNw",
+    "fingerprint": "senior principal product manager iac cloud|pulumi|eqgq1m",
+    "title": "Senior/Principal Product Manager, IaC Cloud",
+    "company": "Pulumi",
+    "location": "Seattle, Washington",
+    "locations": [
+      "Seattle, Washington"
+    ],
+    "remote": false,
+    "posted": "2026-10-29T13:00:00.000Z",
+    "salaryMin": null,
+    "salaryMax": null,
+    "url": "https://www.linkedin.com/jobs/view/senior-principal-product-manager-iac-cloud-at-pulumi-4448921807",
+    "source": "LinkedIn",
+    "score": 65,
+    "reasons": [
+      "Senior/Group title",
+      "Positioning fit (platform, operations, SaaS)",
+      "AI signal (AI, LLM, agent)",
+      "Resume fit ~17%",
+      "Visibility location"
+    ],
+    "fetchedAt": "2026-10-29T17:53:05.937Z"
+  },
+  {
+    "id": "bGlua2VkaW46NDQ2NzkzMTA0NA",
+    "fingerprint": "principal product manager technical aws certificate manager|amazon web services aws|-6hpqqr",
+    "title": "Principal Product Manager (Technical), AWS Certificate Manager",
+    "company": "Amazon Web Services (AWS)",
+    "location": "Seattle, Washington",
+    "locations": [
+      "Seattle, Washington"
+    ],
+    "remote": false,
+    "posted": "2026-10-29T16:00:00.000Z",
+    "salaryMin": null,
+    "salaryMax": null,
+    "url": "https://www.linkedin.com/jobs/view/principal-product-manager-technical-aws-certificate-manager-at-amazon-web-services-aws-4467931044",
+    "source": "LinkedIn",
+    "score": 81,
+    "reasons": [
+      "Target company (Amazon)",
+      "Positioning fit (network, SaaS)",
+      "AI signal (AI, agent, RAG)",
+      "Resume fit ~13%",
+      "Visibility location"
+    ],
+    "fetchedAt": "2026-10-29T17:53:05.936Z"
+  },
+  {
+    "id": "ZDEyZ2lBQU56YVJ1TzQtbUFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxZbms0WjBGbFRYTkRTV0ZXZUVaNWN5MVJRVFZSU0dkTVUySnliVzFzZFdjMFdVRkRRMVoxYm5SbVJUUlRTRWhUUVRKcldWRmFNRmg1UVV0dE5rOXRNRVpNYlZwWE5HcG9jbkZ3Y1ZOeVNHbEpSWFZ3WWs0MVVWcFZSM1F5ZUc1a2IzbzRiMmRvTW5aRmN5MXFMVWRqTmtaNE9GUkZWa0ZFVVhwbmEzQnlVSEJSZVVvdFF6UVNGelUwWm1waGNWUTFRVGRYWkd0UVNWQnROVWRoTFZGRkdpSkJTRTR3UlRkSGREUjNNVm90UTJWaVFrZE9MVUpqWlU1M2MxRmpSSEJOVVRKQg",
+    "fingerprint": "lead product manager smart room|tigerconnect|-bzlire",
+    "title": "Lead Product Manager, Smart Room",
+    "company": "TigerConnect",
+    "location": "Jacksonville, Florida",
+    "locations": [
+      "Jacksonville, Florida"
+    ],
+    "remote": false,
+    "posted": "2026-10-28T00:00:00.000Z",
+    "salaryMin": null,
+    "salaryMax": null,
+    "url": "https://www.linkedin.com/jobs/view/lead-product-manager-smart-room-at-tigerconnect-4484712449",
+    "source": "LinkedIn",
+    "score": 11,
+    "reasons": [
+      "Positioning fit (platform, vendor, supply)",
+      "AI signal (AI)",
+      "Resume fit ~19%",
+      "Outside target markets"
+    ],
+    "fetchedAt": "2026-10-29T17:53:05.934Z"
+  },
+  {
     "id": "bGlua2VkaW46NDQ4NDQxNDUxMg",
     "fingerprint": "group product manager marketplace|ande|-bzmsy2",
     "title": "Group Product Manager, Marketplace",
@@ -4520,397 +4923,5 @@
       "Outside target markets"
     ],
     "fetchedAt": "2026-09-30T17:24:01.297Z"
-  },
-  {
-    "id": "M1kzb0UtUnpOOVZwTEMta0FBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTakZNZEdkWE5HcGlOV2xTWVVaYU5HOXRZbWRhTlRCbVgxQmFlbk5UVEZSUFRqVnNRM041ZDE5Vk0wRkxWWG80UW1wV2JtWmhaMUpuVDFWaVFsOXVPRlUwVkhGWlJGQjBiVEowUmpWMVpIWjZhRWRVWTE5SlFrSjZRM0o0YmtsblpFMUhZVGswYjB0RGNuQmZaVXA1YW5SdU5TMVliSGhTZUhZNFJXUm9OSHBXTWpWeGIwc1NGM0JWVnpsaGRsQnhSR05IWnpWT2IxQTFTWEV5ZFVGakdpSkJSSE55T1daU2NuWjRlVEY2WnkwMldGQjVVeTFYVUhKUVpYWklVekJVV1dwbg",
-    "fingerprint": "principal product manager|meltwater|-yjvj5w",
-    "title": "Principal Product Manager",
-    "company": "Meltwater",
-    "location": "Washington, District of Columbia",
-    "locations": [
-      "Washington, District of Columbia"
-    ],
-    "remote": false,
-    "posted": "2026-09-29T23:00:00.000Z",
-    "salaryMin": null,
-    "salaryMax": null,
-    "url": "https://www.linkedin.com/jobs/view/principal-product-manager-at-meltwater-4471963611",
-    "source": "LinkedIn",
-    "score": 15,
-    "reasons": [
-      "Positioning fit (platform)",
-      "AI signal (AI, ML, RAG)",
-      "Resume fit ~22%",
-      "Outside target markets"
-    ],
-    "fetchedAt": "2026-09-30T17:24:01.295Z"
-  },
-  {
-    "id": "akhVZUVpU1R3RFJqV1Q5REFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTMWw1U1ZKSkxXNWlibTVUYkhOWVJYUXpORm8yWjNGeWEwRjFhR2h4Wm1KUmVVaFNZVXAyWldaUlJUWXhhbUZhVW5abU5tTmxVbGRDU0ROaU0yUkZNVnB6U1VkclNVRXdTSFZSTUdoQ2NXTktVVmxHZFcxR05VMU9PWEZPYmtGdlRVNWtOalIyYUhNMU16QnVWbDh4YmtSaVoyNXNjbXhSU1RodGFuVlhia2RIUW01RmFGTVNGekpRVXpkaGNFOW1UVGd0V1hObFRWQjNjRU50YlZFMEdpSkJSSE55T1daU2FtVjNiRFEzZUdOUVpFbDRSelZwYnpSc1NVaGlPR1ZLUVRkMw",
-    "fingerprint": "group product manager core infrastructure reliability|coinbase|auuujz",
-    "title": "Group Product Manager, Core Infrastructure & Reliability",
-    "company": "Coinbase",
-    "location": "Not specified",
-    "locations": [
-      "Not specified"
-    ],
-    "remote": true,
-    "posted": "2026-09-28T20:00:00.000Z",
-    "salaryMin": null,
-    "salaryMax": null,
-    "url": "https://www.linkedin.com/jobs/view/group-product-manager-core-infrastructure-reliability-at-coinbase-4472797861",
-    "source": "LinkedIn",
-    "score": 63,
-    "reasons": [
-      "Senior/Group title",
-      "Positioning fit (platform, network)",
-      "AI signal (AI, RAG)",
-      "Resume fit ~19%",
-      "Remote"
-    ],
-    "fetchedAt": "2026-09-29T17:26:53.233Z"
-  },
-  {
-    "id": "WGVld2c0NEk2WlE1X0FDUEFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTM3BFUzJkNVowWk1lRXRqU1Y5aFNHTnlUbkZtUkdGTVNIWjVaelJUVGtKZlpqYzBMWFZaWm5oMFNqZEhkM281T1d0aGNEZExTM0pCUmkxblYyNW5TRUU0TlhCcmRIbFJXbGRtTUZCSWJUWTRPVFIxVVdGblFqUlFTSHBwTVZJeGQwaFBXakZRVDBwSE9YWTVhaTFFTlVGVVFXNTBZMWMyTWt0VWIxWnVaVXBDUm1wd1FVVVNGM3BmVXpkaGNEZEhUVFpoYjNkUVFWQnpTa2RPYTBGUkdpSkJSSE55T1daVGJURmZhVTlqVm0xblNGRm5ORUl6ZUUxclJGRmtkV3BNTkd4Qg",
-    "fingerprint": "senior product manager customer experience cx|the realreal|llhvs3",
-    "title": "Senior Product Manager, Customer Experience (CX)",
-    "company": "The RealReal",
-    "location": "Not specified",
-    "locations": [
-      "Not specified"
-    ],
-    "remote": true,
-    "posted": "2026-09-29T12:00:00.000Z",
-    "salaryMin": null,
-    "salaryMax": null,
-    "url": "https://www.linkedin.com/jobs/view/senior-product-manager-customer-experience-cx-at-the-realreal-4471718798",
-    "source": "LinkedIn",
-    "score": 69,
-    "reasons": [
-      "Senior/Group title",
-      "Positioning fit (marketplace, platform)",
-      "AI signal (AI, machine learning, ML)",
-      "Resume fit ~19%",
-      "Remote"
-    ],
-    "fetchedAt": "2026-09-29T17:26:53.232Z"
-  },
-  {
-    "id": "YWZwR2ZvUDM2OWtGdGtodkFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTVzgxTkZGRkxVZ3lRbGwzVHpCZmVIVnFSV0ZLUVZWck5YcEZiR2t4VmxSWk4yeFJhbTFNV2pBeVREVnNibTUwUkhKNVFYUkNhVlJaWnpFMlNrazFXVzQwWmxGSE5GSXpkVmxXVWtKVE5XTm5WRUYyTjJoU1gzQkxUVmhNUVRaeGVFaFRjV05HZEc5M1FWZzVlbmhIWjE5UFVEWk1iVk5TVVVSNFpFZFNRMUZQZFVweVozVVNGM3BmVXpkaGNEZEhUVFpoYjNkUVFWQnpTa2RPYTBGUkdpSkJSSE55T1daVExXOWFiRTlSUVRSMGFtSk5YM0pqUVRScFlUUjNkMmxzWTFkbg",
-    "fingerprint": "senior product manager|suvoda|e67832",
-    "title": "Senior Product Manager",
-    "company": "Suvoda",
-    "location": "Not specified",
-    "locations": [
-      "Not specified"
-    ],
-    "remote": true,
-    "posted": "2026-09-28T18:00:00.000Z",
-    "salaryMin": null,
-    "salaryMax": null,
-    "url": "https://www.linkedin.com/jobs/view/senior-product-manager-at-suvoda-4471209186",
-    "source": "LinkedIn",
-    "score": 70,
-    "reasons": [
-      "Senior/Group title",
-      "Positioning fit (platform, operations, SaaS)",
-      "AI signal (AI, RAG)",
-      "Resume fit ~20%",
-      "Remote"
-    ],
-    "fetchedAt": "2026-09-29T17:26:53.231Z"
-  },
-  {
-    "id": "T0tyemVBSmd6emZ4enJ3LUFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTbDl3YTJSRldVZE9RelZqUm1sUVgzazFlSFZZV0d0MFNXRlJZamMyWmtWWWFEWlBZMTlITmtaWk5rSk1Ta1ZXU1dwVmNHczJXV1JHUlhnNE9WSmFUekp3YjJjNFpIQlFUMEZ2TWtsa1kyNUpRa1JhT0dkUFZHOVRSVFpDVjBGbWVYcFJMVzFhTVhGWVp6VkhTVlJyYlc5UlVtTkNVbGRsVjFwamRuaDNPRlZvZUc5M04xVVNGM3BmVXpkaGNEZEhUVFpoYjNkUVFWQnpTa2RPYTBGUkdpSkJSSE55T1daVGNXRlRTV1ZDT0RaQk5sUlhlVXRxTkZwNVdXeFdWMEkyYVhSMw",
-    "fingerprint": "senior product manager global brands|coats group plc|p98qn8",
-    "title": "Senior Product Manager, Global Brands",
-    "company": "Coats Group plc",
-    "location": "US +1 more",
-    "locations": [
-      "US",
-      "Oregon City, Oregon"
-    ],
-    "remote": false,
-    "posted": "2026-09-29T07:00:00.000Z",
-    "salaryMin": null,
-    "salaryMax": null,
-    "url": "https://www.indeed.com/viewjob?jk=0546c84206687f97",
-    "source": "Indeed",
-    "score": 13,
-    "reasons": [
-      "Senior/Group title",
-      "Positioning fit (operations)",
-      "AI signal (AI)",
-      "Resume fit ~16%",
-      "Outside target markets"
-    ],
-    "fetchedAt": "2026-09-29T17:26:53.230Z"
-  },
-  {
-    "id": "WjMyZ09GWnJjVGRlUklEbkFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTa1poWjNaV05FVkNjbGhCTWxGTllqQmxTSGgxWW5OeFVWRk9kWEE1T0hGeE5HSTJhbmhmYVRoVGFFaDJkbFl0VUZoeFpIbGZVamwxVW5wTVIzaFRRbXMwTUZkUlEzbGFNWEl4VkZwZlJsUkpOVFl3VTBvMFNYbEVNVGt5TFdFM1JFazJSaTE2V0RKbFVIVldWbWxCZFd4M0xUQkVkM0JSUWtSemRtaHZOblU0WjI5WGVuQVNGM2hmVXpkaGRuVmtTV0p0Y0hoak9GQnVOVTlFTkVGSkdpSkJSSE55T1daUlVYRllaSE5QYTB4bVZYZFRZa1Z0TVhkcWFWQXlVVnBNZUhSMw",
-    "fingerprint": "product manager modelling and simulation|ul solutions|1y0d54",
-    "title": "Product Manager - Modelling and Simulation",
-    "company": "UL Solutions",
-    "location": "Northbrook, Illinois",
-    "locations": [
-      "Northbrook, Illinois"
-    ],
-    "remote": false,
-    "posted": "2026-09-29T00:00:00.000Z",
-    "salaryMin": 125000,
-    "salaryMax": 140000,
-    "url": "https://www.builtinchicago.org/job/product-manager-modelling-and-simulation/11416726",
-    "source": "Built In Chicago",
-    "score": -2,
-    "reasons": [
-      "Positioning fit (supply)",
-      "AI signal (AI)",
-      "Resume fit ~20%",
-      "Outside target markets"
-    ],
-    "fetchedAt": "2026-09-29T17:26:53.228Z"
-  },
-  {
-    "id": "T21iUnhSRGtRV3VKTFoyS0FBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBURWsyVEdaeFVHWm9kRFEyTTFKTExUbHpXRVp5U1VOeFFuQXhPVEp3VFZGSmFrOU9aWGRNTlU5Mk5sWjZkRmRMWWpWMldubFVNVlZ5TnkxZlkxUm1WMHA2WkdGaVdITnBhMGg0U0RGUmMxcHRSRkZPVFRoR1dXZHdibGRrY20xUWJ6TkJPVGR1TVRST1FrTnBSR1ZSVVhWWlVGZG9MVUZTUXpsME9URkJhamxRV1ZaV1NETVNGM2hmVXpkaGRuVmtTV0p0Y0hoak9GQnVOVTlFTkVGSkdpSkJSSE55T1daU1YwaFdjVTR4ZVRSSlQzTmhXVGhFYlhsR2RWUm9lVnA1Y2tSMw",
-    "fingerprint": "product manager iii 18 month defined term|boston scientific|-fq91ag",
-    "title": "Product Manager III - 18-month Defined Term",
-    "company": "Boston Scientific",
-    "location": "Marlborough, Massachusetts",
-    "locations": [
-      "Marlborough, Massachusetts"
-    ],
-    "remote": false,
-    "posted": "2026-09-29T00:00:00.000Z",
-    "salaryMin": null,
-    "salaryMax": null,
-    "url": "https://www.linkedin.com/jobs/view/product-manager-iii-18-month-defined-term-at-boston-scientific-4473034776",
-    "source": "LinkedIn",
-    "score": 19,
-    "reasons": [
-      "Positioning fit (operations, vendor, supply)",
-      "AI signal (AI, ML)",
-      "Resume fit ~21%",
-      "Outside target markets"
-    ],
-    "fetchedAt": "2026-09-29T17:26:53.227Z"
-  },
-  {
-    "id": "UWgzWUpjRldPRTQtaG1yZ0FBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTVmhOYld4d04xTkRiRkpSWjNkUVJVZFFlVVZqWkdNME1rMXNXRGRHWnpOUlpUaFVYMkp0Y25aRmFWaGxkeko0TTBsaFVIRlliVm94YTFZNGNYbG9jbFZCTmtWRU9YbzBTa1paVmtNM1JtY3dibkV3ZG5OalFtTkdOMGczVG1oaFJWRk9iMVI2VXpoSFpXdG1Ua2x6ZVdWR1ZGRk9USGt0VmpoemEzSlpiM2hvUlhwbGQyY1NGM2hmVXpkaGRuVmtTV0p0Y0hoak9GQnVOVTlFTkVGSkdpSkJSSE55T1daVWQyaFhUbEpwWlhrM1pqWlhZMGxLWkZZdFdsaEtjemQxYTI5Qg",
-    "fingerprint": "global product manager remote|stryker|-4x6zvw",
-    "title": "Global Product Manager - Remote",
-    "company": "Stryker",
-    "location": "Not specified",
-    "locations": [
-      "Not specified"
-    ],
-    "remote": true,
-    "posted": "2026-09-29T10:00:00.000Z",
-    "salaryMin": null,
-    "salaryMax": null,
-    "url": "https://www.linkedin.com/jobs/view/global-product-manager-remote-at-stryker-4471554570",
-    "source": "LinkedIn",
-    "score": 34,
-    "reasons": [
-      "Positioning fit (network)",
-      "AI signal (AI)",
-      "Resume fit ~14%",
-      "Remote"
-    ],
-    "fetchedAt": "2026-09-29T17:26:53.226Z"
-  },
-  {
-    "id": "Z2lXNWNQTDhWZjR0Z2ZHN0FBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTbkZ6WDNCb1gxYzVjVmRpVlZsVVoxUnZRbTlGUldkVVNtSnVSa2QzVGpadlJUVTRkalJKVDFGWlNXUjBVbVY2UkZwblFYWkdjaTFNZG1nMloxZHpiR1ZQUzE5U2RuUlJVWEJDY1VOaWRFUjZkREJvUTIxSmNYaElVemg1ZVVFMVNqVTRSRXMyY0VScldGbGplazFHTUdSSldHODVjMFJFU0hFeVpUbFhVV1EwY0ZCcmNFMFNGM2hmVXpkaGRuVmtTV0p0Y0hoak9GQnVOVTlFTkVGSkdpSkJSSE55T1daU1QyRnpjSGhuY1hSMVpXdHdVRGRWUVVJelJGcHNjWEprWm1KQg",
-    "fingerprint": "product manager tech amazon optics|amazon|t01fzj",
-    "title": "Product Manager - Tech, Amazon Optics",
-    "company": "Amazon",
-    "location": "Arlington, Virginia",
-    "locations": [
-      "Arlington, Virginia"
-    ],
-    "remote": false,
-    "posted": "2026-09-29T00:00:00.000Z",
-    "salaryMin": null,
-    "salaryMax": null,
-    "url": "https://www.linkedin.com/jobs/view/product-manager-tech-amazon-optics-at-amazon-4473041555",
-    "source": "LinkedIn",
-    "score": 86,
-    "reasons": [
-      "Target company (Amazon)",
-      "Positioning fit (platform, operations, enterprise)",
-      "AI signal (AI, RAG)",
-      "Resume fit ~23%"
-    ],
-    "fetchedAt": "2026-09-29T17:26:53.225Z"
-  },
-  {
-    "id": "ZVY1Q1RzVkFldjJIemVOaEFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTMHRHY25aR2FYUklkVWQxYmxabWNrTkRPUzFLTXpRMmEydEJUSEV5VVRSTVJHZzJaVlJtVEdOelpVUXlWbHB4VUZSMWNXbDViRjk2YWxaSmNVTm9UR2c0VmpWeFpWUnNVME5HTXpNMVVXRklhR1JCWlVsWU1VZFhWa3BJWDIxaU1UVkNaWHBLU0dkT2FUbERZM1F6ZWxvemRtSlFaWEpGUkUxclltZHZWak41VVZrMmJuTVNGMVEzY1RaaGRubHJTMGxYZG5GMGMxQnNjbXBTYzFGckdpSkJSSE55T1daVVgzUjZkakZ1YkZOQlgyZEdWbmxYWjJZM1FWbDZVR1UxUVc5Qg",
-    "fingerprint": "product manager revenue cycle|davita kidney care|-j8oky3",
-    "title": "Product Manager, Revenue Cycle",
-    "company": "DaVita Kidney Care",
-    "location": "US",
-    "locations": [
-      "US"
-    ],
-    "remote": false,
-    "posted": "2026-09-28T00:00:00.000Z",
-    "salaryMin": 78000,
-    "salaryMax": 119000,
-    "url": "https://builtin.com/job/product-manager-revenue-cycle/11393075",
-    "source": "Built In",
-    "score": 7,
-    "reasons": [
-      "Positioning fit (platform, operations)",
-      "AI signal (AI, RAG)",
-      "Resume fit ~19%",
-      "Outside target markets"
-    ],
-    "fetchedAt": "2026-09-28T19:04:51.214Z"
-  },
-  {
-    "id": "cEszbTRONmxMS256OXJVZEFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTMUY1YmtoQ1NucFVka2hsU0hWYWRWSTNURUpsUlZwck9EWk9jMGRYWTNGV1ZYSlRUMHBGZEhkbmJESkxiVVp3WkVGUVNYcHNZMXBwVWxSUk1HOXpUMVpxWlVndGVtMXBZVFJKTWxocE5WWTFVWEV4UXpSMGFGZ3RWV05RTFdkVk5reFJkRmswVnpoU2MyNXRhMDFOVEd0RWF6TnVhbXBZZDJ0b1ZHRkNTbWh1VW5OVVpsZ1NGMVEzY1RaaGRubHJTMGxYZG5GMGMxQnNjbXBTYzFGckdpSkJSSE55T1daUk1rVm1TR1pFY2pkWWVGRXRSMGhVVDNOdE1URTVSM0YyYkVkUg",
-    "fingerprint": "service product manager gcms|shimadzu scientific instruments|ikegyy",
-    "title": "Service Product Manager - GCMS",
-    "company": "Shimadzu Scientific Instruments",
-    "location": "Columbia, Maryland",
-    "locations": [
-      "Columbia, Maryland"
-    ],
-    "remote": false,
-    "posted": "2026-09-28T15:00:00.000Z",
-    "salaryMin": null,
-    "salaryMax": null,
-    "url": "https://www.linkedin.com/jobs/view/service-product-manager-gcms-at-shimadzu-scientific-instruments-4472756151",
-    "source": "LinkedIn",
-    "score": 2,
-    "reasons": [
-      "Positioning fit (operations, network)",
-      "AI signal (AI)",
-      "Resume fit ~14%",
-      "Outside target markets"
-    ],
-    "fetchedAt": "2026-09-28T19:04:51.213Z"
-  },
-  {
-    "id": "clFhVkU5eHJQZzF6MUxsYkFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTVmgzWVRsclpqTklVRlI0ZEMxRVFuRnlXRGRPY0ZKMGRrb3dkekl6YWxVeWIzRjNYelJ6Y3pOSlkyczBhSFp5WVMxZlgxRXpkWGRpTm1KR1pGQnZWV3hzVkRoNE4xQmlWMWhzZVdreWQxQnVWVkZxY0daTFRscHRjRGR6ZGtsR1FVZGFiVVZSZG5Sa1V6SldTalYwYkhWaFEzQnBWbEJGWm1oWmJXVklSRU5QWVRkRGNtRVNGMVEzY1RaaGRubHJTMGxYZG5GMGMxQnNjbXBTYzFGckdpSkJSSE55T1daUmNVNUlXbFF0UXkwMk1WY3lObG8yV0dsdmVVdDNZVzF4WTBOMw",
-    "fingerprint": "group product manager aurora il|mitutoyo america corporation|k8yeu6",
-    "title": "Group Product Manager - Aurora, IL",
-    "company": "Mitutoyo America Corporation",
-    "location": "Aurora, Illinois",
-    "locations": [
-      "Aurora, Illinois"
-    ],
-    "remote": false,
-    "posted": "2026-09-28T16:00:00.000Z",
-    "salaryMin": 135000,
-    "salaryMax": 145000,
-    "url": "https://www.indeed.com/viewjob?jk=b7c75232e5514c16",
-    "source": "Indeed",
-    "score": 4,
-    "reasons": [
-      "Senior/Group title",
-      "AI signal (AI)",
-      "Resume fit ~17%",
-      "Outside target markets"
-    ],
-    "fetchedAt": "2026-09-28T19:04:51.212Z"
-  },
-  {
-    "id": "TnZiZ3QwYmd0LTVKREltY0FBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBUSEpWVGxSelkwNHpPRGxuV1Y5eWMyUlNTMHhSUWpGcVprWXhaRkpSYVdWT04xZFlTR2h0TFU1VVVXSTVaamhRYlZsc2NrUm1RWGw1V0RoNmMwSlBiRTFyVG05bFVXaGxWRTh3VkdvdFlVdDZVMUY1U25Ka2Jua3hTMHRsZFROSGRtdEZiakpoYkRZMldFNVRTR1EyYkRKc1pFVXdOMHh1TlVOYWRFNVhaVTV0ZWkxVWRWb1NGMU55Y1RaaGMzVjJTVXBxVUdoaVNWQnZkR0ptT0VGekdpSkJSSE55T1daVU9FTnphVGxqZDBsSVRuTlNVa3AwVERGeFVsTm9iMjF1UXpKUg",
-    "fingerprint": "digital product manager away from home|lassonde|-o03p72",
-    "title": "Digital & Product Manager – Away From Home",
-    "company": "Lassonde",
-    "location": "Rougemont, North Carolina",
-    "locations": [
-      "Rougemont, North Carolina"
-    ],
-    "remote": false,
-    "posted": "2026-09-28T16:00:00.000Z",
-    "salaryMin": null,
-    "salaryMax": null,
-    "url": "https://www.linkedin.com/jobs/view/digital-product-manager-%E2%80%93-away-from-home-at-lassonde-4470882773",
-    "source": "LinkedIn",
-    "score": 4,
-    "reasons": [
-      "Positioning fit (platform, B2B)",
-      "AI signal (AI, RAG)",
-      "Resume fit ~12%",
-      "Outside target markets"
-    ],
-    "fetchedAt": "2026-09-28T19:04:51.211Z"
-  },
-  {
-    "id": "ODFRUjctbE1sc3cxOEZTbEFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBUSEptU25aSE1WQlRNbmxLTURaeFMydHlPVmx2WW0wNWRGQjZZbEJMU2xORVdERTNjRUZOVjNKUldIZHFlWGRwVjNoVE9VRnNXREpaWDJjd2VGRjZaR3R3V0VGclRFOWxiR0ZvY0hCcGJEaElTMnMxVEVkT2NtcHFabVp1YjJoMFV6WTVkSEl6UVRSWWVESmZPV3RFVkhCWE16Wm1PRzFUVDAxWmRrVmZTMDF1TTFJeWRpMFNGMFJyUXpWaGRsZEdUelEyZFhkamMxQndUbTQyWjBGbkdpSkJSSE55T1daUk1FeDJlR1UxYlRac2QwMVllVko1YWpoaVJFMDVkMnR1UjNoUg",
-    "fingerprint": "pipeline senior product manager resy future opportunities|american express|22i55a",
-    "title": "Pipeline - Senior Product Manager, Resy (Future Opportunities)",
-    "company": "American Express",
-    "location": "New York, New York",
-    "locations": [
-      "New York, New York"
-    ],
-    "remote": false,
-    "posted": "2026-09-26T19:00:00.000Z",
-    "salaryMin": 123000,
-    "salaryMax": 215250,
-    "url": "https://www.linkedin.com/jobs/view/pipeline-senior-product-manager-resy-future-opportunities-at-american-express-4439815490",
-    "source": "LinkedIn",
-    "score": 79,
-    "reasons": [
-      "Senior/Group title",
-      "Positioning fit (marketplace, platform, B2B)",
-      "AI signal (AI, RAG)",
-      "Comp disclosed ≥ $175K",
-      "Resume fit ~25%",
-      "Visibility location"
-    ],
-    "fetchedAt": "2026-09-27T16:11:01.521Z"
-  },
-  {
-    "id": "MUt6blpKOTJBX1owUV9wSUFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTMGxWUVhGcVoybDRkWEpHYjE5U05qQlFjbU15VWpGRVpWbHliVkJxU0hFMlZ6WklXVmxuTjJwT2F6UnFaVmRIY2paSFlsSmZkVEpZVm1keWRUbHpOMVIwZG10TWNTMVJZM1ZFTkc1cE0wWlVWVFJhVUMwMFEwRkhTM2x4Ym0xelVFTXlVR1k0YWpOQ2VtaG5XVXRJWTIxRmFucEJXalEzVm1SaWJ6UllTa05ZU1U4M2VsVVNGME5yUXpWaGNXMVpUVGhITlhObFRWQnVPQzAzYzBGRkdpSkJSSE55T1daVE56UjZWMEY2YzBseU9UaEpiMWhxUm04eFZFMXRRVXBLUm14Mw",
-    "fingerprint": "digital technical product manager senior investment services company isco digital and design team|usaa|-eqysm9",
-    "title": "Digital / Technical Product Manager Senior – Investment Services Company (ISCO) Digital and Design Team",
-    "company": "USAA",
-    "location": "Tampa, Florida",
-    "locations": [
-      "Tampa, Florida"
-    ],
-    "remote": false,
-    "posted": "2026-09-26T21:00:00.000Z",
-    "salaryMin": null,
-    "salaryMax": null,
-    "url": "https://www.linkedin.com/jobs/view/digital-technical-product-manager-senior-%E2%80%93-investment-services-company-isco-digital-and-design-team-at-usaa-4470572704",
-    "source": "LinkedIn",
-    "score": 19,
-    "reasons": [
-      "Senior/Group title",
-      "Positioning fit (platform)",
-      "AI signal (AI, RAG)",
-      "Resume fit ~17%",
-      "Outside target markets"
-    ],
-    "fetchedAt": "2026-09-27T16:11:01.520Z"
-  },
-  {
-    "id": "Ti1zQzVmNmdCTkFUTWU3TkFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTM0JGU3pBM2NFVmZlVzUwYzBaVWFVbFZRbk5yUkdkRk9VMDRiRmwzWWxaeE9UY3pVV2x0VW05NlYxOWtiMVZRYTFCS1duRkNjM2RuYUdoNmRYSndZWEpIV1dkc09YcEZlWFJUZWtJeGFrTmxMWEp2Y2xSU1dtMVZSbFZqT0ZWc2QxVjNVVzVNTVcwd2RXNTFNWE5YTUZOZldIVlBkVVJhTjJ0cFRGRTVOWGxMYVVJMlNIa1NGME5yUXpWaGNXMVpUVGhITlhObFRWQnVPQzAzYzBGRkdpSkJSSE55T1daUlZWUnFPRmxqVFVaUlJYRm5VbGxYYTIweFFqQjVZVEpTWTBoUg",
-    "fingerprint": "principal product manager threat detection engine and content hybrid|crowdstrike|-ap1mia",
-    "title": "Principal Product Manager - Threat Detection Engine and Content (Hybrid)",
-    "company": "CrowdStrike",
-    "location": "Arlington, Virginia",
-    "locations": [
-      "Arlington, Virginia"
-    ],
-    "remote": false,
-    "posted": "2026-09-27T09:00:00.000Z",
-    "salaryMin": null,
-    "salaryMax": null,
-    "url": "https://www.linkedin.com/jobs/view/principal-product-manager-threat-detection-engine-and-content-hybrid-at-crowdstrike-4413639059",
-    "source": "LinkedIn",
-    "score": 15,
-    "reasons": [
-      "Positioning fit (platform, network)",
-      "AI signal (AI, ML, RAG)",
-      "Resume fit ~17%",
-      "Outside target markets"
-    ],
-    "fetchedAt": "2026-09-27T16:11:01.519Z"
   }
 ]
