@@ -1,5 +1,229 @@
 [
   {
+    "id": "bTBOMDF3aGxaQ09qaWZLcUFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxXWE5yU1U1TVYxaHlTR1JQWjA5RGNWaDRaVzVRTkZjeVpsSXRVamx2VERkcGVqZHFaa1JXYzJSQk9WQkhlbXgzVDFwbVEzVndTa3R5VEROME4wRnNjbmw2WTJOVFprZFNNMnhTWXpOUlNHTnBhWFYxWWprek5EWlVaRVZCZFY4eVNIRXRTR2h6VUd0NVRqaDVUMHRUY0ZwUE1XeDBhMnhSZGtkTWJteEZRbFJhYURRMldYQVNGM05DYm0xaGRsaGFTRzl0Ym1oMlkxQXlTM0pYTUZGVkdpSkJTRTR3UlRkRlNHUlJheTFyUVVWbGRqbEpaRnBDU2pReVVFTXdRM2xhTVVkUg",
+    "fingerprint": "sr ai product manager|hyundai capital america|gbn48m",
+    "title": "Sr. AI Product Manager",
+    "company": "Hyundai Capital America",
+    "location": "Irvine, California",
+    "locations": [
+      "Irvine, California"
+    ],
+    "remote": false,
+    "posted": "2026-10-31T01:00:00.000Z",
+    "salaryMin": 132000,
+    "salaryMax": 205000,
+    "url": "https://www.indeed.com/viewjob?jk=dca9a2fa15514c9f",
+    "source": "Indeed",
+    "score": 46,
+    "reasons": [
+      "Senior/Group title",
+      "Positioning fit (platform, enterprise)",
+      "AI signal (AI, GenAI, ML)",
+      "Comp disclosed ≥ $175K",
+      "Resume fit ~23%",
+      "Outside target markets"
+    ],
+    "fetchedAt": "2026-10-31T16:39:19.529Z"
+  },
+  {
+    "id": "S0VEaTFoUnhMaUphcnc3d0FBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxXbTFTT0RCT00xTTFMV05TWW5reVNraGlXSFJKTFc5bGRXTnFYMlkxT1ZaTGRsOVRTVTB6ZERCd1FsQktTekUyVEdGek5ESklMVkYyVVcwd1JtdHRhMVp0TWxodlVGTmFNV2RYVUZjMFJsRnVVbFV5V0RBMlluSjFUSHBvZEU1UVFVTklSRTEzVmtoTVh6WnJVVk4xU0d4SFZscDJiMFJOU21kWE5sTjFZVzFwWTFGeFVrVVNGM05DYm0xaGRsaGFTRzl0Ym1oMlkxQXlTM0pYTUZGVkdpSkJTRTR3UlRkRlUxWkZXVkJ3Ylc5RVV6QlphWEJGUVVoVVkxOXpSbEZuTVROUg",
+    "fingerprint": "senior engineering product manager strategic partnership initiatives|cisco|-np2jm4",
+    "title": "Senior Engineering Product Manager — Strategic Partnership Initiatives",
+    "company": "Cisco",
+    "location": "Durham, North Carolina",
+    "locations": [
+      "Durham, North Carolina"
+    ],
+    "remote": false,
+    "posted": "2026-10-31T05:00:00.000Z",
+    "salaryMin": null,
+    "salaryMax": null,
+    "url": "https://www.linkedin.com/jobs/view/senior-engineering-product-manager-%E2%80%94-strategic-partnership-initiatives-at-cisco-4485687017",
+    "source": "LinkedIn",
+    "score": 36,
+    "reasons": [
+      "Senior/Group title",
+      "Positioning fit (platform, network, SaaS)",
+      "AI signal (AI, ML, RAG)",
+      "Resume fit ~19%",
+      "Outside target markets"
+    ],
+    "fetchedAt": "2026-10-31T16:39:19.527Z"
+  },
+  {
+    "id": "SnI4eExYbTE0ejdyY0Y1UEFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxZVUZWWjJKVWNUQXpVVjlRZGkwdFNFNW9aM0Z4UzIxMmMxRm5ValZPWWsxNk9EVmtWRWMzUVUxUmJXTjZOVlZKYlhwQlYxWlFka3hNYzJnNVNFZFJYM2w0YUZWV05FWktRVVptUTJSV1EwVTBkbGhJTTBkNFpGaGFMV2hPTW5JMFdrMXFlSEZrYW1sSk9YUlhSM0ZJVTBnek1sSnRabGRCWlhsVVRuTTFSbU13Vm1aUlFuTVNGM05DYm0xaGRsaGFTRzl0Ym1oMlkxQXlTM0pYTUZGVkdpSkJTRTR3UlRkSFZUWmlRM0pUVTBOd0xVWm5WbkI0Um5KS1ZqRmlPVVpKWTI5Mw",
+    "fingerprint": "t ads sr product manager technical|t mobile usa inc|u58isr",
+    "title": "T-Ads Sr Product Manager, Technical",
+    "company": "T-Mobile USA, Inc.",
+    "location": "Bellevue, Washington",
+    "locations": [
+      "Bellevue, Washington"
+    ],
+    "remote": false,
+    "posted": "2026-10-30T17:00:00.000Z",
+    "salaryMin": 132900,
+    "salaryMax": 318840,
+    "url": "https://www.indeed.com/viewjob?jk=7b41b0602322723b",
+    "source": "Indeed",
+    "score": 17,
+    "reasons": [
+      "Positioning fit (network)",
+      "AI signal (AI, RAG)",
+      "Comp disclosed ≥ $175K",
+      "Resume fit ~19%",
+      "Outside target markets"
+    ],
+    "fetchedAt": "2026-10-31T16:39:19.526Z"
+  },
+  {
+    "id": "TENzRVBlcGN2X2hsa1dRU0FBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxZVWM0Wm1oRk1uRTNXV1F0YnpSMmIxWXdXSEJzUlVRMlNESXlkekUyYm13MGQxQmliRmR5WjBOellubEVOVU4xTlhseFlXVXRVaTB3VTFSRU9XVkdPRWg2WDFFMWNUVndOVEZwT0VwNmRXRmphRzFxUnpOQ05uUTRYelZCUlRZNGJYaGZUMUpuYjNsd1lrY3pkVmhxYUdWNGFUVk9UbmRTUkd4SFJUWlVlRkY2UTNoeWVqQVNGM05DYm0xaGRsaGFTRzl0Ym1oMlkxQXlTM0pYTUZGVkdpSkJTRTR3UlRkSFJWUmZibWhvVkVFMGFXNHhTWFJvZFdKNFJGTllRbGN5Y2w5Mw",
+    "fingerprint": "senior product manager crm revenue systems|united states gold bureau|-q5rlcs",
+    "title": "Senior Product Manager - CRM & Revenue Systems",
+    "company": "United States Gold Bureau",
+    "location": "Leander, Texas",
+    "locations": [
+      "Leander, Texas"
+    ],
+    "remote": false,
+    "posted": "2026-10-30T17:00:00.000Z",
+    "salaryMin": null,
+    "salaryMax": null,
+    "url": "https://www.indeed.com/viewjob?jk=c66f967a0576058c",
+    "source": "Indeed",
+    "score": 48,
+    "reasons": [
+      "Senior/Group title",
+      "Positioning fit (platform, B2B, operations)",
+      "AI signal (AI, LLM, agent)",
+      "Resume fit ~30%",
+      "Outside target markets"
+    ],
+    "fetchedAt": "2026-10-31T16:39:19.524Z"
+  },
+  {
+    "id": "WmtzaVE0bGNnRExTWHd2SkFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxXbFJuZW1sM1IxbHVkMGd5VmpCT1RuZ3hkbmg1VXpFM1QwVjVZV1JyU2tkelZEbENZMlo0WjNNdE9XTkdha2xxTFhRd1JsSm9hbWhDZDFSWFZVRkhWMmRCVVV4S2FWSlRNRk5hVld4ellYcEtXWFpWY0dwV1lsUkdTMjFXWVhKWFprcHJSV1ZLZEZReGNWOU5ZV3RITFVSWWRFUk5USEprU1ZSWFVUZDFhWFpwTWpaa1oxQVNGM05DYm0xaGRsaGFTRzl0Ym1oMlkxQXlTM0pYTUZGVkdpSkJTRTR3UlRkSFdGUTBYMXAwT1haZmNXWklhMVIzVUVrMldsZDVRVTQwTm1wMw",
+    "fingerprint": "senior product manager ai digital health|tranzeal incorporated|-wm2rrf",
+    "title": "Senior Product Manager – AI & Digital Health",
+    "company": "Tranzeal Incorporated",
+    "location": "Not specified",
+    "locations": [
+      "Not specified"
+    ],
+    "remote": true,
+    "posted": "2026-10-30T22:00:00.000Z",
+    "salaryMin": null,
+    "salaryMax": null,
+    "url": "https://www.linkedin.com/jobs/view/senior-product-manager-%E2%80%93-ai-digital-health-at-tranzeal-incorporated-4485107391",
+    "source": "LinkedIn",
+    "score": 62,
+    "reasons": [
+      "Senior/Group title",
+      "Positioning fit (operations, vendor)",
+      "AI signal (AI, ML)",
+      "Resume fit ~17%",
+      "Remote"
+    ],
+    "fetchedAt": "2026-10-31T16:39:19.524Z"
+  },
+  {
+    "id": "bFk3RVppbldUMEJpWmxFY0FBQUFBQT09OkVzc0JDb3dCUVVSRVlsZGxXVEJuVEVkRWVsVkVVRE5UTVVobk5WaE1jSEZVVW1KNmVIUTRhMkZZVjJoUWFqSTBNRXRKZVVkcGVXeEVkVVYyUm5SUVNYSkRVamRVVGw4eFJuWjRZVjlIT1VSUldtZzRhVGRwVVhKdWVtNVNWSFl6VWxoM1MwWjVRVk5CVDBOcWJGaHNVRFJ1WWpGTGJFdE1TMjFXUWxoYWRVSlJVbTVYWDFWSE5VNDRXVlo0Y1ZJNFRYQVNGbkpDYm0xaGRWQlBSV1JoTUdoMlkxQTFVSEY2VDFFYUlrRklUakJGTjBZMFZFUjNVVTh0UlhneVRYcEhkM1JhYjJZeWMzZDFZWGxZTlVF",
+    "fingerprint": "product manager|grass america inc|tzu3vk",
+    "title": "Product Manager",
+    "company": "Grass America, Inc.",
+    "location": "Kernersville, North Carolina",
+    "locations": [
+      "Kernersville, North Carolina"
+    ],
+    "remote": false,
+    "posted": "2026-10-30T18:00:00.000Z",
+    "salaryMin": null,
+    "salaryMax": null,
+    "url": "https://www.indeed.com/viewjob?jk=c11a1dfb87d0febf",
+    "source": "Indeed",
+    "score": 10,
+    "reasons": [
+      "Positioning fit (B2B, operations, supply)",
+      "AI signal (AI)",
+      "Resume fit ~18%",
+      "Outside target markets"
+    ],
+    "fetchedAt": "2026-10-31T16:39:19.522Z"
+  },
+  {
+    "id": "T05hZF9Rd0NVdVRwTk5jUUFBQUFBQT09OkVzc0JDb3dCUVVSRVlsZGxXbWQ0U1Y5cFMwZHBTREZMTTBweU9IaGZVelJ2Tm5Cek5HcFNkMXA0VldaSE4zVTRSMHBuVTNCdE1VVmFibU54VlZseVdHazJjMHhxZHpNMlJYRXhUekF0TFhZMVN6Tk9jMUZ2VW5CTE4wRXhiVTVXYTBSdlYwcENSSGxHWlRkYWExSmpRbXczV2tOSk1FdEJMVWw0Tkc1Q1FUSnRTRkJZYm5oUVdYTXRWVzU0VEhkMGIyRVNGbkpDYm0xaGRWQlBSV1JoTUdoMlkxQTFVSEY2VDFFYUlrRklUakJGTjBoMU9TMTJUWGhmVlZKc2RVSkRYME5NTVRKMFR6bDFkV2xuTlhj",
+    "fingerprint": "converge for fsi rae lead product manager products platforms|deloitte|jc75jy",
+    "title": "Converge for FSI - RAE, Lead Product Manager_Products & Platforms",
+    "company": "Deloitte",
+    "location": "New York, New York",
+    "locations": [
+      "New York, New York"
+    ],
+    "remote": false,
+    "posted": "2026-10-31T00:00:00.000Z",
+    "salaryMin": null,
+    "salaryMax": null,
+    "url": "https://www.linkedin.com/jobs/view/converge-for-fsi-rae-lead-product-manager-products-platforms-at-deloitte-4485639928",
+    "source": "LinkedIn",
+    "score": 57,
+    "reasons": [
+      "Positioning fit (platform, B2B, operations)",
+      "AI signal (AI, agent, RAG)",
+      "Resume fit ~23%",
+      "Visibility location"
+    ],
+    "fetchedAt": "2026-10-31T16:39:19.521Z"
+  },
+  {
+    "id": "ZmlhTEJBX254ZHVabTlzdkFBQUFBQT09OkVzc0JDb3dCUVVSRVlsZGxZVUpIY0ZwU09VUnRiemxXYTJscmRERk5OVXh6TVVWeWIybEZUV1F6YjI5UVdtVmxZMVp6VFhKRGRIWkNjMVJHY3premRrODRVVU40UzNOMWRFcE5UalpvUkVWUlEwSXpia05VWWtKM1VHVlBSV1JpY1dkMWRVOVpkRUpwZDFKclRtd3pWM3BRVlVOTk1VRmtWME5DVVdwSGRGRmZPWFJOTjJocVNYQlFjRUZKZVVOVkxXZ1NGbkpDYm0xaGRWQlBSV1JoTUdoMlkxQTFVSEY2VDFFYUlrRklUakJGTjBaZmVuSkNhbUl5Y0U4NWJHVXRUbGx6VUU5UGMxWlFRbEV4ZDFF",
+    "fingerprint": "confluent product manager growth marketer|ibm|-2ujg8e",
+    "title": "Confluent - Product Manager, Growth Marketer",
+    "company": "IBM",
+    "location": "Not specified",
+    "locations": [
+      "Not specified"
+    ],
+    "remote": true,
+    "posted": "2026-10-30T22:00:00.000Z",
+    "salaryMin": 109000,
+    "salaryMax": 205000,
+    "url": "https://www.linkedin.com/jobs/view/confluent-product-manager-growth-marketer-at-ibm-4483907533",
+    "source": "LinkedIn",
+    "score": 62,
+    "reasons": [
+      "Positioning fit (platform, B2B, operations)",
+      "AI signal (AI)",
+      "Comp disclosed ≥ $175K",
+      "Resume fit ~23%",
+      "Remote"
+    ],
+    "fetchedAt": "2026-10-31T16:39:19.520Z"
+  },
+  {
+    "id": "amFRX05qbzcwS3RDalhQTUFBQUFBQT09OkVzc0JDb3dCUVVSRVlsZGxZVWhOT1ZoUmJEUm5OR1ZJU1RORGMwc3pPV0UwTVU1RlUyRlRXbEIzVVdaak5uUmlNMGxVUTNkVlgyVjZSMVZXUWtJMGEzWm5PV2xSYzFRdFQyWnVWbkEwZUdad1dXRnRVMEZPVFRKQmVUUnpOVkY1UTBwRlJuVmpkMnRWT1VaNldFbERPRTlIWjFOamIybG5NMWcyUWpWdVpYSnhjRE5QTjFGRlN5MVpWblo0YlRWYWFVa1NGbkpDYm0xaGRWQlBSV1JoTUdoMlkxQTFVSEY2VDFFYUlrRklUakJGTjBkbFprUlFjVkJTWTBaRVlWQTRUMFpWZW5CWmFWWndWRkpDWkVF",
+    "fingerprint": "usa staff product manager health and wellness|walmart|-690lgx",
+    "title": "(USA) Staff, Product Manager - Health and Wellness",
+    "company": "Walmart",
+    "location": "Bentonville, Arkansas",
+    "locations": [
+      "Bentonville, Arkansas"
+    ],
+    "remote": false,
+    "posted": "2026-10-30T18:00:00.000Z",
+    "salaryMin": 110000,
+    "salaryMax": 220000,
+    "url": "https://www.indeed.com/viewjob?jk=2cc4b3fb22da8f4a",
+    "source": "Indeed",
+    "score": 32,
+    "reasons": [
+      "Positioning fit (platform, B2B)",
+      "AI signal (AI, ML, RAG)",
+      "Comp disclosed ≥ $175K",
+      "Resume fit ~25%",
+      "Outside target markets"
+    ],
+    "fetchedAt": "2026-10-31T16:39:19.519Z"
+  },
+  {
     "id": "YTltWXJQT2s3cVEzLUpyN0FBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxZblZKYTJOaWFVTXlkV1ZWZFY5bWFEUXRha3QyWlhWZlFqUldOWE5NZUVoWVIxODRSVjl0VFZaUWRWcGxRMG96WmpKbGNUQkViMnhYU0dac2VFTkNSelZ6VVZWeVRVUlZVbTlKWm5JdFZVTmFkbEpVYVdNMFQyNUVNRk16WDJoNldGWm9iWEZIVEhsRmJFUTBSakZUZG05MVJETnZSalI2ZUdaTGEyaEZlVTFPUTBkM2REVVNGMVJPV0d0aGNVUnBUM1J5U0hKMVJWQjFaVlJxZVVFd0dpSkJTRTR3UlRkSVNVbHhYelk1UzI1MGFtSnBiMmhqVlVwTFFtWXRjbEozVERaQg",
     "fingerprint": "scrum master hardware product manager|on energy|hpf0ar",
     "title": "Scrum Master - Hardware Product Manager",
@@ -4696,228 +4920,5 @@
       "Outside target markets"
     ],
     "fetchedAt": "2026-10-01T17:51:05.692Z"
-  },
-  {
-    "id": "V1pZR29BQXJ6RGZZbTBNRUFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTVGxsWkRCd0xUSnNaSGwwVVV4NWVGSkxOSFJYYVcxNU9ITkpaRkJ6ZVZkMU5VMVhhVnBYY1ZCWGREWndWRmczTnpCTVRVNVRkM0pCVkVRMFdITnJNV1ozYzI1U1MyOUtNV1JFTlVwbVJqQnVWbWRKYWxSU05WTlljblJ0TVdwb1h6VllTalkyV1hVMlpVSmlTWGhVU2sxUldtbElNR1I1TVRCRVVXeDNaVzk2T0RsbGRYSVNGMmRhTWkxaGNqTnVUV1ZmYTNkT05GQXlaRXhLTFVGdkdpSkJSSE55T1daVGFWaGxlRlJNY0c5eFdtRmhNa1l4UVRBMlIyY3pkWE42ZVhoQg",
-    "fingerprint": "us senior product manager|blue bottle coffee|-d472mq",
-    "title": "US Senior Product Manager",
-    "company": "Blue Bottle Coffee",
-    "location": "San Francisco, California",
-    "locations": [
-      "San Francisco, California"
-    ],
-    "remote": false,
-    "posted": "2026-09-30T18:00:00.000Z",
-    "salaryMin": null,
-    "salaryMax": null,
-    "url": "https://www.linkedin.com/jobs/view/us-senior-product-manager-at-blue-bottle-coffee-4473583348",
-    "source": "LinkedIn",
-    "score": 62,
-    "reasons": [
-      "Senior/Group title",
-      "Positioning fit (operations, supply)",
-      "AI signal (AI, RAG)",
-      "Resume fit ~17%",
-      "Priority location (Chicago/Bay Area)"
-    ],
-    "fetchedAt": "2026-10-01T17:51:05.691Z"
-  },
-  {
-    "id": "V0xFcURjTllwRks2dGJaOUFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTVEZyTldJM09XbG1jR3RhZWtsNllWZHVVMkZvWlVWVVJscDVOVVJMYzJoS1h6SnVhbVZ3V1RNd1JYTnlNMFp4WjBkUU0ybHpNME5mVVZOME5tb3lURFo1V25kelQxQlVSelYzWDI1allVd3hRelZPZEY4M2Vta3lUWEExVFd0cmJsaExWMGxLU2kxbU4wMU9ObEJKZDFkeE1IVkRhbUpKVEVaaVJ6aGhiM0pJUWpkRk1HSVNGMWxLTWkxaGNucG5RWFJsWkdoMlkxQTRUR3BpYzFGbkdpSkJSSE55T1daVE5rRXpPVVZWTms4dFZsRXRaR0YzWkVjMGFWZGpWSFZHY0ZCUg",
-    "fingerprint": "senior product manager sub same day ssd dot|amazon|-feak9t",
-    "title": "Senior Product Manager, Sub-Same Day (SSD) - DOT",
-    "company": "Amazon",
-    "location": "New York, New York",
-    "locations": [
-      "New York, New York"
-    ],
-    "remote": false,
-    "posted": "2026-10-01T11:00:00.000Z",
-    "salaryMin": null,
-    "salaryMax": null,
-    "url": "https://www.linkedin.com/jobs/view/senior-product-manager-sub-same-day-ssd-dot-at-amazon-4474191079",
-    "source": "LinkedIn",
-    "score": 110,
-    "reasons": [
-      "Target company (Amazon)",
-      "Senior/Group title",
-      "Positioning fit (operations, network)",
-      "AI signal (AI, LLM, RAG)",
-      "Resume fit ~26%",
-      "Visibility location"
-    ],
-    "fetchedAt": "2026-10-01T17:51:05.689Z"
-  },
-  {
-    "id": "dG5qNW41bmU1ekJXSEQ1SUFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTM1Y0ZVVodGFIbHVjR2RDYWxkS1JFTlZOVmxsVjBFMVRYZDZZVkJMVFhOc1FrOXJkVTVQYURGT1JsRXlVVTQ1UjNCSGVHdHpPRlJWTkhnNFZEZFBOak5aTVhnMVlsWkxZMTlUU1dwa1YwSXRjbm95TVVKRGJVazBNbGxVV1RWdFNHdzRibE51T0dwVlR6TmFUM0F3UW5nMWVHMW1TVzFIUzJGcWVtcG5VMGRQVDFnNE5sY1NGMWxLTWkxaGNucG5RWFJsWkdoMlkxQTRUR3BpYzFGbkdpSkJSSE55T1daVVNGaFBSa1JDYkdvMFFrbERUM2RMVVZGc2FFaGlSVTF0UjJkQg",
-    "fingerprint": "product manager design ux|fizz|m94ln2",
-    "title": "Product Manager, Design & UX",
-    "company": "Fizz",
-    "location": "New York, New York",
-    "locations": [
-      "New York, New York"
-    ],
-    "remote": false,
-    "posted": "2026-09-30T18:00:00.000Z",
-    "salaryMin": 140000,
-    "salaryMax": 180000,
-    "url": "https://www.linkedin.com/jobs/view/product-manager-design-ux-at-fizz-4472323893",
-    "source": "LinkedIn",
-    "score": 53,
-    "reasons": [
-      "Positioning fit (platform, network)",
-      "AI signal (AI)",
-      "Comp disclosed ≥ $175K",
-      "Resume fit ~24%",
-      "Visibility location"
-    ],
-    "fetchedAt": "2026-10-01T17:51:05.689Z"
-  },
-  {
-    "id": "cGhuNXN2Sm1Cd2hySnl1U0FBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTbmRQYVZZd2RUZG1VVEJmVVZGV1ltVkpabUpmZW5BME9IZDNZVUZDTkd0SFFYbHRTSEZFZEdNMlUyNDRXWFZ6ZDFZNVUzSnRaVGczWWs1bFMxTTRVVWcwZW10d1dESmtiVmgwZDJwQllVdHRORTExV1ZoYVIwaGtRamcyU0hvd2JWaEJTa2hHT0ZaalZHTnNUR3RTU25oWlpEZEtjVWxuWlROQ1JFTk9hRFpqVFdwbldXMFNGMWxLTWkxaGNucG5RWFJsWkdoMlkxQTRUR3BpYzFGbkdpSkJSSE55T1daUmExZHlZME52Y1d0b1VFazFVVlpvU25rMlltOUJOWFJUTWtwMw",
-    "fingerprint": "product manager ii quick to market|zurn elkay water solutions|3nz0w6",
-    "title": "Product Manager II - Quick To Market",
-    "company": "Zurn Elkay Water Solutions",
-    "location": "Lanark, Illinois",
-    "locations": [
-      "Lanark, Illinois"
-    ],
-    "remote": false,
-    "posted": "2026-09-30T22:00:00.000Z",
-    "salaryMin": null,
-    "salaryMax": null,
-    "url": "https://www.linkedin.com/jobs/view/product-manager-ii-quick-to-market-at-zurn-elkay-water-solutions-4472353830",
-    "source": "LinkedIn",
-    "score": 17,
-    "reasons": [
-      "Positioning fit (platform, operations, supply)",
-      "AI signal (AI, RAG)",
-      "Resume fit ~20%",
-      "Outside target markets"
-    ],
-    "fetchedAt": "2026-10-01T17:51:05.687Z"
-  },
-  {
-    "id": "UUNrcDZuMUZLMmcwTUdTSEFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTa00xTWxWNVRGODBZbmQ2TFZsSGFGa3RMV013YkhSSldqSldjemRXTTJ4M1EwWjJlVk15TkVwV2FHNWlUM1paYlhoNlYwNHdiREYwWkZOblZFNVlObTVxVlc5cFJXVlZlRXAwVXpCd1JUWjNWMDloWjFONVNFbFBSVUU1V1doSWFFcHdUbXB6YjBwMFpHWndXRmh0VGpjdGNqbENZM1p0VFhGUlNEbFpUM05XWm5wNVowOFNGM0pyVnpsaGNUSk5TR0poZEhKMVJWQXlZV1Z6ZVZFNEdpSkJSSE55T1daVE9YZ3pUemRIZDBKRk1WVm5MVk52VVVWbmJqWlBka0l4ZEhwQg",
-    "fingerprint": "product manager self service data platform|geico|sw6m97",
-    "title": "Product Manager, Self-Service Data Platform",
-    "company": "GEICO",
-    "location": "Bethesda, Maryland",
-    "locations": [
-      "Bethesda, Maryland"
-    ],
-    "remote": false,
-    "posted": "2026-09-30T09:00:00.000Z",
-    "salaryMin": 95325,
-    "salaryMax": 157850,
-    "url": "https://www.linkedin.com/jobs/view/product-manager-self-service-data-platform-at-geico-4454935825",
-    "source": "LinkedIn",
-    "score": 26,
-    "reasons": [
-      "Positioning fit (platform, vendor, enterprise)",
-      "AI signal (AI, LLM, ML)",
-      "Resume fit ~28%",
-      "Outside target markets"
-    ],
-    "fetchedAt": "2026-09-30T17:24:01.312Z"
-  },
-  {
-    "id": "TjRQZXFBTlRiS3lOSURUQUFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTMUJwVXkweFZscFNWbU40WDFkZlluVlVaMk41ZEMxcllreGhRekEyVFhReWNFTmhaWE5XU1dFMFgyTlpXVzh6TkRGTFowWXRWMmR3YzJ4cWMxOHphMkZtTm1wdWNIUjVUVGRQTWs1b1NHazVjM0U0VFhWZk1EQm5YMXBsWDFOMFRqZHdURWt3UTBkRU1GQTBkVE5CYUhSRWFVSkZZVE5aTjJjME1XbE5WMGh5ZVc1T2FGa1NGM0pyVnpsaGNUSk5TR0poZEhKMVJWQXlZV1Z6ZVZFNEdpSkJSSE55T1daVFJtSXlja0Z3Y1VkSGRFaENSVE4xZGs1TlpqbFhNRkJ3VkRKbg",
-    "fingerprint": "product manager|napa home garden|iec9md",
-    "title": "Product Manager",
-    "company": "Napa Home & Garden",
-    "location": "Norcross, Georgia",
-    "locations": [
-      "Norcross, Georgia"
-    ],
-    "remote": false,
-    "posted": "2026-09-29T20:00:00.000Z",
-    "salaryMin": null,
-    "salaryMax": null,
-    "url": "https://www.linkedin.com/jobs/view/product-manager-at-napa-home-garden-4471961285",
-    "source": "LinkedIn",
-    "score": 9,
-    "reasons": [
-      "Positioning fit (operations, vendor, enterprise)",
-      "AI signal (AI)",
-      "Resume fit ~17%",
-      "Outside target markets"
-    ],
-    "fetchedAt": "2026-09-30T17:24:01.311Z"
-  },
-  {
-    "id": "SUVUUEF3b0VGUmZMejFXR0FBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTMlpRWkdRMGVGWmZhM05LYW1obVFXbG1SR1pITURWVlpVZEhTemhUVGw5M1pHUmxWSE50WDFCNmJrVlVTRTVmUVdOd1ZqbHJiMDgxT1c5UFFqWjFUbkZ0UzFvNE5uUlpZelprYXpSblVWUlNVMDFEZGpaVVpGTm1RMlJEU1dOeVdEVjNVelpOUm5ReFRHVjRaMFJxTURCSGVXeFFSR3hvTmpVNWNtZHhjVXRqT1VoU01YUVNGM0pyVnpsaGNUSk5TR0poZEhKMVJWQXlZV1Z6ZVZFNEdpSkJSSE55T1daVFRUZGFaM0psVEc1S2RWODRUVWN5VDFSbU5XWnVRM2MxYjJsMw",
-    "fingerprint": "principal product manager|sofi|em7y2n",
-    "title": "Principal Product Manager",
-    "company": "SoFi",
-    "location": "New York, New York",
-    "locations": [
-      "New York, New York"
-    ],
-    "remote": false,
-    "posted": "2026-09-29T21:00:00.000Z",
-    "salaryMin": 240000,
-    "salaryMax": 330000,
-    "url": "https://www.linkedin.com/jobs/view/principal-product-manager-at-sofi-4473548102",
-    "source": "LinkedIn",
-    "score": 57,
-    "reasons": [
-      "Positioning fit (platform, operations, vendor)",
-      "AI signal (AI)",
-      "Comp disclosed ≥ $175K",
-      "Resume fit ~23%",
-      "Visibility location"
-    ],
-    "fetchedAt": "2026-09-30T17:24:01.309Z"
-  },
-  {
-    "id": "dUtRclpXMmhaSUItSW9rbUFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTbFZGWWpoQlEwVnBNMEZSVjJObVgzUjFSMmg0Y1ZBNGJHbGFRa1YxYmxWQ2NqWkZNM2d6Y1ZSUFNITnRiVU5GYmtoVE9YTmpORjl5WVcxNk1WcERSR3R4VUMxbFUxcDNYMFJXYWxWUlUyNHhhRkp4YlhSQ1RYaDJhV2RaZEZOVmVGYzRNa1J2ZUVOME1FVTNWVTVaVDJwdlNGbG9OM0JqZEdaMVNHMUpNeko2YTFKc1pqUVNGM0pyVnpsaGNUSk5TR0poZEhKMVJWQXlZV1Z6ZVZFNEdpSkJSSE55T1daU1FXNVRUVk0yVXpsSGN6WnJjVkEwTkVKQlJVWlhWRTVrV0dkMw",
-    "fingerprint": "group lead product manager patient data platform|cedar|-vyo4zr",
-    "title": "Group Lead Product Manager (Patient Data Platform)",
-    "company": "Cedar",
-    "location": "Not specified",
-    "locations": [
-      "Not specified"
-    ],
-    "remote": true,
-    "posted": "2026-09-29T21:00:00.000Z",
-    "salaryMin": null,
-    "salaryMax": null,
-    "url": "https://www.linkedin.com/jobs/view/group-lead-product-manager-patient-data-platform-at-cedar-4473553042",
-    "source": "LinkedIn",
-    "score": 83,
-    "reasons": [
-      "Senior/Group title",
-      "Positioning fit (platform, operations, network)",
-      "AI signal (AI, agent, RAG)",
-      "Resume fit ~29%",
-      "Remote"
-    ],
-    "fetchedAt": "2026-09-30T17:24:01.308Z"
-  },
-  {
-    "id": "UGVSMklHR2RWVGZWaERDWEFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBUREU1T0V4SVJYaFFZamhTTUMxalUwZFJabVpZWmpsTldWSkpkR2xMYUVJMllXVXlNbUZoZEhCWVVtMHlSRmxRTTJSdVUyRkZaalJWWmxGTlJsZ3RPRFV0UVMxZlYyNWtiM2RMV0RodmVtdGFXVFpLWnpWalRHRXdNRmRLVUUxaFozZExNWEpTWWpSaVJXeEVTRkl6ZDBwcFIzRlhhWFJFUkZoSlNGWjNZMkZDWkZwUVFrMFNGM0ZGVnpsaGRVTmFSQzF5VmpWT2IxQjBUVVJITUVGckdpSkJSSE55T1daVVdHeGxRa2M0VFdwaVZHUXdaMnR4YUhkbE1UWjNPVzE1VTE5Ug",
-    "fingerprint": "retirement wealth sr product manager remote|inspira financial|lgrhg",
-    "title": "Retirement & Wealth - Sr. Product Manager (Remote)",
-    "company": "Inspira Financial",
-    "location": "Not specified",
-    "locations": [
-      "Not specified"
-    ],
-    "remote": true,
-    "posted": "2026-09-30T00:00:00.000Z",
-    "salaryMin": 115000,
-    "salaryMax": 145000,
-    "url": "https://www.builtinchicago.org/job/retirement-wealth-sr-product-manager-remote/11440268",
-    "source": "Built In Chicago",
-    "score": 50,
-    "reasons": [
-      "Senior/Group title",
-      "Positioning fit (platform)",
-      "AI signal (AI)",
-      "Resume fit ~21%",
-      "Remote"
-    ],
-    "fetchedAt": "2026-09-30T17:24:01.306Z"
   }
 ]
