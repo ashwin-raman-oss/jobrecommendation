@@ -1,5 +1,29 @@
 [
   {
+    "id": "RFFQWnNzVjZkOGhVSk8yZUFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxXVXhyVERBMlFXTnlOWEYxZEVGTlpHOVZWSFpLTXpkaVdHcFlkRlk1VEU5WWJqWm9WMm8wYVhsUmJUZDNkVTVHUzJsRWExZzVTV04wV0MxR01HOVNZbFkwVjFnd1NuWnhXVEpYVFVvd05FMWxkMDkyUzJOQloycFJkMnR1Y1ZWNVVEUkZjbXRvTVRWTWJsVjBVRFo1ZGxaV1VFbEpSRjlzYkdrMVdrRkpNVkpTWlVSWGNXVVNGelZ1WW01aGMwOTVTVGczTFhCMFVWQTNaa2RGT0ZGVkdpSkJTRTR3UlRkR0xWUnRZV2xhY2s1NFdUTXhTSGs0Wmt4U1psTlFhVWxQYkVOMw",
+    "fingerprint": "product manager intelligent platforms healthcare|mckesson|12bvij",
+    "title": "Product Manager, Intelligent Platforms - Healthcare",
+    "company": "McKesson",
+    "location": "Home, Washington",
+    "locations": [
+      "Home, Washington"
+    ],
+    "remote": false,
+    "posted": "2026-10-31T23:00:00.000Z",
+    "salaryMin": null,
+    "salaryMax": null,
+    "url": "https://www.linkedin.com/jobs/view/product-manager-intelligent-platforms-healthcare-at-mckesson-4485905700",
+    "source": "LinkedIn",
+    "score": 25,
+    "reasons": [
+      "Positioning fit (platform, operations, enterprise)",
+      "AI signal (AI, machine learning, agent)",
+      "Resume fit ~22%",
+      "Outside target markets"
+    ],
+    "fetchedAt": "2026-11-01T17:29:25.057Z"
+  },
+  {
     "id": "bTBOMDF3aGxaQ09qaWZLcUFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxXWE5yU1U1TVYxaHlTR1JQWjA5RGNWaDRaVzVRTkZjeVpsSXRVamx2VERkcGVqZHFaa1JXYzJSQk9WQkhlbXgzVDFwbVEzVndTa3R5VEROME4wRnNjbmw2WTJOVFprZFNNMnhTWXpOUlNHTnBhWFYxWWprek5EWlVaRVZCZFY4eVNIRXRTR2h6VUd0NVRqaDVUMHRUY0ZwUE1XeDBhMnhSZGtkTWJteEZRbFJhYURRMldYQVNGM05DYm0xaGRsaGFTRzl0Ym1oMlkxQXlTM0pYTUZGVkdpSkJTRTR3UlRkRlNHUlJheTFyUVVWbGRqbEpaRnBDU2pReVVFTXdRM2xhTVVkUg",
     "fingerprint": "sr ai product manager|hyundai capital america|gbn48m",
     "title": "Sr. AI Product Manager",
@@ -4896,29 +4920,5 @@
       "Resume fit ~23%"
     ],
     "fetchedAt": "2026-10-01T17:51:05.694Z"
-  },
-  {
-    "id": "UENhdFhnYUdJUW93MjRmS0FBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBUREZJTkVkQlprNTVPVzVEYXkxSk5rSjJSWFZPWDJOZmFqWkpZMkozUm5OME1VTkRUMlJHT0dWZmVqTmtVMnN4WjJwSVJrZGlUM2Q1WTBKM01qRk9SV0phVVdGSFpGRTVZeTFVTUV4S01rSmlhekJhWW01bWJTMXFaMFpDU0VWVU56YzVabmR5UXpVNVRrNXFjV2hXZVZKVWFHNWZiakZUUzA1dGNGTldSbEpwTW5WQ2JHd1NGMmRhTWkxaGNqTnVUV1ZmYTNkT05GQXlaRXhLTFVGdkdpSkJSSE55T1daVVZURnliRVUzV0c1SldtdDZkMkZJT1dGS09XbEZNV3BvZDJkMw",
-    "fingerprint": "sr product manager seasonings|mccormick company|-zcsjqh",
-    "title": "Sr Product Manager - Seasonings",
-    "company": "McCormick & Company",
-    "location": "Cockeysville, Maryland",
-    "locations": [
-      "Cockeysville, Maryland"
-    ],
-    "remote": false,
-    "posted": "2026-10-01T10:00:00.000Z",
-    "salaryMin": null,
-    "salaryMax": null,
-    "url": "https://www.linkedin.com/jobs/view/sr-product-manager-seasonings-at-mccormick-company-4446032953",
-    "source": "LinkedIn",
-    "score": 11,
-    "reasons": [
-      "Positioning fit (marketplace, platform, operations)",
-      "AI signal (AI, RAG)",
-      "Resume fit ~14%",
-      "Outside target markets"
-    ],
-    "fetchedAt": "2026-10-01T17:51:05.692Z"
   }
 ]
