@@ -1,5 +1,155 @@
 [
   {
+    "id": "RHFaYWRjaFBGYkJpMUlJSUFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxXbUZJYjJwYVVFUmFSV2xMTlV4dVMwa3RjR0oyWmpOWFMydDFiR05YVDBVNGNGVnBaVW8zWm5oVFNqTkNPSGhVY2tzeVpYbHFNVloxVm1weE1YVk5RM0pMVWpSR1V6Vm1NMTlwYW5CelNWWktkbWhYUWxCNVkybEhTVWhQUVhOVlNsVnhkMGd3VDNKT1RsaDZkVXBMWlRkdFFWWmlNMGhmTVVGRFozTnJPR1J1V21jNGJuUVNGMGQ1TjNGaGIwOHRRVFpQWjJoMlkxQmZjbDlaTmxGWkdpSkJTRTR3UlRkSWJGWlRUVGhZWWpKNk56WnVNbk5tU25jNWNtcFdaRGN5VGt4bg",
+    "fingerprint": "group product manager revenue platform|adyen|3znsn0",
+    "title": "Group Product Manager, Revenue Platform",
+    "company": "Adyen",
+    "location": "Chicago, Illinois",
+    "locations": [
+      "Chicago, Illinois"
+    ],
+    "remote": false,
+    "posted": "2026-11-02T23:00:00.000Z",
+    "salaryMin": 235000,
+    "salaryMax": 317000,
+    "url": "https://www.builtinchicago.org/job/group-product-manager-revenue-platform/12023072",
+    "source": "Built In Chicago",
+    "score": 87,
+    "reasons": [
+      "Senior/Group title",
+      "Positioning fit (platform, B2B, enterprise)",
+      "AI signal (AI, RAG)",
+      "Comp disclosed ≥ $175K",
+      "Resume fit ~27%",
+      "Priority location (Chicago/Bay Area)"
+    ],
+    "fetchedAt": "2026-11-03T18:55:29.244Z"
+  },
+  {
+    "id": "R1hnRE1fQzRtdDhGZmM4VkFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxZa3RDYjJWWmRGSkVka1pOVUV4WVVHOU1SVWd3YzNRdFpYbERXRWREYjBkclZqTkxaWGxMZUdsNU5tMWZTelJTUkZKVU0wWlBPUzFwVUZvNFNqZEhaRmx3WmxGWU5HRlNVbVZ5V1ZGd2NGQk9WVGRoWVRsMUxVbFVSVmw0ZDNsb1FucDBXVEpHTjNoSlEwRjVXbFkwUkVOR1RGRkdXbXAxYVhsclZXUkdXRVYwUjA5SmJHVVNGMFpwTjNGaGNHWXlUbUZRVjNKMVJWQm5Tako0T0VGdkdpSkJTRTR3UlRkR2FqQlVkRFJ3YlhSVlRrWlBOVVpHUkc1U1VHazROVXN5U1cxbg",
+    "fingerprint": "senior ai product manager|formativgroup|-kd2y0k",
+    "title": "Senior AI Product Manager",
+    "company": "FormativGroup",
+    "location": "Phoenix, Arizona",
+    "locations": [
+      "Phoenix, Arizona"
+    ],
+    "remote": false,
+    "posted": "2026-11-02T22:00:00.000Z",
+    "salaryMin": null,
+    "salaryMax": null,
+    "url": "https://www.linkedin.com/jobs/view/senior-ai-product-manager-at-formativgroup-4486455451",
+    "source": "LinkedIn",
+    "score": 35,
+    "reasons": [
+      "Senior/Group title",
+      "Positioning fit (platform, enterprise)",
+      "AI signal (AI, LLM, agent)",
+      "Resume fit ~22%",
+      "Outside target markets"
+    ],
+    "fetchedAt": "2026-11-03T18:55:29.243Z"
+  },
+  {
+    "id": "ZDB3QndVVTctdUFnMnQ5bkFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxXV1JLV0VsNVJFMDVlalJhWTNGRGRYVlVlV1k1VDJkTGN5MTRWaTB3Ykdjd1EwTmlWVm93T1RCaGQzcHRha2RCYTFJMGRUUlVTMlpaV0ZwelNVbGFaMjFKTlZKVlpUaE1VbWhxU0VsUVNGRk1XbmRSUWtwMVJtWm5NbEZRWkdsRFpsOXhXRWxuY1RkeU1FODJUa3BSZUZsa2FrcHdTR2hCWWtVeFYwaHhhazB4Tm05S1NIQVNGMFpwTjNGaGNHWXlUbUZRVjNKMVJWQm5Tako0T0VGdkdpSkJTRTR3UlRkRlUzSlpNWHBaVEU5MGNscFhWbGh5T1RZeUxVZHRWakIyUTNGMw",
+    "fingerprint": "senior product manager upstream marketing lead remote|bausch health|we0y5q",
+    "title": "Senior Product Manager-Upstream Marketing Lead (Remote)",
+    "company": "Bausch Health",
+    "location": "Not specified",
+    "locations": [
+      "Not specified"
+    ],
+    "remote": true,
+    "posted": "2026-11-03T07:00:00.000Z",
+    "salaryMin": 132000,
+    "salaryMax": 182000,
+    "url": "https://www.indeed.com/viewjob?jk=37572753788d9bbb",
+    "source": "Indeed",
+    "score": 62,
+    "reasons": [
+      "Senior/Group title",
+      "AI signal (AI, RAG)",
+      "Comp disclosed ≥ $175K",
+      "Resume fit ~17%",
+      "Remote"
+    ],
+    "fetchedAt": "2026-11-03T18:55:29.242Z"
+  },
+  {
+    "id": "aU1zNmFwNDR2UWh5S2hFNUFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxXV05MUkZwZlJXZFVTVXRwZEdwMFRYaExhblJEY21nMGFYVnBZbmRSTlRGUVVYZDZWbEZ6YTIxRloyMXFOR3hMUW10cldsSldUbEJ4ZEZwNGMyUjVURkJxUkVSNVlWRk9Ta3RGWTBreWIzUjJkMXBKYm1sa1MzVjNWemRaUlVabWVEVlNWVWhSZVRWaU1saEJSRlJMTVdWSlVuQmpjREJXZVVKNGVXcHdhMGxKYm1wdk1Hd1NGMFJwTjNGaGRrdHJURTV4WW5CMFVWQnRZMnBHZVVFMEdpSkJTRTR3UlRkRlptcFJXRXAxVUZGVGFVdExWbWhIYm5aSVJHNVRjR05OZDAxbg",
+    "fingerprint": "product manager ads product brand|snap inc|a029yz",
+    "title": "Product Manager, Ads Product - Brand",
+    "company": "Snap Inc.",
+    "location": "New York, New York",
+    "locations": [
+      "New York, New York"
+    ],
+    "remote": false,
+    "posted": "2026-11-02T23:00:00.000Z",
+    "salaryMin": 178000,
+    "salaryMax": 313000,
+    "url": "https://www.builtinnyc.com/job/product-manager-ads-product-brand/12023732",
+    "source": "Built In NYC",
+    "score": 45,
+    "reasons": [
+      "Positioning fit (platform)",
+      "AI signal (AI, RAG)",
+      "Comp disclosed ≥ $175K",
+      "Resume fit ~17%",
+      "Visibility location"
+    ],
+    "fetchedAt": "2026-11-03T18:55:29.241Z"
+  },
+  {
+    "id": "c0VqMmJXTWFGLWtUMThsM0FBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxXVXh6TlhOMlFrWjVSVzFHUzBZMGRFWkxMV00yVTNaSmVtMU1TRkJIY1ZObVFsRktjMHRqZEhjNWIzTnNWMmRsYlVKRVkzazBVM0pTZGpSak5FNW1MV05oZGxnemQxRlNkR0l6WWpsVk9ETmFXRFpHVW1GU04xWkJXR3hLTFdReldqSmZkR3ROTkdwNWRVY3pha293ZW1KRlMzcG1VSGRpUVhWdldWcFdWMVUzY0U1ak1rVVNGMFJwTjNGaGRrdHJURTV4WW5CMFVWQnRZMnBHZVVFMEdpSkJTRTR3UlRkR2R6Y3lUVXBtWDJsNk5EUnhWR0ZQYVhSV2FVRlpUMDAxWkVoQg",
+    "fingerprint": "product manager ai for quantum|nvidia|8vcyau",
+    "title": "Product Manager, AI for Quantum",
+    "company": "NVIDIA",
+    "location": "Not specified",
+    "locations": [
+      "Not specified"
+    ],
+    "remote": true,
+    "posted": "2026-11-03T06:00:00.000Z",
+    "salaryMin": null,
+    "salaryMax": null,
+    "url": "https://www.linkedin.com/jobs/view/product-manager-ai-for-quantum-at-nvidia-4486040009",
+    "source": "LinkedIn",
+    "score": 35,
+    "reasons": [
+      "Positioning fit (platform)",
+      "AI signal (AI, machine learning)",
+      "Resume fit ~11%",
+      "Remote"
+    ],
+    "fetchedAt": "2026-11-03T18:55:29.240Z"
+  },
+  {
+    "id": "Z25OWnVCOGRPTnN2SmprdkFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxZa1ZVTkc5cFMwNTFNM2hMY0RRek9VcEhTbGhOTUhjM05VbExTRlZHVmpaSVZsZDZWMWQ1UjB0WmMwSllUVmhHUmtscVN6ZEtZbFZ6TldRMWRYRmxSVmgyVFVaSE5VODFRalY1ZFZSZlNsYzJjRlI0UkVzNFNWSXdZVGRDWW5oRlJFc3RhVzVKV2xsNlVtTndOM2g2VTNkNVlYQk9jblIxTjE5emRqazRUM2xVUlRNeE9UY1NGMFJwTjNGaGRrdHJURTV4WW5CMFVWQnRZMnBHZVVFMEdpSkJTRTR3UlRkRlQyRlFjRWxUYW05RGFucDVZa3cxYm5RemVHRnliemxLUnkxQg",
+    "fingerprint": "information technology product manager|centers for medicare medicaid services|epkx1",
+    "title": "Information Technology Product Manager",
+    "company": "Centers for Medicare & Medicaid Services",
+    "location": "Woodlawn, Maryland",
+    "locations": [
+      "Woodlawn, Maryland"
+    ],
+    "remote": false,
+    "posted": "2026-11-02T00:00:00.000Z",
+    "salaryMin": 133007,
+    "salaryMax": 183782,
+    "url": "https://www.linkedin.com/jobs/view/information-technology-product-manager-at-centers-for-medicare-medicaid-services-4484391422",
+    "source": "LinkedIn",
+    "score": 16,
+    "reasons": [
+      "Positioning fit (network, enterprise)",
+      "AI signal (AI)",
+      "Comp disclosed ≥ $175K",
+      "Resume fit ~18%",
+      "Outside target markets"
+    ],
+    "fetchedAt": "2026-11-03T18:55:29.239Z"
+  },
+  {
     "id": "YzAwbkFiRE5WR1BPcklRVkFBQUFBQT09OkVzc0JDb3dCUVVSRVlsZGxZbTFDTFdJd056Y3hiR1p6ZWxNdGMydFhkR2h3UTBWcWNHTm9Tek5mZVZreWVGSm9ORmg1TWs5U05HUkRSa1o0Um5vNWNYWnVSWGhTZURGM2R6UjVMV1JvY1RJNVUyVTVlV2RHVlRGbVpWbGFZM3BwWVV3M05uTTNSM3BzYlc5QlIwSkhOVFZGWkhoUlZVMVhTRzlDVkY5V1NtcFRVbFpQWTFWa1J6ZHZjRTV1TUdkUldtVVNGbGRmTTI5aGNFdFZTVnB0ZUdoaVNWQTNVSFozUlVFYUlrRklUakJGTjBkWlJESnhNRlkxVFdjMVQwbDVRbkUzTkZVeFltdG1UbFo2U1hj",
     "fingerprint": "senior product manager us partnership programs digital|td bank|sb3zpp",
     "title": "Senior Product Manager (US) - Partnership Programs, Digital",
@@ -4776,151 +4926,5 @@
       "Remote"
     ],
     "fetchedAt": "2026-10-02T17:13:23.637Z"
-  },
-  {
-    "id": "WHRIOF9WQm80VUNsWERPWkFBQUFBQT09OkVzc0JDb3dCUVVwcFZEUjBTa2QzZURaV1pWcEdiblpIZW1kdGR5MDVTbGhGUWxSMWFXMTNZbGhOUVdOM2NscEtWV1U0ZFZwMWJHRkhValY1T0RjNFJHMVhUblZsY2t0cVZFSkpMVTFmUkhsV1JuaFBNemRQTmtzMFp6WjJhMEZqYWs1UVNITnlUM0pEU1dsRFNVbEJaVzh5TFZWelJsaDJNRzVDWkY5T1ptbDRTMVo1ZEVwWE1rNHhaelkyT0RGNWNsZ1NGa3gxWVY5aGNtWmxTRTFRUlhBNE5GQnRUR0V4VjBFYUlrRkVjM0k1WmxKSU5qRmlhSHBtVm1sVVJUQmtVbVozVWxCUFEzQjJaeko2TUdj",
-    "fingerprint": "sr product manager|pitney bowes|-olla9z",
-    "title": "Sr Product Manager",
-    "company": "Pitney Bowes",
-    "location": "Shelton, Connecticut",
-    "locations": [
-      "Shelton, Connecticut"
-    ],
-    "remote": false,
-    "posted": "2026-10-01T21:00:00.000Z",
-    "salaryMin": null,
-    "salaryMax": null,
-    "url": "https://www.linkedin.com/jobs/view/sr-product-manager-at-pitney-bowes-4471993485",
-    "source": "LinkedIn",
-    "score": 21,
-    "reasons": [
-      "Positioning fit (platform, supply, network)",
-      "AI signal (AI, LLM, ML)",
-      "Resume fit ~19%",
-      "Outside target markets"
-    ],
-    "fetchedAt": "2026-10-02T17:13:23.636Z"
-  },
-  {
-    "id": "aFRfcFRiM29BODFfd0FlN0FBQUFBQT09OkVzc0JDb3dCUVVwcFZEUjBTazVQZVRsclZISmxVblJuVkhvNVMyWlRjR1pNTWpOMWIxOUxaRUZJTWkxVE9FY3hhRko2TVdobWRraHFWRmhKTnpWbmMzSjBla3ByYlhSb1NEQnhlVzFIYkRoQ1FqaHhRVGhMZERKRGEzTk5VMXB6TlVaZlVtdFNWRXd0Ym1sYWJHUjJXbVpZU2pWV1RqZFBaV1EzYjBWUVYyMVphVlF6TVc5dmRFRTViVk13YzJsTFgzUVNGa3gxWVY5aGNtWmxTRTFRUlhBNE5GQnRUR0V4VjBFYUlrRkVjM0k1WmxGaFVHYzFXaTF1YTNZd1QxVnNNM3AwU1doRmEyWnhTMHBrZVZF",
-    "fingerprint": "senior data product manager|haystack|-zi4tnt",
-    "title": "Senior Data Product Manager",
-    "company": "Haystack",
-    "location": "Not specified",
-    "locations": [
-      "Not specified"
-    ],
-    "remote": true,
-    "posted": "2026-10-02T05:00:00.000Z",
-    "salaryMin": null,
-    "salaryMax": null,
-    "url": "https://www.linkedin.com/jobs/view/senior-data-product-manager-at-haystack-4473108408",
-    "source": "LinkedIn",
-    "score": 84,
-    "reasons": [
-      "Senior/Group title",
-      "Positioning fit (platform, operations, enterprise)",
-      "AI signal (AI, machine learning, ML)",
-      "Resume fit ~29%",
-      "Remote"
-    ],
-    "fetchedAt": "2026-10-02T17:13:23.636Z"
-  },
-  {
-    "id": "SkdDU2JNRVFqV0M1b2c1MkFBQUFBQT09OkVzc0JDb3dCUVVwcFZEUjBTMkZyY3pONGNYWmFOVk5oTlhCelpsQjZibFpKVEdSSFgweHZTakJFUTNOUFRGOWZibGRRZHpSTFJEUjJRbFJpVkZwMVJVMDFMVU5tU25sNlV6bFdkMlZMYWpKTlpXaEtSbWxLYkVsQlFsOW9TakZGV2tvNVRrczJaVE5GZDFOUWFrMWFNVlV4ZUhWaFZVRnhMV3QzUm01UmMwOU5OamxtTVZScU5EZEtka1p1WTFCcFpVTVNGa3gxWVY5aGNtWmxTRTFRUlhBNE5GQnRUR0V4VjBFYUlrRkVjM0k1WmxSWFpUTkxkbUpNVGpOYVNWTjJZWFl6YW1saGNHeFVhV3MzVWtF",
-    "fingerprint": "confluent senior product manager cloud networking|ibm|q2ev8s",
-    "title": "Confluent - Senior Product Manager, Cloud Networking",
-    "company": "IBM",
-    "location": "Not specified",
-    "locations": [
-      "Not specified"
-    ],
-    "remote": true,
-    "posted": "2026-10-02T02:00:00.000Z",
-    "salaryMin": null,
-    "salaryMax": null,
-    "url": "https://www.linkedin.com/jobs/view/confluent-senior-product-manager-cloud-networking-at-ibm-4472983957",
-    "source": "LinkedIn",
-    "score": 69,
-    "reasons": [
-      "Senior/Group title",
-      "Positioning fit (network, SaaS, enterprise)",
-      "AI signal (AI, RAG)",
-      "Resume fit ~20%",
-      "Remote"
-    ],
-    "fetchedAt": "2026-10-02T17:13:23.635Z"
-  },
-  {
-    "id": "WnQxa1VyYmpJNk01aVJQUEFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTVFEzZVRONFF5MURZemhtVEVOTFUySlFXblJmTTNGb1pETjNPREJDZDNCYWJqVXlkVlZwT1hoVVoxZHlkMUZNZUhwcVNteDZUV05YWTFCc2EyWjBhMDVsVjJSNFMySTBaVzVIWkZGWlExVlNMWEJrYTFNME5VMW5MVmhYWTB4R1gzUnZOakk0VUZNMGRETXRWVTQzWlRkRVJHTlZOV0oxWjB4SldGQlFPRlJFYm1STlVVVVNGMG90WVY5aGRVTnJUemxRVW5BNE5GQTJaazg1TkVGUkdpSkJSSE55T1daVFpqUXpRVEY1T0ZJMWRrWnNjRWwxVlZsNlZFeGxiM1ZzYm10bg",
-    "fingerprint": "product manager compliance operational efficiency|quest analytics llc|fig06k",
-    "title": "Product Manager - Compliance & Operational Efficiency",
-    "company": "Quest Analytics®,LLC",
-    "location": "Not specified",
-    "locations": [
-      "Not specified"
-    ],
-    "remote": true,
-    "posted": "2026-10-02T14:00:00.000Z",
-    "salaryMin": null,
-    "salaryMax": null,
-    "url": "https://www.linkedin.com/jobs/view/product-manager-compliance-operational-efficiency-at-quest-analytics%C2%AE-llc-4473350068",
-    "source": "LinkedIn",
-    "score": 57,
-    "reasons": [
-      "Positioning fit (network, SaaS)",
-      "AI signal (AI, LLM, GPT)",
-      "Resume fit ~22%",
-      "Remote"
-    ],
-    "fetchedAt": "2026-10-02T17:13:23.634Z"
-  },
-  {
-    "id": "bHdFYjl5Q01jb1Z6T01tcEFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTbWMzWmpkemNEQnVhR1oyWWkxaGExRTFaMVo1Y2xBNGQxUlNXbmwyWjNSRWFWSlVkVW80YkVoNWJHSk9SRWs0WmpWWFRFUkJhVXRsTjNGR1pFaEdOa3haYjE5RWRISjNRV1JXWVdWYVZIaG9MVWhzUjBWbVYybDFjR0kyY2xsd1JqbHRVVUpmWm5rNFYxUTRVR2hpVmt3eE0zWnBTRTlSUTFSMWREZFhTa0UwV21aRmMwVVNGMG90WVY5aGRVTnJUemxRVW5BNE5GQTJaazg1TkVGUkdpSkJSSE55T1daVFUzQnJjVFpKUjBKdk9GbE1ZbWR2Y1Rrd1NIcHZlWE5hZURabg",
-    "fingerprint": "staff product manager credit pricing|affirm|1yf8n0",
-    "title": "Staff Product Manager, Credit & Pricing",
-    "company": "Affirm",
-    "location": "Not specified",
-    "locations": [
-      "Not specified"
-    ],
-    "remote": true,
-    "posted": "2026-10-01T19:00:00.000Z",
-    "salaryMin": null,
-    "salaryMax": null,
-    "url": "https://www.linkedin.com/jobs/view/staff-product-manager-credit-pricing-at-affirm-4472597812",
-    "source": "LinkedIn",
-    "score": 46,
-    "reasons": [
-      "Positioning fit (marketplace, platform)",
-      "AI signal (AI, RAG)",
-      "Resume fit ~17%",
-      "Remote"
-    ],
-    "fetchedAt": "2026-10-02T17:13:23.632Z"
-  },
-  {
-    "id": "WXJiTndxaHhQYXdCVGtEYkFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTV1JtVG5GS1VWZFpZV3hSWmxSVGRITlZlbGRYV1dkMVYzQllRazV2Tm5aM1ZHMWpMVFIwTjFodWVESnRaamN4UkdKbmQycG5lQzFMWkdka1RURTBlVjlPYm5BdE5GWXhSRTlSWmtSamJFeHpiUzFUWjNaYWEwTmlibkJGVWpab1dtUlRVVTVQY3pBek1GOXpObUpmYlRaRGVWaDFXV293VERsUE1XRmtlVFZHWlVOdVIxOFNGMG90WVY5aGRVTnJUemxRVW5BNE5GQTJaazg1TkVGUkdpSkJSSE55T1daUlJtcHZNRkpaVEhJeE5VcExiV1F4YjFsdmVURjVWVXRwUzBWQg",
-    "fingerprint": "product manager|trane technologies|-wcr6lb",
-    "title": "Product Manager",
-    "company": "Trane Technologies",
-    "location": "Towson, Maryland",
-    "locations": [
-      "Towson, Maryland"
-    ],
-    "remote": false,
-    "posted": "2026-10-02T03:00:00.000Z",
-    "salaryMin": null,
-    "salaryMax": null,
-    "url": "https://www.linkedin.com/jobs/view/product-manager-at-trane-technologies-4472874013",
-    "source": "LinkedIn",
-    "score": 19,
-    "reasons": [
-      "Positioning fit (platform, operations)",
-      "AI signal (AI, ML, RAG)",
-      "Resume fit ~22%",
-      "Outside target markets"
-    ],
-    "fetchedAt": "2026-10-02T17:13:23.630Z"
   }
 ]
