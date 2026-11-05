@@ -1,5 +1,30 @@
 [
   {
+    "id": "MlZjY2NRclY0dDVWYmNOakFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxZVWh2YVdWalVHUnZjV1JuY1ROUlF6UXpVVmc1TjI1emJsUkRYMnM1VUc1blIzZHVSSGh3WldkSlQwaDNWV2hUT0MwMVZVaHpkVWhzYzBWR1RIVTNNVGh4TlVSd2VGVndWbXBMZURFMlJIVlBTbGx5VGw5R1NIbEtaMloxTjJoRldXaEZZUzF3TkVnMVoybFBhRjl2ZDFabFVVdDNRakp0WkRkM1duWTBUM2hZYjBwZmFVVVNGM0JPWW5OaGRUTjNTelF5WjJsTVRWQXdOM2x5YzBGM0dpSkJTRTR3UlRkSWNVMXRVbVpLYW13M01XZ3RaVFJ2Um1oVlNuSmZaM2hOTjA1bg",
+    "fingerprint": "senior product manager stars|inovalon|4zpqfw",
+    "title": "Senior Product Manager (STARS)",
+    "company": "Inovalon",
+    "location": "Not specified",
+    "locations": [
+      "Not specified"
+    ],
+    "remote": false,
+    "posted": "2026-11-05T00:00:00.000Z",
+    "salaryMin": 113000,
+    "salaryMax": 150000,
+    "url": "https://builtin.com/job/senior-product-manager-stars/12094607",
+    "source": "Built In",
+    "score": 22,
+    "reasons": [
+      "Senior/Group title",
+      "Positioning fit (platform, SaaS)",
+      "AI signal (AI, RAG)",
+      "Resume fit ~20%",
+      "Outside target markets"
+    ],
+    "fetchedAt": "2026-11-05T19:19:54.876Z"
+  },
+  {
     "id": "ZXNTLTJBZGZOQUQ4Q1hlaEFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxXVk4zV1RnM09HdEZMV2Q2ZEVWUVVWWXhkMTl1YkRob1pXWXlPVFJEVW5JeFNqbFdSVEJFUVROT1ZXbDBZM2xHUmtad1ptRnhaMmhDTlRScU5uWmlUVVJLV25wU1JYWldMVUZRV0dSa1VEZEVTamhWUkZaUGNtRlJSMVZhZWtoNU4xZDJUSGh5YldWME1GTk1iVTFoZERkWWNtTmZMVzlyUVhOQlpWRTNXa2RzZG10RE5sOFNGM1ZKVUhKaGNFOWFSRjltV1RGelVWQm9URFpJYjFGakdpSkJTRTR3UlRkSGFGbEhObVpyZGpKQ1IwbEhiMmxHVjJ3ek0yWlpSalZRVGxwUg",
     "fingerprint": "senior product manager digital experiences|russell tobin|-xypkpe",
     "title": "Senior Product Manager – Digital Experiences",
@@ -4909,30 +4934,5 @@
       "Outside target markets"
     ],
     "fetchedAt": "2026-10-03T15:32:48.386Z"
-  },
-  {
-    "id": "X25jX3U4d2Z6ZFhSVTNpX0FBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTbXh0WDAwMlQzbEtRbnBhWDFCb2MwSkZhRlpPYm1GSk9GSjVaSGhhWVRSelJHWjJUM0V0WW5sRk5XbFlSVFpSVEZaM1FXaFFWVFEwU3pZemFsVklTbFJuYmtoNlpXWmtlVk5xWVZWRU1GOHdhMlJuUlY5RlQxTkZXbTE0TW5KdFVVZ3lZWFI1TFVKNFUzVlJjRE14VUMxU2NtMVNkVlJLVWxJMVl6TnhibUpwY2tWUGJuVVNGMFpwUkVKaGRrTjVTVzlwY1RGelVWQXdOWEZqZVVGakdpSkJSSE55T1daVFFYVnpTMnRaU25sNmVIVlRWSG90Wm05eFdFdEVTMnc0TVdwbg",
-    "fingerprint": "sr product manager payors|octave|i2eet1",
-    "title": "Sr. Product Manager, Payors",
-    "company": "Octave",
-    "location": "Not specified",
-    "locations": [
-      "Not specified"
-    ],
-    "remote": true,
-    "posted": "2026-10-02T21:00:00.000Z",
-    "salaryMin": null,
-    "salaryMax": null,
-    "url": "https://www.linkedin.com/jobs/view/sr-product-manager-payors-at-octave-4473179901",
-    "source": "LinkedIn",
-    "score": 64,
-    "reasons": [
-      "Senior/Group title",
-      "Positioning fit (platform, B2B, operations)",
-      "AI signal (AI)",
-      "Resume fit ~20%",
-      "Remote"
-    ],
-    "fetchedAt": "2026-10-03T15:32:48.385Z"
   }
 ]
