@@ -1,5 +1,101 @@
 [
   {
+    "id": "QzFEczdoT3VZakJlbFJ4UkFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxXalE0Y1c1S2JFaDRkRk0zV205SWMzSnVTRlJsWlcwMWNXUXhZamh3VEZaUFIxSk9TM1JNUW0xT1NFbDRURWx1VVRSdFozbHVkbkZYY0dSaVZHSlVXVVkxWkV0cVVWQjZOVFIxV2pWYU9ERmZiRk4zWTJaQ1pGaGlUV05mZDB0YU1HbGpNVzU2WDNSbmJqUkdRWGhuUzNsMWRrOXJURk5EU21acFNGRnBRV3QwVEZkMmFFNFNGMHBwUkhWaGRXbDRTbUZFWmpKeWIxQmZXVXhaWjFFNEdpSkJTRTR3UlRkR1ZuaFFia1ZHVGxrM1lURkNVRFZoYTFOeVdURTVhelZSTVc1Qg",
+    "fingerprint": "product manager pacs client radiology informatics|philips|iltewi",
+    "title": "Product Manager PACS Client, Radiology Informatics",
+    "company": "Philips",
+    "location": "Not specified",
+    "locations": [
+      "Not specified"
+    ],
+    "remote": true,
+    "posted": "2026-11-05T23:00:00.000Z",
+    "salaryMin": 125000,
+    "salaryMax": 223000,
+    "url": "https://www.builtinboston.com/job/product-manager-pacs-client-radiology-informatics/12103502",
+    "source": "Built In Boston",
+    "score": 44,
+    "reasons": [
+      "AI signal (AI, RAG)",
+      "Comp disclosed ≥ $175K",
+      "Resume fit ~14%",
+      "Remote"
+    ],
+    "fetchedAt": "2026-11-06T18:45:15.106Z"
+  },
+  {
+    "id": "dFR3M0JYdERXTnNMbTlvRUFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxXWEUxTUZWWFp6bEhYM0ZZVUdoTlgyZFhVVVJaVUdRMkxXUjZUVzlDUlZoRWFIcGliRFZRZWpscFFucEhaVVJQYlVoeVJVTlVVRVZqWWpKb2JtdE9ZMU5tY25CR1FraFpiMXAxYUV4U1RGRmxjVEJSYzNablMyWTNTVE50YldkdE5URk9aMWcwTW5NNFJYUXdaMFJwTm5OdE1ERlJSVWxUVTJvelZEbDZUbUZKZFd4U1RtTVNGMHg1UkhWaGIyVldSWFJNVWpKeWIxQjFUMVJrT0ZGSkdpSkJTRTR3UlRkSVVHOXBZVk5LYVdKeVNFZDFka2hDTm00dE9GWkhhR1ZrYURoUg",
+    "fingerprint": "senior product manager|relx|nwkksl",
+    "title": "Senior Product Manager",
+    "company": "RELX",
+    "location": "Not specified",
+    "locations": [
+      "Not specified"
+    ],
+    "remote": true,
+    "posted": "2026-11-05T23:00:00.000Z",
+    "salaryMin": null,
+    "salaryMax": null,
+    "url": "https://builtin.com/job/senior-product-manager/11764421",
+    "source": "Built In",
+    "score": 59,
+    "reasons": [
+      "Senior/Group title",
+      "Positioning fit (marketplace)",
+      "AI signal (AI, machine learning)",
+      "Resume fit ~20%",
+      "Remote"
+    ],
+    "fetchedAt": "2026-11-06T18:45:15.106Z"
+  },
+  {
+    "id": "bHNTaHRRbTkwWHlWeHAtdEFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxXWGRFZFZoWWVYSkpXVm8yYjBoZk5WUm5XVjlDU21OQmFtazBVa0phYzJkbFJXdzRlVE5rU0Zka2MzUmhTbXA2V20xZmNrcFhRVkF6Vkc1RE5sYzFXRXRIV1doeGFuQkNkVU53UldweFpVWlFiVWRZWm5ab1lYRlJUMVpoWm5aR1ZtWkZWWFp3U2xVMmIwdEZWa0V6Tm1NMFF6WlVXVU5zV1hOVldXOTFkelJaWDFSclMxZ1NGMHBwUkhWaGRXbDRTbUZFWmpKeWIxQmZXVXhaWjFFNEdpSkJTRTR3UlRkSFNYRlFiMEZJU1ZOeWRta3djRE5tVG5odE0wNW1jRGRQV1hkUg",
+    "fingerprint": "product manager streaming platform player advertising technology|red bull media house|-kmykqe",
+    "title": "Product Manager, Streaming Platform: Player & Advertising Technology",
+    "company": "Red Bull Media House",
+    "location": "Santa Monica, California",
+    "locations": [
+      "Santa Monica, California"
+    ],
+    "remote": false,
+    "posted": "2026-11-06T04:00:00.000Z",
+    "salaryMin": null,
+    "salaryMax": null,
+    "url": "https://www.linkedin.com/jobs/view/product-manager-streaming-platform-player-advertising-technology-at-red-bull-media-house-4485890854?refId=RBBwtkP%2Bki71N3FdmQQ0XQ%3D%3D&trackingId=8xTmkMcXedWSREsVW3jrLw%3D%3D",
+    "source": "LinkedIn",
+    "score": 18,
+    "reasons": [
+      "Positioning fit (platform, operations, vendor)",
+      "AI signal (AI, ML, RAG)",
+      "Resume fit ~16%",
+      "Outside target markets"
+    ],
+    "fetchedAt": "2026-11-06T18:45:15.105Z"
+  },
+  {
+    "id": "SGM1Q3J2T2tEUHVhX3kxZ0FBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxZV3RNVDBseWVEZEVXR2h2ZUZKRVVIcE9ORVJHVmxCT04xRmFSREEwWjA1elFWOURjMnhJYVhOd2NHRlFRMWt6UWpOb1JYVnRabVJLVkRGV1JsbEJaVmRtVWpaeVZqZGtXbWh0VVVkdE5tZG5TVXRXZWpsbWRXNHdRamhRZGt4SVdHUkZlRFJZT1VsSGNIVjVPR0ZpY214eldVeE5ka2RyY2pkcVpFNXJWRFZRTlRkYVVHVVNGMHBwUkhWaGRXbDRTbUZFWmpKeWIxQmZXVXhaWjFFNEdpSkJTRTR3UlRkSGFEUjZUMkpCVEhoVk5teHpVMUZSTFhSdFJscDNXR1JHTWt0Qg",
+    "fingerprint": "lead product manager ai productivity and adoption azure|pwc|-wyg94j",
+    "title": "Lead Product Manager AI productivity and adoption, Azure",
+    "company": "PwC",
+    "location": "Raleigh, North Carolina",
+    "locations": [
+      "Raleigh, North Carolina"
+    ],
+    "remote": false,
+    "posted": "2026-11-06T00:00:00.000Z",
+    "salaryMin": null,
+    "salaryMax": null,
+    "url": "https://www.linkedin.com/jobs/view/lead-product-manager-ai-productivity-and-adoption-azure-at-pwc-4488083629",
+    "source": "LinkedIn",
+    "score": -9,
+    "reasons": [
+      "AI signal (AI)",
+      "Resume fit ~14%",
+      "Outside target markets"
+    ],
+    "fetchedAt": "2026-11-06T18:45:15.103Z"
+  },
+  {
     "id": "MlZjY2NRclY0dDVWYmNOakFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxZVWh2YVdWalVHUnZjV1JuY1ROUlF6UXpVVmc1TjI1emJsUkRYMnM1VUc1blIzZHVSSGh3WldkSlQwaDNWV2hUT0MwMVZVaHpkVWhzYzBWR1RIVTNNVGh4TlVSd2VGVndWbXBMZURFMlJIVlBTbGx5VGw5R1NIbEtaMloxTjJoRldXaEZZUzF3TkVnMVoybFBhRjl2ZDFabFVVdDNRakp0WkRkM1duWTBUM2hZYjBwZmFVVVNGM0JPWW5OaGRUTjNTelF5WjJsTVRWQXdOM2x5YzBGM0dpSkJTRTR3UlRkSWNVMXRVbVpLYW13M01XZ3RaVFJ2Um1oVlNuSmZaM2hOTjA1bg",
     "fingerprint": "senior product manager stars|inovalon|4zpqfw",
     "title": "Senior Product Manager (STARS)",
@@ -4837,102 +4933,5 @@
       "Remote"
     ],
     "fetchedAt": "2026-10-04T16:16:55.275Z"
-  },
-  {
-    "id": "OWNaMDU5VnQ2RmZ6Tkx4OEFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTWEIxUm1vME0xTkVXWEZpVmt4QlpVUXhia3QyUlhCT1VIRmtNaTFTZWpWRlNtMWphVTlhVFhFelMyeDBlVkZ4ZWxvM1VFcEJWV1psVDFSNVQwMXVaVkEwWVc5WFltdDVaR3M0VkRGS1VGcHBRM2N0Y0RodGNWZHVUM0ZrUm5SMFNUTkxhbEpRTFRnNWJVNXFiVXBrVjBkdmRsRnVlamRWTUcxQmFqVmpkWEJ4T1dseFVuUVNGMGhUUkVKaGIxTnhURXRZYUd0UVNWQTVZbXBpTmxGSkdpSkJSSE55T1daVGRrOWxSREIxZUUxSU1HSk1XVkp1VGxsV1MxOHRWMVpoUzB0Qg",
-    "fingerprint": "senior product manager growth|duolingo|-ok0so2",
-    "title": "Senior Product Manager, Growth",
-    "company": "Duolingo",
-    "location": "Pittsburgh, Pennsylvania",
-    "locations": [
-      "Pittsburgh, Pennsylvania"
-    ],
-    "remote": false,
-    "posted": "2026-10-02T20:00:00.000Z",
-    "salaryMin": null,
-    "salaryMax": null,
-    "url": "https://www.linkedin.com/jobs/view/senior-product-manager-growth-at-duolingo-4475020573",
-    "source": "LinkedIn",
-    "score": 22,
-    "reasons": [
-      "Senior/Group title",
-      "AI signal (AI, ML, RAG)",
-      "Resume fit ~20%",
-      "Outside target markets"
-    ],
-    "fetchedAt": "2026-10-03T15:32:48.389Z"
-  },
-  {
-    "id": "X2Iza21lVG5mV2NRb1QwLUFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTVTFqTm5sUmQxSk5lVE5tY0VaamNYUlZhbkZFV2tsbFpteFdMWGxyYkd0amJDMHdPRTQzTVRsVU1USXpRMFJmTlRoVVVIUlJXRXhJY201RFVWOWhORUk0YldjMlVtUkxhbDlqVFc1cU9YTXRPWGhvWmtWaFJtOVdYMmxDU1VSMFQydGpjaloyVWpWeVdXUm1TeTFIVWt0NWVWVldabXRoTjIxdGJVVjRTVWRJV0dORk5tSVNGMGhUUkVKaGIxTnhURXRZYUd0UVNWQTVZbXBpTmxGSkdpSkJSSE55T1daU1UxWTRlRGgxTlV0a09VUk5lbFYzWVVwUWFqTmFUVlJPV2s5Mw",
-    "fingerprint": "product manager payments and retail expansion|audible|whe2bu",
-    "title": "Product Manager, Payments and Retail Expansion",
-    "company": "Audible",
-    "location": "Newark, New Jersey",
-    "locations": [
-      "Newark, New Jersey"
-    ],
-    "remote": false,
-    "posted": "2026-10-03T12:00:00.000Z",
-    "salaryMin": null,
-    "salaryMax": null,
-    "url": "https://www.linkedin.com/jobs/view/product-manager-payments-and-retail-expansion-at-audible-4475313540",
-    "source": "LinkedIn",
-    "score": 7,
-    "reasons": [
-      "AI signal (AI, agent, RAG)",
-      "Resume fit ~19%",
-      "Outside target markets"
-    ],
-    "fetchedAt": "2026-10-03T15:32:48.388Z"
-  },
-  {
-    "id": "Vi1KdnBwSWpSMU9QV1kxc0FBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTVVJyVEhwTFNFdE9jRGxJYkZWWFkxSkNXbkJ4V2t0Nk9UVm5aWHBtVmtWRU1XYzBWMmxGYlRWeGJIUnJkMU5MYkd0b1dsbFFhRWQxYm1GNk0zUmlWVnBWZVdJNVpXa3pUSFpGV0hSc1kwOVdlVGRFTFhkTWJEWnFiMGw1VUUxT01YTmxhMVJUYjIxSWFXbzFhSEUyV2xvNWVIRnVVMjF3TTNoc1FXSnNRMWMwVTB0UVFUSVNGMFpwUkVKaGRrTjVTVzlwY1RGelVWQXdOWEZqZVVGakdpSkJSSE55T1daVExUTnpYMkZuVUZOb01XRkRTMnMzZDFCTExUbGZSMWR5WTBOUg",
-    "fingerprint": "senior product manager airspace monitoring service|hidden level|twzcd9",
-    "title": "Senior Product Manager, Airspace Monitoring Service",
-    "company": "Hidden Level",
-    "location": "Syracuse, New York",
-    "locations": [
-      "Syracuse, New York"
-    ],
-    "remote": false,
-    "posted": "2026-10-02T21:00:00.000Z",
-    "salaryMin": null,
-    "salaryMax": null,
-    "url": "https://www.linkedin.com/jobs/view/senior-product-manager-airspace-monitoring-service-at-hidden-level-4475025825",
-    "source": "LinkedIn",
-    "score": 62,
-    "reasons": [
-      "Senior/Group title",
-      "Positioning fit (B2B, operations, SaaS)",
-      "AI signal (AI)",
-      "Resume fit ~23%",
-      "Visibility location"
-    ],
-    "fetchedAt": "2026-10-03T15:32:48.387Z"
-  },
-  {
-    "id": "WmM2R2Rqcko0cjhKbE9Xb0FBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTalYzYUhVNGQyUmpZMFpoU1hsTk1WaE1NblpWVmpablZrSTBRM1ozYldoRldYZ3dXVEpEUWpWS05XOUNZbWRqVm1Wa2NFVmhjVWR0UTAxcGJWODBia2hQTlRrd1kwbHhWbTVxY2s1bk4xWkZSa0puUjNsM1lUZDNVbU54TmpkeWQzZHdWMXBqVFVVNVNFOUJVM0ZmYjJRMlRFeEdVRWw1WVVkaE1qZzNRUzA0WDNOMWVqVVNGMFpwUkVKaGRrTjVTVzlwY1RGelVWQXdOWEZqZVVGakdpSkJSSE55T1daVU9GOWtWWEpZY1ZkTlJIQjFhbnBSV0ZGMlJrcGtRMFZOVldKbg",
-    "fingerprint": "senior product manager trauma 10426 2026437|lifenet health|-i8dn9g",
-    "title": "Senior Product Manager - Trauma (10426-2026437)",
-    "company": "LifeNet Health",
-    "location": "Virginia Beach, Virginia",
-    "locations": [
-      "Virginia Beach, Virginia"
-    ],
-    "remote": false,
-    "posted": "2026-10-02T20:00:00.000Z",
-    "salaryMin": null,
-    "salaryMax": null,
-    "url": "https://www.linkedin.com/jobs/view/senior-product-manager-trauma-10426-2026437-at-lifenet-health-4475032269",
-    "source": "LinkedIn",
-    "score": 18,
-    "reasons": [
-      "Senior/Group title",
-      "Positioning fit (platform)",
-      "AI signal (AI, RAG)",
-      "Resume fit ~16%",
-      "Outside target markets"
-    ],
-    "fetchedAt": "2026-10-03T15:32:48.386Z"
   }
 ]
