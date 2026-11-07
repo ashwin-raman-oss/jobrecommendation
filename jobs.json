@@ -1,5 +1,200 @@
 [
   {
+    "id": "TlYtYkRCVnMzU1gwQm5WLUFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxZbkZFU0dsVk5IZGhWMVYwTm1KUVV6Uk5TV0ZRVDNGWVJIazJkMHBoWm1OUk1HNURTblZuTUZsamQyTm1SVUozUkRnNVMycEljRTlCY1ZGVmNUVkpZVEZtTmtoVWIxTjROMkV4VlROUFVHUnhNM2RJYVV4bk5uUlhUREZYVldKWGRFcDNaMHhLVWsxaVRtNUlPR1ZuVTBjd1pXeG5kRU16UzE5MVZsTkNlR28wYkhSbWFIY1NGekpXZW5aaGNHMTRRVzlmY1cxTVVWQnZkVzFGYlVGRkdpSkJTRTR3UlRkSFNUbHpXalJCWldodWRHMVlVbFZEV2pCWE5VeGtSM0JMUmpKUg",
+    "fingerprint": "principal product manager hr experiences|gusto|gvv02n",
+    "title": "Principal Product Manager, HR Experiences",
+    "company": "Gusto",
+    "location": "New York, New York",
+    "locations": [
+      "New York, New York"
+    ],
+    "remote": false,
+    "posted": "2026-11-07T00:00:00.000Z",
+    "salaryMin": 179000,
+    "salaryMax": 260000,
+    "url": "https://www.builtinnyc.com/job/principal-product-manager-hr-experiences/12130818",
+    "source": "Built In NYC",
+    "score": 46,
+    "reasons": [
+      "AI signal (AI, LLM, GPT)",
+      "Comp disclosed ≥ $175K",
+      "Resume fit ~18%",
+      "Visibility location"
+    ],
+    "fetchedAt": "2026-11-07T17:16:12.167Z"
+  },
+  {
+    "id": "bW1Sa3VtV0xpWVMzXzYxT0FBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxXa2hUT1RJNWVFSlhRMmwxT0ZCek1URkRhbEF0WlZoWGQzVXhWbVJNTmt4emRFZzVURlp3YjFkT1lsTjNhV1Y1Y0RFd09FOXNiV2hxTFdNMVduZ3pialZUUmxkWVJHNTZVV0ZsU2pGS05IWmtRVTFETXpScE0zSTVjakpNWDNkVk1rdGpkakpZT0ZCbmMxRnVTa3MyTkVsSE4xTk5UWGc0UlVSc2RFZzBPSFI1TTE5VE0zQVNGekJXZW5aaGRrdzNUelJQUzNKMVJWQjFObkpoTWxGRkdpSkJTRTR3UlRkSVJURTRPV3hoTFRSWFNVNU5OMDVJWWtzNU9UWnplRzVCVkRkQg",
+    "fingerprint": "group product manager data platforms|wikimedia foundation|elbfi1",
+    "title": "Group Product Manager, Data Platforms",
+    "company": "Wikimedia Foundation",
+    "location": "Not specified",
+    "locations": [
+      "Not specified"
+    ],
+    "remote": true,
+    "posted": "2026-11-07T00:00:00.000Z",
+    "salaryMin": 131926,
+    "salaryMax": 206302,
+    "url": "https://builtin.com/job/group-product-manager-data-platforms/12122417",
+    "source": "Built In",
+    "score": 83,
+    "reasons": [
+      "Senior/Group title",
+      "Positioning fit (platform, enterprise)",
+      "AI signal (AI, machine learning, ML)",
+      "Comp disclosed ≥ $175K",
+      "Resume fit ~23%",
+      "Remote"
+    ],
+    "fetchedAt": "2026-11-07T17:16:12.165Z"
+  },
+  {
+    "id": "OUlIV1A0dEJOZ1lEQ25FRUFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxXbXB6TVVOTVJ6Y3pUVEUxTjBVd2RrdFpVMHBHZUZOS09GbFBXVmt4ZFdaRk0yUjVSWGhxTjJRNE4wSXRWMnBMVkZsMVNHUlJUbnAwTFRWRk5IRTVUazh5WkhscU0wRlNjM042U0dKQ1ZVNU5ObE10ZERoM2JucFhjV2M1V2tZNU5FVTJha0ZVU21Jd1EwbGZibUp6VFd4eFdVMTZkblJZZEd0aE5XVmhUSEZ0ZGxGUGEwa1NGekJXZW5aaGRrdzNUelJQUzNKMVJWQjFObkpoTWxGRkdpSkJTRTR3UlRkSGFqUkxWRWxFU0MxV1JrODJkSFIzU0ZoUldUVnRUWFIxU0MxMw",
+    "fingerprint": "founding product manager|raydar|qk3btp",
+    "title": "Founding Product Manager",
+    "company": "Raydar",
+    "location": "Boston, Massachusetts",
+    "locations": [
+      "Boston, Massachusetts"
+    ],
+    "remote": false,
+    "posted": "2026-11-07T00:00:00.000Z",
+    "salaryMin": 200000,
+    "salaryMax": 235000,
+    "url": "https://www.builtinboston.com/job/founding-product-manager/12124176",
+    "source": "Built In Boston",
+    "score": 14,
+    "reasons": [
+      "Positioning fit (platform)",
+      "AI signal (AI)",
+      "Comp disclosed ≥ $175K",
+      "Resume fit ~22%",
+      "Outside target markets"
+    ],
+    "fetchedAt": "2026-11-07T17:16:12.163Z"
+  },
+  {
+    "id": "c0NiRW5uRU5MaWdSUnNmY0FBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxXa2MzZW5sME1rMVJXWGc1TURWM01IZHJTVTgwYmxsNFdsWklSSGN3UlVaYVRtVk5VakZTUTFBd1JrdEVURXBuUjFVME5Va3pSRGt5TjJWWmExVXRhRXQwUkhjM2IyNHhiMG8zTkY5TVIzaHVkVTVPZDJGcU4wUjBValZxUVY4MlVYQjBkVkZSY1RocVpYUXpiaTFuYUU1eVZFZG1jSGw1YkdkRmEwOVRURmxhUWsxWldHRVNGekJXZW5aaGRrdzNUelJQUzNKMVJWQjFObkpoTWxGRkdpSkJTRTR3UlRkRk5FSXlVazV6YUhwVlRGSXdhazVHWm1WNE9HOU5aM0F5VkRoMw",
+    "fingerprint": "campus switching product manager graduate|hewlett packard enterprise|30osw1",
+    "title": "Campus Switching Product Manager Graduate",
+    "company": "Hewlett Packard Enterprise",
+    "location": "Roseville, California",
+    "locations": [
+      "Roseville, California"
+    ],
+    "remote": false,
+    "posted": "2026-11-07T00:00:00.000Z",
+    "salaryMin": null,
+    "salaryMax": null,
+    "url": "https://www.linkedin.com/jobs/view/campus-switching-product-manager-graduate-at-hewlett-packard-enterprise-4488468065",
+    "source": "LinkedIn",
+    "score": 16,
+    "reasons": [
+      "Positioning fit (operations, vendor, network)",
+      "AI signal (AI, LLM, ML)",
+      "Resume fit ~14%",
+      "Outside target markets"
+    ],
+    "fetchedAt": "2026-11-07T17:16:12.162Z"
+  },
+  {
+    "id": "RHNWTGxxdUN4Q0loSnJBY0FBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxXV1psWW5nNWRtVjJTa2RXTTJSTU1FeFRUMjVETjFOM1NsVjNOa1J4TUROek1VODJaRVYxYW5aeWRXODBNMTlhTkZGVFYwOXlTVUZ5VUU1TlFWRk1VVzFvVDBKd2VWTXpPRkZPY0hGb2RrSjNWV1pVTFZwWFZ6SjVhREZ5U0Zob1dWVnpUelpGUkRFNVMzaE5OMHBZZGxoWGVWRXliRzVSWmtNd1dsQXlkVVppWWtKS2Ewb1NGekJXZW5aaGRrdzNUelJQUzNKMVJWQjFObkpoTWxGRkdpSkJTRTR3UlRkSFdubHlRVlJ0TVdWVE1Hd3hOVUZYUzBGUU5rZG9WMng1U1hoUg",
+    "fingerprint": "lead product manager ai productivity and adoption azure|pwc|jcf6zd",
+    "title": "Lead Product Manager AI productivity and adoption, Azure",
+    "company": "PwC",
+    "location": "Not specified",
+    "locations": [
+      "Not specified"
+    ],
+    "remote": false,
+    "posted": "2026-11-07T00:00:00.000Z",
+    "salaryMin": null,
+    "salaryMax": null,
+    "url": "https://www.builtinnyc.com/job/lead-product-manager-ai-productivity-and-adoption-azure/12117148",
+    "source": "Built In NYC",
+    "score": -9,
+    "reasons": [
+      "AI signal (AI)",
+      "Resume fit ~14%",
+      "Outside target markets"
+    ],
+    "fetchedAt": "2026-11-07T17:16:12.161Z"
+  },
+  {
+    "id": "TFlCWV90Z20xS1lYTGhuUUFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxZVm8yWjBkQ2ExTTBNM1V4WVhCM2FFRXpTMmwxVXpKS1dXeG1SMVZ4YWpsSlNteG9PVlpxU1VSVWFsbG5SVlZaV0c5MGVWTnRla0ZKUmxoTFRXUk1ZVTlwYnpOdGRFdEJZV0ZXV21SM2NtaEZPV2xuU0hoRFRtaFlVVXRrV2xSaFJIVjZlbUpYTjJsaE5UaHZVRXhtTVhNeVEwUTJRMU5EY3paSk5GRnRhM0JmVDFRMU15MFNGekJXZW5aaGRrdzNUelJQUzNKMVJWQjFObkpoTWxGRkdpSkJTRTR3UlRkSGFHeFVVa3RIVW04emVVbDFOazFXTjJSblpDMXVMV280VldGMw",
+    "fingerprint": "freelance product manager us|area 17|-dfc9nl",
+    "title": "Freelance Product Manager (US)",
+    "company": "AREA 17",
+    "location": "Not specified",
+    "locations": [
+      "Not specified"
+    ],
+    "remote": true,
+    "posted": "2026-11-07T00:00:00.000Z",
+    "salaryMin": 75,
+    "salaryMax": 115,
+    "url": "https://builtin.com/job/freelance-product-manager-us/12126821",
+    "source": "Built In",
+    "score": 33,
+    "reasons": [
+      "AI signal (AI, RAG)",
+      "Resume fit ~18%",
+      "Remote"
+    ],
+    "fetchedAt": "2026-11-07T17:16:12.160Z"
+  },
+  {
+    "id": "SWJ1NWlPeENkcU5zbTdFd0FBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxZWGRIY1RSdWNGTjNRbEJwUWpOWVYyVnpNak01VDI1U1NrWkhRVTE2WW14eVlqWnpkMmszWDA5VE9XaFlVbkZTV2xReVdFb3hWREI1T1ZkT1RGSkRhM2wzUjJWSFZXWkRNMDVYUmtsSGVqVTBPREZKZEZneVUwOXBhWGxSTVhwV1NIUnZibWxKYlRSSldGVk9NRmsyU0RsaWVGaEdNekJCU1c1ZlMzUk5Vak5GVm5STk5VUVNGekJXZW5aaGRrdzNUelJQUzNKMVJWQjFObkpoTWxGRkdpSkJTRTR3UlRkSVNsOXJTWE4xYTJaYWVreHhiR2N4V1RWbWIzUXhkV3RaVGtaMw",
+    "fingerprint": "staff product manager marketing automation us remote|luxury presence|5cavup",
+    "title": "Staff Product Manager, Marketing Automation - US (Remote)",
+    "company": "Luxury Presence",
+    "location": "Not specified",
+    "locations": [
+      "Not specified"
+    ],
+    "remote": true,
+    "posted": "2026-11-07T00:00:00.000Z",
+    "salaryMin": 170000,
+    "salaryMax": 200000,
+    "url": "https://www.builtinboston.com/job/staff-product-manager-marketing-automation-us-remote/12119284",
+    "source": "Built In Boston",
+    "score": 56,
+    "reasons": [
+      "Positioning fit (platform)",
+      "AI signal (AI, ML, agent)",
+      "Comp disclosed ≥ $175K",
+      "Resume fit ~16%",
+      "Remote"
+    ],
+    "fetchedAt": "2026-11-07T17:16:12.159Z"
+  },
+  {
+    "id": "UXZweWVGUmVYd3BEalZ3WUFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxXbTlvTm05VllqUTVZMUY1UjBoME1GcHdaVkZKYXkxVmREVldOMGhFVEZSeGVIZzRWRkowVTFCSVZXZEhOMUJSV20xRWQxVTNaMU01V0ZScFpsTTNTVkF6U0VGSWVUSTVjSEJ0ZVdrMmJqQkhaRFJhUVVkd2FXSTBaVFowWTJaMGRqWkhiR2t6ZG5RMFEyTnFNRTB6ZVRkU01FRXlOblpNU2tnNE1YUldWVTlpYVhSVldHUVNGekJXZW5aaGRrdzNUelJQUzNKMVJWQjFObkpoTWxGRkdpSkJTRTR3UlRkRlgxVlpiamt4Y25GNmEySmZUblp5VFVFNE56RkNWMUpPV1RSUg",
+    "fingerprint": "product manager discovery gemini app deepmind|deepmind|bl9mbf",
+    "title": "Product Manager, Discovery, Gemini App, DeepMind",
+    "company": "DeepMind",
+    "location": "Mountain View, California",
+    "locations": [
+      "Mountain View, California"
+    ],
+    "remote": false,
+    "posted": "2026-11-06T20:00:00.000Z",
+    "salaryMin": 240000,
+    "salaryMax": 333000,
+    "url": "https://www.indeed.com/viewjob?jk=19fd2780a0952898",
+    "source": "Indeed",
+    "score": 57,
+    "reasons": [
+      "Positioning fit (platform)",
+      "AI signal (AI, machine learning, ML)",
+      "Comp disclosed ≥ $175K",
+      "Resume fit ~17%",
+      "Priority location (Chicago/Bay Area)"
+    ],
+    "fetchedAt": "2026-11-07T17:16:12.157Z"
+  },
+  {
     "id": "QzFEczdoT3VZakJlbFJ4UkFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxXalE0Y1c1S2JFaDRkRk0zV205SWMzSnVTRlJsWlcwMWNXUXhZamh3VEZaUFIxSk9TM1JNUW0xT1NFbDRURWx1VVRSdFozbHVkbkZYY0dSaVZHSlVXVVkxWkV0cVVWQjZOVFIxV2pWYU9ERmZiRk4zWTJaQ1pGaGlUV05mZDB0YU1HbGpNVzU2WDNSbmJqUkdRWGhuUzNsMWRrOXJURk5EU21acFNGRnBRV3QwVEZkMmFFNFNGMHBwUkhWaGRXbDRTbUZFWmpKeWIxQmZXVXhaWjFFNEdpSkJTRTR3UlRkR1ZuaFFia1ZHVGxrM1lURkNVRFZoYTFOeVdURTVhelZSTVc1Qg",
     "fingerprint": "product manager pacs client radiology informatics|philips|iltewi",
     "title": "Product Manager PACS Client, Radiology Informatics",
@@ -4739,199 +4934,5 @@
       "Outside target markets"
     ],
     "fetchedAt": "2026-10-06T17:43:39.846Z"
-  },
-  {
-    "id": "TS1LOVBmb0h5NDNSYjQ5aEFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBURGR5UkVseWRHcEhXRTlyWVhsMVNYcGxhMEZwYmpScGFsOUJPVTFMTnpoRk5raElZVGx0VjJveFgzVndSVzE2VXpObVpUWnZObGgzV2pCT1pVcExTM2RLWjFoRFMwTlhTSFppWTNaTFMwd3labmswWW05a2VGZGhSVTV2ZGxWNk5YSkllWE5EYmxNMk9XWkhla3R1YkhCUVFtdDVPVGxhTFVnNWJVWkNhVlJyTXpoMGJqVVNGMUZFVUVaaGNuSjNUSEpRY1hKbVkxQnVkV0ZUTUVGakdpSkJSSE55T1daVFFWcHFObTl4YmpoT1EzaGtOR3AzZFhaZlJWVmtkREYzTmtGQg",
-    "fingerprint": "product manager product innovation ai solutions|relq technologies|ji3c4c",
-    "title": "Product Manager – Product Innovation & AI Solutions",
-    "company": "RELQ TECHNOLOGIES",
-    "location": "Tampa, Florida",
-    "locations": [
-      "Tampa, Florida"
-    ],
-    "remote": false,
-    "posted": "2026-10-05T19:00:00.000Z",
-    "salaryMin": null,
-    "salaryMax": null,
-    "url": "https://www.linkedin.com/jobs/view/product-manager-%E2%80%93-product-innovation-ai-solutions-at-relq-technologies-4475853593",
-    "source": "LinkedIn",
-    "score": 18,
-    "reasons": [
-      "Positioning fit (B2B, SaaS, enterprise)",
-      "AI signal (AI, ML)",
-      "Resume fit ~21%",
-      "Outside target markets"
-    ],
-    "fetchedAt": "2026-10-06T17:43:39.845Z"
-  },
-  {
-    "id": "M1lPSm1mSGdFNGpOSFNHYUFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTM2hqWmpGTWNrSjBNbWR3VUZkcVREbFRSMFJoV1ZoalJEVkVOMWxRVUVaTWIwUXdUbXhLUjNsRGFGRlNWRXBzY0ROalYxb3pOM2hIVUc4MFIyMVFiREZ1TVRJNFRYVnJlR1pLWDB4NWRXcGlhR3RTVDFGeWEwNWlSbnAwVVZBeVpFeHpkR05CVkY5Q1JESnVZVVp4UlVWRWMxZHlOSE4yU1cweU1uUkRSVXN6UVZWaldVa1NGMUZFVUVaaGNuSjNUSEpRY1hKbVkxQnVkV0ZUTUVGakdpSkJSSE55T1daU1VXWTJUR3hqVjFGbmJWUTJSR2wyZFhSNU5ERjJkVTlXYlhWbg",
-    "fingerprint": "staff product manager core platform ux|huntress|-oh46cg",
-    "title": "Staff Product Manager, Core Platform & UX",
-    "company": "Huntress",
-    "location": "Not specified",
-    "locations": [
-      "Not specified"
-    ],
-    "remote": true,
-    "posted": "2026-10-05T23:00:00.000Z",
-    "salaryMin": 230000,
-    "salaryMax": 250000,
-    "url": "https://builtin.com/job/staff-product-manager-core-platform-ux/11526319",
-    "source": "Built In",
-    "score": 71,
-    "reasons": [
-      "Positioning fit (platform, B2B, operations)",
-      "AI signal (AI)",
-      "Comp disclosed ≥ $175K",
-      "Resume fit ~31%",
-      "Remote"
-    ],
-    "fetchedAt": "2026-10-06T17:43:39.844Z"
-  },
-  {
-    "id": "ejFwYTBpRjhTT2ZGdVZva0FBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTa0ZoT1haUlEwNTZZbTlMU1ZkbGVURlROMFpzV0VsUFIzaDBPSEUyYnpOcmRXaFdXRmcyYTJveFYwb3pUVUl3V1ZCWmNqRlJSMFZ6Wm5VMGVETm5PRGxDYUhsZldXZEVXalV4ZUZJMllWRnNSVW96TVUxRVVGVnpSVTF2TTE5QlVsZE5kRnBWU1d4a2VEVTVZVGhEYURKVFQxWmpYMmx5TkVreU1tZHpORGh4ZWpSMFZIQVNGMUZFVUVaaGNuSjNUSEpRY1hKbVkxQnVkV0ZUTUVGakdpSkJSSE55T1daU1JpMUlkblJ6ZUdnelNXbHRVM2hFVUV3elgxaExZMEp1VlcxUg",
-    "fingerprint": "product manager real time|hightouch|xppi4q",
-    "title": "Product Manager, Real Time",
-    "company": "Hightouch",
-    "location": "Not specified",
-    "locations": [
-      "Not specified"
-    ],
-    "remote": true,
-    "posted": "2026-10-05T21:00:00.000Z",
-    "salaryMin": null,
-    "salaryMax": null,
-    "url": "https://www.linkedin.com/jobs/view/product-manager-real-time-at-hightouch-4475886023",
-    "source": "LinkedIn",
-    "score": 46,
-    "reasons": [
-      "Positioning fit (platform, enterprise)",
-      "AI signal (AI)",
-      "Resume fit ~21%",
-      "Remote"
-    ],
-    "fetchedAt": "2026-10-06T17:43:39.843Z"
-  },
-  {
-    "id": "aVVsTFloQlNiVUEweTF1MkFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBURVZCVFhGR1RVRXRlWE5GVjFWTFpISjFWa2huYkdac1VubEhTRGhVTkdRd1pHTlVNM1ZOV2poaVZEVkZXbVZyZUVneU5qTnBVR2szYVRoa1RWOVVNRkptUzB0ZlVHZFhZMGRFVXpOdWNWaEpha0pZWVdKRk5rb3dVVk16VTBSTFJWcEZNRU4xZWtSNmJrcHJRWEJ4UmxaS1VreHpRa3R6T0VzMlJqUkNjRUY2UlhSYVUyWVNGMUZFVUVaaGNuSjNUSEpRY1hKbVkxQnVkV0ZUTUVGakdpSkJSSE55T1daVE1uSmFUMUJ1ZGtWVVNGSTJkV3BTVDAweWNGaDJheTFmWXpCQg",
-    "fingerprint": "trust product manager security privacy compliance govtech|atomic remote jobs|h1c9xw",
-    "title": "Trust Product Manager (Security, Privacy & Compliance | GovTech",
-    "company": "Atomic - Remote Jobs",
-    "location": "Not specified",
-    "locations": [
-      "Not specified"
-    ],
-    "remote": true,
-    "posted": "2026-10-06T07:00:00.000Z",
-    "salaryMin": null,
-    "salaryMax": null,
-    "url": "https://www.linkedin.com/jobs/view/trust-product-manager-security-privacy-compliance-govtech-at-atomic-remote-jobs-4474687293",
-    "source": "LinkedIn",
-    "score": 48,
-    "reasons": [
-      "Positioning fit (platform, operations, vendor)",
-      "AI signal (AI)",
-      "Resume fit ~18%",
-      "Remote"
-    ],
-    "fetchedAt": "2026-10-06T17:43:39.842Z"
-  },
-  {
-    "id": "QndhMG9leFd5OEJ1eVc0bUFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBURTVRYTFVMU1tSnVaSEJKWWpGc1ltbFlXRkptTldOcGFWSkJZVW93YzJndE9USldWRjgzWWxaSFp6aEZaMmg1WW5Cc2EyTkxjRjk1YUd3MlMwWXdMVzFEYldsSVlYcDZSRGxFVVU5MWJISTVOM0ZNVWxKek0zSjBYMmRIUzJjdFNtVnhVV1V5YkUxeVRsZFpSVWhQVGtSWlZrbHZOek5TVHpabE1VVjJNbnBCUWsxRVIxRVNGMUZFVUVaaGNuSjNUSEpRY1hKbVkxQnVkV0ZUTUVGakdpSkJSSE55T1daUmIwcHZPVmxCUkdkbWVURnlRWEV3V1c1SVExVjBUamROWmsxMw",
-    "fingerprint": "product manager workday hcm|interon it solutions|nqclg9",
-    "title": "Product Manager / Workday HCM",
-    "company": "Interon IT Solutions",
-    "location": "Reston, Virginia",
-    "locations": [
-      "Reston, Virginia"
-    ],
-    "remote": false,
-    "posted": "2026-10-05T21:00:00.000Z",
-    "salaryMin": null,
-    "salaryMax": null,
-    "url": "https://www.linkedin.com/jobs/view/product-manager-workday-hcm-at-interon-it-solutions-4474629555",
-    "source": "LinkedIn",
-    "score": 9,
-    "reasons": [
-      "Positioning fit (platform, operations, enterprise)",
-      "AI signal (AI)",
-      "Resume fit ~16%",
-      "Outside target markets"
-    ],
-    "fetchedAt": "2026-10-06T17:43:39.841Z"
-  },
-  {
-    "id": "VnktenBuQVVPbHBmeFJkUUFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTVmxFUVRrMlFrMWZWR2QxYjJGR2RrOXVXamw2YWs1WmNscEhZbmhFWDBKWldXSkJaa1pYYWtWQ1FUSk5RbnBwTmpWbFUxTmhiME5OYmkxcFJHOHhPVTF6TTFaMFl6bDRXV2x4ZVhOek5YVlNPV3RMU1ZOcmVHY3pabVJPWHpJdExVYzNhVm93UWxOd00wMHhNa2x2V25kZlJUbDBNV1JwVldKWU5YcGpPRU5GYld0ZlRHZ1NGelZJZGtOaGMyazRSVzgzU210UVNWQndkbTV0YjBGakdpSkJSSE55T1daVFVrVlVhR2hoWWtSbFkwTkNSMUIzV2tKdlkxOUNNa05WWm5SQg",
-    "fingerprint": "sr technical product manager ai analytics|mckesson|s6y8ff",
-    "title": "Sr. Technical Product Manager, AI & Analytics",
-    "company": "McKesson",
-    "location": "Columbus, Ohio",
-    "locations": [
-      "Columbus, Ohio"
-    ],
-    "remote": false,
-    "posted": "2026-10-03T00:00:00.000Z",
-    "salaryMin": null,
-    "salaryMax": null,
-    "url": "https://www.linkedin.com/jobs/view/sr-technical-product-manager-ai-analytics-at-mckesson-4475332684",
-    "source": "LinkedIn",
-    "score": 45,
-    "reasons": [
-      "Senior/Group title",
-      "Positioning fit (platform, operations, supply)",
-      "AI signal (AI, GenAI, ML)",
-      "Resume fit ~27%",
-      "Outside target markets"
-    ],
-    "fetchedAt": "2026-10-04T16:16:55.278Z"
-  },
-  {
-    "id": "VmVobm0xZmhjUjR2R3pPa0FBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTMnhmU0cxM2RVZHRVelo0WlUxeVRWRmZYMnBpWkMxNFpVZHNkV2RCWkdWU2NrSldkbGQwYWtGUmFtOXJWM2N4TWtoeGVVSkRURTFSV2xSbFUzQXpWVGhwY0VJME9FTjVTME5HVkdsb1dHbHFRa2R4V2s1UU5WRmpXa1l5YkV0c2F6QlBVMEpIWWtrMWVUUjJkVXRGVTE5eWJtZEZORXBuTW1KNU1FUnplRmRyVlZscGFqVVNGelZJZGtOaGMyazRSVzgzU210UVNWQndkbTV0YjBGakdpSkJSSE55T1daVFYxZHplbDlZYlZSSGQwOUtRMDVYVlZkQ1NUZEtYMEpoTWtSbg",
-    "fingerprint": "tiktok shop product manager leader 1p app store integration|tiktok|fljh88",
-    "title": "TikTok Shop - Product Manager Leader, 1P App Store Integration",
-    "company": "TikTok",
-    "location": "Seattle, Washington",
-    "locations": [
-      "Seattle, Washington"
-    ],
-    "remote": false,
-    "posted": "2026-10-03T18:00:00.000Z",
-    "salaryMin": null,
-    "salaryMax": null,
-    "url": "https://www.linkedin.com/jobs/view/tiktok-shop-product-manager-leader-1p-app-store-integration-at-tiktok-4473866730",
-    "source": "LinkedIn",
-    "score": 44,
-    "reasons": [
-      "Positioning fit (platform)",
-      "AI signal (AI, LLM, ML)",
-      "Resume fit ~21%",
-      "Visibility location"
-    ],
-    "fetchedAt": "2026-10-04T16:16:55.276Z"
-  },
-  {
-    "id": "c0VqMmJXTWFGLWtUMThsM0FBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTbDlRVEdaTFJuTlhXR2cyT1dSelZXUndhMWx1Vm5WVFYyZEdZMTg0UjJoQmRHWnVTVXhRV2pFMVozSkJSeTA0YkVWdE1uWmhXazF1WWt4RVoyTllTbVF0UW14bWNWZGFUV3MyV2xkWlNGbDZlV2haVUc5SE9GQXpVMng1YnpSSllXOWxkMUV5VmtsNVltbEJVV28xT0UxQlF6VXdZVWgyUlMxbFpGRlJSRlJ1ZWxVeVduY1NGelZJZGtOaGMyazRSVzgzU210UVNWQndkbTV0YjBGakdpSkJSSE55T1daVFJVeExNRzkyUzNwd1dGRmtaVmt4UmxSYU5XVjVRakU0TjJOMw",
-    "fingerprint": "product manager ai for quantum|nvidia|-qb7jsj",
-    "title": "Product Manager, AI for Quantum",
-    "company": "NVIDIA",
-    "location": "Not specified",
-    "locations": [
-      "Not specified"
-    ],
-    "remote": true,
-    "posted": "2026-10-04T00:00:00.000Z",
-    "salaryMin": null,
-    "salaryMax": null,
-    "url": "https://www.linkedin.com/jobs/view/product-manager-ai-for-quantum-at-nvidia-4473879566",
-    "source": "LinkedIn",
-    "score": 35,
-    "reasons": [
-      "Positioning fit (platform)",
-      "AI signal (AI, machine learning)",
-      "Resume fit ~11%",
-      "Remote"
-    ],
-    "fetchedAt": "2026-10-04T16:16:55.275Z"
   }
 ]
