@@ -1,5 +1,29 @@
 [
   {
+    "id": "LVV4YllrNkRzT180clMya0FBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxXVFJqTWpWcFkzUjBRa2xXVlVwelRrTnRSMEUwT0hCblRsQTJVM1IzTkZGQ2VHaEJaemhxYTFwU1VXMDNYMjF5Tmt0UlgwOVJZWEJMVTNkeU0xbGpaWHBXVmw5TlVWbzVZUzFMWmswNWNqbENXaTFqZVhsMWJtRkZVR1JTVm1seGJYUlhkV2hDVEdSclgwUTVlVmM0YzFVd1pVSXdTQzFXVVdsVlJuaFVSRkpFYjBGQlFVOFNGelJVWDNsaGNFUllUMjlsVHpRdFJWQXlkbWxaYjFGRkdpSkJTRTR3UlRkSFlYVjVjRGh0T1d0S2FGaHljVTFUT0hOSFdFOUNjRFJTVmxoQjpkNGM4NTUzNA",
+    "fingerprint": "product manager|convenient brands|8ig8cy",
+    "title": "Product Manager",
+    "company": "Convenient Brands",
+    "location": "Not specified",
+    "locations": [
+      "Not specified"
+    ],
+    "remote": true,
+    "posted": "2026-11-08T23:00:00.000Z",
+    "salaryMin": 140000,
+    "salaryMax": 170000,
+    "url": "https://builtin.com/job/product-manager/12136810",
+    "source": "Built In",
+    "score": 46,
+    "reasons": [
+      "Positioning fit (platform, B2B, vendor)",
+      "AI signal (AI)",
+      "Resume fit ~21%",
+      "Remote"
+    ],
+    "fetchedAt": "2026-11-09T21:50:03.469Z"
+  },
+  {
     "id": "TlYtYkRCVnMzU1gwQm5WLUFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxZbkZFU0dsVk5IZGhWMVYwTm1KUVV6Uk5TV0ZRVDNGWVJIazJkMHBoWm1OUk1HNURTblZuTUZsamQyTm1SVUozUkRnNVMycEljRTlCY1ZGVmNUVkpZVEZtTmtoVWIxTjROMkV4VlROUFVHUnhNM2RJYVV4bk5uUlhUREZYVldKWGRFcDNaMHhLVWsxaVRtNUlPR1ZuVTBjd1pXeG5kRU16UzE5MVZsTkNlR28wYkhSbWFIY1NGekpXZW5aaGNHMTRRVzlmY1cxTVVWQnZkVzFGYlVGRkdpSkJTRTR3UlRkSFNUbHpXalJCWldodWRHMVlVbFZEV2pCWE5VeGtSM0JMUmpKUg",
     "fingerprint": "principal product manager hr experiences|gusto|gvv02n",
     "title": "Principal Product Manager, HR Experiences",
@@ -4911,28 +4935,5 @@
       "Remote"
     ],
     "fetchedAt": "2026-10-06T17:43:39.847Z"
-  },
-  {
-    "id": "QU5PS25jRFpVcE00VVVMQUFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTbGgyTlRkUWRYTnNhRFpLWDBacmVHTTJZek5oV1hWeFZ6WkhXWEZHYkdWb1lrcHhYMDl6VjFRMWVWSkVabUZtVjJ0WVkzQlFkVFl0ZFdVdFZYaHJaalJsYmpobk5HeEdObWxLWVdaRVFqTndiRTExVjFSUmNHb3ROVlpTVnpkWFQxRjBUalZvVm5Sdk5tY3RUelJmUWxwYWQwbE9PVkV0TFd4SlJtNUpSVFJKUVVJNE1rTVNGMUZFVUVaaGNuSjNUSEpRY1hKbVkxQnVkV0ZUTUVGakdpSkJSSE55T1daUmMxRjBXbG8zUjNCVmIyVmtiRTVuWVdOVlRVRmtUemxpYVVabg",
-    "fingerprint": "principal product manager ai powered personalization discovery|slate auto|7gb6xv",
-    "title": "Principal Product Manager, AI-Powered Personalization & Discovery",
-    "company": "Slate Auto",
-    "location": "US",
-    "locations": [
-      "US"
-    ],
-    "remote": false,
-    "posted": "2026-10-05T18:00:00.000Z",
-    "salaryMin": null,
-    "salaryMax": null,
-    "url": "https://www.linkedin.com/jobs/view/principal-product-manager-ai-powered-personalization-discovery-at-slate-auto-4475839567",
-    "source": "LinkedIn",
-    "score": 2,
-    "reasons": [
-      "AI signal (AI, LLM, RAG)",
-      "Resume fit ~15%",
-      "Outside target markets"
-    ],
-    "fetchedAt": "2026-10-06T17:43:39.846Z"
   }
 ]
