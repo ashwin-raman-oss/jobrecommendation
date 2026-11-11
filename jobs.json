@@ -1,5 +1,105 @@
 [
   {
+    "id": "VHp0UHJYRGk4SGQ0T01DR0FBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxXbVZwUVVreU5rY3dhME5OUTFjeFdrd3hPRWxxWmxWcE0wNUpVRVI2VDNaTVNFWm1hRlZCVmt4aWRETXdXbXhqTkRnMFJuZGpVVFZoZEdOdmMyaG5SMHBzWkVKeFlVUmpRbkZ0YTBoNlZscHZXWEZZTVVSNmRHcE5UMFpxYVZCcFNVbE9XQzFDUkhOZlNrNVZSbFZPTm5JM01HZEtTbGRUUmxobVNIQlJlV0Z5TTJkSFpEa1NGekp5ZWpCaGRucHhTRmxIZUhjNFkxQnpkbGhDTmxGM0dpSkJTRTR3UlRkR1dHbE5SVlJuTlRSYWVYcEtaMlV6VGxFMVZreE5XVlpJTUZkQjplZDQzOTAwZA",
+    "fingerprint": "senior product manager bos deliver|booster|98c36r",
+    "title": "Senior Product Manager BOS Deliver",
+    "company": "Booster",
+    "location": "Irvine, California",
+    "locations": [
+      "Irvine, California"
+    ],
+    "remote": false,
+    "posted": "2026-11-10T20:00:00.000Z",
+    "salaryMin": null,
+    "salaryMax": null,
+    "url": "https://www.linkedin.com/jobs/view/senior-product-manager-bos-deliver-at-booster-4488617409",
+    "source": "LinkedIn",
+    "score": 44,
+    "reasons": [
+      "Senior/Group title",
+      "Positioning fit (platform, B2B, operations)",
+      "AI signal (AI, ML, RAG)",
+      "Resume fit ~26%",
+      "Outside target markets"
+    ],
+    "fetchedAt": "2026-11-11T19:07:18.100Z"
+  },
+  {
+    "id": "ZEVpa083dkdFVFZCZTkxaUFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxZVEZTV0Y5UE9IQkdSbUZRY0VaQ2IxcEtNakEwYjI5WFlUbHFaV2RPYmtrNUxYUk5aM2hoUWtoWWRsRndPRVF4VUVKRlNYZ3RUV3RFWTFVeGRIVnlSakp3T1RONGVXNVlWMUZZVTJkM2FFSklNRFJOUjBJM1VEQXRlVzlrUWxwNE9GcHRTbFpTTkhVdE1YcFBVVVZ4TldacVprOVVjV1ptWDBzdFNFRk1hRWgxVUVkT1dERVNGekp5ZWpCaGRucHhTRmxIZUhjNFkxQnpkbGhDTmxGM0dpSkJTRTR3UlRkSVEwazRkbVpCVlZOek5uQTRVbTU0YW1sTGFXeHNVM05XTVZKQjo2YmI4ZTZmMA",
+    "fingerprint": "senior product manager sites studio|bask health|hofpgl",
+    "title": "Senior Product Manager, Sites & Studio",
+    "company": "Bask Health",
+    "location": "Not specified",
+    "locations": [
+      "Not specified"
+    ],
+    "remote": true,
+    "posted": "2026-11-10T23:00:00.000Z",
+    "salaryMin": null,
+    "salaryMax": null,
+    "url": "https://www.indeed.com/viewjob?jk=6576d6cd4e751dae",
+    "source": "Indeed",
+    "score": 62,
+    "reasons": [
+      "Senior/Group title",
+      "Positioning fit (platform, SaaS)",
+      "AI signal (AI, RAG)",
+      "Resume fit ~18%",
+      "Remote"
+    ],
+    "fetchedAt": "2026-11-11T19:07:18.099Z"
+  },
+  {
+    "id": "dzlidi1wVkFpYVcxUkNoVEFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxZVkZDWVhkWUxTMWpXbmRHVEZSTlpVTm9ka3AyWHkxclpUTm9WMHhSWmtwVU9YUmZjWGhDTFhGeFltWnZkRGhHWjFjemRuRTViMEpOV1ZoMWVXdHBNR0YyY1V4WFlXVTNiRnBOVjFscGJsUnhjVkpKWVRaR1VWbEhSMjUwY1dGbFlXVnJlR05FVEdGRGREUjBlbTlVVVRGTWFYUklWSEJSYlhwWWFXaG1Ua05wYUhORFpXc1NGekp5ZWpCaGRucHhTRmxIZUhjNFkxQnpkbGhDTmxGM0dpSkJTRTR3UlRkSGF6aFJaRGRMWTFKTFRUQlZPVVJIVWxOd05HaFJSRWR2V2pSbjoyYTBmZTE3YQ",
+    "fingerprint": "senior product manager retention 5m to 50m users|jerry ai|5rsu1p",
+    "title": "Senior Product Manager, Retention (5M to 50M users)",
+    "company": "Jerry.ai",
+    "location": "Boston, Massachusetts",
+    "locations": [
+      "Boston, Massachusetts"
+    ],
+    "remote": false,
+    "posted": "2026-11-10T20:00:00.000Z",
+    "salaryMin": 160000,
+    "salaryMax": 210000,
+    "url": "https://www.indeed.com/viewjob?jk=8d773814d7a876cd",
+    "source": "Indeed",
+    "score": 38,
+    "reasons": [
+      "Senior/Group title",
+      "Positioning fit (marketplace, supply)",
+      "AI signal (AI, ML, RAG)",
+      "Comp disclosed ≥ $175K",
+      "Resume fit ~16%",
+      "Outside target markets"
+    ],
+    "fetchedAt": "2026-11-11T19:07:18.097Z"
+  },
+  {
+    "id": "dGdQSk5uZldHNGp1U1V2c0FBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxZbkpvU0VaYU5YWnNUMGxIZVY5UVVHcEJjV3RxUkVvM1R6RkpOM2hhTm5jd1NUSlBPVzlSTWt4S1dsRk1Oa2hQUlVKMlNuaFBhREpmTjJsV1JVbGFNRmRpWDA1aldHaE1aV2xMWkVJeVlYZzFlVXB2UVRWV01tcG9TbmhvZGxKdWMydHlZemRsYmpWTlpHeHpUWEJDY205U1JHNUxRVmxxUkZwaGNUSjVhRmhFVUZvMU5UUVNGekUzZWpCaGNtNUZVRWsyY1hjNFkxQjRORXcyT0VGUkdpSkJTRTR3UlRkSGMzVnZaVUoxY2xobFdFMWpjVXhvT1hoaWFYbG1jRmxxVDB0MzplZjUwNDg5OA",
+    "fingerprint": "product manager data intelligence baskql|bask health|uxl8mo",
+    "title": "Product Manager, Data & Intelligence / BaskQL",
+    "company": "Bask Health",
+    "location": "Not specified",
+    "locations": [
+      "Not specified"
+    ],
+    "remote": true,
+    "posted": "2026-11-11T00:00:00.000Z",
+    "salaryMin": null,
+    "salaryMax": null,
+    "url": "https://builtin.com/job/product-manager-data-intelligence-baskql/12178650",
+    "source": "Built In",
+    "score": 57,
+    "reasons": [
+      "Positioning fit (platform, operations, SaaS)",
+      "AI signal (AI)",
+      "Resume fit ~27%",
+      "Remote"
+    ],
+    "fetchedAt": "2026-11-11T19:07:18.096Z"
+  },
+  {
     "id": "OTJUU0YzejRLSWc5d1hsa0FBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxXVE5XTVdwTVdrTktOamN5TVVka1NYbE5Ua3hOUkVFMmVUZHdWekZKUkc5ZmNHSTJPWE42Y2tSVGNIQmxXRU56ZVdobmFreDNWR1Y0U1hvdFNFVnBUMk5yTUV3MFlXMXhWbEZoTWpGa2REVlFjRnBaU1VvMU9VeFlMVTF6WTFndFNrWkJUMVZQWXkwMlgyaGtSRGhCZDBFeVJrZDJia0ZSTlRWS1JtUkJMVmhEZEZCbVpra1NGMGhYZW5waGRYcHBRalY1WldoaVNWQnlOa1JMTFZFd0dpSkJTRTR3UlRkRldXZFBMVVl4U0ZWalRFTTBVMVJ2WmpVNWIwWTFhVEk1ZWkxbjo2ZTNjY2YwZQ",
     "fingerprint": "product manager bathroom wholesale segment|fortune brands innovations|-vsh7nz",
     "title": "Product Manager - Bathroom Wholesale Segment",
@@ -4837,102 +4937,5 @@
       "Outside target markets"
     ],
     "fetchedAt": "2026-10-07T18:15:31.473Z"
-  },
-  {
-    "id": "cGVrUDMxbWJNX0FlUnJzVEFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBUSFJEVEROdk9XNU5NbkpzWmpZNWNteG9aMTlhTTFSWE0xaHZSM1ptV0RadlFVbFBlbG93WTNkR1VqQnJSM0JmZGpWaFZscFpSMmhuTkhOSFdsbGZOemRvTVhKMVgwWjVUREkwTjBneFVWRmZlbUpuV1ZoWE1YUm5UVGRWTjNWSk5UVkhTRU5TY2xCWlNUSnliQzB4VFVsb2NHSmtTR1JwVURSelRGWnlSV2Q2ZG1GNlFsY1NGMDgwZWtkaGNXNUZTRWx1WkRWUFZWQjBOREk0TFVFNEdpSkJSSE55T1daVU0waG5YekkyTUdSVGRqaGxSbFJ6WlVod2VtTm1aREZJVFd4Ug",
-    "fingerprint": "senior product manager|hewlett packard enterprise|-kbsank",
-    "title": "Senior Product Manager",
-    "company": "Hewlett Packard Enterprise",
-    "location": "Andover, Massachusetts",
-    "locations": [
-      "Andover, Massachusetts"
-    ],
-    "remote": false,
-    "posted": "2026-10-06T23:00:00.000Z",
-    "salaryMin": null,
-    "salaryMax": null,
-    "url": "https://www.linkedin.com/jobs/view/senior-product-manager-at-hewlett-packard-enterprise-4476158921",
-    "source": "LinkedIn",
-    "score": 37,
-    "reasons": [
-      "Senior/Group title",
-      "Positioning fit (platform, B2B, vendor)",
-      "AI signal (AI, LLM, ML)",
-      "Resume fit ~19%",
-      "Outside target markets"
-    ],
-    "fetchedAt": "2026-10-07T18:15:31.471Z"
-  },
-  {
-    "id": "NEZyaURVNEJ1aXRJOEt0ekFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTMDh4U1ZwcVowODFjV05UUTNoQmNrOVBaR1ZHUkRWSVJtbDVUMFZ2YTNSa2VIbDFSMlp3WWs1RVZVdzRTek16UmxaQ1JFNUhOMnhNY0hKb1JXczNTbXhtV25GMlNVRTBkbWhQTlRnMU5GZG1Va3RWV1hoNlNXZHFjR2RrUVhkeFpWZFNkMDVhUTBkRlRrcDZiQzE2VjJ4WVkwMVliMWx2ZVVJMVowNHdNRk52Ym1wemRXTVNGMDlKZWtkaGRFaEVTQzFmU0hBNE5GQnZVRWhhYTFFNEdpSkJSSE55T1daUlNtcGZWMDUzTW1GT1JFVmliR0pRTFVKNVVtazRjWEZWU1hWUg",
-    "fingerprint": "field product manager eastern u s territory based role|siemens healthineers|-m63oz9",
-    "title": "Field Product Manager - Eastern U.S. (Territory-Based Role)",
-    "company": "Siemens Healthineers",
-    "location": "Portsmouth, New Hampshire",
-    "locations": [
-      "Portsmouth, New Hampshire"
-    ],
-    "remote": false,
-    "posted": "2026-10-07T03:00:00.000Z",
-    "salaryMin": null,
-    "salaryMax": null,
-    "url": "https://www.linkedin.com/jobs/view/field-product-manager-eastern-u-s-territory-based-role-at-siemens-healthineers-4474432494",
-    "source": "LinkedIn",
-    "score": -1,
-    "reasons": [
-      "Positioning fit (vendor)",
-      "AI signal (AI, RAG)",
-      "Resume fit ~12%",
-      "Outside target markets"
-    ],
-    "fetchedAt": "2026-10-07T18:15:31.469Z"
-  },
-  {
-    "id": "Sk5CVEJhV2k3UnpxQ09HZEFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTMG8xVW1wcFNIbERSbFozZWpONWJHZzRTMWxDYkZCVkxXVnZja3RaTlhoU2FUaEJSbVZRZFZrd05VdHNkblF6Wm1WUGJrcDZOa0puTXpKSFkwMDJNa3BzV1d0R1FYVXRZMDAzVkRZNVJrdE1WVzloYkZkSFIxaGphMmcyZWxsTVNUWktaMWgxVmtOdlRsbElWSFpDZURkak1GcHJURmRZTFdkdlVrTnVZVmxZTUhCNmFHVVNGMDlKZWtkaGRFaEVTQzFmU0hBNE5GQnZVRWhhYTFFNEdpSkJSSE55T1daVFdYQm9Ra2RDVjFoRVdXbEdaVWhxY0hGSmF6QTBUSEV4UWxoQg",
-    "fingerprint": "lead product manager|infojini inc|awa2g2",
-    "title": "Lead Product Manager",
-    "company": "Infojini Inc",
-    "location": "Hopewell, Florida",
-    "locations": [
-      "Hopewell, Florida"
-    ],
-    "remote": false,
-    "posted": "2026-10-06T22:00:00.000Z",
-    "salaryMin": null,
-    "salaryMax": null,
-    "url": "https://www.linkedin.com/jobs/view/lead-product-manager-at-infojini-inc-4476389678",
-    "source": "LinkedIn",
-    "score": 3,
-    "reasons": [
-      "Positioning fit (platform, operations)",
-      "AI signal (AI)",
-      "Resume fit ~15%",
-      "Outside target markets"
-    ],
-    "fetchedAt": "2026-10-07T18:15:31.467Z"
-  },
-  {
-    "id": "UFBpWU44OFFfdDhwN1o0RUFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTekpwU1dGbE9HTXpRVGRpVms5MFMwcFNWVGsxWjE5VWVHRlZaRUpPUm1SaVFXWm5hMUJQVlRoSFZubG5XaTFLTWsxVlh6Y3djUzFCYUdGTGJUZEhjamhNUVhaRWIxVkdVbFJIWWtSdmFXbG9UMGx4UkZKbGRXVmhMVUZsT1ZJelQydDFSRE42WTNveFF6QlRjakJLTFZGUGVIcG9SalpuWWxObGRHbEdOVEJDZDFZNVMyVVNGMDlKZWtkaGRFaEVTQzFmU0hBNE5GQnZVRWhhYTFFNEdpSkJSSE55T1daVFYzbE1kbk5mTWtReFYzUlRaSHA2V1V4RWJUWnNNelExTFRoQg",
-    "fingerprint": "product manager in training yc cofounder ceo led|jerry|gvd8bj",
-    "title": "Product Manager-in-Training (YC cofounder/CEO-led)",
-    "company": "Jerry",
-    "location": "Not specified",
-    "locations": [
-      "Not specified"
-    ],
-    "remote": true,
-    "posted": "2026-10-06T19:00:00.000Z",
-    "salaryMin": null,
-    "salaryMax": null,
-    "url": "https://www.linkedin.com/jobs/view/product-manager-in-training-yc-cofounder-ceo-led-at-jerry-4474401329",
-    "source": "LinkedIn",
-    "score": 44,
-    "reasons": [
-      "Positioning fit (marketplace, operations)",
-      "AI signal (AI, RAG)",
-      "Resume fit ~15%",
-      "Remote"
-    ],
-    "fetchedAt": "2026-10-07T18:15:31.466Z"
   }
 ]
