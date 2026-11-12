@@ -1,5 +1,54 @@
 [
   {
+    "id": "aEZuUlpaZlRGS3FnN1hqOUFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxXbmM1WXpCM2MwbEViVlJMVnpsdWRGazJaVGxQU1ZobVNISnZWR2xNWW5GT1R6TlFYMHREUVhkNkxUUkdWRFJFVFVoaFRGWnBZWEJ2WXkxaFkyMVRhMUJOYWxKd2NDMWhiM0JYWmpJM1F6TXdVRWgyVTJwVVZrTnVVa1JCZFc5NlNWZDNSMVp4YlhGdWFucGhabk4xWlVKTE0zSXpaVWRZTUdwcFpEWkJRamhFYWtKNVlVMFNGMlI0VERKaGRISklSbUoxTW1oMlkxQmZjMTlRYjBGckdpSkJTRTR3UlRkSE0xRlNRWGwxYVZkM01tMXllVzVxWHpGcVkyaHJURTluVDJKUjpkOTcxODAyYg",
+    "fingerprint": "sr product manager platform integrations remote|benefithub|-3nd3o3",
+    "title": "Sr Product Manager, Platform & Integrations (Remote)",
+    "company": "BenefitHub",
+    "location": "Not specified",
+    "locations": [
+      "Not specified"
+    ],
+    "remote": true,
+    "posted": "2026-11-12T00:00:00.000Z",
+    "salaryMin": null,
+    "salaryMax": null,
+    "url": "https://builtin.com/job/sr-product-manager-platform-integrations-remote/12193404",
+    "source": "Built In",
+    "score": 64,
+    "reasons": [
+      "Positioning fit (marketplace, platform, B2B)",
+      "AI signal (AI, ML, RAG)",
+      "Resume fit ~25%",
+      "Remote"
+    ],
+    "fetchedAt": "2026-11-12T19:24:49.351Z"
+  },
+  {
+    "id": "R0V0dDhWS29CWVh5M2dBdUFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxZbXBUVUdseGJUaFhhVXRVWlhvMWNUQjBiRUZ3UVZsTk9VZDZkMGhPWXpOSFVURlNSMngwVlZwWVEzUlRVV2Q1WkY5M1FqSnRSRWRYVFVzeFpVeHVUVXd5VjE5Q2QwMUNRbkl5U21GMFZFYzJlV3RhVEVGbVIwUXlWbEZZTmpGUlVISmFTblZyTFdWVGRXNTNOV0ZmUjBwM1QzWkZOa3BXUkdsMGFrRkxZbFoyYjB0d01FTVNGMk5vVERKaGRUTnZTVTlETUcxTVVWQnpaVlJ0YzFGekdpSkJTRTR3UlRkR01YWlpSbUZwZW5OQ1pVeGZka3hyV2s5amFYQm1TMDl5U0d4MzozYmFhZThmYw",
+    "fingerprint": "principal product manager technical es mission ai|amazon development center u s inc|-7qtazb",
+    "title": "Principal Product Manager, Technical ES, Mission AI",
+    "company": "Amazon Development Center U.S., Inc.",
+    "location": "Arlington, Virginia",
+    "locations": [
+      "Arlington, Virginia"
+    ],
+    "remote": false,
+    "posted": "2026-11-11T21:00:00.000Z",
+    "salaryMin": 181000,
+    "salaryMax": 245000,
+    "url": "https://www.indeed.com/viewjob?jk=27eedf564a60ad6f",
+    "source": "Indeed",
+    "score": 96,
+    "reasons": [
+      "Target company (Amazon)",
+      "Positioning fit (platform, supply, network)",
+      "AI signal (AI, agent, RAG)",
+      "Comp disclosed ≥ $175K",
+      "Resume fit ~19%"
+    ],
+    "fetchedAt": "2026-11-12T19:24:49.350Z"
+  },
+  {
     "id": "VHp0UHJYRGk4SGQ0T01DR0FBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxXbVZwUVVreU5rY3dhME5OUTFjeFdrd3hPRWxxWmxWcE0wNUpVRVI2VDNaTVNFWm1hRlZCVmt4aWRETXdXbXhqTkRnMFJuZGpVVFZoZEdOdmMyaG5SMHBzWkVKeFlVUmpRbkZ0YTBoNlZscHZXWEZZTVVSNmRHcE5UMFpxYVZCcFNVbE9XQzFDUkhOZlNrNVZSbFZPTm5JM01HZEtTbGRUUmxobVNIQlJlV0Z5TTJkSFpEa1NGekp5ZWpCaGRucHhTRmxIZUhjNFkxQnpkbGhDTmxGM0dpSkJTRTR3UlRkR1dHbE5SVlJuTlRSYWVYcEtaMlV6VGxFMVZreE5XVlpJTUZkQjplZDQzOTAwZA",
     "fingerprint": "senior product manager bos deliver|booster|98c36r",
     "title": "Senior Product Manager BOS Deliver",
@@ -4886,56 +4935,5 @@
       "Outside target markets"
     ],
     "fetchedAt": "2026-10-07T18:15:31.475Z"
-  },
-  {
-    "id": "Y2ZlNFl5RW9NZE11RjRtZUFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBURmxwTWtwc1ozcDRTbk5TWTBReVJubFZaSGgzTkhSblNXcGxhMGRMUWpKeWFqbHpaWEZIVUZaelMwdEpjR2xYVVRKTlkyYzBhVmMxY0hCR05qTlJOSEJhTlVoamJWVmtOV3RTVTJSZmJXRTBlRlEyV2psb05XOVRhalJuUWtWcFZHbFNWRWswWkZsWGVVd3lNazVoV25OdE56Qm5ZMW8yTjJaNVVrRlpNVWxKUkZCeFpXNFNGMDgwZWtkaGNXNUZTRWx1WkRWUFZWQjBOREk0TFVFNEdpSkJSSE55T1daU2NEbEpNSEpMYTNsQ1ZGaHNjVEpVUVRoSWIwNVpjWHBIUmsxMw",
-    "fingerprint": "sr technical product manager 1 ai enabled data governance|u s bank|-ggjhim",
-    "title": "Sr. Technical Product Manager 1 - AI Enabled Data Governance",
-    "company": "U.S. Bank",
-    "location": "Cupertino, California",
-    "locations": [
-      "Cupertino, California"
-    ],
-    "remote": false,
-    "posted": "2026-10-07T01:00:00.000Z",
-    "salaryMin": null,
-    "salaryMax": null,
-    "url": "https://www.linkedin.com/jobs/view/sr-technical-product-manager-1-ai-enabled-data-governance-at-u-s-bank-4476533106",
-    "source": "LinkedIn",
-    "score": 42,
-    "reasons": [
-      "Senior/Group title",
-      "Positioning fit (marketplace, platform, enterprise)",
-      "AI signal (AI, ML, agent)",
-      "Resume fit ~24%",
-      "Outside target markets"
-    ],
-    "fetchedAt": "2026-10-07T18:15:31.474Z"
-  },
-  {
-    "id": "Ml9nSGtUTks2THVLcl9JdUFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTMlpLUjJWVVZEQlhRbGhPTWtaVlducDRSbmhoTVZwc0xXbHdVRGRsUWxsRmVFbFZaMGQwYlhWcFdFdFFXbkZuUkhsaWMycHdaMFJoTmtNeFUwTllkVVZsT1d4RVMwNXNWV3BUU0Vjd2RHTTNSWEJPTlROR2VITnRiVE14TkdSZlNsZDBaR1IyWkVkTVdFNTFaWGxrVHpNMWJFNDVOa0Z1WWxFMWNUUlRibmhrUmpNdFYyUVNGMDgwZWtkaGNXNUZTRWx1WkRWUFZWQjBOREk0TFVFNEdpSkJSSE55T1daUmNubzBieTFIVEROcFUxVm5ZbU5YVFVkblZXWmZNMlZJTmpsUg",
-    "fingerprint": "sr product manager borrow and operations|sofi|a1szc7",
-    "title": "Sr. Product Manager, Borrow and Operations",
-    "company": "SoFi",
-    "location": "Frisco, Texas",
-    "locations": [
-      "Frisco, Texas"
-    ],
-    "remote": false,
-    "posted": "2026-10-07T03:00:00.000Z",
-    "salaryMin": 134000,
-    "salaryMax": 231000,
-    "url": "https://www.linkedin.com/jobs/view/sr-product-manager-borrow-and-operations-at-sofi-4476531758",
-    "source": "LinkedIn",
-    "score": 48,
-    "reasons": [
-      "Senior/Group title",
-      "Positioning fit (platform, operations, vendor)",
-      "AI signal (AI, LLM)",
-      "Comp disclosed ≥ $175K",
-      "Resume fit ~25%",
-      "Outside target markets"
-    ],
-    "fetchedAt": "2026-10-07T18:15:31.473Z"
   }
 ]
