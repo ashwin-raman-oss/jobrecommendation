@@ -1,5 +1,30 @@
 [
   {
+    "id": "M1dlS05wVWk1cGFtcXpnZkFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxZVlZOUVVaNk5tUkJXbEpST0c0NVNrZDZabmRKVW0wMVlXbDVjaTFNZDJsT1YyUnNjMnhEU2xWWU1TMVliemR5UVVsVmNIZGZTR1o2Tm1sSk5tNUhSakJLTlRadlVGTnhWSE5IT0RkdU4yNWljVEoxV2tsMmRqZEJOVlEzVDAxaldHWTNha2RLV0VaT00xWjVTbVJKVDNkeFJtMVFhVlJTWTJ0U2VVVndWbFJmYW1sblprc1NGM0l4TnpOaGIzRkNTa2xYZVRWUFZWQjFjVzVSTFVGSkdpSkJTRTR3UlRkR1VtMVhRVEIyVFZWV2QxYzJZVlY0Y0ZOak5VTnRhbXhNTFZwMzo1NTgxYWVmNg",
+    "fingerprint": "product manager atlas hardware|boston dynamics|-hjceyn",
+    "title": "Product Manager - Atlas (Hardware)",
+    "company": "Boston Dynamics",
+    "location": "Waltham, Massachusetts",
+    "locations": [
+      "Waltham, Massachusetts"
+    ],
+    "remote": false,
+    "posted": "2026-11-13T06:00:00.000Z",
+    "salaryMin": 177207,
+    "salaryMax": 205000,
+    "url": "https://www.indeed.com/viewjob?jk=4054d2051870f5d5",
+    "source": "Indeed",
+    "score": 14,
+    "reasons": [
+      "Positioning fit (platform, enterprise)",
+      "AI signal (AI)",
+      "Comp disclosed ≥ $175K",
+      "Resume fit ~16%",
+      "Outside target markets"
+    ],
+    "fetchedAt": "2026-11-13T19:02:09.408Z"
+  },
+  {
     "id": "aEZuUlpaZlRGS3FnN1hqOUFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxXbmM1WXpCM2MwbEViVlJMVnpsdWRGazJaVGxQU1ZobVNISnZWR2xNWW5GT1R6TlFYMHREUVhkNkxUUkdWRFJFVFVoaFRGWnBZWEJ2WXkxaFkyMVRhMUJOYWxKd2NDMWhiM0JYWmpJM1F6TXdVRWgyVTJwVVZrTnVVa1JCZFc5NlNWZDNSMVp4YlhGdWFucGhabk4xWlVKTE0zSXpaVWRZTUdwcFpEWkJRamhFYWtKNVlVMFNGMlI0VERKaGRISklSbUoxTW1oMlkxQmZjMTlRYjBGckdpSkJTRTR3UlRkSE0xRlNRWGwxYVZkM01tMXllVzVxWHpGcVkyaHJURTluVDJKUjpkOTcxODAyYg",
     "fingerprint": "sr product manager platform integrations remote|benefithub|-3nd3o3",
     "title": "Sr Product Manager, Platform & Integrations (Remote)",
@@ -4910,30 +4935,5 @@
       "Outside target markets"
     ],
     "fetchedAt": "2026-10-07T18:15:31.476Z"
-  },
-  {
-    "id": "a1d5YTFKdlBfdWs1QlZxSEFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTMjFhTmtaa1kwUjFPSEJZVVhwSlJWOWhlbGs1U25aWk9UQlRWWEEwYVRGQk9IQXdNRk52VTNsc2JGcDNjVjh4VEdOS2JEbDZSbDk2UjNVdGVIbElURmRuUW5wd2QxcHFTbGRuYWxWT1pXb3paV3M0TUdSR2RFOW1TbUZ1V1hwa1MyVlNObUZmWWtoTFNFNU1WRnB6ZG1KU09UTm9SMGx4Vmw5aFZreDZWV1UyUVZoVk5VTVNGMDgwZWtkaGNXNUZTRWx1WkRWUFZWQjBOREk0TFVFNEdpSkJSSE55T1daU05rWmlURlpVTW1sZlRHZHZTREI2U21kalJIRXlhbUpuVTNsMw",
-    "fingerprint": "senior product manager patient experience|verily health|qtrika",
-    "title": "Senior Product Manager, Patient Experience",
-    "company": "Verily Health",
-    "location": "San Bruno, California",
-    "locations": [
-      "San Bruno, California"
-    ],
-    "remote": false,
-    "posted": "2026-10-06T23:00:00.000Z",
-    "salaryMin": null,
-    "salaryMax": null,
-    "url": "https://www.linkedin.com/jobs/view/senior-product-manager-patient-experience-at-verily-health-4475125579",
-    "source": "LinkedIn",
-    "score": 23,
-    "reasons": [
-      "Senior/Group title",
-      "Positioning fit (platform)",
-      "AI signal (AI, LLM, agent)",
-      "Resume fit ~16%",
-      "Outside target markets"
-    ],
-    "fetchedAt": "2026-10-07T18:15:31.475Z"
   }
 ]
