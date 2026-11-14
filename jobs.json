@@ -1,5 +1,55 @@
 [
   {
+    "id": "T3Y2cklwYm9zRFo0blphU0FBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxXVmhOUlhWNWVUZ3pSWEZLWjI1aVJtdGZkMWhVVFZJeVNTMHdOR05UWWs1dFlXZzRNa3RITVU5dlpXVTFRekJtUW05Q1FWWlJiWEZoTmpSWFgzWm5MVlF6TVhSSlgxSTJla1JwZG1Oc01VRndNRTVxWVVKRVMwSmhhM1Z1YUVSTldWbFdiVVpHV1MxT2JTMXRTamxJY0VWS1lreG1jSEptTnpkR1ltWmlhVWRxZFc5RVUwa1NGMGhLZGpSaGNsOVRTRnA2VVd0UVNWQnVjRE5rWjFGSkdpSkJTRTR3UlRkSFNGOWZOV1IxWkdSdVIzWlJaM2h4UzJSbmVXVjNOR280WHpKQjowYzJjZWFjNw",
+    "fingerprint": "senior product manager|potter global technologies|-kw0zm7",
+    "title": "Senior Product Manager",
+    "company": "Potter Global Technologies",
+    "location": "Maple Grove, Minnesota",
+    "locations": [
+      "Maple Grove, Minnesota"
+    ],
+    "remote": false,
+    "posted": "2026-11-14T01:00:00.000Z",
+    "salaryMin": 110000,
+    "salaryMax": 150000,
+    "url": "https://www.indeed.com/viewjob?jk=76a029fabe200df3",
+    "source": "Indeed",
+    "score": 17,
+    "reasons": [
+      "Senior/Group title",
+      "Positioning fit (operations, supply)",
+      "AI signal (AI)",
+      "Resume fit ~19%",
+      "Outside target markets"
+    ],
+    "fetchedAt": "2026-11-14T17:32:14.762Z"
+  },
+  {
+    "id": "TjVySmlCZlVqNFU3cUJ0V0FBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxXV0kyTnpGaGRVWnpTR3hhY205UFZGcFlNa3BETVd4RVRVbzBTR0ZFTFRGNFNXSlZYMEU0U2tnMk1IVlNlRTFYYlZKT1UyRllZbXhYUTFjek9VNDJlSFl5UW1SZldGcHhTMnhHYmsxMmNVUnNSbEZET1V4RFNXdHlPVVpmUmtjNU1tazJWRXhRWW1GbWVEazBiV2h6WVdOME5HMWFXVzlXTFVwWVVUZEhVVk01YkdsVE5ub1NGMGhLZGpSaGNsOVRTRnA2VVd0UVNWQnVjRE5rWjFGSkdpSkJTRTR3UlRkR00zQTVPVmQzVTBOa1lVMDJNRk5LWTNweVgxbHNhMnRSWjBWQjo3MmJmYjQ4ZQ",
+    "fingerprint": "senior product manager developer experience|trase systems|xw2not",
+    "title": "Senior Product Manager: Developer Experience",
+    "company": "Trase Systems",
+    "location": "Not specified",
+    "locations": [
+      "Not specified"
+    ],
+    "remote": true,
+    "posted": "2026-11-14T00:00:00.000Z",
+    "salaryMin": null,
+    "salaryMax": null,
+    "url": "https://www.indeed.com/viewjob?jk=3a19e0409689292f",
+    "source": "Indeed",
+    "score": 73,
+    "reasons": [
+      "Senior/Group title",
+      "Positioning fit (marketplace, platform, enterprise)",
+      "AI signal (AI, ML, agent)",
+      "Resume fit ~19%",
+      "Remote"
+    ],
+    "fetchedAt": "2026-11-14T17:32:14.761Z"
+  },
+  {
     "id": "M1dlS05wVWk1cGFtcXpnZkFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxZVlZOUVVaNk5tUkJXbEpST0c0NVNrZDZabmRKVW0wMVlXbDVjaTFNZDJsT1YyUnNjMnhEU2xWWU1TMVliemR5UVVsVmNIZGZTR1o2Tm1sSk5tNUhSakJLTlRadlVGTnhWSE5IT0RkdU4yNWljVEoxV2tsMmRqZEJOVlEzVDAxaldHWTNha2RLV0VaT00xWjVTbVJKVDNkeFJtMVFhVlJTWTJ0U2VVVndWbFJmYW1sblprc1NGM0l4TnpOaGIzRkNTa2xYZVRWUFZWQjFjVzVSTFVGSkdpSkJTRTR3UlRkR1VtMVhRVEIyVFZWV2QxYzJZVlY0Y0ZOak5VTnRhbXhNTFZwMzo1NTgxYWVmNg",
     "fingerprint": "product manager atlas hardware|boston dynamics|-hjceyn",
     "title": "Product Manager - Atlas (Hardware)",
@@ -4886,54 +4936,5 @@
       "Outside target markets"
     ],
     "fetchedAt": "2026-10-08T18:17:11.220Z"
-  },
-  {
-    "id": "Rk5qQldUaEFYTW5vZHJ4Z0FBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTa1IxZEVKUllXdGFia3QzZEdsb1VVdDRSbVZvTkhONU0wOHpaV05KTjJ4TWVVdFFUa1V4YUVob1JqUlZjRlJZV0ZWYWRtZHFhM2RSVVZwelZqSXRkVGczWVZaWGRXeG9hSEl6YUY5a1owSm9hVGc0VWtoclJFdGxXVzVNTmtST1J6ZzNhM2hXV2pGTlVHSXpVbHBJZFRZelFrMUdRelZXU1VkU1FtODJWREpuYkRReldIVVNGMUEwZWtkaGNHWnpSR0psV1RWUFZWQm5jVTlUYTFGTkdpSkJSSE55T1daVU1VWTRXREJqV0c1dGFWZzFSemhxU0hZelQyVnBiM1ZTUWtGQg",
-    "fingerprint": "product manager lead integrity measurement|meta|5e8ika",
-    "title": "Product Manager Lead, Integrity Measurement",
-    "company": "Meta",
-    "location": "New York, New York",
-    "locations": [
-      "New York, New York"
-    ],
-    "remote": false,
-    "posted": "2026-10-07T03:00:00.000Z",
-    "salaryMin": 205000,
-    "salaryMax": 277000,
-    "url": "https://www.linkedin.com/jobs/view/product-manager-lead-integrity-measurement-at-meta-4474445141",
-    "source": "LinkedIn",
-    "score": 86,
-    "reasons": [
-      "Target company (Meta)",
-      "AI signal (AI, machine learning, agent)",
-      "Comp disclosed ≥ $175K",
-      "Resume fit ~18%",
-      "Visibility location"
-    ],
-    "fetchedAt": "2026-10-07T18:15:31.477Z"
-  },
-  {
-    "id": "VXY5cWpfVVlPRUU0V0lKMEFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTemRsTFZKbVUyeG5OMkZtWDBJM1NrTTRTRFJ6TW04MGJUZFdTVXRDWkVodFYyMHRTVmRMTm5kVmNFeHNNVFJZUTFkcFNERkpURWM1T1dSdlZIRjBWWEZGVjBFM2IyUkRVRGxNY2paT1NUaHNNMFZ0TkcxU09XNVhlamRKZVhWeWNESnlOR2MyYkd4alQzTjZOMngzWHpKVVJFTktWV2hxYWt0S1psSkhXWEpwUzFaUk4zSVNGMUEwZWtkaGNHWnpSR0psV1RWUFZWQm5jVTlUYTFGTkdpSkJSSE55T1daU05qVjBlbXRwVlhObVJpMXFOa3BuWm5ZNGExWndObTFWVVU1bg",
-    "fingerprint": "lead product manager innovation new frontiers|lowe s companies inc|3bpmv5",
-    "title": "Lead Product Manager, Innovation – New Frontiers",
-    "company": "Lowe's Companies, Inc.",
-    "location": "Kirkland, Washington",
-    "locations": [
-      "Kirkland, Washington"
-    ],
-    "remote": false,
-    "posted": "2026-10-07T00:00:00.000Z",
-    "salaryMin": null,
-    "salaryMax": null,
-    "url": "https://www.linkedin.com/jobs/view/lead-product-manager-innovation-%E2%80%93-new-frontiers-at-lowe-s-companies-inc-4476515516",
-    "source": "LinkedIn",
-    "score": 21,
-    "reasons": [
-      "Positioning fit (platform, vendor, supply)",
-      "AI signal (AI, LLM)",
-      "Resume fit ~24%",
-      "Outside target markets"
-    ],
-    "fetchedAt": "2026-10-07T18:15:31.476Z"
   }
 ]
