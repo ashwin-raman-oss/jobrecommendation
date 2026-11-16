@@ -1,5 +1,29 @@
 [
   {
+    "id": "cjBxMTVVcXJrbkJvSzdLNkFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxZV2hJTWxOM2FGOWxZVEkxUXkxV2JXeHhNbUZETTBSTlFVbEpiVGRZZDJwd01taHpZM1ZoU1dOSVVVRlZPSFZMZFVkNlJWRXpNazQxUzFOdGQwRXRRalJPWTJOTVEzY3lZak5QTVU1cmJtVlVOSGxaVG1sUVJURlpkbWxqTmtWcVgzSjFia2hKVFdOdU1WUlpObFF0YWpKT2RFTXpVV2gxYWxGUFEzcHFXR05wYlRKc0xVY1NGM1Z1V0RkaGRtcFNTR1ZsV1hCMFVWQTRaVGRNYVVFMEdpSkJTRTR3UlRkSGVXUkdObmhuYXpNNGFtVjJZMEZMZHpCMloyeFNPV0UzTlU1QjplMWQ0NTE1Yg",
+    "fingerprint": "product manager cisco partner experience platform remote|cisco|pa8uaa",
+    "title": "Product Manager - Cisco Partner Experience Platform (Remote)",
+    "company": "Cisco",
+    "location": "Durham, North Carolina",
+    "locations": [
+      "Durham, North Carolina"
+    ],
+    "remote": false,
+    "posted": "2026-11-16T12:00:00.000Z",
+    "salaryMin": null,
+    "salaryMax": null,
+    "url": "https://www.linkedin.com/jobs/view/product-manager-cisco-partner-experience-platform-remote-at-cisco-4490296603?refId=jWfw3%2FNvw%2FdBhLU93ibdXQ%3D%3D&trackingId=LgWYHazzvSM8Frukk%2Fae2A%3D%3D",
+    "source": "LinkedIn",
+    "score": 12,
+    "reasons": [
+      "Positioning fit (platform, operations, network)",
+      "AI signal (AI, RAG)",
+      "Resume fit ~14%",
+      "Outside target markets"
+    ],
+    "fetchedAt": "2026-11-16T21:29:39.766Z"
+  },
+  {
     "id": "T3Y2cklwYm9zRFo0blphU0FBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxXVmhOUlhWNWVUZ3pSWEZLWjI1aVJtdGZkMWhVVFZJeVNTMHdOR05UWWs1dFlXZzRNa3RITVU5dlpXVTFRekJtUW05Q1FWWlJiWEZoTmpSWFgzWm5MVlF6TVhSSlgxSTJla1JwZG1Oc01VRndNRTVxWVVKRVMwSmhhM1Z1YUVSTldWbFdiVVpHV1MxT2JTMXRTamxJY0VWS1lreG1jSEptTnpkR1ltWmlhVWRxZFc5RVUwa1NGMGhLZGpSaGNsOVRTRnA2VVd0UVNWQnVjRE5rWjFGSkdpSkJTRTR3UlRkSFNGOWZOV1IxWkdSdVIzWlJaM2h4UzJSbmVXVjNOR280WHpKQjowYzJjZWFjNw",
     "fingerprint": "senior product manager|potter global technologies|-kw0zm7",
     "title": "Senior Product Manager",
@@ -4912,29 +4936,5 @@
       "Outside target markets"
     ],
     "fetchedAt": "2026-10-08T18:17:11.221Z"
-  },
-  {
-    "id": "bGktbFhOQmI5akFEeHhnSEFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBURUZqV2xSclpGODNNVnBrTlc1MVpHVlRkWEY0VlhWSVJIZHFXa0pQT0V4WGNucERhRGhpVm1oaFNHcFpUVkJHUjB0V1VFSllOa2RsYjFWemFFRTJhVTVTY0ZOS00yMWxUbXRUT1ZCRmNVVmFOa1pzUnpJelkyZHZPVWRYYW5keFJWcHVjSHB2UldKalQxWmlOMTl2YUVod2NFWkxUbFZoVFhCdVYyNVBRVmxyUTIxeWRrOFNGMFZrTjBoaGNsaHpTRGd0V0dkTVVWQnBaa3RYTUVGSkdpSkJSSE55T1daU1ltRklZM1pUWkRCdGFVRTViV1J5WmpKUWMwZFJaRmg1TVZWMw",
-    "fingerprint": "junior ecommerce product manager hybrid las vegas usa|fullstack|3muhrt",
-    "title": "Junior Ecommerce Product Manager - Hybrid - Las Vegas, USA",
-    "company": "FullStack",
-    "location": "Dover, Delaware",
-    "locations": [
-      "Dover, Delaware"
-    ],
-    "remote": false,
-    "posted": "2026-10-07T22:00:00.000Z",
-    "salaryMin": null,
-    "salaryMax": null,
-    "url": "https://www.linkedin.com/jobs/view/junior-ecommerce-product-manager-hybrid-las-vegas-usa-at-fullstack-4476942372",
-    "source": "LinkedIn",
-    "score": 9,
-    "reasons": [
-      "Positioning fit (platform)",
-      "AI signal (AI, ML, agent)",
-      "Resume fit ~17%",
-      "Outside target markets"
-    ],
-    "fetchedAt": "2026-10-08T18:17:11.220Z"
   }
 ]
