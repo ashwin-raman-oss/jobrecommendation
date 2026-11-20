@@ -1,5 +1,79 @@
 [
   {
+    "id": "R0JuQ0Nza1VPMVZIU2VmZUFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxXV2RFWlY5Mk5EZFJZV3hzTTNWV1VqbHdkRmxXWm5WV2FVcENiekpLWmxSWFJYRlVRMmcwTURSVU1VOTBXV0YzY0MxdlQxSXhVMkUzU1dWZk9HczRkR0pxUkVKV1NqVldUSFpsVlZGS2RISXpZV0pIZFZSQ1JYbHpaVTF2ZWxaT05qaGxiRXRRVm1kcFpXSnBZMVJqWjBjM2QwZDFYMHAwWDFkVGVGOTJjUzFxWWxOSVNUQVNGM0ZLT0VGaE5XWk1SbDh6T0hCMFVWQnZjbmxJTkVGakdpSkJTRTR3UlRkSVpHWmZRa3hDYXpNMVFtWk9Nek5QWTNCUE4xQTVabFJFYUdsQjo1ZDAxMTQwNw",
+    "fingerprint": "senior product manager provider decision intelligence trial matching|concertai|-54nkog",
+    "title": "Senior Product Manager, Provider Decision Intelligence & Trial Matching",
+    "company": "ConcertAI",
+    "location": "Not specified",
+    "locations": [
+      "Not specified"
+    ],
+    "remote": true,
+    "posted": "2026-11-19T21:00:00.000Z",
+    "salaryMin": null,
+    "salaryMax": null,
+    "url": "https://www.indeed.com/viewjob?jk=184599f7a3502dcd",
+    "source": "Indeed",
+    "score": 77,
+    "reasons": [
+      "Senior/Group title",
+      "Positioning fit (platform, two-sided, SaaS)",
+      "AI signal (AI, LLM, ML)",
+      "Resume fit ~22%",
+      "Remote"
+    ],
+    "fetchedAt": "2026-11-20T19:29:49.494Z"
+  },
+  {
+    "id": "d0Fuc1JPdjFsbDlLTURjYkFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxZbE4wZERsM2IxbG5iMUV4ZG1KRWJtSTRaVU4zWVdKdFdWWm5iMmczY0d3eVp6SXdia2htUTNOd1ZDMXdNa0Z5ZEdGSk5IRTJlakJPYWxsbk0zZGxSMU5HZDAxSVVVOVhabFZEV1VRME5VbDVjRGR2YkZOSWJTMU5TVlpET1Y5R1QxcDZkRUo2VjNOSGVtTllTME42Wm5VemVsVndNMFY1VEV4NFVFbHFkemRyYlVoUWJtUVNGM0JhT0VGaE9YcDBSWFZwVmpWUFRWQjNjbXBIYTFGdkdpSkJTRTR3UlRkR09FbGFkRTFJVUZwcVlqTkpZV2w0VVZaMVFXOU5VVzlKT1VWQjphMTFkMzI0OQ",
+    "fingerprint": "product manager tranformation initiatives and process office|bank of america|d0drp9",
+    "title": "Product Manager – Tranformation, Initiatives and Process Office",
+    "company": "Bank of America",
+    "location": "Addison, Illinois",
+    "locations": [
+      "Addison, Illinois"
+    ],
+    "remote": false,
+    "posted": "2026-11-20T00:00:00.000Z",
+    "salaryMin": null,
+    "salaryMax": null,
+    "url": "https://www.builtinchicago.org/job/product-manager-tranformation-initiatives-and-process-office/12354997",
+    "source": "Built In Chicago",
+    "score": 14,
+    "reasons": [
+      "Positioning fit (platform, vendor, enterprise)",
+      "AI signal (AI)",
+      "Resume fit ~21%",
+      "Outside target markets"
+    ],
+    "fetchedAt": "2026-11-20T19:29:49.492Z"
+  },
+  {
+    "id": "dHh5M3lVbG5OQWZhSXd3akFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxZVU5DV2pSeGR6SjBiMW94YTJaNmRHUnVla2w0VDFob2VVZzJXRTlaYVU1ME9EWmFVRUZYWjBOYU56QkZRbEJMV2pWRVkyNUVURGhUUTFwMlowMVZibEZtUmtkSlFuUTRRbEl4YjJwQlJuaGtZMjlKUTNWMExXTjZkRFJaT1RGcWRucE5WSEY2YkZaRFdVUmFXVWxHWDFSS016SjFhR3B5YmkxQ1EyMWtjak5PUlVjNGJrOFNGM0JhT0VGaE9YcDBSWFZwVmpWUFRWQjNjbXBIYTFGdkdpSkJTRTR3UlRkRlRGQkRjMGhETFhoTlNrOUllR1JTVUhaclIzUXdTRmRJT1VKQjpkNDgxYmJhYg",
+    "fingerprint": "product manager strategy 3 proddev product management|archer|afu9td",
+    "title": "Product Manager/Strategy 3-ProdDev (Product Management)",
+    "company": "Archer",
+    "location": "Nashville, Tennessee",
+    "locations": [
+      "Nashville, Tennessee"
+    ],
+    "remote": false,
+    "posted": "2026-11-20T06:00:00.000Z",
+    "salaryMin": 91400,
+    "salaryMax": 187000,
+    "url": "https://www.linkedin.com/jobs/view/product-manager-strategy-3-proddev-product-management-at-archer-4492559377",
+    "source": "LinkedIn",
+    "score": 31,
+    "reasons": [
+      "Positioning fit (platform, operations, SaaS)",
+      "AI signal (AI, LLM, agent)",
+      "Comp disclosed ≥ $175K",
+      "Resume fit ~19%",
+      "Outside target markets"
+    ],
+    "fetchedAt": "2026-11-20T19:29:49.491Z"
+  },
+  {
     "id": "MkFWUy1HbWRKNWszdFR4YkFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxXVnBUWW5GVVpIaDJTalZsYldKU1EwaDBXVTFtTW1KTGVVWTFVWGxKVEhaUlVYZDRRa0prT0VvMGRuTlFZMTlWT1ZCbFkxRm5Za2hrY25GamRqRlZkWE51Wm0xc2VrWTRVa2M0TnpscFN6Qm5iazVpUlU5WVNUSlBNM295VnkxRldrbFdOMDFaZWpoSE5uWjBTbFZKUkRKMFpHTnJWekZ1WlZockxUbHJhRzVuYjFaNU1qZ1NGMHBzVUY5aGNGQnJTVGRFYVhkT05GQnZZVTluZDBGWkdpSkJTRTR3UlRkSFlsRk1iMEpzVTBNelEyUnhaMjVQZUdjM2FraHhRbEZ5WHpKUjphMzFkYjYzOQ",
     "fingerprint": "principal product manager data platform data catalog|liveramp|-yb7vvn",
     "title": "Principal Product Manager, Data Platform & Data Catalog",
@@ -4864,78 +4938,5 @@
       "Remote"
     ],
     "fetchedAt": "2026-10-12T20:42:43.816Z"
-  },
-  {
-    "id": "VnZiMW1jMWdlUHEtY2JPdkFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTWEJTU1dsc1ptbFdRbkZOYXpVdFNrdG1kRTlCZHpCTVlsVXpkMTh6WDFvd2JXYzJabDl4TVZCblVVUlRTVkV3ZFdwc1kyeE5XV3BoYjJSR2FqSnNkR0ZvYjIxclNUVlFiVUZZTkMxSlptYzRZelkyY0V4R2JWcG5Xbk5OYlRNMGIxTlVhVEJwYTFVMVkyWlJRa1pSY0Vrd2VYVkJURmd6YURORmEyUjFYMnhIYkVSMU5VNFNGMFZ6VUV4aGIzcGhTR0pQVm1oMlkxQjZjbFI0T0VGakdpSkJSSE55T1daU1IzVlZNMlExVTNSb1ExRnllVWxaUTBOc09IWkpkV1poZVV4Qg",
-    "fingerprint": "senior product manager recommendations and personalization|best buy|-24wmjd",
-    "title": "Senior Product Manager - Recommendations and Personalization",
-    "company": "Best Buy",
-    "location": "US",
-    "locations": [
-      "US"
-    ],
-    "remote": false,
-    "posted": "2026-10-11T01:00:00.000Z",
-    "salaryMin": null,
-    "salaryMax": null,
-    "url": "https://www.linkedin.com/jobs/view/senior-product-manager-recommendations-and-personalization-at-best-buy-4477241527",
-    "source": "LinkedIn",
-    "score": 16,
-    "reasons": [
-      "Senior/Group title",
-      "Positioning fit (enterprise)",
-      "AI signal (AI)",
-      "Resume fit ~18%",
-      "Outside target markets"
-    ],
-    "fetchedAt": "2026-10-11T17:11:02.546Z"
-  },
-  {
-    "id": "cWs3UXJRVUp4a21tQ19jUkFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTbVpxYkdaelRYaFVZMVJGYm5VeE9VSXpWalZUVEZOWmNYcGpSa2xwVkUxVVNVMVNka3BEZEROVFdWWnhlaTF3TUU5Rk1VUlRhekpNT1Rjd1NGQnBOemxzYkdvd1dHOHRjV015YzFOemRISm1hM3AwWmtOdVRVZGxNRUZsUlVSNVgxZHhiR1U0UzFodmRtbzVkRVV5UkRGak1uVkhMWFYxTFRSZlIwTXRUMHROUldGNWJUY1NGMFZ6VUV4aGIzcGhTR0pQVm1oMlkxQjZjbFI0T0VGakdpSkJSSE55T1daUmNFTTRXVEZmTldnNE1FVmtVa3hLTW0xTE4zVnRhRWhhYm5Sbg",
-    "fingerprint": "principal product manager enterprise ai|procore technologies|v6e1rx",
-    "title": "Principal Product Manager, Enterprise AI",
-    "company": "Procore Technologies",
-    "location": "Austin, Texas",
-    "locations": [
-      "Austin, Texas"
-    ],
-    "remote": false,
-    "posted": "2026-10-11T04:00:00.000Z",
-    "salaryMin": null,
-    "salaryMax": null,
-    "url": "https://www.linkedin.com/jobs/view/principal-product-manager-enterprise-ai-at-procore-technologies-4478090586",
-    "source": "LinkedIn",
-    "score": 50,
-    "reasons": [
-      "Positioning fit (platform, vendor, enterprise)",
-      "AI signal (AI, LLM, agent)",
-      "Resume fit ~17%",
-      "Visibility location"
-    ],
-    "fetchedAt": "2026-10-11T17:11:02.545Z"
-  },
-  {
-    "id": "Tk5oR2ZXQzF4RnpQX1ZoV0FBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBURkU1TWpkbGNYSnlTRlp4UkhWc1RFZG9OVkZEZEZSV2RYVnROV28zZUV0SVRFcDZaVVJhZEUxU1dqZEZaSEJwZGpaM1VTMDFabkJGWXpGdFQycExURE5TV0VOdU9EZzNjVXhCY0VabU5XVTJWRXhOVW5oV1gxVTBjVXc1Y0VOd2RIUmlkblpGU2xVNVl6WnJhM1ZaTVRabWQxVkdSWGxQU3pKaWRqRlFObmRKVUVkelEza1NGM0ZIZGt0aGNFeDFUblJtU0d0UVNWQjRaVXRJZFZFNEdpSkJSSE55T1daUlZXRXRiRGc1Y0ZGaVZVRnNkRnBSYjFKRWMxTnZSMDFNVEhkQg",
-    "fingerprint": "lead product manager|entegris|9egqu7",
-    "title": "Lead, Product Manager",
-    "company": "Entegris",
-    "location": "Danbury, Connecticut",
-    "locations": [
-      "Danbury, Connecticut"
-    ],
-    "remote": false,
-    "posted": "2026-10-09T19:00:00.000Z",
-    "salaryMin": null,
-    "salaryMax": null,
-    "url": "https://www.linkedin.com/jobs/view/lead-product-manager-at-entegris-4477856446",
-    "source": "LinkedIn",
-    "score": 13,
-    "reasons": [
-      "Positioning fit (operations, supply)",
-      "AI signal (AI, RAG)",
-      "Resume fit ~21%",
-      "Outside target markets"
-    ],
-    "fetchedAt": "2026-10-10T16:45:32.003Z"
   }
 ]
