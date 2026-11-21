@@ -1,5 +1,202 @@
 [
   {
+    "id": "WTZNd19VOWlaWEtMTVJvZ0FBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxXblZqYlZwdFVrUmtjVFJuUkV0TWMxRnJNVUYyVjJScWFXdEdWRGxMVlVOYWIyZEpRa05xWnpSeVJrRnljRzVhTmxSWFkybG9kVGhSV1c1ZlZITlJXazQxYXpNMFdXUm5jbkpYZEdObGJHaEtZemhtYURGTlpuVkZiRGh4VmtsMGFWbFlUSFZxWmtwMk4wMVJabWg2WVd4TFJrcGpVMXBuWWpOTmJGOUVRazgzU0ZSSVFrVVNGekZQVFVKaE5WQkJUamg2TFhCMFVWQjJPVXhETFZFd0dpSkJTRTR3UlRkR1Z6UlhhVXAyYlZJMFdqSmtlR1ZTVlVwcU5IQllaRlkxV2xKbjoyN2YwZmZmMg",
+    "fingerprint": "remote product manager|harris healthcare|lg7ky7",
+    "title": "(Remote) Product Manager",
+    "company": "Harris healthcare",
+    "location": "Not specified",
+    "locations": [
+      "Not specified"
+    ],
+    "remote": true,
+    "posted": "2026-11-20T23:00:00.000Z",
+    "salaryMin": null,
+    "salaryMax": null,
+    "url": "https://builtin.com/job/remote-product-manager/12397318",
+    "source": "Built In",
+    "score": 43,
+    "reasons": [
+      "Positioning fit (B2B)",
+      "AI signal (AI, RAG)",
+      "Resume fit ~18%",
+      "Remote"
+    ],
+    "fetchedAt": "2026-11-21T18:32:56.571Z"
+  },
+  {
+    "id": "dlY5dTh4TU9ZV3ZZM1R2aUFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxZVE5sT0ZWcWFYSXRlVWt0VEhJME5XdDZaVEF6TVhCbFJYUTNXbXB3YXpGWlJuSmpMWHBXUkhsTU5WTkhjRlJVUjFKMWRsSjBVMmgwTjB4M1dsUTFWbEIyTWxscVFuSlFZMVI0WldFM2JYRlNXbkIwY0RoNlVURnhaWEJEUW5wRVUzcGpVazFDTVVSa09FRm1RWEpvTTJoUGVuZGhSM2RaVTBoSVJqQkZTV014WDFOZmQzSVNGekZQVFVKaE5WQkJUamg2TFhCMFVWQjJPVXhETFZFd0dpSkJTRTR3UlRkSVJqYzNhRkZ6WkRSWlgwRkpNWFpqTVhocFFYRXdlbWwwWW1WQjo0NWRlMzIxZA",
+    "fingerprint": "forward deployed product manager|diligent|4tkxew",
+    "title": "Forward Deployed Product Manager",
+    "company": "Diligent",
+    "location": "Washington, District of Columbia",
+    "locations": [
+      "Washington, District of Columbia"
+    ],
+    "remote": false,
+    "posted": "2026-11-20T20:00:00.000Z",
+    "salaryMin": null,
+    "salaryMax": null,
+    "url": "https://www.linkedin.com/jobs/view/forward-deployed-product-manager-at-diligent-4491947858",
+    "source": "LinkedIn",
+    "score": 24,
+    "reasons": [
+      "Positioning fit (platform, SaaS, enterprise)",
+      "AI signal (AI, agent, RAG)",
+      "Resume fit ~21%",
+      "Outside target markets"
+    ],
+    "fetchedAt": "2026-11-21T18:32:56.570Z"
+  },
+  {
+    "id": "OWQxcE5OX2JzX2JSbWpZS0FBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxZVXcyUnpWS1YwUnNUREpYZFZOU1ZXRTFSRTFmVDFsUmRGQm5lbkJ1YjFGNlpIaHNVSFYxYlROUGRrWklNMEZwYWxKa2IwNUVRa2QxYjFOeWNuRjNiVFJYT1cxWldXMVdaRlU1YXpKeVFVdHNjVmhDZGxBelFYUkJaVEJqVXpCbmFqRkdkMjlWVDNjM1MwZzNTRlJuTlZKemVVSmFZalptWVZoa2MzWlhaRFp5TWt3emFWb1NGekJsVFVKaE9VUXpRMlpoVjJ0UVNWQXRjV3BhTmxGakdpSkJTRTR3UlRkSWNXZ3pNMUpNYldkb1UzZHJPVjlJYzNodVNreHFXVmRYVWpaQjo3YWQ3YmQzYg",
+    "fingerprint": "senior ai product manager onsite|huntington national bank|t16ob6",
+    "title": "Senior AI Product Manager: Onsite",
+    "company": "Huntington National Bank",
+    "location": "Charlotte, North Carolina",
+    "locations": [
+      "Charlotte, North Carolina"
+    ],
+    "remote": false,
+    "posted": "2026-11-20T22:00:00.000Z",
+    "salaryMin": null,
+    "salaryMax": null,
+    "url": "https://www.linkedin.com/jobs/view/senior-ai-product-manager-onsite-at-huntington-national-bank-4493200721",
+    "source": "LinkedIn",
+    "score": 33,
+    "reasons": [
+      "Senior/Group title",
+      "Positioning fit (platform, network)",
+      "AI signal (AI, LLM, GenAI)",
+      "Resume fit ~20%",
+      "Outside target markets"
+    ],
+    "fetchedAt": "2026-11-21T18:32:56.568Z"
+  },
+  {
+    "id": "ZVRhRHpGY0RVT3hlMnliYkFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxXbUZzWTJSRU1sUlNZMEl3Ymt0MFNsQjZXbTlqU2pBMlRrZEpYM1ZVU1hsUmNtbE9SRkJFTUhocFZVeHNNRXBXTVVoV2MzTmhlbVJGY1V0UVJWUjJRWGM1V21VMWVrTkxhbkJ0UVRaM09HaFFVbEJLYVhCS1FXdERjVkJOWkhsU2RsUmxTWFZ6TUVkbVQxUXpkbFJQVDFwcGEyMTNlVGhVV2pnM2RVSmpabGd5V0VOeVptVVNGekJsVFVKaE9VUXpRMlpoVjJ0UVNWQXRjV3BhTmxGakdpSkJTRTR3UlRkSUxYcElkR2hoZVc1VFQxbGFYMEZRWmxCVU5HMTNMVlZLU0dGQjozY2U0YmU0MQ",
+    "fingerprint": "senior product manager national security and ai compliance|google|8sttbz",
+    "title": "Senior Product Manager, National Security and AI Compliance",
+    "company": "Google",
+    "location": "Sunnyvale, California",
+    "locations": [
+      "Sunnyvale, California"
+    ],
+    "remote": false,
+    "posted": "2026-11-20T20:00:00.000Z",
+    "salaryMin": 192000,
+    "salaryMax": 278000,
+    "url": "https://www.indeed.com/viewjob?jk=fa837dd62999e14c",
+    "source": "Indeed",
+    "score": 116,
+    "reasons": [
+      "Target company (Google)",
+      "Senior/Group title",
+      "Positioning fit (operations, enterprise)",
+      "AI signal (AI, LLM, ML)",
+      "Comp disclosed ≥ $175K",
+      "Resume fit ~17%",
+      "Priority location (Chicago/Bay Area)"
+    ],
+    "fetchedAt": "2026-11-21T18:32:56.566Z"
+  },
+  {
+    "id": "Ukt3MzlNZzhmZk1BNGd4U0FBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxXbWhYTXpKeVNGZzRkMmR0Tlhsb1YwOXljRUpuU2tkellsVlpNR056VURRMFJEUk1lVGx3VmtnMk5WcHRaSG95VEVVeWFETldTMFJzYzFKRmNpMXBVVEZLVVZGaWFXRnlaSEJOUjJ3eU9HdDJObEpYVGxKblRHRTNTMnRuVmw5UVlrSjJUa2xEYzFGNU0zVTRRbnBIU2pGSlpsbHBXak5oZUVKVVMzVnZTRmRXZG5kYVdrOFNGM3BsVFVKaE9VZDFUMlkyZEhKMVJWQTNjWFpaTFVGWkdpSkJTRTR3UlRkR1JUQkZiRk40TkRsWVlrbGZVMWN6TkRoRWRFTnFhMWhLVVRobjpkZGFkMjIzNw",
+    "fingerprint": "product manager consumer|meridianlink|-l8jbvo",
+    "title": "Product Manager - Consumer",
+    "company": "MeridianLink",
+    "location": "Not specified",
+    "locations": [
+      "Not specified"
+    ],
+    "remote": true,
+    "posted": "2026-11-20T20:00:00.000Z",
+    "salaryMin": 94667,
+    "salaryMax": 148000,
+    "url": "https://www.indeed.com/viewjob?jk=cc71981a962ff0e6",
+    "source": "Indeed",
+    "score": 45,
+    "reasons": [
+      "Positioning fit (platform)",
+      "AI signal (AI, ML, RAG)",
+      "Resume fit ~20%",
+      "Remote"
+    ],
+    "fetchedAt": "2026-11-21T18:32:56.565Z"
+  },
+  {
+    "id": "YTFmNGlIYnFoQzI1b0plRkFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxZbE5MZDJWRlNXcE1jRVV3UTBWVWVHZFZUeTFmVEdGb1VreFVWakJWU2psQlZXTlVXbTVVTWxNNWFscE1jM0JRYzJOR1ozWnZaa05MTkhsRk9VeEZMVlpoZWt0YWJYUkVXbk5vYzJaQlRUZFhVVGRMWjB0aWVWbE9WSHBUU1RCVmN6UmtiRlZ3ZEVaalZXNHdkM04wYm5sRlgwOWpSRTFwWlZJeVNsaHFTbUV6VG1aalRUTVNGM3BsVFVKaE9VZDFUMlkyZEhKMVJWQTNjWFpaTFVGWkdpSkJTRTR3UlRkSVVtTm9ieTFxVFZkMmNtdFBTRzFwV1VjeFdrWlFSalJuVEY5UjpkNGM4NTUzNA",
+    "fingerprint": "product manager|kensho technologies|-be8w5j",
+    "title": "Product Manager",
+    "company": "Kensho Technologies",
+    "location": "Cambridge, Massachusetts",
+    "locations": [
+      "Cambridge, Massachusetts"
+    ],
+    "remote": false,
+    "posted": "2026-11-20T23:00:00.000Z",
+    "salaryMin": 150000,
+    "salaryMax": 190000,
+    "url": "https://builtin.com/job/product-manager/12390423",
+    "source": "Built In",
+    "score": 19,
+    "reasons": [
+      "Positioning fit (network)",
+      "AI signal (AI, machine learning, agent)",
+      "Comp disclosed ≥ $175K",
+      "Resume fit ~17%",
+      "Outside target markets"
+    ],
+    "fetchedAt": "2026-11-21T18:32:56.564Z"
+  },
+  {
+    "id": "Q290UEZrRmZ5dVhHSDNGMkFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxZbkpNZFcxYUxXbHdSemxoVURSV1NYZDFhbUZ6YVRkVVEyODVhMFl4VUhWM00yUXdVbDlmV2t0a09FWXlTVFpFVjBRd1NHSkdiblJVVTBkQ1FUQmlVekJ2T1dWNmFIZE1XbDlPZEZveU9UaE5ka0pKTmtJd2VXWk5jMFZDY0hWMFUxRm1RM1JPUlV4WGFqZFpla1JYV2pkdExXc3phMVJ6WTJscFdUUjRNbWhpZW01bWRFNFNGM3BsVFVKaE9VZDFUMlkyZEhKMVJWQTNjWFpaTFVGWkdpSkJTRTR3UlRkSFNXczNiWE5IWnpCVFQyNDNiRGREZDNKeU1XUmhlVVJ0VXpOMzo3ZTAzMzYwOQ",
+    "fingerprint": "product manager 2x yc founder mentorship|jerry|-pc9kl1",
+    "title": "Product Manager (2x YC founder mentorship)",
+    "company": "Jerry",
+    "location": "Not specified",
+    "locations": [
+      "Not specified"
+    ],
+    "remote": true,
+    "posted": "2026-11-20T22:00:00.000Z",
+    "salaryMin": null,
+    "salaryMax": null,
+    "url": "https://www.linkedin.com/jobs/view/product-manager-2x-yc-founder-mentorship-at-jerry-4491948994",
+    "source": "LinkedIn",
+    "score": 44,
+    "reasons": [
+      "Positioning fit (marketplace, operations)",
+      "AI signal (AI, RAG)",
+      "Resume fit ~15%",
+      "Remote"
+    ],
+    "fetchedAt": "2026-11-21T18:32:56.562Z"
+  },
+  {
+    "id": "X3NJTXFIS1NWbVRpdTdnTEFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxZa2wzY0doc1NWOW1ORlpqTUc1TlZreE5VMGRhZHkweFVHZDVkVmRoT1dFM09FczRaVEZWZVdOc1dERjJUbU5QTkVwU1prZHlWM0JrUzIxNU0wZHFlRjh3ZVZKQ1pWa3lNSGREY0RkeVZIRnZOemRGYm1WUFpUWk5TMWt6YTJ0SGNIZDVNa2htYUU1RVRYWmZVbEJ5VW5GTWVXWnVNMlZ5VUU1UVRuQmhaVk55VTIxQlFVWVNGM3BsVFVKaE9VZDFUMlkyZEhKMVJWQTNjWFpaTFVGWkdpSkJTRTR3UlRkSE0xYzVUVUpMZEhWQlNGcFFSWGR4TkhKbE9VbEdiWFZLVkU5QjoyN2YwZmZmMg",
+    "fingerprint": "remote product manager|harris computer|-47qcto",
+    "title": "(Remote) Product Manager",
+    "company": "Harris Computer",
+    "location": "Not specified",
+    "locations": [
+      "Not specified"
+    ],
+    "remote": true,
+    "posted": "2026-11-21T00:00:00.000Z",
+    "salaryMin": null,
+    "salaryMax": null,
+    "url": "https://www.linkedin.com/jobs/view/remote-product-manager-at-harris-computer-4493242496",
+    "source": "LinkedIn",
+    "score": 43,
+    "reasons": [
+      "Positioning fit (B2B)",
+      "AI signal (AI, RAG)",
+      "Resume fit ~18%",
+      "Remote"
+    ],
+    "fetchedAt": "2026-11-21T18:32:56.559Z"
+  },
+  {
     "id": "R0JuQ0Nza1VPMVZIU2VmZUFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxXV2RFWlY5Mk5EZFJZV3hzTTNWV1VqbHdkRmxXWm5WV2FVcENiekpLWmxSWFJYRlVRMmcwTURSVU1VOTBXV0YzY0MxdlQxSXhVMkUzU1dWZk9HczRkR0pxUkVKV1NqVldUSFpsVlZGS2RISXpZV0pIZFZSQ1JYbHpaVTF2ZWxaT05qaGxiRXRRVm1kcFpXSnBZMVJqWjBjM2QwZDFYMHAwWDFkVGVGOTJjUzFxWWxOSVNUQVNGM0ZLT0VGaE5XWk1SbDh6T0hCMFVWQnZjbmxJTkVGakdpSkJTRTR3UlRkSVpHWmZRa3hDYXpNMVFtWk9Nek5QWTNCUE4xQTVabFJFYUdsQjo1ZDAxMTQwNw",
     "fingerprint": "senior product manager provider decision intelligence trial matching|concertai|-54nkog",
     "title": "Senior Product Manager, Provider Decision Intelligence & Trial Matching",
@@ -4740,203 +4937,5 @@
       "Outside target markets"
     ],
     "fetchedAt": "2026-10-13T18:45:09.194Z"
-  },
-  {
-    "id": "bGdQNjNWekNpRFpySHoxZ0FBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBURGxrTXpsbVkyOVpPR2RhZDJSeFdqTk1kbloyWlZWNVJUSTRhV0pLUjA1TmRYUkhWbGgzTm1zMmRFNUtiWGN6WTFBMFExaEJhalZ1WkVRdFpGODBNM1JtZG05M1RsbE1hWEpJWnpKaWRqUlJMVFZtZUVkM1ZtbEtUM2RWU0V4UlJsWTJUM1JpTVhOMFdIZHZaMHQ2YTJoT1VUQTRjbUpSTVRCZlEwRm1jMHAzTWpkVmIxSVNGMGxJZWs5aGRVTlBSMTlUYlRWT2IxQnVVQzA0ZFZGRkdpSkJSSE55T1daU1ZYSTNWR2hTWTIwM1RqWTVkRE5XZVhoVFUyNDVWV2xtY21sUg",
-    "fingerprint": "product manager pos|randstad digital americas|-5m3ar8",
-    "title": "Product Manager - POS",
-    "company": "Randstad Digital Americas",
-    "location": "Northbrook, Illinois",
-    "locations": [
-      "Northbrook, Illinois"
-    ],
-    "remote": false,
-    "posted": "2026-10-12T20:00:00.000Z",
-    "salaryMin": null,
-    "salaryMax": null,
-    "url": "https://www.linkedin.com/jobs/view/product-manager-pos-at-randstad-digital-americas-4478581816",
-    "source": "LinkedIn",
-    "score": 9,
-    "reasons": [
-      "Positioning fit (operations, SaaS)",
-      "AI signal (AI)",
-      "Resume fit ~22%",
-      "Outside target markets"
-    ],
-    "fetchedAt": "2026-10-13T18:45:09.192Z"
-  },
-  {
-    "id": "c2h2aDI0bGlBLUV4bWx3TkFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBUR2gyVFY5clEySjBVVGxTVWtKWlJYWXhlV2hTUVc1TFRFUlRaWEJwVWpkWlFUTTRPRzAwUjBKb1prZG5WelJCV0RWM1YxZzRla3QyVUZac2MxWnpla0pHYzA5dWJrVkxZMHQ2WjJ4SGNtMUlUa0pIYjJGQ1REWjFTbWhoU1RJNVZqRk9RbXhvWkc0d1FWUk5jeTF5WmtaQ1MwdzVWV0pmTW1WUlJrZEVRbmRrY1hOVFZGa1NGMGxJZWs5aGRVTlBSMTlUYlRWT2IxQnVVQzA0ZFZGRkdpSkJSSE55T1daUlJWRkVTRzE1VFhKdU5XSlVSbGRtTkdsRlJtbEZNRFozVVRabg",
-    "fingerprint": "product manager radar fraud and abuse prevention|stripe|-ry2wh4",
-    "title": "Product Manager, Radar - Fraud and Abuse Prevention",
-    "company": "Stripe",
-    "location": "New York, New York",
-    "locations": [
-      "New York, New York"
-    ],
-    "remote": false,
-    "posted": "2026-10-13T02:00:00.000Z",
-    "salaryMin": null,
-    "salaryMax": null,
-    "url": "https://www.linkedin.com/jobs/view/product-manager-radar-fraud-and-abuse-prevention-at-stripe-4478750145",
-    "source": "LinkedIn",
-    "score": 88,
-    "reasons": [
-      "Target company (Stripe)",
-      "Positioning fit (B2B, network)",
-      "AI signal (AI, machine learning, ML)",
-      "Resume fit ~20%",
-      "Visibility location"
-    ],
-    "fetchedAt": "2026-10-13T18:45:09.190Z"
-  },
-  {
-    "id": "b0pva0VSTVIzQ19yWGo4TUFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTMHhEVWt4WmRIaHZRV2xGY1hFek5Gb3hZMkZ5UzJ0V1NVcE1ZVTR3TUdNNVJXeFVOWFZRTlRBM1lWTkZZWGN6U21VMU5scEpWMWhSU0VaYVRGazVkbmR6TTJkUlIwRTNibFk0VVVGT1UySjBkVGRqVWs5alJIaFJUM2hzVXpGeU4zZHNNbWN6Y1VJeWFVMU9NakF4V1U5MlkxcGpjMWhNU0ZKRWNGVkpheTFaT0ZkNGNuRVNGMGxJZWs5aGRVTlBSMTlUYlRWT2IxQnVVQzA0ZFZGRkdpSkJSSE55T1daUk9XNURSaTFPTUdOWlJsUm9YM0o1Umxvd1RVczRabGxTT0c5Mw",
-    "fingerprint": "product manager payment processing|shift4|oe29t9",
-    "title": "Product Manager - Payment Processing",
-    "company": "Shift4",
-    "location": "Not specified",
-    "locations": [
-      "Not specified"
-    ],
-    "remote": false,
-    "posted": "2026-10-12T23:00:00.000Z",
-    "salaryMin": null,
-    "salaryMax": null,
-    "url": "https://builtin.com/job/product-manager-payment-processing/11634506",
-    "source": "Built In",
-    "score": 13,
-    "reasons": [
-      "Positioning fit (platform, operations, network)",
-      "AI signal (AI)",
-      "Resume fit ~20%",
-      "Outside target markets"
-    ],
-    "fetchedAt": "2026-10-13T18:45:09.189Z"
-  },
-  {
-    "id": "RGtHYXFhNE9ROUk1X21nSUFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTbVZvTUVKR1NreDBUMlJIV0RoRGFGbEpVMjF5Y0hOdGFWbExOWGhJYkZoWVpGOVFPWEpXUmpaMWJWWmtOems1Vkd4WlFYTXdObVpHVmxjdFJEZ3RZbms0T1dnMVIybzBXakZ4V1ZsdmRWQndVVjl5Vm0xd01FbHVWRVZHTFVocFRHSlRjMEZoWTBKbVNFMXNWMEZMT0RCUU5teEllRjlZY25kdFJuTTNiWFpRV2xaeFVISVNGMGxJZWs5aGRVTlBSMTlUYlRWT2IxQnVVQzA0ZFZGRkdpSkJSSE55T1daUlRVUXRSMFJ2TkRadldVSTFXalJ0U1Uxa1RVZzRjVWxCTXpsUg",
-    "fingerprint": "senior consultant product manager|deloitte|7n4s9",
-    "title": "Senior Consultant, Product Manager",
-    "company": "Deloitte",
-    "location": "McLean, Virginia",
-    "locations": [
-      "McLean, Virginia"
-    ],
-    "remote": false,
-    "posted": "2026-10-13T00:00:00.000Z",
-    "salaryMin": null,
-    "salaryMax": null,
-    "url": "https://www.linkedin.com/jobs/view/senior-consultant-product-manager-at-deloitte-4478731134",
-    "source": "LinkedIn",
-    "score": 24,
-    "reasons": [
-      "Senior/Group title",
-      "Positioning fit (platform)",
-      "AI signal (AI, RAG)",
-      "Resume fit ~21%",
-      "Outside target markets"
-    ],
-    "fetchedAt": "2026-10-13T18:45:09.188Z"
-  },
-  {
-    "id": "cW1raVNCMkZTMm52VjBsS0FBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTV1JNVkhWaldVNDFkMHQyVVU1RVdGOTVTRWczVWxCRmFrWktWR3hPVTNoS1YyazRjV2xCYTBOMFNUUTVUVGRIZUdOdE4ydHlTazk1YzNKalQzSk1kVzFhTWpCbk1EQlFYM1ZrY3paVWFHSXlZbFJJWVROWlRsODBTWFowVDBaNVYyeDNRUzFtY3psR1RGRjBPRGd4TmtkNE4wZDRUVmwwU0daZlgzQTVSUzFDV1hGMWFUQVNGMGxJZWs5aGRVTlBSMTlUYlRWT2IxQnVVQzA0ZFZGRkdpSkJSSE55T1daVGN6QnlWMjVGZVY5MmJIWm9Ra2RJVlVneWN6WnJUbkU0U0hwUg",
-    "fingerprint": "associate product manager humanitarian services contact center and operations platforms|american red cross|-a5t2xt",
-    "title": "Associate Product Manager, Humanitarian Services Contact Center and Operations Platforms",
-    "company": "American Red Cross",
-    "location": "Washington, District of Columbia",
-    "locations": [
-      "Washington, District of Columbia"
-    ],
-    "remote": false,
-    "posted": "2026-10-12T20:00:00.000Z",
-    "salaryMin": null,
-    "salaryMax": null,
-    "url": "https://www.linkedin.com/jobs/view/associate-product-manager-humanitarian-services-contact-center-and-operations-platforms-at-american-red-cross-4478701092",
-    "source": "LinkedIn",
-    "score": 27,
-    "reasons": [
-      "Positioning fit (platform, operations, vendor)",
-      "AI signal (AI, ML, agent)",
-      "Resume fit ~25%",
-      "Outside target markets"
-    ],
-    "fetchedAt": "2026-10-13T18:45:09.187Z"
-  },
-  {
-    "id": "b0g5Q21hRUx3bDJCakU2RkFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTekpOYzE5TWRuSmFjMUppUVRZMFRHVXpOSGwxTlZGYVJFOUJjVmh5VUc1MGQwOXdaRlE1UTBaeVRHZExSSEpUUTJ0eldua3hjRTVPVG5wRGRGWkpORzFhVDFOdU5XNWtVbVZUZDBONlNVeFJVRGxsTW5SSU5ERm9PWEZPYkVkRE4weGFiRkpEYmxGeE1HNWphM0pxVGtKTFJqZFhRMmwxYlhndFJXWjNUWE5rU25wMWNWQVNGMUZWWWs1aGRDMUZTWE5pVkRWT2IxQXhaV1p1YTFGWkdpSkJSSE55T1daVE5VczFWVGczUW1kQlMxWlJPRk00V0ZaT1RrdzJOMnRUWkVOMw",
-    "fingerprint": "group product manager product analytics and experimentation|h r block|x052re",
-    "title": "Group Product Manager, Product Analytics and Experimentation",
-    "company": "H&R Block",
-    "location": "Not specified",
-    "locations": [
-      "Not specified"
-    ],
-    "remote": true,
-    "posted": "2026-10-12T14:00:00.000Z",
-    "salaryMin": null,
-    "salaryMax": null,
-    "url": "https://www.linkedin.com/jobs/view/group-product-manager-product-analytics-and-experimentation-at-h-r-block-4442414443",
-    "source": "LinkedIn",
-    "score": 68,
-    "reasons": [
-      "Senior/Group title",
-      "Positioning fit (platform, enterprise)",
-      "AI signal (AI, RAG)",
-      "Resume fit ~23%",
-      "Remote"
-    ],
-    "fetchedAt": "2026-10-12T20:42:43.818Z"
-  },
-  {
-    "id": "elJsVnZwNzNUc1hWZUZRTUFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBURlZYV0dWbFRsOUhaMTlJVmpWRFpqQnJUWEJwWTBjeWExbHJkMDAxWVhOeFpXSjVZM0ZvUWtVeE1YaDVlVGhDWjNsdVIza3laMEV6UTI1d1VFOXFZa2xqYVhsUWFrODNOVE5aWHpFeVRHYzJWRnBvYjJsNWIwSlhOWEJhTUVveGRXbDRiMGxxTjBaeFFtNDVZVTlETFRCV1VsZEhjakE0TTB0VE9GRjJjemx0YjJVNFFXUVNGMUZWWWs1aGRDMUZTWE5pVkRWT2IxQXhaV1p1YTFGWkdpSkJSSE55T1daU2FtUlhaSHBxUWtaSU0zRklXWFJKY0ZFMFMyWm1ibXRNTTJObg",
-    "fingerprint": "product manager specialty doors|allegion|2dr32o",
-    "title": "Product Manager – Specialty Doors",
-    "company": "Allegion",
-    "location": "Greensburg, Pennsylvania",
-    "locations": [
-      "Greensburg, Pennsylvania"
-    ],
-    "remote": false,
-    "posted": "2026-10-12T16:00:00.000Z",
-    "salaryMin": null,
-    "salaryMax": null,
-    "url": "https://www.linkedin.com/jobs/view/product-manager-%E2%80%93-specialty-doors-at-allegion-4478564025",
-    "source": "LinkedIn",
-    "score": 4,
-    "reasons": [
-      "Positioning fit (operations)",
-      "AI signal (AI, RAG)",
-      "Resume fit ~16%",
-      "Outside target markets"
-    ],
-    "fetchedAt": "2026-10-12T20:42:43.817Z"
-  },
-  {
-    "id": "Yy1QdHlmVkJ1UnhsNEV2QUFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTbTk2V2tjNGJUQjFRakppVjNGUlRGZE1VM1JwTTFZMVlsRkNkSFZCY0hSU2NFaHlOemx5T0V3M1NFRmxWM3BmVlRkTlRYSk5MVmhyUzBaVmVuZHdRbnB2UzNSa05EQlJlRUZ6Y25obVNGWlRXakEyVVZGSFdGazBWamQzUlVsdGExVnVNV1ZDUVVaaWRrOXdjazFTT0RScFJIVlNUelV0YWtabVEwcEhkWEpHU0haR1dETVNGMDlyWWs1aGRtRTRSRXRsU25kaWExQTNTa3MxZDBGWkdpSkJSSE55T1daVWRIZEtVa3hyYkVZNU5YZHBTR2hmZVRaUFh6WXhZV016VkhsUg",
-    "fingerprint": "senior staff outbound product manager data analytics|servicenow|-fsz5tw",
-    "title": "Senior Staff Outbound Product Manager - Data & Analytics",
-    "company": "ServiceNow",
-    "location": "Not specified",
-    "locations": [
-      "Not specified"
-    ],
-    "remote": true,
-    "posted": "2026-10-11T23:00:00.000Z",
-    "salaryMin": 191000,
-    "salaryMax": 334000,
-    "url": "https://www.builtinnyc.com/job/senior-staff-outbound-product-manager-data-analytics/11610233",
-    "source": "Built In NYC",
-    "score": 120,
-    "reasons": [
-      "Target company (ServiceNow)",
-      "Senior/Group title",
-      "Positioning fit (platform, enterprise)",
-      "AI signal (AI, ML)",
-      "Comp disclosed ≥ $175K",
-      "Resume fit ~25%",
-      "Remote"
-    ],
-    "fetchedAt": "2026-10-12T20:42:43.816Z"
   }
 ]
