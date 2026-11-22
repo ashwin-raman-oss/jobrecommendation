@@ -1,5 +1,54 @@
 [
   {
+    "id": "SVFjejNMNk9DcTBXMV9SQkFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxZbE5YVVZOdFMyaElYek5QYVZZNGRIQm9jV3QzWDFadWQwMWhTR1pMYmpSeE5VZFZOMXB4Y25aUFJUTmlRa2RTVFRSVGJYQlJVVGR3VTFweGVWUjBaa05RYldKWFIwdHNTWGhxZDNOSGVXOXRUMko0TFcxUFJFNWpZWGxUVVhSQ2VWTnJZVkE0ZFhSU2VITkRRbkZWU0ZSelkxcFVUbmMxTWtNd1IxRkZNR1E1UVdsMFpsb1NGMkpxYjBSaE4waFBSazFZTW5kaWExQjRZbTFSYTBFd0dpSkJTRTR3UlRkSU5raHVjREZXU25wNmNqRjVUbEJCV2psbE5EZG9OMlpHVVdSUjo1ZTI1Mjg2Mg",
+    "fingerprint": "senior ai product manager|creative circle|2xxo9v",
+    "title": "Senior AI Product Manager",
+    "company": "Creative Circle",
+    "location": "Anaheim, California",
+    "locations": [
+      "Anaheim, California"
+    ],
+    "remote": false,
+    "posted": "2026-11-22T13:00:00.000Z",
+    "salaryMin": 80,
+    "salaryMax": 86.21,
+    "url": "https://www.linkedin.com/jobs/view/senior-ai-product-manager-at-creative-circle-4492364119",
+    "source": "LinkedIn",
+    "score": 33,
+    "reasons": [
+      "Senior/Group title",
+      "Positioning fit (platform, operations, workflow automation)",
+      "AI signal (AI, LLM, machine learning)",
+      "Resume fit ~20%",
+      "Outside target markets"
+    ],
+    "fetchedAt": "2026-11-22T18:54:45.370Z"
+  },
+  {
+    "id": "MmZVZE1CS1JTaUZLSnhfWkFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxXVk5pYVU1WmRFdzBjSEZoY2tReU1WbG1hVFYzUjFWa05rNURTMEZ2VTNWdFZWRXdNV3BqTFZkWE5FazVSalpzTFV0RFl5MTRVRVJJYjJsWU1tSlZNa1pUZVdkcVpYVmxhMlZGVm14NlMyNTJkVTlvTmxaUFVrbDJhMjlCWHpaeVFtVjVha2RoU1VVemNGOVBUMG8yZWxrNE1rdHNhRzVqU1ROR1ZTMXdiM0JJY0V0NWVIVVNGMkpxYjBSaE4waFBSazFZTW5kaWExQjRZbTFSYTBFd0dpSkJTRTR3UlRkSFZYcDVNVk15U1VObVNtaG1SRWd4VEZGT1gxQmZWekJhVG1abjpkYjA3ZDA2MA",
+    "fingerprint": "bigbelly product manager hardware|bigbelly|-sbrlmd",
+    "title": "Bigbelly Product Manager, Hardware",
+    "company": "BigBelly",
+    "location": "Needham, Massachusetts",
+    "locations": [
+      "Needham, Massachusetts"
+    ],
+    "remote": false,
+    "posted": "2026-11-21T23:00:00.000Z",
+    "salaryMin": null,
+    "salaryMax": null,
+    "url": "https://builtin.com/job/bigbelly-product-manager-hardware/12405730",
+    "source": "Built In",
+    "score": 23,
+    "reasons": [
+      "Positioning fit (platform, operations, supply)",
+      "AI signal (AI, ML, RAG)",
+      "Resume fit ~21%",
+      "Outside target markets"
+    ],
+    "fetchedAt": "2026-11-22T18:54:45.369Z"
+  },
+  {
     "id": "WTZNd19VOWlaWEtMTVJvZ0FBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxXblZqYlZwdFVrUmtjVFJuUkV0TWMxRnJNVUYyVjJScWFXdEdWRGxMVlVOYWIyZEpRa05xWnpSeVJrRnljRzVhTmxSWFkybG9kVGhSV1c1ZlZITlJXazQxYXpNMFdXUm5jbkpYZEdObGJHaEtZemhtYURGTlpuVkZiRGh4VmtsMGFWbFlUSFZxWmtwMk4wMVJabWg2WVd4TFJrcGpVMXBuWWpOTmJGOUVRazgzU0ZSSVFrVVNGekZQVFVKaE5WQkJUamg2TFhCMFVWQjJPVXhETFZFd0dpSkJTRTR3UlRkR1Z6UlhhVXAyYlZJMFdqSmtlR1ZTVlVwcU5IQllaRlkxV2xKbjoyN2YwZmZmMg",
     "fingerprint": "remote product manager|harris healthcare|lg7ky7",
     "title": "(Remote) Product Manager",
@@ -4889,53 +4938,5 @@
       "Outside target markets"
     ],
     "fetchedAt": "2026-10-14T16:18:34.538Z"
-  },
-  {
-    "id": "eWlBNGxKOEJRcUJrdzhSc0FBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBUR3BKTkdGelNrdEplbU5XYkVOQmFVMUdaRGxOWDI5bWJYTkhOVzg0ZW5reWIybHNVak52Y0MxaVQwdHFZV1JZUm04dGJFdFBZa3R5VjNnd09WVldPVmcwWm1vM09HMUlVMU5qY25aaFFrUnFhbXQ0T0RVMFZIQnpaMEoxUzFCM1dIZENXV2hsVG1kR1RXRjRMV1Y2UmxveWRYcDBPRk5rVmtkZmR6WkRMVWRNYlZOWlZYY1NGMHRJZWs5aGRHRklSazR0ZWpWT2IxQnVUQzB6YVVGakdpSkJSSE55T1daVU5sZHpiRU5vTjNSMVgxcHVjM1V0UVU5WFptcHpRekJ6VjNsbg",
-    "fingerprint": "senior software product manager strategic defense active clearance|anduril industries|-bfvba1",
-    "title": "Senior Software Product Manager, Strategic Defense (Active Clearance)",
-    "company": "Anduril Industries",
-    "location": "Washington, District of Columbia",
-    "locations": [
-      "Washington, District of Columbia"
-    ],
-    "remote": false,
-    "posted": "2026-10-13T12:00:00.000Z",
-    "salaryMin": null,
-    "salaryMax": null,
-    "url": "https://www.linkedin.com/jobs/view/senior-software-product-manager-strategic-defense-active-clearance-at-anduril-industries-4468162697",
-    "source": "LinkedIn",
-    "score": 35,
-    "reasons": [
-      "Senior/Group title",
-      "Positioning fit (platform, operations, network)",
-      "AI signal (AI, ML, RAG)",
-      "Resume fit ~17%",
-      "Outside target markets"
-    ],
-    "fetchedAt": "2026-10-13T18:45:09.194Z"
-  },
-  {
-    "id": "RUw3ZG1QM2RWNVF4dDY2UEFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTM2N4WTNKelJteDJORXgzWkcwelowTTJTVlZtYWkwd1VuZDZUQzFqTVhodFkwNXhSRTV0WmxoMWRYZzJkVmxRTkZCMlptbGFlbXgzVGkxMGVsZDFiMGxGVGs1M2EwRnRSMjh3VTNacE1qWTJSRmRXU0RBME1rbENPRGhrTlV4R1RYcG9VV294YmtScE9WZ3RWWGQwWlVjNVpGcFNkM0F3V1VKM1kwNUZUMnRCTFRWdVJtSVNGMDFJZWs5aGNUZHZSMDlQWmpWT2IxQnJZM0ppTFZGdkdpSkJSSE55T1daVFN5MXpRa1JqWkdOdlkyaHdUakIyTmtSNlVWZGlhMkl0TW1SUg",
-    "fingerprint": "product manager|insight global|v4rme2",
-    "title": "Product Manager",
-    "company": "Insight Global",
-    "location": "New Bremen, Ohio",
-    "locations": [
-      "New Bremen, Ohio"
-    ],
-    "remote": false,
-    "posted": "2026-10-12T19:00:00.000Z",
-    "salaryMin": 80000,
-    "salaryMax": 100000,
-    "url": "https://www.linkedin.com/jobs/view/product-manager-at-insight-global-4477915608",
-    "source": "LinkedIn",
-    "score": -11,
-    "reasons": [
-      "AI signal (AI)",
-      "Resume fit ~17%",
-      "Outside target markets"
-    ],
-    "fetchedAt": "2026-10-13T18:45:09.194Z"
   }
 ]
