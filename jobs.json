@@ -1,5 +1,77 @@
 [
   {
+    "id": "RWVRLUZoWm9xLW1TelJVVUFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxXbmhYU1dWMGEzaGFXVzQxYUhBMVpURnNYMmRaZEZSQlZsSXhWRzVwUVVWNk5HaGhORFF3U1ZrME5HUkRaemR5ZUROS1pURnZYekI1VG5KMmRqVlBiSHB6Y0dWTkxXOVhXWE5OZEUxWGJIVXhVMUJTUWtwalIwNHlTM2RuUjBoRFNGZFlVR3RSWWtOdk1HNDRTMDQyUVRkcWVFaEVZMVkzYTNsd1gxSjFaMFZvWkhJeGJ6SVNGMVZOWjBWaE9VaGZTMHBNVlRGelVWQXdUVWgyYjBGekdpSkJTRTR3UlRkSFJsQlNNeTFPWTB4bE9UWnpSRU5ETVhSUVVXZFJWV1o1UlVobjoyZWYwMzRhZA",
+    "fingerprint": "digital product manager partnerships|td bank|-i3dkd8",
+    "title": "Digital Product Manager – Partnerships",
+    "company": "TD Bank",
+    "location": "Wilmington, Delaware",
+    "locations": [
+      "Wilmington, Delaware"
+    ],
+    "remote": false,
+    "posted": "2026-11-23T17:00:00.000Z",
+    "salaryMin": 91000,
+    "salaryMax": 136240,
+    "url": "https://www.indeed.com/viewjob?jk=20ce4ae04b81d365",
+    "source": "Indeed",
+    "score": 12,
+    "reasons": [
+      "Positioning fit (marketplace, platform, operations)",
+      "AI signal (AI, RAG)",
+      "Resume fit ~20%",
+      "Outside target markets"
+    ],
+    "fetchedAt": "2026-11-23T23:12:18.286Z"
+  },
+  {
+    "id": "Si11QnlWdTRwZG9ickhjY0FBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxXWFpaTTNGM05ESlBaVlZ5VlZWSk1uaDJSVjlTZG5RNVlsUldiVlIwYzFoUVpHSkthV0ZPYm1GalJFOW1ibUU1V1dSVldsVnplSEJZVUhaUmVHRmpiRlIxVWkxak0ySjNXRXBEVUdFeWNtZEtWSEZUT1c5MVQyZFVWRU51ZVdsSFJrWm9SVzVWV2xKNlEwcDZWRmc0UzBoUU1VYzJTMlY2V21Gb09WWnVNek5XUm10amMya1NGMDg0WjBWaE9HSmxTR0ZmZFdsTVRWQjRMVzF3WjFGVkdpSkJTRTR3UlRkRlpHSjVNM28yZWxWU1JqZzJkalZGYmpsdFVtOXlVVmd3V2psbjphOTM0YjhmNQ",
+    "fingerprint": "product manager ad tech|snap inc|qh3nko",
+    "title": "Product Manager, Ad Tech",
+    "company": "Snap Inc.",
+    "location": "Sunnyvale, California",
+    "locations": [
+      "Sunnyvale, California"
+    ],
+    "remote": false,
+    "posted": "2026-11-23T18:00:00.000Z",
+    "salaryMin": null,
+    "salaryMax": null,
+    "url": "https://www.linkedin.com/jobs/view/product-manager-ad-tech-at-snap-inc-4493903294",
+    "source": "LinkedIn",
+    "score": 43,
+    "reasons": [
+      "Positioning fit (platform)",
+      "AI signal (AI, RAG)",
+      "Resume fit ~19%",
+      "Priority location (Chicago/Bay Area)"
+    ],
+    "fetchedAt": "2026-11-23T23:12:18.284Z"
+  },
+  {
+    "id": "OUdiRFVMNzcwN3psVFZ1NEFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxZVlJ3TWxKd2JHaFZMV1pVUjA1SE1qQmtZVzVGVFdSelMxaFJaalE1TTNGUlltWlRaV0ZGYjJKNFYwZG5VMVpHUlRoS1JrdGxXakJ5WDBSSlJFazBZemgzWjFCWlFVcHZOalJsUkVJMWFsUkRlRU5NV0ZOaldXVkVOazkyVEVaNlkzSkZialpPYkZKbFlYazRkbEZoUzJac1EwRlNPVkpOU1VSUlRUUlNNV1I1Um1oM05WTVNGMDg0WjBWaE9HSmxTR0ZmZFdsTVRWQjRMVzF3WjFGVkdpSkJTRTR3UlRkSVJESTFjRmhIUTB4T0xXZE5aMjF5V1VkUU1VMHpUV0pYY0doUjpkOWRhYTcyYg",
+    "fingerprint": "principal product manager|code for america|2zzps4",
+    "title": "Principal Product Manager",
+    "company": "Code for America",
+    "location": "Not specified",
+    "locations": [
+      "Not specified"
+    ],
+    "remote": true,
+    "posted": "2026-11-23T22:00:00.000Z",
+    "salaryMin": null,
+    "salaryMax": null,
+    "url": "https://www.linkedin.com/jobs/view/principal-product-manager-at-code-for-america-4494077194",
+    "source": "LinkedIn",
+    "score": 56,
+    "reasons": [
+      "Positioning fit (B2B, enterprise)",
+      "AI signal (AI, agent, RAG)",
+      "Resume fit ~21%",
+      "Remote"
+    ],
+    "fetchedAt": "2026-11-23T23:12:18.283Z"
+  },
+  {
     "id": "SVFjejNMNk9DcTBXMV9SQkFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxZbE5YVVZOdFMyaElYek5QYVZZNGRIQm9jV3QzWDFadWQwMWhTR1pMYmpSeE5VZFZOMXB4Y25aUFJUTmlRa2RTVFRSVGJYQlJVVGR3VTFweGVWUjBaa05RYldKWFIwdHNTWGhxZDNOSGVXOXRUMko0TFcxUFJFNWpZWGxUVVhSQ2VWTnJZVkE0ZFhSU2VITkRRbkZWU0ZSelkxcFVUbmMxTWtNd1IxRkZNR1E1UVdsMFpsb1NGMkpxYjBSaE4waFBSazFZTW5kaWExQjRZbTFSYTBFd0dpSkJTRTR3UlRkSU5raHVjREZXU25wNmNqRjVUbEJCV2psbE5EZG9OMlpHVVdSUjo1ZTI1Mjg2Mg",
     "fingerprint": "senior ai product manager|creative circle|2xxo9v",
     "title": "Senior AI Product Manager",
@@ -4865,78 +4937,5 @@
       "Outside target markets"
     ],
     "fetchedAt": "2026-10-14T16:18:34.541Z"
-  },
-  {
-    "id": "djB3bGpzRGZYVzdYc3hEbkFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTMWRYWDB0RE0xWmhXbTQ1ZFZkSFpFTTBibmhYZWtKb2RrWmhUakZ0TmpobWVUUmljbVpqUW1oc1dWTXhXSEUyY1Vjd01UQldUa05KV2sxTU9Hb3RlRGwwVFRBM2RVZ3dVWE5mWmtWYWFFbzVTR05sTkZGb2JWQkJUbk5hTVc5MFQxUlJZMFkwWjI4M1pGTmtVbEpXVFdZd2NuUXhMVFZNVG1oaFUxaElOekJEU3pkRFpuRVNGMUp4ZGxCaGNXSlRSMDVoYzNObFRWQjZZMWcxYTBGWkdpSkJSSE55T1daVVVERjZOM0JUTTBwMVJWcGtWblZXV0VaSFpFbGxlREI0ZEhwMw",
-    "fingerprint": "product manager new product development|pharma logistics|fr4wr3",
-    "title": "Product Manager, New Product Development",
-    "company": "Pharma Logistics",
-    "location": "Libertyville, Illinois",
-    "locations": [
-      "Libertyville, Illinois"
-    ],
-    "remote": false,
-    "posted": "2026-10-13T21:00:00.000Z",
-    "salaryMin": null,
-    "salaryMax": null,
-    "url": "https://www.linkedin.com/jobs/view/product-manager-new-product-development-at-pharma-logistics-4476479910",
-    "source": "LinkedIn",
-    "score": 18,
-    "reasons": [
-      "Positioning fit (B2B, supply)",
-      "AI signal (AI, LLM, RAG)",
-      "Resume fit ~20%",
-      "Outside target markets"
-    ],
-    "fetchedAt": "2026-10-14T16:18:34.541Z"
-  },
-  {
-    "id": "aEtaVklnVDFfSU14V1p3Q0FBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTMWt3T0VGRVpuUnFjM0J5ZFU5R1prZG9iR2hFWTBGeGFVa3pURmxYV0V0M1NqSmpWRkl6TW5SVFJEWXRVbkJtYkdoVVNtRjVSemRwTkVSR1NXZFRZV0ZoY1hab1dWQllSMEpLWWpSek1GWjJTMVp2Wm5KaFFYTkRkRTVvWnpsRmFFNW1ValZHZVd4NFNHNUphbm8wVVhCcmJEVm9MVTFZV2tvdFJUaGhiMFV3U1dKS2FVRVNGMUp4ZGxCaGNXSlRSMDVoYzNObFRWQjZZMWcxYTBGWkdpSkJSSE55T1daVFRqZzNhVEIxVUVJM1ozZFJSMUZ4Wm1oa1drRkxaR3BsYlZGMw",
-    "fingerprint": "usa staff product manager last mile delivery optimization|walmart|-rr50lf",
-    "title": "(USA) Staff, Product Manager - Last Mile Delivery Optimization",
-    "company": "Walmart",
-    "location": "Sunnyvale, California",
-    "locations": [
-      "Sunnyvale, California"
-    ],
-    "remote": false,
-    "posted": "2026-10-13T22:00:00.000Z",
-    "salaryMin": 143000,
-    "salaryMax": 286000,
-    "url": "https://www.linkedin.com/jobs/view/usa-staff-product-manager-last-mile-delivery-optimization-at-walmart-4476479978",
-    "source": "LinkedIn",
-    "score": 74,
-    "reasons": [
-      "Positioning fit (marketplace, platform, B2B)",
-      "AI signal (AI, LLM, machine learning)",
-      "Comp disclosed ≥ $175K",
-      "Resume fit ~25%",
-      "Priority location (Chicago/Bay Area)"
-    ],
-    "fetchedAt": "2026-10-14T16:18:34.540Z"
-  },
-  {
-    "id": "SXI0bFo0NzNCM1RfUWpWaUFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTMjFMTFRkSlZVRjVVVW8xY0hOeU5FTm1UVVZ1Wm5Sck0waDBNamRIYm01aWIzbGxRV1puTjNReWRITjBUMHh0VVRJM1ltMUJUR05tZDJ0SlVubHRTMUJGZHpCaGVWazBWWE5CYW5SdFNVTlhXRmQ1Y2tsR1ZsWkdaRWhxZDFsSFdXVlpZa2RRU0doc1EzZEZRVlEyU0Y5WFZUQktRWGhzVms1amNUZHNXV0k1YnpGUlkyUVNGMUp4ZGxCaGNXSlRSMDVoYzNObFRWQjZZMWcxYTBGWkdpSkJSSE55T1daU1pGZzRlbEpPUjJzd1RsaFZSVTVuTUV4UVltaGtOVWxHTlVKQg",
-    "fingerprint": "product manager ai|unify technologies|-p7z8ws",
-    "title": "Product Manager - AI",
-    "company": "Unify Technologies",
-    "location": "Fairfax, Virginia",
-    "locations": [
-      "Fairfax, Virginia"
-    ],
-    "remote": false,
-    "posted": "2026-10-13T18:00:00.000Z",
-    "salaryMin": null,
-    "salaryMax": null,
-    "url": "https://www.linkedin.com/jobs/view/product-manager-ai-at-unify-technologies-4478150152",
-    "source": "LinkedIn",
-    "score": 8,
-    "reasons": [
-      "Positioning fit (platform)",
-      "AI signal (AI, LLM, agent)",
-      "Resume fit ~16%",
-      "Outside target markets"
-    ],
-    "fetchedAt": "2026-10-14T16:18:34.538Z"
   }
 ]
