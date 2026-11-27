@@ -1,5 +1,29 @@
 [
   {
+    "id": "RkVwMUhSM0kwOUJuU1RKLUFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxXVTkyYlVwU2NEbDBSaTB6V2xOWlJsWkNaMFozUjFSdFQxTlVhbXQzZEU5VFRrdFlUMDkzYVhNdGQycGFla2x3WkRoeVpYaFNZMnhvWDNreVJIZHVaRE5NWm1SWGNtRXhTa3RTZVRCTGJqVnZNMU5JZGxvMGNWTnJYek5hWWtaRlZWaFRYemxRWVdwTmJWcEpjV1pRYldOWGJXTm9NazVUY1hWeFNYcEdOSGw2WDNKclVYZ1NGekJQWjBwaE5XSnFUbkZZWmpRdFJWQnNiekl0Y1ZFMEdpSkJTRTR3UlRkRmJsTjJNMjUyUzJaSE0xZENOV2h0YTNwemFYaFdlRVJDWnpWMzo2NTZlOTFkYg",
+    "fingerprint": "sr product manager quantitative growth remote chicago|jobgether|56q5e8",
+    "title": "Sr Product Manager - Quantitative Growth Remote (Chicago)",
+    "company": "Jobgether",
+    "location": "Not specified",
+    "locations": [
+      "Not specified"
+    ],
+    "remote": true,
+    "posted": "2026-11-27T07:00:00.000Z",
+    "salaryMin": null,
+    "salaryMax": null,
+    "url": "https://www.linkedin.com/jobs/view/sr-product-manager-quantitative-growth-remote-chicago-at-jobgether-4495068912",
+    "source": "LinkedIn",
+    "score": 49,
+    "reasons": [
+      "Positioning fit (platform)",
+      "AI signal (AI, RAG)",
+      "Resume fit ~25%",
+      "Remote"
+    ],
+    "fetchedAt": "2026-11-27T20:32:20.561Z"
+  },
+  {
     "id": "YmpaRFpBVGZSNl9SOEpBWkFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxXa3hsUTNSU1dUbHRSbkZmV0VKMldGOU1ibmN5UkdadFNVNWFWblJWUm1vdFYyUlFiRGszZDIxek5GbEZYMU5sZW0xM0xXVjVjemQwZG1WTldsOUtTMmxOTFVSU2NGWlhZWEl4Y1ZBd1RGbGpYM1ZvZEdsSGFuVlVNMGR2TTJZd1RVUklkV1UzZGpGb1JGWnRkV1J5YTNWTGRtSlpjV05QTTNabWRrVlNiRTUzWDIxak4xa1NGMFZ3YzBsaE5XSkNTbDlFVTNBNE5GQnpjV0pKZDBGckdpSkJTRTR3UlRkSFJHTklObGxrVVZSV1NWZGhPVWhxWTIweE56SmZVWHBaWkZabjpmZTBjYjU1Yg",
     "fingerprint": "principal product manager organizational enablement and transformation remote or hybrid|target|-5gvx9p",
     "title": "Principal Product Manager - Organizational Enablement and Transformation(Remote Or Hybrid)",
@@ -4913,30 +4937,5 @@
       "Remote"
     ],
     "fetchedAt": "2026-10-16T15:54:16.351Z"
-  },
-  {
-    "id": "a0Y5dHdKMHFONkFxM3BJX0FBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBUSGd6VVVOelkyRnBUVFpZU1RZeWQxTmpRVXRtVkRkclNYZEpVazFWTmpWV1VXbGxiRzV0ZVhSWldFdzNWa1Z4Vm5NNWJtTkliM1paUWtSRlUxRTBhRzlzTlY4MGMzazNZVTF1V2paTWFHNW1iekJvWmpVemQwZFhkV1ZSUzJOdFZGbFlaRkZNUlV4Vk1raFVSelpXUzJwUmNVWlNOR05CTFZOV2JVdHFRbTlpZGxRelQxSVNGMjVWYWxOaGNtSXdUbU5ZUnpRdFJWQXRaRzVzZFVGM0dpSkJSSE55T1daVExUWXliRU5YY0hkcWRqUm5ZMFp4Ym5GQ1Yza3dUWEZuUjE5Ug",
-    "fingerprint": "senior product manager|enfra|-38sy37",
-    "title": "Senior Product Manager",
-    "company": "ENFRA",
-    "location": "Little Rock, Arkansas",
-    "locations": [
-      "Little Rock, Arkansas"
-    ],
-    "remote": false,
-    "posted": "2026-10-15T18:00:00.000Z",
-    "salaryMin": null,
-    "salaryMax": null,
-    "url": "https://www.linkedin.com/jobs/view/senior-product-manager-at-enfra-4477317522",
-    "source": "LinkedIn",
-    "score": 38,
-    "reasons": [
-      "Senior/Group title",
-      "Positioning fit (platform, workflow automation)",
-      "AI signal (AI, LLM, RAG)",
-      "Resume fit ~25%",
-      "Outside target markets"
-    ],
-    "fetchedAt": "2026-10-16T15:54:16.349Z"
   }
 ]
